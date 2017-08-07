@@ -182,6 +182,11 @@
   <string name="michat_wait_for_a_moment">Een momentje, hulp is onderweg!</string>
   <string name="michat_webview_title">Bekijk details</string>
   <string name="min_error">Uw %1$s zou langer moeten zijn.</string>
+  <string name="mobile_data_note_dialog_cancel">Wait for WLAN</string>
+  <string name="mobile_data_note_dialog_confirm">Upload</string>
+  <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
+  <string name="mobile_data_note_dialog_title">Data usage warning</string>
   <string name="modem_tool_log">Modem logs opnemen</string>
   <string name="modem_tool_log_start">Starten</string>
   <string name="modem_tool_log_start_toast">Modem log wordt opgeslagen naar %s</string>

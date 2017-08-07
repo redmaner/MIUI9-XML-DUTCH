@@ -12,4 +12,8 @@
         <item quantity="other">%d meldingen in tweede ruimte</item>
         <item quantity="one">%d melding in tweede ruimte</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Search %d apps</item>
+        <item quantity="one">Search %d app</item>
+    </plurals>
 </resources>

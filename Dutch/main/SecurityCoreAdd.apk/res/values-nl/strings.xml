@@ -178,6 +178,8 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="scanner_fingerprint_tips_desc">Een bestande vingerafdruk selecteren om naar de tweede ruimte te gaan. Het zal niet meer mogelijk zijn om deze te gebruiken in de eerste ruimte.</string>
   <string name="scanner_fingerprint_tips_title">Naar tweede ruimte gaan door gebruik van een bestande vingerafdruk</string>
   <string name="scanner_second_space_fingerprint">Scan de vingerafdruk voor de tweede ruimte</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_result_text">"Couldn't find any apps"</string>
   <string name="secondSpace">Tweede ruimte</string>
   <string name="second_owner_finger_print">Vingerafdruk tweede ruimte</string>
   <string name="second_space_finger_printf_desc">Vingerafdruk toevoegen om naar de tweede ruimte te gaan</string>
@@ -221,6 +223,7 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
 om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="start_setting_guide_desc_title">Er zijn een paar dingen om in te stellen</string>
   <string name="summary_switch_apps_settings">Apps selecteren die gebruikt worden in de huidige ruimte</string>
+  <string name="support_desc">Security services provided by Graphite</string>
   <string name="sure_to_use">Bevestigen</string>
   <string name="switchDataSummary">Items verplaatsen tussen ruimten</string>
   <string name="switch_apps_settings">Appinstellingen</string>
