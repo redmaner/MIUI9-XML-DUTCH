@@ -192,5 +192,4 @@
         <item>Alle met uitzondering van radio log buffers</item>
         <item>Alleen kernel log buffer</item>
     </string-array>
-    <array name="config_hideWhenDisabled_packageNames" />
 </resources>

@@ -12,15 +12,12 @@
   <string name="content_description_language_picker">Taal selecteren</string>
   <string name="content_description_miui_version">MIUI 8</string>
   <string name="content_description_start">Starten</string>
-  <string name="desc_extra_fingerprint"/>
-  <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, verifiëren van Mi Pay transacties of om  aan te melden bij apps en diensten.</string>
   <string name="desc_international_fingerprint">Gebruik uw vingerafdruk om uw toestel te ontgrendelen of aan te melden op apps en diensten.</string>
   <string name="disagree">Annuleren</string>
   <string name="enable_accessibility_dialog_message">U heeft TalkBack ingeschakeld door met twee vingers op het scherm te drukken voor langer dan 10 seconden. TalkBack geeft spraakfeedback voor mensen met oogproblemen. Als je het per ongeluk hebt ingeschakeld, druk op annuleren en tik vervolgens twee keer op het scherm.</string>
   <string name="enable_accessibility_dialog_negative_btn">Annuleren</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="fail_to_generate_qr_code">Fail to generate QR code, please reenter this page.</string>
   <string name="ime_privacy_policy">Privacybeleid voor geselecteerde toetsenbord</string>
   <string name="ime_privacy_policy_no_network">Geen netwerkverbinding. Bekijk het privacybeleid voor dit keyboard op %s</string>
   <string name="input_method_category">Kies het standaard toetsenbord dat u gebruikt om berichten, notities en meer mee te schrijven. Merk op dat u andere toetsenborden van derden later kunt installeren.</string>
@@ -66,8 +63,6 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
 
 U moet akkoord gaan met onze Algemene Voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Tijdens de activering zullen Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat zoeken, startschermmodules, Gameservice, MAB en MSA systeemcomponenten, Direct Service en statistische componenten verbinding maken met internet en toegang uw locatie krijgen."</string>
   <string name="title_fingerprint">Voeg uw vingerafdruk toe</string>
-  <string name="two_dimensional_code_scan">QR code scan</string>
   <string name="user_agreement">Algemene Voorwaarden</string>
-  <string name="user_strayed_warning">The page is designed for factory test, Click back button to exit.</string>
   <string name="welcome">Welkom</string>
 </resources>

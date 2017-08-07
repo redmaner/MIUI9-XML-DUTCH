@@ -31,7 +31,6 @@
   <string name="config_suggest_description">Voor apps, gebruik verschillende batterijbesparingsconfiguraties</string>
   <string name="config_suggest_suffix_title">MIUI batterijbespaarder (aanbevolen)</string>
   <string name="config_suggest_title">Voorgesteld</string>
-  <string name="confirm">Confirm</string>
   <string name="disable_hide_mode">MIUI batterijbesparing uitschakelen</string>
   <string name="disable_hide_mode_warning">De MIUI batterijbesparing uitschakelen kan meer stroomverbruik veroorzaken</string>
   <string name="disabled">Uit</string>
@@ -50,7 +49,6 @@
   <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="high">Prestatie</string>
   <string name="hints_loading_text">Een momentje…</string>
-  <string name="important_warning">Warning</string>
   <string name="invalid_size_value">Kon pakketgrootte niet verkrijgen</string>
   <string name="location_disable_description">Apps in de achtergrond kunnen slechts een korte tijdsperiode toegang hebben tot locatiediensten terwijl de constante toegang beperkt blijft.</string>
   <string name="location_disable_title">Beperken</string>
@@ -181,7 +179,8 @@
   <string name="ui">Standaard</string>
   <string name="user_define_mode">Naam</string>
   <string name="vip_feedback">Vip Feedback</string>
+  <string name="vip_feedback_apply">Vip Feedback toepassen</string>
+  <string name="vip_feedback_apply_msg">Neem contact op met vip-feedback-system@xiaomi.com om Vip Feedback toe te passen</string>
   <string name="vip_feedback_enable">Vip Auto Feedback inschakelen</string>
   <string name="warm_configure">Warmte controle configuratie</string>
-  <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
 </resources>

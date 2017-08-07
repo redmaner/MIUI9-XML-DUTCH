@@ -120,8 +120,6 @@
   <string name="support_game_booster_tips">Start games met game speed booster te gebruiken</string>
   <string name="sys_cpu_title">CPU gebruik</string>
   <string name="sys_freememory_title">Beschikbaar</string>
-  <string name="sys_title_gamebooster_unit_gb">G</string>
-  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">URL delen</string>
   <string name="top_game">Top games</string>
   <string name="top_load_fail_detail">Kon niet laden, tik om opnieuw te proberen</string>

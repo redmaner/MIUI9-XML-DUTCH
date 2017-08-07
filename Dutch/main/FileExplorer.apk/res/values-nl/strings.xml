@@ -540,8 +540,6 @@
   <string name="search_result_more">Meer</string>
   <string name="search_statistic_appname">Bron</string>
   <string name="search_statistic_keyword">keyin</string>
-  <string name="search_statistic_match_invalid">0</string>
-  <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Zoeken</string>
   <string name="search_title_hint">Zoeken</string>
@@ -632,7 +630,6 @@
   <string name="tab_newest_video">Nieuw</string>
   <string name="tab_ranking_list">Rankinglijst</string>
   <string name="tab_source">Apps</string>
-  <string name="terabyteShort">TB</string>
   <string name="tip">Attentie</string>
   <string name="title_album">Albums</string>
   <string name="title_app_tags">Apps</string>

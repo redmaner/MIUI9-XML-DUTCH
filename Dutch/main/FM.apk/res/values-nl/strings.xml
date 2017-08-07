@@ -8,7 +8,6 @@
   <string name="context_menu_item_edit">Bewerken</string>
   <string name="context_menu_item_favorite">Toevoegen aan presets</string>
   <string name="context_menu_item_unfavorite">Verwijderen uit presets</string>
-  <string name="context_menu_title">%sMHZ</string>
   <string name="dialog_sleep_title">Stel slaaptimer in</string>
   <string name="exit_fm">Afsluiten</string>
   <string name="fm_has_turned_off">FM radio is uitgeschakeld</string>
@@ -43,7 +42,6 @@
   <string name="search_dialog_title">Stations scannen</string>
   <string name="set">Instellen</string>
   <string name="station_check_favorite">Toevoegen aan presets</string>
-  <string name="station_freq_format">%sMHz</string>
   <string name="stations_list">Zenderlijst</string>
   <string name="stations_list_empty">Geen presets</string>
   <string name="toast_added_to_list">Toegevoegd aan lijst</string>
@@ -58,7 +56,6 @@
   <string name="toast_sleep_mode">Radio zal stoppen binnen %s</string>
   <string name="toast_sleep_mode_exit">Slaaptimer geannuleerd</string>
   <string name="turn_off_fm">FM uitschakelen</string>
-  <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Slaapmodus</string>
   <string name="using_recorder_cancel">Afwijzen</string>
   <string name="using_recorder_confirm">Akkoord</string>

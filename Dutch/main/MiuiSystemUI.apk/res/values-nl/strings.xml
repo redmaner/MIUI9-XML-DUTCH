@@ -57,7 +57,6 @@
   <string name="accessibility_recents_item_launched">%s starten.</string>
   <string name="accessibility_recents_item_open_app_info">Open %s applicatie info.</string>
   <string name="accessibility_recents_item_will_be_dismissed">%s verwerpen.</string>
-  <string name="accessibility_recents_task_header">%1$s %2$s</string>
   <string name="accessibility_remove_notification">Melding verwijderen</string>
   <string name="accessibility_ringer_silent">Stil.</string>
   <string name="accessibility_ringer_vibrate">Trillen.</string>
@@ -86,8 +85,6 @@
   <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
   <string name="app_label">Systeem UI</string>
   <string name="app_process_limit_title">Background process limit</string>
-  <string name="as_important">Important</string>
-  <string name="as_unimportant">Unimportant</string>
   <string name="audio_effect_custom">Configureren</string>
   <string name="audio_effect_info">Audio optimaliseren</string>
   <string name="audio_effect_settings">Kies type hoofdtelefoon</string>
@@ -177,7 +174,6 @@
   <string name="camera_key_action_shortcut_title">Snelkoppeling</string>
   <string name="camera_key_action_shortcut_wake">Vergrendel/Activeer apparaat</string>
   <string name="camera_key_action_toggle_title">Trigger schakelaar</string>
-  <string name="cancel">Cancel</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Work</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
@@ -226,7 +222,6 @@
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="debug_networking_category">Networking</string>
   <string name="debug_view_attributes">Enable view attribute inspection</string>
-  <string name="demo_mode">Demo mode</string>
   <string name="description_direction_left">Veeg links voor %s.</string>
   <string name="description_direction_up">Veeg omhoog voor %s.</string>
   <string name="description_target_search">Zoeken</string>
@@ -281,7 +276,6 @@
   <string name="ext_media_safe_unmount_notification_title">USB opslag veilig te verwijderen</string>
   <string name="ext_media_unmountable_notification_message">USB opslag is beschadigd. Misschien moet u formatteren.</string>
   <string name="ext_media_unmountable_notification_title">Beschadigde USB opslag</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">Negeren</string>
   <string name="float_incall_message">Bericht</string>
   <string name="force_allow_on_external">Force allow apps on external</string>
@@ -303,7 +297,6 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="immediately_destroy_activities">Don’t keep activities</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
-  <string name="important_desc">All important notifications will appear directly on the Notification shade.</string>
   <string name="inactive_app_active_summary">Active. Tap to toggle.</string>
   <string name="inactive_app_inactive_summary">Inactive. Tap to toggle.</string>
   <string name="inactive_apps_title">Inactive apps</string>
@@ -414,10 +407,6 @@
   <string name="power_remaining_duration_only">Approx. %1$s left</string>
   <string name="power_remaining_duration_only_short">%1$s left</string>
   <string name="process_kernel_label">MIUI Android OS</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Geen verbonden apparaten beschikbaar</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Verbonden</string>
@@ -479,7 +468,6 @@
   <string name="screenshot_dlg_delete_button">Verwijderen</string>
   <string name="screenshot_edit">Bewerken</string>
   <string name="screenshot_failed_text">Kan geen schermafdruk maken vanwege de beperkte opslagruimte of het is niet toegestaan door de app of uw organisatie</string>
-  <string name="screenshot_insert_failed">Fail to load the screenshot, please retake a new one or view the picture in the album</string>
   <string name="screenshot_long_screenshot">Scrollen</string>
   <string name="screenshot_saved_text">Tik om schermafdruk weer te geven.</string>
   <string name="screenshot_saved_title">Schermafdruk gemaakt.</string>
@@ -505,7 +493,6 @@
   <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
   <string name="show_cpu_usage">Show CPU usage</string>
   <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
-  <string name="show_demo_mode">Show demo mode</string>
   <string name="show_hw_layers_updates">Show hardware layers updates</string>
   <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
   <string name="show_hw_screen_updates">Show GPU view updates</string>
@@ -597,9 +584,6 @@ d MMMM"</string>
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
-  <string name="un_important_notifications">Unimportant notifications</string>
-  <string name="unimportant_desc">All unimportant notifications will appear in a separate folder.</string>
-  <string name="unimportant_title">Unimportant</string>
   <string name="unknown">Unknown</string>
   <string name="usb_accessory_confirm_prompt">%1$s openen wanneer dit USB accessoire wordt aangesloten?</string>
   <string name="usb_accessory_permission_prompt">De app %1$s toegang geven tot het USB accessoire?</string>
