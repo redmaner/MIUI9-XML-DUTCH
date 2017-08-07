@@ -159,7 +159,6 @@
   <string name="development_settings_title">Opties voor ontwikkelaars</string>
   <string name="dial_conference_fail_prompt">Kan conferentie niet direct bellen omdat het huidige netwerk geen VoLTE ondersteunt.</string>
   <string name="dial_vt_fail_prompt">Huidige netwerk ondersteunt geen VoLTE. Overschakelen naar regulier gesprek?</string>
-  <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="disable_overlays">HW overlays uitschakelen</string>
   <string name="disable_overlays_summary">Altijd GPU gebruiken voor schermcompositie</string>
   <string name="disabled_by_admin">Uitgeschakeld door beheerder</string>
@@ -198,7 +197,6 @@
   <string name="inactive_app_active_summary">Activeren. Tik om te schakelen.</string>
   <string name="inactive_app_inactive_summary">Deactiveren. Tik om te schakelen.</string>
   <string name="inactive_apps_title">Onactieve apps</string>
-  <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
   <string name="incall_error_call_failed">Kon geen gesprek maken</string>
   <string name="incoming_call_failed_low_battery">Inkomende oproep is mislukt vanwege een lage batterij.</string>
   <string name="keep_screen_on">Scherm aanhouden</string>
@@ -360,8 +358,6 @@
   <string name="tts_status_ok">%1$s wordt volledig ondersteund</string>
   <string name="tts_status_requires_network">%1$s vereist netwerkverbinding</string>
   <string name="tts_status_title">Standaard taal status</string>
-  <string name="ui_default_package">com.android.incallui</string>
-  <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unblock_button">Deblokkeren</string>
   <string name="unblock_dialog_body">%1$s? deblokkeren?</string>
   <string name="unknown">Onbekend</string>
