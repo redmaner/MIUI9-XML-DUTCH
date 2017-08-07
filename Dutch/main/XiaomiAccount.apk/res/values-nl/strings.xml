@@ -280,7 +280,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_quick_login_dialog_title">Bevestig wachtwoord</string>
   <string name="passport_quick_login_step2_title">2 staps verificatie</string>
   <string name="passport_quick_login_title">Voer je wachtwoord in</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;"Don't have a Mi Account? Create one."&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">"Don't have a Mi Account? Create one."</string>
   <string name="passport_re_get_verify_code">Code opnieuw verkrijgen</string>
   <string name="passport_re_register">Opnieuw aanmelden</string>
   <string name="passport_recycle_account_prompt">Is dit je Mi account?</string>
