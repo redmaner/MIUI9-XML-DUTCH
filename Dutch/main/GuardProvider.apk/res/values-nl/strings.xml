@@ -44,5 +44,4 @@
   <string name="tencent_dialog_policy">Privacybeleid weergeven</string>
   <string name="tencent_dialog_title">"Tencent’s Privacybeleid"</string>
   <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
-  <string name="title_activity_main">Hoofdactiviteit</string>
 </resources>

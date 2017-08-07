@@ -897,7 +897,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="preference_import">Importeer</string>
   <string name="preference_import_export">Import/export</string>
   <string name="preference_import_export_title">Contacten importeren/exporteren</string>
-  <string name="preference_key_trash_bin_title">Bekijk geback-upte contacten die recent zijn verwijderd</string>
   <string name="preference_other">Andere</string>
   <string name="preference_others">Overige</string>
   <string name="preference_phone">Telefoon</string>
