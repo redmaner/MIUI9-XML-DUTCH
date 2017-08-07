@@ -175,6 +175,11 @@
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
         <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="select_logpersist_titles">
         <item>Uit</item>
         <item>Alle</item>
@@ -187,4 +192,5 @@
         <item>Alle behalve radio log buffers</item>
         <item>Alleen kernel log buffer</item>
     </string-array>
+    <array name="config_hideWhenDisabled_packageNames" />
 </resources>

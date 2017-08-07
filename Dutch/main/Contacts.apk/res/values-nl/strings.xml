@@ -186,6 +186,14 @@
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw telefoon heeft opgeslagen staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard editor is niet correct gestart.</string>
+  <string name="config_export_dir">/mnt/sdcard</string>
+  <string name="config_export_extensions_to_consider"/>
+  <string name="config_export_file_extension">vcf</string>
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">default</string>
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_selected_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_sim_entry_miui_title">Verwijderen</string>
@@ -515,6 +523,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="hybrid_network_unavaliable">Kan niet verbinden met het netwerk</string>
   <string name="hybrid_service_unavailiable">Service niet beschikbaar</string>
   <string name="hybrid_try_again">Probeer opnieuw</string>
+  <string name="hybrid_webpage_not_available">Webpage not available</string>
   <string name="ic_menu_back">Terug</string>
   <string name="ic_menu_done">Klaar</string>
   <string name="imLabelsGroup">IM</string>
@@ -825,6 +834,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="path_wipe_data">Systeemapps/Contacten/Contacten schikken/Data wissen</string>
   <string name="payphone">Betaal telefoon</string>
   <string name="people">Contacten</string>
+  <string name="percent_sign">%</string>
+  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Nummer is te lang</string>
@@ -1187,6 +1198,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="yellowPageNavigationIconLabel">Gele Gids</string>
   <string name="yellowPageNavigationLabel">Gele Gids</string>
   <string name="yellowpage_fc_toast">Kan niet functie niet gebruiken omdat de gele gids gecrashed is</string>
+  <string name="yellowpage_mi_family">小米之家</string>
   <string name="yellowpage_navigation_ad_hint">Adv</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Saldo en mobiel data kon niet geverifeerd worden, probeer later opnieuw.</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Saldo en mobiele data zijn geverifeerd</string>
