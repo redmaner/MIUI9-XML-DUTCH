@@ -2,8 +2,6 @@
 <resources>
   <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het parseren van het pakket.</string>
   <string name="abc_action_bar_home_description">Naar huis navigeren</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Omhoog navigeren</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Gereed</string>
@@ -11,18 +9,6 @@
   <string name="abc_activitychooserview_choose_application">Kies een app</string>
   <string name="abc_capital_off">UIT</string>
   <string name="abc_capital_on">AAN</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_search_hint">Zoeken…</string>
   <string name="abc_searchview_description_clear">Wachtrij wissen</string>
   <string name="abc_searchview_description_query">Wachtrij zoeken</string>
@@ -57,7 +43,7 @@
   <string name="app_permissions">Apptoestemmingen</string>
   <string name="app_permissions_breadcrumb">Apps</string>
   <string name="app_permissions_group_summary">%1$d van %2$d apps toegestaan</string>
-  <string name="app_process_limit_title">Limiet achtergrondtaken</string>
+  <string name="app_process_limit_title">Limiet achtergrondprocessen</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="battery_info_status_charging">Opladen</string>
   <string name="battery_info_status_charging_ac">Opladen op AC</string>
@@ -172,7 +158,7 @@
   <string name="dev_settings_warning_message">Deze instellingen zijn uitsluitend bedoeld voor ontwikkelingsdoeleinden. Ze kunnen ertoe leiden dat uw apparaat en de applicaties erdoor fouten gaan vertonen of zich misdragen.</string>
   <string name="dev_settings_warning_title">Ontwikkelingsinstellingen toestaan?</string>
   <string name="development_settings_enable">Opties voor ontwikkelaars inschakelen</string>
-  <string name="development_settings_not_available">OOpties voor ontwikkelaars zijn niet beschikbaar voor deze gebruiker</string>
+  <string name="development_settings_not_available">Opties voor ontwikkelaars zijn niet beschikbaar voor deze gebruiker</string>
   <string name="development_settings_summary">Opties instellen voor appontwikkeling</string>
   <string name="development_settings_title">Opties voor ontwikkelaars</string>
   <string name="devicePerms">Apparaattoegang</string>
@@ -418,14 +404,14 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_settings_not_available">Tethering instellingen zijn niet beschikbaar voor deze gebruiker</string>
-  <string name="title_convert_fbe">Omzetten naar bestand gebaseerde encryptie</string>
+  <string name="title_convert_fbe">Omzetten naar bestandsgebaseerde encryptie</string>
   <string name="track_frame_time">GPU rendering profiel</string>
-  <string name="transition_animation_scale_title">Overgangsanimatie schaal</string>
+  <string name="transition_animation_scale_title">Animatieschaal overgang</string>
   <string name="tts_default_lang_summary">Stelt de taalspecifieke stem voor de gesproken tekst in</string>
   <string name="tts_default_lang_title">Taal</string>
   <string name="tts_default_pitch_summary">Beinvloedt de toon van de gesynthetiseerde spraak</string>
   <string name="tts_default_pitch_title">Toonhoogte</string>
-  <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
+  <string name="tts_default_rate_summary">Snelheid waarmee de tekst wordt gesproken</string>
   <string name="tts_default_rate_title">Spraaksnelheid</string>
   <string name="tts_default_sample_string">Dit is een voorbeeld van spraaksynthese</string>
   <string name="tts_engine_network_required">Deze taal vereist een werkende netwerkverbinding voor tekst-naar-spraakuitvoer.</string>
@@ -437,10 +423,10 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="tts_install_data_summary">Installeer de spraakgegevens die nodig zijn voor spraaksynthese</string>
   <string name="tts_install_data_title">Spraakgegevens installeren</string>
   <string name="tts_lang_not_selected">Geen taal geselecteerd</string>
-  <string name="tts_lang_use_system">Systeem taal gebruiken</string>
+  <string name="tts_lang_use_system">Systeemtaal gebruiken</string>
   <string name="tts_play_example_summary">Speel een korte demonstratie van spraaksynthese af</string>
   <string name="tts_play_example_title">Luister naar een voorbeeld</string>
-  <string name="tts_reset_speech_pitch_summary">Herstel de toonhoogte waarop de tekst als standaard gesproken wordt.</string>
+  <string name="tts_reset_speech_pitch_summary">Herstel de toonhoogte waarop de tekst standaard gesproken wordt.</string>
   <string name="tts_reset_speech_pitch_title">Herstel de toonhoogte</string>
   <string name="tts_settings">Tekst-naar-spraak instellingen</string>
   <string name="tts_settings_title">Tekst-naar-spraak uitvoer</string>

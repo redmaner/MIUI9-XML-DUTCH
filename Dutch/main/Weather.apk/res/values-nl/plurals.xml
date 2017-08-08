@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">Weervoorspelling voor %1$s dagen</item>
-        <item quantity="one">Weervoorspelling voor %1$s dag</item>
+        <item quantity="other">Weersvoorspelling voor %1$s dagen</item>
+        <item quantity="one">Weersvoorspelling voor %1$s dag</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d minuten geleden</item>
