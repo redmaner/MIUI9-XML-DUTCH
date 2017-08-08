@@ -1,8 +1,8 @@
-# ![logo](http://s33.postimg.org/gzg1mn7bj/banner_1.png) 
+![logo](https://s1.postimg.org/at0rtaybz/MIUI_9_Banner.png) 
 
 ---------------------------------------------------------------------------------------------
 
-MIUI8 Dutch Translations based on MIUI6 and MIUI7 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
+MIUI9 Dutch Translations based on MIUI6, MIUI7 and MIUI8 Dutch translations (Started August 2014 by Jacketti and Redmaner) 
 
 Currently maintained by Cueie, MannyRibo and Redmaner
 
