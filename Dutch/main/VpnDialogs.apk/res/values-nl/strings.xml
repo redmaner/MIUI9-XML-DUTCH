@@ -3,11 +3,11 @@
   <string name="configure">Configureren</string>
   <string name="data_received">Ontvangen:</string>
   <string name="data_transmitted">Verzonden:</string>
-  <string name="data_value_format">%1$s bytes / %2$s pakketen</string>
+  <string name="data_value_format">%1$s bytes / %2$s pakketten</string>
   <string name="disconnect">Verbinding verbreken</string>
   <string name="duration">Duur:</string>
   <string name="legacy_title">Verbinding met VPN</string>
   <string name="prompt">Verbindingsverzoek.</string>
   <string name="session">Sessie:</string>
-  <string name="warning">%s wil een VPN-verbinding instellen die het mogelijk maakt om het netwerkverkeer te controleren. Alleen accepteren als u de bron vertrouwt.&lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt;verschijnt aan de bovenkant van het scherm wanneer VPN actief is.</string>
+  <string name="warning">%s wil een VPN-verbinding instellen die het mogelijk maakt om het netwerkverkeer te controleren. Accepteer alleen als u de bron vertrouwt.&lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt;verschijnt aan de bovenkant van het scherm wanneer VPN actief is.</string>
 </resources>

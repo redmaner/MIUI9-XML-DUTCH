@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Shell</string>
-  <string name="bugreport_add_details_to_zip_failed">Kon bugrapport details niet toevoegen aan zip bestand</string>
+  <string name="bugreport_add_details_to_zip_failed">Kon details over bugrapport niet toevoegen aan zipbestand</string>
   <string name="bugreport_confirm">Bugrapporten bevatten gegevens uit de verschillende logbestanden van het systeem, waaronder persoonlijke en privégegevens. Deel foutenrapporten alleen met apps en mensen die u vertrouwt.</string>
-  <string name="bugreport_confirm_dont_repeat">Niet meer weergeven</string>
-  <string name="bugreport_finished_pending_screenshot_text">Tik om uw bug rapport te delen zonder een schermafdruk of wacht tot de schermafbeelding klaar is</string>
+  <string name="bugreport_confirm_dont_repeat">Niet opnieuw weergeven</string>
+  <string name="bugreport_finished_pending_screenshot_text">Tik om uw bugrapport te delen zonder schermafdruk of wacht tot de schermafdruk klaar is</string>
   <string name="bugreport_finished_text">Raak aan om uw bugrapport te delen</string>
   <string name="bugreport_finished_title">Bugrapport vastgelegd</string>
-  <string name="bugreport_in_progress_title">Bug rapport #%d wordt aangemaakt</string>
+  <string name="bugreport_in_progress_title">Bugrapport #%d wordt aangemaakt</string>
   <string name="bugreport_info_action">Details</string>
-  <string name="bugreport_info_description">Bug samenvatting</string>
-  <string name="bugreport_info_dialog_title">Bug rapport #%d details</string>
+  <string name="bugreport_info_description">Samenvatting van bug</string>
+  <string name="bugreport_info_dialog_title">Details bugrapport #%d</string>
   <string name="bugreport_info_name">Bestandsnaam</string>
   <string name="bugreport_info_title">Bug titel</string>
-  <string name="bugreport_screenshot_action">Schermadruk</string>
-  <string name="bugreport_screenshot_failed">Er kon geen schermafdruk genomen worden.</string>
-  <string name="bugreport_screenshot_taken">Schermadruk met succes gnomen.</string>
+  <string name="bugreport_screenshot_action">Schermafdruk</string>
+  <string name="bugreport_screenshot_failed">Er kon geen schermafdruk worden gemaakt.</string>
+  <string name="bugreport_screenshot_taken">Schermafdruk gemaakt.</string>
   <string name="bugreport_storage_title">Bugrapporten</string>
   <string name="bugreport_unnamed">naamloos</string>
-  <string name="bugreport_unreadable_text">Bug rapport bestand kon niet gelezen worden</string>
-  <string name="bugreport_updating_title">Details toevoegen aan bug rapport</string>
+  <string name="bugreport_unreadable_text">Bestand bugrapport kon niet gelezen worden</string>
+  <string name="bugreport_updating_title">Details worden toegevoegd aan bugrapport</string>
   <string name="bugreport_updating_wait">Een momentje…</string>
   <string name="save">Opslaan</string>
 </resources>

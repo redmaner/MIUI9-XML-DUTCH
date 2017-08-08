@@ -8,7 +8,7 @@
   <string name="add_resource_detail_fail">Kan bron niet toevoegen</string>
   <string name="all_resources">Alle</string>
   <string name="app_name">Thema\'s</string>
-  <string name="apply_default_font_tip">Huidige lettertype van het systeem blijven gebruiken?</string>
+  <string name="apply_default_font_tip">Huidige systeemlettertype blijven gebruiken?</string>
   <string name="apply_font_btn_exclude">Toepassen zonder lettertype</string>
   <string name="apply_font_btn_reboot">Herstarten</string>
   <string name="apply_font_tip">Herstart uw apparaat om het lettertype toe te passen.</string>
