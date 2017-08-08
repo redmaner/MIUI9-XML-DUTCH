@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="VideoView_error_button">OK</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">"This video isn't valid for streaming to this device."</string>
-  <string name="VideoView_error_text_unknown">"Can't play this video."</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">Deze video kan niet worden gestreamd.</string>
+  <string name="VideoView_error_text_unknown">Kan deze video niet afspelen</string>
   <string name="VideoView_error_title">Video problem</string>
   <string name="active_xiaomi_account">Activeren</string>
   <string name="active_xiaomi_account_title">Activeer Xiaomi account</string>
@@ -20,22 +20,22 @@
   <string name="auto_dialog_msg">We hebben ons privacybeleid bijgewerkt. Lees dit voordat u een update van uw systeem doet.</string>
   <string name="auto_dialog_msg_check_again">U moet akkoord gaan met onze vernieuwde Privacybeleid voordat u uw systeem kan bijwerken.</string>
   <string name="auto_dialog_title_check_again">Update annuleren?</string>
-  <string name="auto_download">Download automatically</string>
-  <string name="auto_download_sum">Download updates when connected to Wi-Fi</string>
+  <string name="auto_download">Automatisch downloaden</string>
+  <string name="auto_download_sum">Updates downloaden wanneer verbonden met Wi-Fi</string>
   <string name="auto_update">Automatisch updaten</string>
   <string name="auto_update_sum">Updates downloaden wanneer verbonden met Wi-Fi en \'s nachts installeren.</string>
   <string name="autosetmode">Update instellingen</string>
-  <string name="battery_islow">&lt;font color=#f37981&gt;Plug your charger&lt;/font&gt;</string>
-  <string name="battery_islow_desc">Battery level is too low to install zip file safely, plug in your charger and try again later!</string>
+  <string name="battery_islow">Sluit oplader aan</string>
+  <string name="battery_islow_desc">Batterij is te laag om het zipbestand veilig te installeren, sluit oplader aan en probeer later opnieuw!</string>
   <string name="best_update">Beste update tot nu toe</string>
-  <string name="boot_recovery">Herstart in recovery modus</string>
+  <string name="boot_recovery">Herstart in recoverymodus</string>
   <string name="btn_changelog">Changelog</string>
-  <string name="btn_download">Download</string>
-  <string name="btn_install">Install</string>
+  <string name="btn_download">Downloaden</string>
+  <string name="btn_install">Installeren</string>
   <string name="btn_no">Cancel</string>
   <string name="btn_ok">OK</string>
-  <string name="btn_share">Share</string>
-  <string name="btn_yes">Yes</string>
+  <string name="btn_share">Delen</string>
+  <string name="btn_yes">Ja</string>
   <string name="button_delay_update_reboot">Herstarten &amp; updaten</string>
   <string name="button_text_check">Controleren op updates</string>
   <string name="button_text_reboot">Herstarten</string>
@@ -50,7 +50,7 @@
   <string name="check_local_package_wipe_btn">Wissen en updaten</string>
   <string name="check_local_package_wipe_msg">"U gaat terugkeren naar MIUI versie %s. Uw persoonlijke gegevens worden gewist. Zorg ervoor dat u een back-up maakt van alles wat u wilt behouden voordat u het proces start."</string>
   <string name="check_local_package_wipe_title">Data wissen</string>
-  <string name="check_network">"Can't connect to the network"</string>
+  <string name="check_network">Kan niet verbinden met het netwerk</string>
   <string name="check_new_version">Controleren</string>
   <string name="clean_up_button">Opruimen</string>
   <string name="comment_publish">Indienen</string>
@@ -59,7 +59,6 @@
   <string name="confirm_local_package_wipe_title">Data wissen?</string>
   <string name="continue_update_negative_btn">Doorgaan</string>
   <string name="continue_update_positive_btn">Stoppen</string>
-  <string name="daily_build">Nightly</string>
   <string name="delay_update_text">Later updaten</string>
   <string name="dialog_delay_update_cancel">Annuleren</string>
   <string name="dialog_delay_update_msg">Uw apparaat zal opnieuw opstarten om de updates toe te passen wanneer deze aan staat en de batterij ten minste 30% is opgeladen</string>
@@ -69,18 +68,18 @@
   <string name="download_cancel">Annuleren</string>
   <string name="download_current_rom">Herstart om update toe te passen</string>
   <string name="download_diff">Download wijzigingen</string>
-  <string name="download_done">Successfully downloaded!</string>
+  <string name="download_done">Met succes gedownload!</string>
   <string name="download_error">Probeer later opnieuw.</string>
-  <string name="download_fail">Error while downloading!</string>
-  <string name="download_fail_desc">MD5 Sum does not match…</string>
+  <string name="download_fail">Fout tijdens het downloaden!</string>
+  <string name="download_fail_desc">MD5 sum komt niet overeen…</string>
   <string name="download_failed">Download mislukt</string>
   <string name="download_full">Download voltooid</string>
   <string name="download_success_reboot_immediately">Herstarten om update toe te passen</string>
   <string name="download_title">Downloaden (%s)</string>
   <string name="download_title_first">Info ophalen…</string>
   <string name="download_title_full_download">Info verkrijgen…</string>
-  <string name="downloading">Downloading…</string>
-  <string name="downloading_desc">Downloading in progress, check status in notification area.</string>
+  <string name="downloading">Downloaden…</string>
+  <string name="downloading_desc">Bezig met downloaden, bekijk de status in de meldingsbalk.</string>
   <string name="edit_text_default">Schrijf een reactie</string>
   <string name="emegency_build">Versie:</string>
   <string name="expect">Verwachtingen</string>
@@ -95,7 +94,7 @@
   <string name="go_on_download">Downloaden</string>
   <string name="important_suggestion">Privacybeleid is veranderd</string>
   <string name="install">Installeren</string>
-  <string name="install_desc">"Apparaat zal opstarten in recovery en het volgende bestand installeren: %1$s
+  <string name="install_desc">"Apparaat zal opstarten in recoverymodus en het volgende bestand installeren: %1$s
 Gegevens zullen niet worden gewist."</string>
   <string name="install_failed">Update mislukt</string>
   <string name="install_file_explorer">Eerst File Explorer installeren</string>
@@ -164,10 +163,10 @@ Gegevens zullen niet worden gewist."</string>
   <string name="open_now">Ja</string>
   <string name="particular_build">Particulier</string>
   <string name="pause">Pauze</string>
-  <string name="permdesc_cache_filesystem">Staat app toe om bestanden te schrijve  naar /cache.</string>
+  <string name="permdesc_cache_filesystem">Staat app toe om bestanden te schrijven naar /cache.</string>
   <string name="permdesc_reboot">Staat app toe om het apparaat opnieuw op te starten.</string>
-  <string name="pick_not_found">No suitable File Manager was found.</string>
-  <string name="pick_title">Pick using:</string>
+  <string name="pick_not_found">Er is geen geschikte file explorer gevonden.</string>
+  <string name="pick_title">Kies met:</string>
   <string name="pm_root_acquired_button">Roottoegang</string>
   <string name="pm_root_acquired_notification_title">Roottoegang verkrijgen</string>
   <string name="pm_root_acquired_rooting">Roottoegang verkrijgen voor %s</string>
@@ -205,7 +204,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_acquired">Roottoegang toestaan</string>
   <string name="root_agree_check_box_title">Ik begrijp de risico\'s van roottoegang</string>
   <string name="root_dangerous_msg">Roottoegang toestaan is zeer riskant en kan uw apparaat en persoonlijke gegevens blootstellen aan aanvallen van kwaadaardige apps. Gaat u ermee akkoord dat u zelf verantwoordelijk bent voor eventuele schade aan het apparaat of verlies van gegevens die voortkomen door roottoegang toe te staan.</string>
-  <string name="server_error">Server not responding, application might not work properly!</string>
+  <string name="server_error">Server reageert niet, applicatie kan misschien niet goed werken!</string>
   <string name="set_auto">Automatisch controleren op updates</string>
   <string name="set_auto_download_msg">MIUI zal updates automatisch downloaden wanneer je apparaat is verbonden met Wi-Fi.</string>
   <string name="set_auto_download_title">Automatisch installeren?</string>
@@ -222,7 +221,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_network_title">Verbinden met Wi-Fi</string>
   <string name="set_only_wifi">Alleen Wi-Fi gebruiken</string>
   <string name="share_sina">Delen via Sina Weibo</string>
-  <string name="share_title">Share with</string>
+  <string name="share_title">Delen met</string>
   <string name="share_update">Informatie over systeemupdate delen</string>
   <string name="share_update_content_sign">"Ik heb MIUI bijgewerkt naar %1$s! Mijn gebruikers ranglijst is %2$s Om de changelog te bekijken, bezoek %3$s "</string>
   <string name="share_update_content_unsign">"Ik heb MIUI bijgewerkt naar %1$s! Bezoek %2$s voor een uitgebreide changelog"</string>
@@ -234,17 +233,13 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_token_invalid_warning">Weibo account is ongeldig: voeg account opnieuw toe.</string>
   <string name="space_not_enough_msg">Er is niet genoeg opslagruimte op uw apparaat."</string>
   <string name="space_not_enough_title">Niet genoeg opslagruimte</string>
-  <string name="stable">stable</string>
-  <string name="stable_build">Stable</string>
   <string name="submit_fail">Versturen mislukt</string>
   <string name="submit_progress">Versturen…</string>
   <string name="submit_success">Succesvol verstuurd!</string>
-  <string name="test">Test</string>
   <string name="title_toast_auto">Updates worden automatisch gedownload</string>
-  <string name="title_toast_auto_download">Updates will be downloaded automatically</string>
-  <string name="title_toast_auto_update">Updates will be installed automatically</string>
+  <string name="title_toast_auto_download">Updates worden automatisch gedownload</string>
+  <string name="title_toast_auto_update">Updates worden automatisch geinstalleerd</string>
   <string name="toast_delay_update_tonight">Uw apparaat zal worden geüpdatet tussen 02:00 en 05:00</string>
-  <string name="top_secret_build">Top secret</string>
   <string name="uncrypt_title">Decoderen (%s)</string>
   <string name="unkown_error_title">Kon niet downloaden</string>
   <string name="unstable_build">Onstabiel</string>
@@ -274,12 +269,11 @@ http://zhushou.xiaomi.com"</string>
   <string name="user_begin">Download</string>
   <string name="user_intertup_download_msg">Download gepauzeerd. Je kan op elk moment doorgaan met de update.</string>
   <string name="user_intertup_download_title">Updatedownload gepauzeerd</string>
-  <string name="userdata_alert_content">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>
-  <string name="userdata_alert_ok">Play</string>
-  <string name="userdata_alert_title">Data usage warning</string>
+  <string name="userdata_alert_content">Gebruik maken van mobiel internet om video\'s te bekijken zal het dataverbruik verhogen. Als u het datalimiet overschrijdt kan uw provider kosten aanrekenen.</string>
+  <string name="userdata_alert_title">Waarschuwing datagebruik</string>
   <string name="validate_pkg_failed_msg">De update die u hebt gedownload komt niet overeen met onze data. Probeer later opnieuw.</string>
   <string name="validate_pkg_failed_title">Kan de update niet verifiëren</string>
-  <string name="version">Momenteel geinstallerd:</string>
+  <string name="version">Momenteel geinstalleerd:</string>
   <string name="vote_beta">Beta Feedback Programma</string>
   <string name="vote_error1">Het lijkt erop dat je geen lid bent
 van het Beta Feedback Programma</string>
@@ -297,7 +291,6 @@ Kon feedback niet indienen</string>
   <string name="vote_not_recommend">Niet aanbevolen</string>
   <string name="vote_recommend">Beveel deze update aan</string>
   <string name="vote_submit">Indienen</string>
-  <string name="weekly">weekly</string>
   <string name="weekly_build">Wekelijks</string>
   <string name="worst_update">Slechtste update tot nu toe</string>
 </resources>
