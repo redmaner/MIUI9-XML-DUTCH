@@ -15,7 +15,7 @@
   <string name="bugreport_dump_start_notification_title">Bugreport maken…</string>
   <string name="bugreport_tool_log">Bugrapport maken</string>
   <string name="bugreport_tool_log_toast">Log opgeslagen naar %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Bug rapport maken (duurt ongeveer een minuutje)</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Bugrapport maken (duurt ongeveer een minuutje)</string>
   <string name="close_feedback_main">Verbergen</string>
   <string name="cta_cancel">Annuleren</string>
   <string name="cta_confirm">OK</string>
@@ -182,11 +182,11 @@
   <string name="michat_wait_for_a_moment">Een momentje, hulp is onderweg!</string>
   <string name="michat_webview_title">Bekijk details</string>
   <string name="min_error">Uw %1$s zou langer moeten zijn.</string>
-  <string name="mobile_data_note_dialog_cancel">Wait for WLAN</string>
-  <string name="mobile_data_note_dialog_confirm">Upload</string>
-  <string name="mobile_data_note_dialog_content">Using mobile data to upload logs may generate additional fees.</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">Uploading logs using mobile data connection will require %sMB of data.</string>
-  <string name="mobile_data_note_dialog_title">Data usage warning</string>
+  <string name="mobile_data_note_dialog_cancel">Wachten op Wi-Fi</string>
+  <string name="mobile_data_note_dialog_confirm">Uploaden</string>
+  <string name="mobile_data_note_dialog_content">Gebruik maken van mobiel internet om logs te uploaden kan voor extra kosten zorgen.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Logs uploaden door gebruik te maken van mobiel internet zal %sMB aan data kosten.</string>
+  <string name="mobile_data_note_dialog_title">Waarschuwing datagebruik</string>
   <string name="modem_tool_log">Modem logs opnemen</string>
   <string name="modem_tool_log_start">Starten</string>
   <string name="modem_tool_log_start_toast">Modem log wordt opgeslagen naar %s</string>

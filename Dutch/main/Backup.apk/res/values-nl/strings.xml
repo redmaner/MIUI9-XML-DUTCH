@@ -332,18 +332,14 @@ Wachten om te transfereren…"</string>
   <string name="trans_waiting_ensurance">"Maak u er van bewust dat uw oude apparaat ingeschakeld is
 en dat Mi Mover ingeschakeld is"</string>
   <string name="trans_waiting_for_sender">Wachten op oude apparaat om te verbinden…</string>
-  <string name="unit_byte">"  B"</string>
   <string name="unit_piece">"  items"</string>
   <string name="unknown_hint">Onbekend</string>
   <string name="user_notice_declaration_ignore">Niet meer tonen</string>
   <string name="user_notice_message">Sommige functies hebben een internetverbinding nodig om normaal te werken.</string>
   <string name="user_notice_title">Waarschuwing</string>
   <string name="wifi_title">Wi-Fi instellingen</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Kon downloaden niet starten. Ben er zeker van dat de Download Manager normaal werkt.</string>
   <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer de SD kaart.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"Introductie versie %1$s

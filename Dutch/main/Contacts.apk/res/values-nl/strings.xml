@@ -72,14 +72,11 @@
   <string name="call_home">Privé bellen</string>
   <string name="call_isdn">ISDN bellen</string>
   <string name="call_left">Telefoon saldo</string>
-  <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Nieuw</string>
   <string name="call_log_old_header">Ouder</string>
   <string name="call_main">Hoofdnummer bellen</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
-  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
@@ -88,6 +85,7 @@
   <string name="call_radio">Radio bellen</string>
   <string name="call_record_setting_miui">Opname instellingen</string>
   <string name="call_settings">Instellingen</string>
+  <string name="call_settings_primary_user_only">Oproepinstellingen kunnen alleen worden gewijzigd door de primaire gebruiker.</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Bellen met SIM 1</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -1144,10 +1142,12 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="type_outgoing">Uitgaande gesprekken</string>
   <string name="type_voicemail">Voicemail</string>
   <string name="unable_get_device_id">Kan geen IMEI verkrijgen</string>
+  <string name="unfold_all">Alles uitvouwen</string>
   <string name="unknow_phone_number_call_failed">Kan onbekend nummer niet bellen</string>
   <string name="unknow_phone_number_mms_failed">Kan onbekend nummer geen bericht zenden</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_contact_name">Onbekend contact</string>
+  <string name="unknown_details_new_contact">Nieuw contact</string>
   <string name="update_sim_contact_photo_toast">Kan geen profielfoto\'s instellen voor SIM contacten</string>
   <string name="upgrade_in_progress">Lijst met contactpersonen wordt bijgewerkt.</string>
   <string name="upgrade_out_of_memory">"Contacten worden bijgewerkt. Voor het upgradeproces is ongeveer %s MB interne opslagruimte vereist. Kies een van de volgende opties:"</string>
