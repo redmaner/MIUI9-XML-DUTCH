@@ -6,12 +6,12 @@
   <string name="calendar_info_events">Afspraken: %1$d</string>
   <string name="calendar_info_events_dirty">Afspraken: %1$d | Niet opgeslagen: %2$d</string>
   <string name="calendar_info_no_calendars">"Geen agenda's"</string>
-  <string name="calendar_storage">Agenda opslag</string>
+  <string name="calendar_storage">Agenda-opslag</string>
   <string name="debug_tool_delete_button">Verwijderen</string>
-  <string name="debug_tool_email_body">Bijgevoegd vindt u mijn Agenda database met al mijn afspraken en persoonlijke gegevens. Gelieve hier zorgvuldig mee om te gaan.</string>
+  <string name="debug_tool_email_body">Bijgevoegd vindt u mijn agenda-database met al mijn afspraken en persoonlijke gegevens. Gelieve hier zorgvuldig mee om te gaan.</string>
   <string name="debug_tool_email_sender_picker">Kies de app om uw bestand te verzenden</string>
   <string name="debug_tool_email_subject">Debugging tool voor agenda bijgevoegd</string>
-  <string name="debug_tool_message">U staat op het punt een kopie van uw agendadatabase te maken op de SD-kaart/USB opslag die kan worden gelezen door elke app en deze te versturen via de mail. Verwijder de kopie zodra u een back-up hebt gemaakt of de e-mail is ontvangen.</string>
+  <string name="debug_tool_message">U staat op het punt om een kopie van uw agenda-database te maken op de SD-kaart/USB opslag die kan worden gelezen door elke app en deze kan versturen via de mail. Verwijder de kopie zodra u een back-up hebt gemaakt of de e-mail is ontvangen.</string>
   <string name="debug_tool_start_button">Starten</string>
   <string name="holiday_data_no_network">Geen netwerkverbinding, probeer het later opnieuw</string>
   <string name="holiday_data_update_failed">Controleer op updatefouten en probeer het later opnieuw.</string>
@@ -20,5 +20,5 @@
   <string name="holiday_update_summary">Klik op controleer updates</string>
   <string name="holiday_update_title">Werkdagen data benodigen netwerkverbinding en update</string>
   <string name="provider_label">Agenda</string>
-  <string name="upgrade_msg">Agendadatabase bijwerken…</string>
+  <string name="upgrade_msg">Agenda-database bijwerken…</string>
 </resources>

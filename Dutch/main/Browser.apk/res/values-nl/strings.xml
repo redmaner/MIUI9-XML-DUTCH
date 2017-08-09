@@ -815,15 +815,8 @@ Deze pagina verlaten?"</string>
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
-  <string name="tae_sdk_login_qr_icon_close"></string>
-  <string name="tae_sdk_login_qr_icon_taobao"></string>
-  <string name="tae_sdk_qr_login_icon_password"></string>
-  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">AM</string>
-  <string name="time_picker_dialog_hour_minute_separator">:</string>
-  <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_pm">PM</string>
-  <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="time_picker_dialog_title">Tijd instellen</string>
   <string name="title_bar_loading">Laden…</string>
   <string name="too_many_windows_dialog_message">Kan geen nieuw tabblad openen totdat u er een sluit.</string>
