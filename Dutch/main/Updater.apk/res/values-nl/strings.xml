@@ -294,5 +294,6 @@ Kon feedback niet indienen</string>
   <string name="vote_recommend">Beveel deze update aan</string>
   <string name="vote_submit">Indienen</string>
   <string name="weekly_build">Wekelijks</string>
+  <string name="wifi_recommended">Geen Wi-Fi verbinding om update veilig te starten!</string>
   <string name="worst_update">Slechtste update tot nu toe</string>
 </resources>
