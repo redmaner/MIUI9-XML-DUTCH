@@ -39,10 +39,10 @@
   <string name="button_delay_update_reboot">Herstarten &amp; updaten</string>
   <string name="button_text_check">Controleren op updates</string>
   <string name="button_text_reboot">Herstarten</string>
-  <string name="button_text_reboot_hm">Na herstart</string>
+  <string name="button_text_reboot_hm">Na herstarten</string>
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Deze update stoppen?</string>
-  <string name="check_local_package_update_btn">Herstart en updaten</string>
+  <string name="check_local_package_update_btn">Herstarten en updaten</string>
   <string name="check_local_package_update_msg">"Uw telefoon zal automatisch herstarten om te updaten naar MIUI versie %s."</string>
   <string name="check_local_package_update_title">Updaten</string>
   <string name="check_local_package_validate_error_button">Ok</string>
@@ -128,11 +128,13 @@ Gegevens zullen niet worden gewist."</string>
   <string name="no_log">Geen samenvatting beschikbaar</string>
   <string name="no_network">Geen netwerktoegang.</string>
   <string name="no_update">Je hebt alle updates al geinstalleerd!</string>
-  <string name="no_wifi_msg">Door gebruik te maken van mobiele data kunnen er extra kosten zijn. Verbind met Wi-Fi om updates te downloaden.</string>
+  <string name="no_xioamieu">"Je gebruikt niet de ROM van xiaomi.eu!
+Updates zijn niet beschikbaar voor jou!"</string>
+  <string name="no_wifi_msg">Door gebruik te maken van mobiel internet kunnen er extra kosten zijn. Verbind met Wi-Fi om updates te downloaden.</string>
   <string name="no_wifi_title">Met Wi-Fi verbinden</string>
   <string name="not_open">Nee</string>
   <string name="notif_cancel">Annuleren</string>
-  <string name="notif_install">Install</string>
+  <string name="notif_install">Installeren</string>
   <string name="notif_new_summary">Tik om details te bekijken</string>
   <string name="notif_new_title">Nieuwe versie beschikbaar!</string>
   <string name="notification_auto_reboot_seccess_title">Apparaat automatisch geüpdatet</string>
