@@ -1480,7 +1480,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Notities</item>
         <item>Kindermodus</item>
     </string-array>
-    </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
         <item>Batterijcapaciteit</item>
