@@ -48,7 +48,7 @@
   <string name="action_menu_useful_page_added">Toegevoegd aan startpagina</string>
   <string name="actionbar_share">Delen</string>
   <string name="actionbar_textselection_title">Tekstselectie</string>
-  <string name="actionbar_web_search">Voer URL  in of zoeken op het web</string>
+  <string name="actionbar_web_search">Voer URL in of zoeken op het web</string>
   <string name="adblock_force_updating_rules_toast">Adblocker updaten</string>
   <string name="adblock_notification">%d advertenties geblokkeerd</string>
   <string name="adblock_rules_not_updated_toast">Kon niet updaten</string>
