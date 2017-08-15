@@ -14,6 +14,9 @@
   <string name="TestReceiver">Test Ontvanger</string>
   <string name="TestSender">Test Afzender</string>
   <string name="Unregister">afmelden</string>
+  <string name="action_bonjour">Bonjour</string>
+  <string name="action_p2pgo">P2pGroupOwner</string>
+  <string name="action_p2pls">P2pLegacyStation</string>
   <string name="action_settings">Instellingen</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">Annuleren</string>
@@ -22,6 +25,7 @@
   <string name="cancel_receive_stop">Blijven ontvangen</string>
   <string name="cancel_stop">Blijven verzenden</string>
   <string name="file_not_support">Dit bestand wordt niet ondersteund.</string>
+  <string name="hello_world">Hello world!</string>
   <string name="help">Help</string>
   <string name="i_know">Verstaan</string>
   <string name="intro_midrop">Mi Drop</string>

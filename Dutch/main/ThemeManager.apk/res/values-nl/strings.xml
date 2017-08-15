@@ -90,8 +90,6 @@
   <string name="incompatible_dialog_message">Dit thema is niet helemaal compatibel met MIUI 8. Sommige elementen kunnen verkeerd worden weergegeven.</string>
   <string name="incompatible_dialog_ok">Begrepen</string>
   <string name="incompatible_dialog_title">Compatibileitsproblemen</string>
-  <string name="internal_online_precust_gorgeous_black_name">gorgeous black</string>
-  <string name="internal_online_precust_gorgeous_color_name">gorgeous color</string>
   <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
   <string name="live_wallpaper">Live achtergrond</string>
   <string name="loading">Een momentje…</string>

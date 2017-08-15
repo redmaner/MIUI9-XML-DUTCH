@@ -178,6 +178,7 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="scanner_fingerprint_tips_desc">Een bestande vingerafdruk selecteren om naar de tweede ruimte te gaan. Het zal niet meer mogelijk zijn om deze te gebruiken in de eerste ruimte.</string>
   <string name="scanner_fingerprint_tips_title">Naar tweede ruimte gaan door gebruik van een bestande vingerafdruk</string>
   <string name="scanner_second_space_fingerprint">Scan de vingerafdruk voor de tweede ruimte</string>
+  <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Couldn't find any apps"</string>
   <string name="secondSpace">Tweede ruimte</string>

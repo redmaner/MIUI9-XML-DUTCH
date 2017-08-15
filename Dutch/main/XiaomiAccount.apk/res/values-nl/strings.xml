@@ -245,7 +245,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_getting_verify_code">Verkrijgen</string>
   <string name="passport_i_know">Begrepen</string>
   <string name="passport_identification_expired">Verification code expired, start over</string>
-  <string name="passport_identitfication_expired">Verificatiecode verlopen, begin opnieuw</string>
   <string name="passport_imei_permission_denied_message">We vragen toestemming om de IMEI van je apparaat te krijgen. Mi account gebruikt IMEI om de identiteit van het apparaat waarop u zich aanmeldt/inschrijft te achterhalen, om  uw Mi account veilig te houden.</string>
   <string name="passport_imei_permission_denied_title">IMEI verzoek toestemming</string>
   <string name="passport_input_captcha_hint">Voer code in</string>

@@ -19,8 +19,6 @@
   <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
-  <string name="access_control_need_to_unlock">"Scan met vingerafdruk
-of voer wachtwoord voor appvergrendeling in"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Voer wachtwoord voor appvergrendeling in</string>
   <string name="accessibility_service_description"/>
   <string name="action_button_text_100">Optimaliseren</string>
@@ -28,8 +26,6 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="action_button_text_60_80">Repareren</string>
   <string name="action_button_text_80_100">Optimaliseren</string>
   <string name="action_source_sms_title">Geblokkeerde SMS</string>
-  <string name="activate_fingerprint_dialog_message">Deze vingerafdruk is niet actief. Wachtwoord invoeren om deze vingerafdruk te activeren.</string>
-  <string name="activate_fingerprint_dialog_title">Wachtwoord invoeren</string>
   <string name="activity_title_antispam">Zwarte lijst</string>
   <string name="activity_title_antivirus">Virusscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -462,8 +458,6 @@ in het geval je hem vergeten bent"</string>
   <string name="card_main_private_space_summary">Door gebruik te maken van de tweede ruimte is het alsof u twee apparaten hebt</string>
   <string name="card_main_private_space_title">Tweede ruimte</string>
   <string name="card_main_sectool_title">Tools</string>
-  <string name="card_main_speeddetail_title">Verbindingssnelheid</string>
-  <string name="card_main_speeddetailt_summary">Bekijk de verbindingssnelheid voor individuele apps</string>
   <string name="card_main_xspace_action">Gebruiken</string>
   <string name="card_main_xspace_summary">Maak dubbele accounts aan voor ondersteunende apps</string>
   <string name="card_main_xspace_title">Apps dupliceren</string>
@@ -521,6 +515,13 @@ in het geval je hem vergeten bent"</string>
   <string name="cpu_usage_process_run_time_little_time">Minder dan 1 minuut</string>
   <string name="cpu_usage_view_action_btn_text">Tik om te bekijken</string>
   <string name="create_shortcut">Maak een snelkoppeling voor het startscherm voor Game Speed Booster</string>
+  <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+  <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT DEFAULT NULL, state TEXT DEFAULT NULL );</string>
+  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+  <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
+  <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
+  <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
   <string name="cta_dialog_msg">Beveiligingcenter kan verbinding met internet nodig hebben om te updaten.</string>
   <string name="cta_dialog_title">Internetverbinding</string>
   <string name="cta_settings">Internetverbinding toestaan</string>
@@ -624,6 +625,7 @@ in het geval je hem vergeten bent"</string>
   <string name="downloading">Downloaden</string>
   <string name="dual_setting_simcard1">SIM kaart 1</string>
   <string name="dual_setting_simcard2">SIM kaart 2</string>
+  <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
   <string name="email">Email</string>
   <string name="empty_activity_title">" "</string>
   <string name="empty_app">Geen apps</string>
@@ -1637,15 +1639,20 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_antispam_des_uesless">Uit</string>
   <string name="st_antispam_mode_add_new">Regels toevoegen</string>
   <string name="st_antispam_mode_blacklist">Geblokkeerde nummers</string>
+  <string name="st_antispam_mode_blacklist_state">11112121</string>
   <string name="st_antispam_mode_blacklist_sum">Oproepen en SMS die je handmatig hebt toegevoegd aan de zwarte lijst blokkeren</string>
   <string name="st_antispam_mode_denyownself_sum">Aangepaste regels</string>
   <string name="st_antispam_mode_only_all_deny">Alles blokkeren</string>
+  <string name="st_antispam_mode_only_all_deny_state">10000000</string>
   <string name="st_antispam_mode_only_all_deny_sum">Alle oproepen en berichten blokkeren</string>
   <string name="st_antispam_mode_only_contacts">Alleen contacten toestaan</string>
+  <string name="st_antispam_mode_only_contacts_state">11110000</string>
   <string name="st_antispam_mode_only_contacts_sum">Alleen oproepen en berichten van contacten toestaan</string>
   <string name="st_antispam_mode_only_whitelist">Alleen uitzonderingen toestaan</string>
+  <string name="st_antispam_mode_only_whitelist_state">11000000</string>
   <string name="st_antispam_mode_only_whitelist_sum">Alleen oproepen en berichten van de uitzonderingenlijst toestaan</string>
   <string name="st_antispam_mode_smart">Gerapporteerde nummers</string>
+  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="st_antispam_mode_smart_sum">Nummers die je handmatig hebt toegevoegd en nummers die zijn gerapporteerd door andere gebruikers blokkeren</string>
   <string name="st_antispam_title_anoy_incoming">Oproepen van vreemden</string>
   <string name="st_antispam_title_anoy_sms">Berichten van vreemden</string>
