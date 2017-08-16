@@ -914,7 +914,7 @@ Deze pagina verlaten?"</string>
   <string name="view_document_downloaded_files">Gedownloade bestanden bekijken in downloads</string>
   <string name="voice_check_network">Controleer de netwerkinstellingen en probeer opnieuw.</string>
   <string name="voice_connect_network">Kon niet verbinden met het netwerk.</string>
-  <string name="voice_description">Stemgestuurd zoeken</string>
+  <string name="voice_description">Spraakgestuurd zoeken</string>
   <string name="voice_network_connection">Spraakgestuurd zoeken heeft internet nodig om normaal te werken.</string>
   <string name="voice_search_permission">Spraakgestuurd zoeken heeft toegang tot je microfoon nodig om normaal te werken.</string>
   <string name="voice_semantic_analysis">Browser zal in staat zijn om te analyseren nadat je toestaat om te verbinden.</string>
