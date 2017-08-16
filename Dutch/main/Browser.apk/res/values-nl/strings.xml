@@ -487,11 +487,11 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Controleer de %s1proxyinstellingen%s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cache wissen (%s1Instellingen%s2 - Gegevens wissen).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache en cookies wissen (%s1Instellingen%s2 - Gegevens wissen, accountgegevens kunnen verloren gaan).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Clear cache and cookies (your account info may be lost).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Clear cache.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Cache en cookies wissen (accountgegevens kunnen verloren gaan).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Cache wissen.</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">Verbind opnieuw nadat er verbinding is gemaakt</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Neem contact op met uw systeembeheerder.</string>
-  <string name="miuichromium_error_page_suggestion_correct_url">"Check the address you've entered and try again using the correct URL."</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">Controleer het adres dat u heeft ingevoerd en zorg ervoor dat de URL juist is.</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Verbind opnieuw nadat je de browser toegang hebt gegeven om te verbinden met internet.</string>
   <string name="miuichromium_error_page_suggestion_title">. Probeer het volgende:</string>
   <string name="miuichromium_error_page_title">Er is een fout opgetreden</string>
