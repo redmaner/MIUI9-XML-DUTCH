@@ -54,15 +54,6 @@
         <item>female</item>
         <item>group</item>
     </string-array>
-    <array name="desktop_lyric_seekbar_track_color">
-        <item>#ff13baff</item>
-        <item>#ff616acb</item>
-        <item>#ffe28ce2</item>
-        <item>#ffe64b4b</item>
-        <item>#ffffff00</item>
-        <item>#ff84cf84</item>
-        <item>#ff6fe9e9</item>
-    </array>
     <integer-array name="song_group_detail_gray_colors">
         <item>0x33000000</item>
         <item>0x33000000</item>
@@ -76,4 +67,13 @@
         <item>0xD4EBEBEB</item>
         <item>0xFFF6F6F6</item>
     </integer-array>
+    <array name="desktop_lyric_seekbar_track_color">
+        <item>#ff13baff</item>
+        <item>#ff616acb</item>
+        <item>#ffe28ce2</item>
+        <item>#ffe64b4b</item>
+        <item>#ffffff00</item>
+        <item>#ff84cf84</item>
+        <item>#ff6fe9e9</item>
+    </array>
 </resources>

@@ -123,9 +123,12 @@
   <string name="find_device_io_error">"Kan niet verbinden met het netwerk"</string>
   <string name="find_device_locked_account_email" formatted="false">%s, gekoppeld e-mailadres: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, gekoppeld telefoonnummer: %s</string>
+  <string name="find_device_message">The current device is locked, message: %1$s, contact phone: %2$s.</string>
   <string name="find_device_null_credential_error">"Kan apparaatinfo niet verkrijgen, neem contact op met Xiaomi klantenservice"</string>
   <string name="find_device_operation_failed_error">Er is een servicefout opgetreden, probeer later opnieuw</string>
   <string name="find_device_operation_failed_error_unknown">Er is een fout opgetreden, probeer later opnieuw</string>
+  <string name="find_device_owner_phone">The current device is locked, contact phone: %1$s.</string>
+  <string name="find_device_prompt_message">The current device is locked, message: %1$s.</string>
   <string name="find_device_remote_exception">RPC error</string>
   <string name="find_device_request_error">Er is een servicefout opgetreden, probeer later opnieuw</string>
   <string name="find_device_request_prepare_error">"Kan status niet verkrijgen, probeer later opnieuw"</string>
@@ -245,7 +248,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_getting_verify_code">Verkrijgen</string>
   <string name="passport_i_know">Begrepen</string>
   <string name="passport_identification_expired">Verification code expired, start over</string>
-  <string name="passport_identitfication_expired">Verificatiecode verlopen, begin opnieuw</string>
   <string name="passport_imei_permission_denied_message">We vragen toestemming om de IMEI van je apparaat te krijgen. Mi account gebruikt IMEI om de identiteit van het apparaat waarop u zich aanmeldt/inschrijft te achterhalen, om  uw Mi account veilig te houden.</string>
   <string name="passport_imei_permission_denied_title">IMEI verzoek toestemming</string>
   <string name="passport_input_captcha_hint">Voer code in</string>

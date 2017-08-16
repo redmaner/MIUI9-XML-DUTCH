@@ -19,8 +19,6 @@
   <string name="access_control_fingerprint_not_identified_msg">"Couldn't read fingerprint."</string>
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
-  <string name="access_control_need_to_unlock">"Scan met vingerafdruk
-of voer wachtwoord voor appvergrendeling in"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Voer wachtwoord voor appvergrendeling in</string>
   <string name="accessibility_service_description"/>
   <string name="action_button_text_100">Optimaliseren</string>
@@ -28,8 +26,6 @@ of voer wachtwoord voor appvergrendeling in"</string>
   <string name="action_button_text_60_80">Repareren</string>
   <string name="action_button_text_80_100">Optimaliseren</string>
   <string name="action_source_sms_title">Geblokkeerde SMS</string>
-  <string name="activate_fingerprint_dialog_message">Deze vingerafdruk is niet actief. Wachtwoord invoeren om deze vingerafdruk te activeren.</string>
-  <string name="activate_fingerprint_dialog_title">Wachtwoord invoeren</string>
   <string name="activity_title_antispam">Zwarte lijst</string>
   <string name="activity_title_antivirus">Virusscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -462,8 +458,6 @@ in het geval je hem vergeten bent"</string>
   <string name="card_main_private_space_summary">Door gebruik te maken van de tweede ruimte is het alsof u twee apparaten hebt</string>
   <string name="card_main_private_space_title">Tweede ruimte</string>
   <string name="card_main_sectool_title">Tools</string>
-  <string name="card_main_speeddetail_title">Verbindingssnelheid</string>
-  <string name="card_main_speeddetailt_summary">Bekijk de verbindingssnelheid voor individuele apps</string>
   <string name="card_main_xspace_action">Gebruiken</string>
   <string name="card_main_xspace_summary">Maak dubbele accounts aan voor ondersteunende apps</string>
   <string name="card_main_xspace_title">Apps dupliceren</string>
@@ -719,6 +713,7 @@ in het geval je hem vergeten bent"</string>
   <string name="give_lucky_money">红包大派送</string>
   <string name="go_to">Doorgaan</string>
   <string name="go_to_setting_fingerprint">Instellingen</string>
+  <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="gs_anto_clean_memory_whitelist">Uitzonderingen</string>
   <string name="gs_app_back_self_start">Batterij besparder</string>
@@ -1104,8 +1099,6 @@ om te reageren"</string>
   <string name="notification_mask_title">Inhoud verbergen</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
-  <string name="notification_sysapp_cracked_text">De huidige versie van MIUI is aangepast</string>
-  <string name="notification_sysapp_cracked_title">Veiligheidsrisico gedetecteerd</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
   <string name="notify_daily_limit_title">Vandaag %s verbruikt</string>
@@ -1606,6 +1599,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sp_empty_title_sign_exception">De app ingedrukt houden om aan uitzonderingen toe te voegen</string>
   <string name="sp_monitored_apps_count_zero">Geen enkele betalingsapp is beveiligd</string>
   <string name="sp_monitored_apps_list_title">Monitorinstellingen</string>
+  <string name="sp_network_privacy_dialog_message">"Security app can't work properly because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
+  <string name="sp_network_privacy_dialog_title">"Can't use security scan"</string>
   <string name="sp_scan_item_monitor">Betalingen controleren</string>
   <string name="sp_scan_item_url_antispam">Bescherming tegen kwaadaardige URLs</string>
   <string name="sp_settings_check_item_summary_sign_exception">Beheer getekende uitzonderingen</string>
@@ -1623,6 +1618,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sp_toast_removed_from_sign_white_list">Verwijderen uit uitzonderingen. Item zal de volgende keer gescand worden.</string>
   <string name="special_number_group">Gerapporteerde nummers blokkeren</string>
   <string name="sponsored_sec_fb">Gesponsord</string>
+  <string name="ss_activity_main_support_text">Powered by %s</string>
   <string name="st_antispam_black_adress_add">Locaties toevoegen</string>
   <string name="st_antispam_bw_adress_add">Locaties toevoegen</string>
   <string name="st_antispam_bw_choose_modes">Toevoegen aan lijst</string>
@@ -1732,6 +1728,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="start_downloading_app">Download starten: %1$s</string>
   <string name="start_game">Start</string>
   <string name="start_tc_button">Calibreren</string>
+  <string name="still_retain_btn">Keep</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="suggest_scan_again">Het wordt voorgesteld om volledig scan te doen om de veiligheid te waarborgen.</string>
   <string name="summary_app_lock_disable">Bescherm uw data met appvergrendeling</string>
@@ -1772,14 +1769,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB voor mobiele data roaming</string>
   <string name="support_game_booster_tips">Boost speed &amp; verbeter de gaming ervaring</string>
   <string name="sys_app_prot_cracked_confirm">Begrepen</string>
-  <string name="sys_app_prot_cracked_login">Aanmelden met uw Mi Account</string>
-  <string name="sys_app_prot_cracked_text_login">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt.
-
-Zorg ervoor dat je weet waar dit apparaat vandaan komt en neem contact op met een geautoriseerd Xiaomi service center in uw buurt om hulp te krijgen."</string>
-  <string name="sys_app_prot_cracked_text_unlogin">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt. Aanmelden met uw MI Account om deze waarschuwing uit te scahkelen.
-
-Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaan komt en neem contact op met een erkende Xiaomi service center in uw omgeving."</string>
-  <string name="sys_app_prot_cracked_title">Veiligheidsrisico</string>
   <string name="sys_cpu_title">CPU gebruik</string>
   <string name="sys_freememory_title">Beschikbaar</string>
   <string name="sys_title_gamebooster_unit_gb">G</string>
@@ -2017,6 +2006,10 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="uninstall_app_dialog_msg">Verwijderen zal alle appdata verwijderen.</string>
   <string name="uninstall_app_dialog_title">Nu verwijderen?</string>
   <string name="uninstall_app_done">Met succes verwijderd</string>
+  <string name="uninstall_danagerous_btn">Uninstall</string>
+  <string name="uninstall_danagerous_desc">\"%s\" may damage your device</string>
+  <string name="uninstall_danagerous_msg">\"%s\" may damage your device, lower its performance, or cause reboots.</string>
+  <string name="uninstall_danagerous_title">Uninstall malicious app</string>
   <string name="unlike">Nee bedankt</string>
   <string name="unlock_pattern">&lt;u&gt;Pattern&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Enter password to activate fingerprint</string>

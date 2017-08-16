@@ -508,6 +508,12 @@
 	    <item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -516,6 +522,14 @@
         <item>Geel op blauw</item>
         <item>Aangepast</item>
 	</string-array>	
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN met van tevoren gedeelde sleutels</item>
@@ -586,6 +600,35 @@
         <item>Handmatig verbinden</item>
         <item>Altijd vragen</item>
     </string-array>
+    <string-array name="ct_mcc_mnc_list">
+        <item>45507</item>
+        <item>46003</item>
+        <item>46011</item>
+        <item>46012</item>
+        <item>20404</item>
+        <item>45502</item>
+        <item>45403</item>
+        <item>45404</item>
+    </string-array>
+    <string-array name="hidedm_plmn_list">
+        <item>46000</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46007</item>
+    </string-array>
+    <string-array name="hidesupl_plmn_list">
+        <item>46001</item>
+        <item>46003</item>
+        <item>46011</item>
+        <item>46012</item>
+        <item>45502</item>
+        <item>45507</item>
+    </string-array>
+    <string-array name="hide_account_list">
+        <item>com.qualcomm.qti.RIDL</item>
+        <item>com.android.localphone</item>
+        <item>com.android.sim</item>
+    </string-array>
     <array name="carrier_operator_list" />
     <string-array name="wifi_calling_mode_choices">
         <item>Bij voorkeur Wi-Fi</item>
@@ -643,9 +686,24 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
     </string-array>
     <string-array name="screen_key_position_action">
         <item>Menuknop links, terugknop rechts</item>
@@ -684,6 +742,12 @@
         <item>20 seconden</item>
         <item>Altijd</item>
     </string-array>
+    <integer-array name="font_size_preference_preview_size">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>27</item>
+    </integer-array>
     <string-array name="wfd_status">
         <item>Sessie starten…</item>
         <item>Sessie gestart</item>
@@ -701,6 +765,12 @@
         <item>Windows Vista en nieuwer</item>
         <item>OSX</item>
         <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2. Follow the onscreen instructions</item>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
@@ -772,6 +842,15 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Automatisch verbinden</item>
         <item>Handmatig verbinden</item>
     </string-array>
+    <string-array name="connect_mode_entries">
+        <item>comtible mode</item>
+        <item>high mode</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>close</item>
+        <item>normal mode</item>
+        <item>extreme mode</item>
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Bellen</item>
@@ -782,6 +861,53 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Muziek</item>
         <item>Email</item>
 	    <item>Video afspelen</item>
+    </string-array>
+    <string-array name="permission_risk_privacy">
+        <item>android.permission.ACCESS_COARSE_LOCATION</item>
+        <item>android.permission.ACCESS_FINE_LOCATION</item>
+        <item>android.permission.DUMP</item>
+        <item>android.permission.GET_TASKS</item>
+        <item>android.permission.INSTALL_LOCATION_PROVIDER</item>
+        <item>android.permission.READ_CALENDAR</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_SOCIAL_STREAM</item>
+        <item>android.permission.RECEIVE_MMS</item>
+        <item>android.permission.RECEIVE_SMS</item>
+        <item>android.permission.RECEIVE_WAP_PUSH</item>
+        <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
+    </string-array>
+    <string-array name="permission_risk_security">
+        <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
+        <item>android.permission.ACCESS_MOCK_LOCATION</item>
+        <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
+        <item>android.permission.BROADCAST_SMS</item>
+        <item>android.permission.BROADCAST_STICKY</item>
+        <item>android.permission.BROADCAST_WAP_PUSH</item>
+        <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
+        <item>android.permission.DELETE_PACKAGES</item>
+        <item>android.permission.INJECT_EVENTS</item>
+        <item>android.permission.INSTALL_PACKAGES</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
+        <item>android.permission.MODIFY_PHONE_STATE</item>
+        <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
+        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
+        <item>android.permission.REMOVE_TASKS</item>
+        <item>android.permission.REORDER_TASKS</item>
+        <item>android.permission.SET_ACTIVITY_WATCHER</item>
+        <item>android.permission.SET_DEBUG_APP</item>
+        <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
+        <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
+        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
+        <item>android.permission.WRITE_APN_SETTINGS</item>
+        <item>android.permission.WRITE_CALENDAR</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission.WRITE_SETTINGS</item>
+        <item>android.permission.WRITE_SMS</item>
+        <item>android.permission.WRITE_SOCIAL_STREAM</item>
+        <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
     </string-array>
      <string-array name="network_speed_slow_summary">
         <item>Netwerk is traag door het vele verkeer</item>
@@ -808,6 +934,14 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <string-array name="agps_network_entries">
         <item>Thuisnetwerk</item>
         <item>Alle netwerken</item>
+    </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+    </string-array>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>HEET</item>
@@ -856,6 +990,213 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>1</item>
         <item>Ongelimiteerd</item>
     </string-array>
+    <string-array name="organized_locales">
+        <item>al</item>
+        <item>dz</item>
+        <item>am</item>
+        <item>ao</item>
+        <item>ag</item>
+        <item>ar</item>
+        <item>au</item>
+        <item>az</item>
+        <item>bs</item>
+        <item>bh</item>
+        <item>bd</item>
+        <item>bb</item>
+        <item>by</item>
+        <item>be</item>
+        <item>bz</item>
+        <item>bo</item>
+        <item>ba</item>
+        <item>bw</item>
+        <item>bg</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>ca</item>
+        <item>cl</item>
+        <item>co</item>
+        <item>cd</item>
+        <item>cr</item>
+        <item>ci</item>
+        <item>hr</item>
+        <item>cu</item>
+        <item>cz</item>
+        <item>dk</item>
+        <item>dm</item>
+        <item>do</item>
+        <item>ec</item>
+        <item>eg</item>
+        <item>sv</item>
+        <item>gq</item>
+        <item>ee</item>
+        <item>et</item>
+        <item>fk</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>gf</item>
+        <item>ge</item>
+        <item>de</item>
+        <item>gh</item>
+        <item>gr</item>
+        <item>gd</item>
+        <item>gt</item>
+        <item>gy</item>
+        <item>ht</item>
+        <item>hn</item>
+        <item>hk</item>
+        <item>hu</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>iq</item>
+        <item>il</item>
+        <item>it</item>
+        <item>jm</item>
+        <item>jp</item>
+        <item>jo</item>
+        <item>kz</item>
+        <item>ke</item>
+        <item>kw</item>
+        <item>lv</item>
+        <item>lb</item>
+        <item>ls</item>
+        <item>ly</item>
+        <item>li</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>mo</item>
+        <item>mk</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mt</item>
+        <item>mr</item>
+        <item>mu</item>
+        <item>mx</item>
+        <item>md</item>
+        <item>me</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>np</item>
+        <item>nl</item>
+        <item>ni</item>
+        <item>ni</item>
+        <item>ng</item>
+        <item>kp</item>
+        <item>no</item>
+        <item>om</item>
+        <item>pk</item>
+        <item>ps</item>
+        <item>pa</item>
+        <item>py</item>
+        <item>pe</item>
+        <item>ph</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>qa</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sa</item>
+        <item>sn</item>
+        <item>rs</item>
+        <item>sg</item>
+        <item>sk</item>
+        <item>si</item>
+        <item>so</item>
+        <item>za</item>
+        <item>gs</item>
+        <item>kr</item>
+        <item>es</item>
+        <item>lk</item>
+        <item>kn</item>
+        <item>lc</item>
+        <item>vc</item>
+        <item>sd</item>
+        <item>sr</item>
+        <item>sz</item>
+        <item>se</item>
+        <item>ch</item>
+        <item>sy</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tn</item>
+        <item>tr</item>
+        <item>tm</item>
+        <item>tt</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>gb</item>
+        <item>us</item>
+        <item>uy</item>
+        <item>uz</item>
+        <item>ve</item>
+        <item>vn</item>
+        <item>ye</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="broadcast_locales">
+        <item>AE</item>
+        <item>AG</item>
+        <item>AR</item>
+        <item>BH</item>
+        <item>BO</item>
+        <item>BS</item>
+        <item>BB</item>
+        <item>BZ</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>CR</item>
+        <item>CU</item>
+        <item>EC</item>
+        <item>EG</item>
+        <item>GF</item>
+        <item>GD</item>
+        <item>GQ</item>
+        <item>GT</item>
+        <item>GY</item>
+        <item>HT</item>
+        <item>HN</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>IR</item>
+        <item>JM</item>
+        <item>JO</item>
+        <item>KR</item>
+        <item>KW</item>
+        <item>MX</item>
+        <item>NI</item>
+        <item>OM</item>
+        <item>PA</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>QA</item>
+        <item>SA</item>
+        <item>SR</item>
+        <item>KN</item>
+        <item>LC</item>
+        <item>VC</item>
+        <item>TW</item>
+        <item>TT</item>
+        <item>UY</item>
+        <item>VE</item>
+    </string-array>
+    <string-array name="ncc_locales">
+        <item>TW</item>
+    </string-array>
+    <string-array name="common_password_business_keys">
+        <item>miui_keyguard</item>
+        <item>fingerprint_apply_to_privacy_password</item>
+        <item>childrenmode</item>
+        <item>file_explorer</item>
+        <item>com_miui_applicatinlock_use_fingerprint_state</item>
+        <item>security_core_add</item>
+    </string-array>
     <string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>
 		<item>Privacy wachtwoord</item>
@@ -868,6 +1209,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Linkshandige stijl</item>
         <item>Rechtshandige stijl</item>
     </string-array>
+    <integer-array name="screen_resolution">
+        <item>1440</item>
+        <item>1080</item>
+    </integer-array>
     <string-array name="edge_touch_volume_action">
         <item>Klik op aanpassen - Dubbelklik trigger</item>
         <item>Sleep aanpassen - Sleep trigger</item>
@@ -1473,6 +1818,12 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Weekdagen</item>
         <item>Aangepast</item>
     </string-array>
+    <string-array name="privacy_password_function_specfication_keys">
+        <item>privacy_mms</item>
+        <item>privacy_gallery</item>
+        <item>privacy_file</item>
+        <item>privacy_notes</item>
+    </string-array>
 	<string-array name="privacy_password_function_specfication_names">
         <item>Berichten</item>
         <item>Foto\'s</item>
@@ -1480,6 +1831,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Notities</item>
         <item>Kindermodus</item>
     </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>16GB</item>
+        <item>Quad-core Max 2.5GHz</item>
     </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
@@ -1488,5 +1843,13 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Schermgrootte</item>
         <item>Resolutie</item>
         <item>Android versie</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 625</item>
+        <item>4100mAh(typ)</item>
+        <item>13MP</item>
+        <item>5.5 inches</item>
+        <item>1920 x 1080</item>
+        <item>6.0</item>
     </string-array>
 </resources>

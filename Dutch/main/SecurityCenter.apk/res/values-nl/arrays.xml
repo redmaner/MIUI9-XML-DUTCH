@@ -62,6 +62,18 @@
         <item>Sorteren op datagebruik</item>
         <item>Sorteren op batterijgebruik</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Installation source</item>
+        <item>Installation time</item>
+        <item>Last update source</item>
+        <item>Last update time</item>
+    </string-array>
     <string-array name="sms_report_type">
         <item>Datagebruik</item>
         <item>Belminuten</item>
@@ -115,17 +127,5 @@
         <item>Dagelijks</item>
         <item>Weekdagen</item>
         <item>Aangepast</item>
-    </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
-    </string-array>
-    <string-array name="title_app_info">
-        <item>Installation source</item>
-        <item>Installation time</item>
-        <item>Last update source</item>
-        <item>Last update time</item>
     </string-array>
 </resources>
