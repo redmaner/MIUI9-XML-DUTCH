@@ -36,7 +36,6 @@
   <string name="devided_by_zero_reminder_message">Kan niet delen door nul</string>
   <string name="divDesc">delen</string>
   <string name="dotDesc">punt</string>
-  <string name="e">e</string>
   <string name="eDesc">constante van Neper</string>
   <string name="equalDesc">is gelijk aan</string>
   <string name="error">Fout</string>
@@ -63,9 +62,7 @@
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Massa</string>
   <string name="leftParenDesc">linkerhaakje</string>
-  <string name="lg">lg</string>
   <string name="lgDesc">logaritme</string>
-  <string name="ln">ln</string>
   <string name="lnDesc">natuurlijk logaritme</string>
   <string name="loan_edittext_hint_commercial">Bedrag invoeren</string>
   <string name="loan_edittext_hint_commercial_combined">Commercieel</string>

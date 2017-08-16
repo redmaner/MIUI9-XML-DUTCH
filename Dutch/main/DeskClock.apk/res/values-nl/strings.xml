@@ -25,7 +25,6 @@
   <string name="app_label">Klok</string>
   <string name="auto_silence_never">Nooit</string>
   <string name="auto_silence_title">Stil na</string>
-  <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Verjaardagsalarm</string>
   <string name="birthday_alarm_summary">Speel \"Happy Birthday\" af in plaats van je standaard alarm op je verjaardag</string>
   <string name="cancel">Annuleren</string>
@@ -35,7 +34,6 @@
   <string name="control_set_alarm">Wekker instellen</string>
   <string name="control_set_alarm_with_existing">Alarm ingesteld: %s</string>
   <string name="day">1 dag</string>
-  <string name="day_concat">", "</string>
   <string name="days">%d dagen</string>
   <string name="default_alarm_alert">Standaard alarmgeluid</string>
   <string name="default_alarm_title">Standaard beltoon</string>
@@ -81,12 +79,8 @@
   <string name="life_post_wake_up_item_acumu_day_title">Dagen tellen</string>
   <string name="life_post_wake_up_item_percentage_title">Mi fans onder u</string>
   <string name="life_post_wake_up_item_time_title">Wektijd</string>
-  <string name="life_post_wake_up_percentage_sign">%</string>
   <string name="life_post_wake_up_percentage_title">Mi fans onder u</string>
   <string name="life_post_wake_up_time_title">Wektijd</string>
-  <string name="life_post_weather_degree_invalid">--</string>
-  <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
-  <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
   <string name="life_post_weather_invalid">Kon geen weerinformatie verkrijgen, tik om opnieuw te proberen</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">Beltoon laden…</string>
@@ -102,7 +96,6 @@
   <string name="never">Nooit</string>
   <string name="oneshot_alarm">Verwijderen na afgaan</string>
   <string name="pause">Pauzeren</string>
-  <string name="percentage_sign">%</string>
   <string name="remind_ringtone">Beltoon</string>
   <string name="reset">Opnieuw instellen</string>
   <string name="revert">Terugzetten</string>
@@ -118,7 +111,6 @@
   <string name="shutdown_alarm_enable_summary">Wekker zal af gaan zelfs als de telefoon uit staat</string>
   <string name="shutdown_alarm_title">Wekker af laten gaan als de telefoon uit staat</string>
   <string name="silent_alarm_summary">Stil</string>
-  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
   <string name="slider_text">Veeg omhoog om af te sluiten</string>
   <string name="snooze_confirm_cancel">Alarm verwijderen</string>
@@ -137,9 +129,7 @@
   <string name="symbol_colon">:</string>
   <string name="system_time_setting">Instellingen</string>
   <string name="system_time_settings_category_title">Tijdsinstellingen</string>
-  <string name="temperature_unit">%1$s°</string>
   <string name="time">Tijd</string>
-  <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Tik op het scherm om het alarm te stoppen</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer gestopt na %d minuten</string>
