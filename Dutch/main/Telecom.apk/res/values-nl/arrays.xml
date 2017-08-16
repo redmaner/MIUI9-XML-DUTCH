@@ -157,6 +157,14 @@
         <item>Este es un ejemplo de síntesis de voz en español.</item>
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
     <string-array name="color_mode_names">
         <item>Levendig (standaard)</item>
         <item>Naturel</item>
@@ -166,6 +174,11 @@
         <item>Verbeterde kleuren</item>
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
         <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Uit</item>
@@ -179,4 +192,5 @@
         <item>Alle behalve radio logbuffers</item>
         <item>Alleen kernel logbuffer</item>
     </string-array>
+    <array name="config_hideWhenDisabled_packageNames" />
 </resources>

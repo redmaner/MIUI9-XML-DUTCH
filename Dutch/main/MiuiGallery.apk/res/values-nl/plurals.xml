@@ -128,10 +128,6 @@
         <item quantity="other">%d video\'s</item>
         <item quantity="one">%d video</item>
     </plurals>
-    <plurals name="add_to_secret_successful">
-        <item quantity="other">%1$d foto\'s toegevoegd aan verborgen album</item>
-        <item quantity="one">1 foto toegevoegd aan verborgen album</item>
-    </plurals>
 	<plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto\'s</item>
         <item quantity="one">1 foto</item>

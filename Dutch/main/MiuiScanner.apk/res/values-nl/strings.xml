@@ -44,6 +44,7 @@
   <string name="document_ocr_result_title">Document foto</string>
   <string name="document_ocr_tip_msg">Lezen…</string>
   <string name="document_recognize_fail_tip">Kon document niet lezen</string>
+  <string name="document_recognize_null_tip">Document result is empty</string>
   <string name="document_rectify">Aanpassen</string>
   <string name="document_rectify_tip_msg">Aanpassen…</string>
   <string name="document_save_succeed_tip">Document opgeslagen naar %1$s</string>

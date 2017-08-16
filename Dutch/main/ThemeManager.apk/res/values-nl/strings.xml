@@ -24,6 +24,11 @@
   <string name="both_all_apply_failured">Kan achtergrond niet toepassen</string>
   <string name="both_all_apply_success">Achtergrond ingesteld</string>
   <string name="browser_local_resource">Lokale bronnen</string>
+  <string name="can_not_apply">Can not apply</string>
+  <string name="card_data_request_error">Data request exception, please try again later~</string>
+  <string name="card_loading">Loading...</string>
+  <string name="card_no_network">No network now, please connect and try again~</string>
+  <string name="card_retry">Retry</string>
   <string name="change_host_hint">Host veranderen</string>
   <string name="change_wallpaper">Achtergrond wijzigen</string>
   <string name="close">Sluiten</string>
@@ -52,6 +57,7 @@
   <string name="fail_to_add_account">Kan account niet toevoegen</string>
   <string name="favorite_list">Favorieten</string>
   <string name="favorite_list_format">%1$s toegevoegd aan favorieten</string>
+  <string name="find_more_wallpapers">Find more</string>
   <string name="gift_anonymous">Anoniem</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Annuleren</string>
@@ -87,16 +93,21 @@
   <string name="gift_used">Verzenden</string>
   <string name="home_apply_failured">Kan achtergrond niet toepassen op het startscherm</string>
   <string name="home_apply_success">Achtergrond toegepast op het startscherm</string>
+  <string name="in_the_end">No more</string>
   <string name="incompatible_dialog_message">Dit thema is niet helemaal compatibel met MIUI 8. Sommige elementen kunnen verkeerd worden weergegeven.</string>
   <string name="incompatible_dialog_ok">Begrepen</string>
   <string name="incompatible_dialog_title">Compatibileitsproblemen</string>
-  <string name="internal_online_precust_gorgeous_black_name">gorgeous black</string>
-  <string name="internal_online_precust_gorgeous_color_name">gorgeous color</string>
   <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
+  <string name="item_resource_audio_divider">│</string>
+  <string name="item_resource_audio_optional_alarm_ring">alarm ring</string>
+  <string name="item_resource_audio_optional_color_ring">color ring</string>
+  <string name="item_resource_audio_optional_notification_ring">notification ring</string>
+  <string name="item_resource_audio_optional_phone_ring">phone ring</string>
   <string name="live_wallpaper">Live achtergrond</string>
   <string name="loading">Een momentje…</string>
   <string name="loading_resource_detail_fail">Bron laden mislukt</string>
   <string name="loading_resource_detail_info">Een momentje…</string>
+  <string name="local_photos">Local photos</string>
   <string name="local_resouce_creator_name">Ontwikkelaar: %1$s</string>
   <string name="lockscreen_apply_failured">Kan achtergrond niet toepassen op het vergrendelscherm</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">Achtergrond toegepast op het thuisscherm, maar niet op het vergrendelscherm</string>
@@ -131,6 +142,7 @@
   <string name="purchased_list">Aangekocht</string>
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_legacy">Legacy thema\'s</string>
+  <string name="recently_used">Recently used</string>
   <string name="reload">Probeer opnieuw</string>
   <string name="resource_account_abnormal_state">Accountfout, probeer het later opnieuw.</string>
   <string name="resource_account_fail_to_add">Kan account niet toevoegen</string>
@@ -270,6 +282,10 @@
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betaald</string>
+  <string name="resource_ring_ranking_list_divider">-</string>
+  <string name="resource_ring_ranking_list_rank_1">1</string>
+  <string name="resource_ring_ranking_list_rank_2">2</string>
+  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">Beltonen</string>
   <string name="resource_ringtone_playing_error">Fout</string>
   <string name="resource_ringtone_volume_mute">Beltoonvolume gedempt</string>
@@ -325,11 +341,13 @@
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Wachten op download</string>
   <string name="resource_waiting_pause">Pauze</string>
+  <string name="ringtone_set_success">Set successfully</string>
   <string name="sdcard_not_mounted_dialog_message">Plaats een SD kaart.</string>
   <string name="sdcard_not_mounted_dialog_title">SD kaart niet gevonden</string>
   <string name="search_hint_header_text">Populaire zoektermen</string>
   <string name="selected_resource_file_invalid">"Geselecteerde bestand is ongeldig"</string>
   <string name="settings">Instellingen</string>
+  <string name="system_precust">System precust</string>
   <string name="the_picture_is_not_support">De afbeelding wordt niet ondersteund</string>
   <string name="the_picture_is_too_small">De afbeelding is te klein</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
@@ -419,7 +437,7 @@
   <string name="uid_change_dialog_message">U hebt de updates verwijderd. Herstart het apparaat om deze thema\'s te kunnen gebruiken.</string>
   <string name="uid_change_dialog_ok">Begrepen</string>
   <string name="uid_change_dialog_title">Apparaat herstarten</string>
-  <string name="wallpaper_auto_change_title">Vergrendelscherm</string>
+  <string name="wallpaper_apply">Apply</string>
   <string name="wallpaper_crop">Bijsnijden</string>
   <string name="wallpaper_decoded_error">Kan achtergrond niet instellen</string>
   <string name="wallpaper_scroll_type_tips">Achtergrondscroll</string>
@@ -427,8 +445,8 @@
   <string name="wallpaper_set_as_destop">Als achtergrond instellen</string>
   <string name="wallpaper_set_as_lockscreen">Als vergrendelscherm instellen</string>
   <string name="wallpaper_settings">Achtergrondinstellingen</string>
-  <string name="wallpaper_settings_change_wallpaper">Veranderen</string>
-  <string name="wallpaper_settings_desktop_text">Thuisscherm</string>
-  <string name="wallpaper_settings_lockscreen_text">Vergrendelscherm</string>
+  <string name="wallpaper_settings_loading_text">Loading</string>
+  <string name="wallpaper_settings_no_history">No history</string>
+  <string name="wallpaper_settings_pad_more_page_title">More wallpapers</string>
   <string name="wallpaper_settings_page_title">Achtergrond</string>
 </resources>

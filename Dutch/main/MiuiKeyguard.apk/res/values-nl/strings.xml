@@ -25,6 +25,7 @@
   <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
+  <string name="input_password_handle_sdcard_fs">进入分身前需要在开发者选项中关闭“模拟SD卡优化”</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
   <string name="input_pattern_hint_text">Teken uw ontgrendelpatroon</string>
   <string name="input_pin_code">Voer PIN code in</string>
@@ -88,17 +89,17 @@ Probeer het opnieuw over %d seconden.</string>
   <string name="open_camera_hint_text">Veeg naar links om %s te openen</string>
   <string name="open_remote_center_hint_text">Veeg naar rechts om %s te openen</string>
   <string name="phone_locked_foget_password">Wachtwoord vergeten?</string>
-  <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
-
-You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
-  <string name="phone_locked_foget_password_footer">"Steps:
-Sign in to i.mi.com, go to “Find device”, select the device and press Wipe device."</string>
-  <string name="phone_locked_foget_password_header">Wat moet ik doen als ik mijn wachtwoord ben vergeten?</string>
+  <string name="phone_locked_foget_password_mehod_back">Terug</string>
+  <string name="phone_locked_foget_password_method">Wachtwoord vergeten?</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_next">Volgende</string>
   <string name="phone_locked_foget_password_ok">Begrepen</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Schakel uw apparaat uit, houd de &amp;lt;font color=#a5220e&amp;gt;aan- uitknop &amp;lt;/font&amp;gt; en de &amp;lt;font color=#a5220e&amp;gt;volume omhoogknop &amp;lt;/font&amp;gt;tegelijkertijd ingedrukt totdat je ml ziet.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecteer &amp;lt;font color=#a5220e&amp;gt;\"Wissen &amp;amp;amp; Resetten\"&amp;lt;/font&amp;gt; en wacht tot het apparaat opnieuw opstart.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Hoe moet ik gegevens verwijderen?</string>
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
   <string name="phone_locked_timeout_minutes_string">Probeer opnieuw over %s minuten</string>
   <string name="phone_locked_timeout_seconds_string">Probeer opnieuw over %s seconden</string>
-  <string name="symbol_colon">:</string>
   <string name="unlock_string">Ontgrendelen</string>
   <string name="unlocking_sim_card">SIM kaart ontgrendelen</string>
   <string name="unlockscreen_low_battery">Sluit oplader nu aan</string>

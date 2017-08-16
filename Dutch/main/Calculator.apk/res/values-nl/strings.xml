@@ -28,8 +28,6 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosinus</string>
   <string name="currency_update_time_format">Wisselkoersen worden geleverd door Webull (%s)</string>
-  <string name="current_rate_remind_commercial"/>
-  <string name="current_rate_remind_fund"/>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">dag</string>
   <string name="deleteDesc">wissen</string>
@@ -38,6 +36,7 @@
   <string name="devided_by_zero_reminder_message">Kan niet delen door nul</string>
   <string name="divDesc">delen</string>
   <string name="dotDesc">punt</string>
+  <string name="e">e</string>
   <string name="eDesc">constante van Neper</string>
   <string name="equalDesc">is gelijk aan</string>
   <string name="error">Fout</string>
@@ -45,9 +44,8 @@
   <string name="factorialDesc">faculteit</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometer per uur</string>
-  <string name="from_unit_short">km/h</string>
-  <string name="golbal_search_calculator_setting">Calculator;Calculator settings;Settings</string>
-  <string name="golbal_search_path_calculator_setting">System apps/Calculator/Settings</string>
+  <string name="golbal_search_calculator_setting">Calculator;Calculatorinstellingen;Instellingen</string>
+  <string name="golbal_search_path_calculator_setting">Systeemapps/Calculator/Instellingen</string>
   <string name="home_title_calculator">Calculator</string>
   <string name="item_title_aa_payment">De rekening delen</string>
   <string name="item_title_area_conversion">Gebied</string>
@@ -65,7 +63,9 @@
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Massa</string>
   <string name="leftParenDesc">linkerhaakje</string>
+  <string name="lg">lg</string>
   <string name="lgDesc">logaritme</string>
+  <string name="ln">ln</string>
   <string name="lnDesc">natuurlijk logaritme</string>
   <string name="loan_edittext_hint_commercial">Bedrag invoeren</string>
   <string name="loan_edittext_hint_commercial_combined">Commercieel</string>
@@ -75,8 +75,6 @@
   <string name="loan_interest_rate">Rente</string>
   <string name="loan_pay_years">Loonperiode</string>
   <string name="loan_payback_way">Terugbetaling</string>
-  <string name="loan_unit">×10K</string>
-  <string name="menuDesc">menu</string>
   <string name="mortgage_amount">Totaal</string>
   <string name="mortgage_average_repayment_first_month">Terugbetaling eerste maand</string>
   <string name="mortgage_average_repayment_monthly">Maandelijkse terugbetaling</string>
@@ -112,7 +110,7 @@
   <string name="network_confirm_content">"Valuta, belastingen en hypotheek berekenen heeft een werkende netwerkverbinding en toegang tot locatieservices nodig om normaal te werken."</string>
   <string name="network_confirm_title">Toestemmingen vereist</string>
   <string name="percentDesc">procent</string>
-  <string name="piDesc">pi</string>
+  <string name="plusDesc">plus</string>
   <string name="powerDesc">macht</string>
   <string name="preference_about_calculator">Over rekenmachine</string>
   <string name="preference_alert_follow_qq_group">Kopiëren en plakken in QQ om feedback te geven</string>
@@ -171,11 +169,6 @@
   <string name="tax_unemployment">Werkloosheid</string>
   <string name="tax_update_time_format">Gegevens verkregen van HeXun (%s)</string>
   <string name="title_bar">Lengte omrekenen</string>
-  <string name="to_num">62.7</string>
-  <string name="unit_data_default_length_0">m</string>
-  <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_weight_0">kg</string>
-  <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>
   <string name="unit_data_display_area_are">Are</string>
   <string name="unit_data_display_area_ha">Hectare</string>
@@ -283,7 +276,6 @@
   <string name="unit_data_display_weight_us.cwt">US hundredweight</string>
   <string name="unit_year">J</string>
   <string name="unit_year_format">Jaar %s</string>
-  <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Financiële karakters</string>
   <string name="xiaomi_connect_download_manager_fail">Verbinden met Download Manager is mislukt, controleer dan de Download Manager staat in de toepassingsbeheer.</string>
   <string name="xiaomi_external_storage_unavailable">Opslag niet beschikbaar controleer de SD kaart.</string>

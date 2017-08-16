@@ -109,9 +109,6 @@
   <string name="cancel_running_download">Annuleren</string>
   <string name="change_download_quality">Downloadkwaliteit wijzigen</string>
   <string name="channel_list_fragment_title">Radio</string>
-  <string name="chinese_female">Zangeressen (China)</string>
-  <string name="chinese_group">Groepen (China)</string>
-  <string name="chinese_male">Zangers (China)</string>
   <string name="choose_download_quality">Kies downloadkwaliteit</string>
   <string name="choose_stream_quality">Kies streamkwaliteit</string>
   <string name="click_modify">Tik om de songteksten bij te werken.</string>
@@ -124,8 +121,6 @@
   <string name="cloud_loading_message">Zoeken naar nummers…</string>
   <string name="cloud_music">Nummers op Mi Cloud</string>
   <string name="cloud_settings">Sync. instellingen</string>
-  <string name="cloud_space_full">Geen opslagruimte meer</string>
-  <string name="cloud_space_full_message">Niet genoeg ruimte in uw Mi Cloud om meer nummers toe te voegen. Om meer ruimte te krijgen, upgrade uw Mi Account.</string>
   <string name="cloud_state_cloud_space_full">Niet genoeg opslag op Mi Cloud, back-up gepauzeerd</string>
   <string name="cloud_state_low_power">Sluit oplader aan om back-up te hervatten</string>
   <string name="cloud_state_network_data">Kon geen Wi-Fi netwerken vinden, back-up gepauzeerd</string>
@@ -209,7 +204,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="disable_auto_payment_success_message">Automatische vernieuwing uitschakelen. Nadat uw huidig abonnement vervallen is, moet u je opnieuw abonneren om terug nummers te kunnen downloaden.</string>
   <string name="disallow_add_to_fm">Kon nummers toevoegen aan FM radio</string>
   <string name="disallow_add_to_personal_radio">Kon nummers toevoegen aan privé radio</string>
-  <string name="do_not_remind_again">Niet meer tonen</string>
   <string name="doc_filter">Docs</string>
   <string name="done">Klaar</string>
   <string name="download">Download</string>
@@ -306,9 +300,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="enable_auto_payment_success">Automatisch vernieuwen</string>
   <string name="enable_auto_payment_success_message">Automatische vernieuwing ingeschakeld. Volgende betaling is op %s.</string>
   <string name="enabled">Aan</string>
-  <string name="english_female">Zangeressen (US/Europa)</string>
-  <string name="english_group">Groepen (US/Europa)</string>
-  <string name="english_male">Zangers (US/Europa)</string>
   <string name="enter_garbage_clean">Interne opslag opruimen.</string>
   <string name="eq_auto">Handmatig</string>
   <string name="eq_blues">Blues</string>
@@ -345,7 +336,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="favorites">Favorieten</string>
   <string name="favourite_music_left_half">Om nummers aan de afspeellijst toe te voegen, tik op</string>
   <string name="favourite_music_right_half">Favorieten icoon rechts van de titel</string>
-  <string name="female_artist">Vrouwelijke artiesten</string>
   <string name="file_not_found">"Bestand bestaat niet"</string>
   <string name="filter_by_duration">Op lengte</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -392,7 +382,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="global_search_title_movie">Filmmuziek</string>
   <string name="global_search_title_prenatal">Prenatale muziek</string>
   <string name="global_search_title_radar">Muziekherkenning</string>
-  <string name="group_artist">Groepen</string>
   <string name="handle_later">Niet nu</string>
   <string name="higher_quality_music">Hoge kwaliteitsmuziek</string>
   <string name="higher_quality_music_summary">Stream en download muziek op hogere bitrates</string>
@@ -419,9 +408,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="is_scanning">Opslag controleren…</string>
   <string name="is_scanning_support_online">"Opslag controleren…
 (In de tussentijd kunt u online muziek streamen)"</string>
-  <string name="japan_korea_female">Zangeressen (Japan/Korea)</string>
-  <string name="japan_korea_group">Groepen (Japan/Korea)</string>
-  <string name="japan_korea_male">Zangers (Japan/Korea)</string>
   <string name="keep_queued_download">Behouden</string>
   <string name="ktv_playlist">KTV afspeellijst</string>
   <string name="latest_song">Afspeelgeschiedenis (%d)</string>
@@ -453,7 +439,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="lyric_is_empty">Geen songteksten beschikbaar.</string>
   <string name="lyric_open_other_connect">Download songteksten met mobiele netwerk</string>
   <string name="lyric_setting">Instellingen songteksten</string>
-  <string name="male_artist">Mannelijke artiesten</string>
   <string name="manager_cloud_space">Mi Cloud opslag beheren</string>
   <string name="max_sleep_time">%d</string>
   <string name="media_filter">Media</string>
@@ -561,7 +546,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="no_song_downloaded">Verbinding met de server mislukt</string>
   <string name="normal_quality">Goed</string>
   <string name="not_login">Niet aangemeld</string>
-  <string name="not_now">Nu niet</string>
   <string name="not_selected">Kies een nummer</string>
   <string name="notif_text_engine_off">Xunlei versneller is uitgeschakeld.</string>
   <string name="notif_text_engine_on">Bezig met versnellen…</string>
@@ -882,7 +866,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="upgrade">Upgraden:</string>
   <string name="upgrade_force">We zullen onze huidige streamingservice stopzetten vanwege auteursrechtelijke kwesties. Update naar de nieuwste versie van de Muziek app om naar hoge kwaliteitsmuziek te luisteren.</string>
   <string name="upgrade_immediate">Update nu</string>
-  <string name="upgrade_membership">Meer ruimte verkrijgen</string>
   <string name="upgrade_music">Muziek updaten</string>
   <string name="upgrade_music_message">Updates zijn klaar. Herstart om te updaten.</string>
   <string name="upgrade_nobeta">We zullen onze huidige streamingservice stopzetten terwijl auteursrechtelijke kwesties worden opgelost. Excuses voor het ongemak</string>

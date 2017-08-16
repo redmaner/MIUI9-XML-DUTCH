@@ -3,6 +3,7 @@
   <string name="agree">Akkoord</string>
   <string name="agree_terms">Ik heb de algemene voorwaarden gelezen en ga akkoord</string>
   <string name="app_name">Provisie</string>
+  <string name="application_permissions">Application Permissions</string>
   <string name="back">Terug</string>
   <string name="cm_terms_content">Om de service voor u te verbeteren, kan uw mobiele provider persoonlijke gegevens en informatie over die apparaat uploaden naar haar servers. Deze informatie zal alleen worden gebruikt om de kwaliteit van de services te verbeteren en inhoud te tonen die voor u persoonlijk relevant is. Deze informatie zal niet worden gebruikt om u persoonlijk te identificeren en zal niet worden gedeeld met derden.</string>
   <string name="cm_terms_title">Overeenkomst mobiele netwerkprovider</string>
@@ -39,8 +40,6 @@
   <string name="other_settings_auto_update_summary">MIUI zal de tijd die u niet actief bent selecteren om te downloaden en de updates te installeren.</string>
   <string name="other_settings_location">Locatie</string>
   <string name="other_settings_location_summary">Apps toegang tot uw locatie geven.</string>
-  <string name="other_settings_mifg_online_content">Achtergrond carrousel</string>
-  <string name="other_settings_mifg_online_content_summary">Toestaan dat wallpapercarrousel verbinding maakt met internet om nieuwe afbeeldingen te downloaden.</string>
   <string name="other_settings_upload_debug_log_summary">De gegevens die wij verzamelen zullen worden gebruikt voor het vinden en analyseren van problemen in het systeem en zal nooit worden gebruikt om u persoonlijk te identificeren.</string>
   <string name="other_settings_upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="other_settings_user_experience">Gebruikerservaringsprogramma</string>
