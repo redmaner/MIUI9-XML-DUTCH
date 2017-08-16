@@ -515,6 +515,13 @@ in het geval je hem vergeten bent"</string>
   <string name="cpu_usage_process_run_time_little_time">Minder dan 1 minuut</string>
   <string name="cpu_usage_view_action_btn_text">Tik om te bekijken</string>
   <string name="create_shortcut">Maak een snelkoppeling voor het startscherm voor Game Speed Booster</string>
+  <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+  <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT DEFAULT NULL, state TEXT DEFAULT NULL );</string>
+  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+  <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
+  <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
+  <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
   <string name="cta_dialog_msg">Beveiligingcenter kan verbinding met internet nodig hebben om te updaten.</string>
   <string name="cta_dialog_title">Internetverbinding</string>
   <string name="cta_settings">Internetverbinding toestaan</string>
@@ -618,6 +625,7 @@ in het geval je hem vergeten bent"</string>
   <string name="downloading">Downloaden</string>
   <string name="dual_setting_simcard1">SIM kaart 1</string>
   <string name="dual_setting_simcard2">SIM kaart 2</string>
+  <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
   <string name="email">Email</string>
   <string name="empty_activity_title">" "</string>
   <string name="empty_app">Geen apps</string>
@@ -713,6 +721,7 @@ in het geval je hem vergeten bent"</string>
   <string name="give_lucky_money">红包大派送</string>
   <string name="go_to">Doorgaan</string>
   <string name="go_to_setting_fingerprint">Instellingen</string>
+  <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="gs_anto_clean_memory_whitelist">Uitzonderingen</string>
   <string name="gs_app_back_self_start">Batterij besparder</string>
@@ -1098,8 +1107,6 @@ om te reageren"</string>
   <string name="notification_mask_title">Inhoud verbergen</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
-  <string name="notification_sysapp_cracked_text">De huidige versie van MIUI is aangepast</string>
-  <string name="notification_sysapp_cracked_title">Veiligheidsrisico gedetecteerd</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
   <string name="notify_daily_limit_title">Vandaag %s verbruikt</string>
@@ -1600,6 +1607,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sp_empty_title_sign_exception">De app ingedrukt houden om aan uitzonderingen toe te voegen</string>
   <string name="sp_monitored_apps_count_zero">Geen enkele betalingsapp is beveiligd</string>
   <string name="sp_monitored_apps_list_title">Monitorinstellingen</string>
+  <string name="sp_network_privacy_dialog_message">"Security app can't work properly because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
+  <string name="sp_network_privacy_dialog_title">"Can't use security scan"</string>
   <string name="sp_scan_item_monitor">Betalingen controleren</string>
   <string name="sp_scan_item_url_antispam">Bescherming tegen kwaadaardige URLs</string>
   <string name="sp_settings_check_item_summary_sign_exception">Beheer getekende uitzonderingen</string>
@@ -1617,6 +1626,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sp_toast_removed_from_sign_white_list">Verwijderen uit uitzonderingen. Item zal de volgende keer gescand worden.</string>
   <string name="special_number_group">Gerapporteerde nummers blokkeren</string>
   <string name="sponsored_sec_fb">Gesponsord</string>
+  <string name="ss_activity_main_support_text">Powered by %s</string>
   <string name="st_antispam_black_adress_add">Locaties toevoegen</string>
   <string name="st_antispam_bw_adress_add">Locaties toevoegen</string>
   <string name="st_antispam_bw_choose_modes">Toevoegen aan lijst</string>
@@ -1631,15 +1641,20 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_antispam_des_uesless">Uit</string>
   <string name="st_antispam_mode_add_new">Regels toevoegen</string>
   <string name="st_antispam_mode_blacklist">Geblokkeerde nummers</string>
+  <string name="st_antispam_mode_blacklist_state">11112121</string>
   <string name="st_antispam_mode_blacklist_sum">Oproepen en SMS die je handmatig hebt toegevoegd aan de zwarte lijst blokkeren</string>
   <string name="st_antispam_mode_denyownself_sum">Aangepaste regels</string>
   <string name="st_antispam_mode_only_all_deny">Alles blokkeren</string>
+  <string name="st_antispam_mode_only_all_deny_state">10000000</string>
   <string name="st_antispam_mode_only_all_deny_sum">Alle oproepen en berichten blokkeren</string>
   <string name="st_antispam_mode_only_contacts">Alleen contacten toestaan</string>
+  <string name="st_antispam_mode_only_contacts_state">11110000</string>
   <string name="st_antispam_mode_only_contacts_sum">Alleen oproepen en berichten van contacten toestaan</string>
   <string name="st_antispam_mode_only_whitelist">Alleen uitzonderingen toestaan</string>
+  <string name="st_antispam_mode_only_whitelist_state">11000000</string>
   <string name="st_antispam_mode_only_whitelist_sum">Alleen oproepen en berichten van de uitzonderingenlijst toestaan</string>
   <string name="st_antispam_mode_smart">Gerapporteerde nummers</string>
+  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="st_antispam_mode_smart_sum">Nummers die je handmatig hebt toegevoegd en nummers die zijn gerapporteerd door andere gebruikers blokkeren</string>
   <string name="st_antispam_title_anoy_incoming">Oproepen van vreemden</string>
   <string name="st_antispam_title_anoy_sms">Berichten van vreemden</string>
@@ -1726,6 +1741,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="start_downloading_app">Download starten: %1$s</string>
   <string name="start_game">Start</string>
   <string name="start_tc_button">Calibreren</string>
+  <string name="still_retain_btn">Keep</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="suggest_scan_again">Het wordt voorgesteld om volledig scan te doen om de veiligheid te waarborgen.</string>
   <string name="summary_app_lock_disable">Bescherm uw data met appvergrendeling</string>
@@ -1766,14 +1782,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB voor mobiele data roaming</string>
   <string name="support_game_booster_tips">Boost speed &amp; verbeter de gaming ervaring</string>
   <string name="sys_app_prot_cracked_confirm">Begrepen</string>
-  <string name="sys_app_prot_cracked_login">Aanmelden met uw Mi Account</string>
-  <string name="sys_app_prot_cracked_text_login">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt.
-
-Zorg ervoor dat je weet waar dit apparaat vandaan komt en neem contact op met een geautoriseerd Xiaomi service center in uw buurt om hulp te krijgen."</string>
-  <string name="sys_app_prot_cracked_text_unlogin">"De huidige versie van MIUI is aangepast die de veiligheid van het apparaat in gevaar brengt. Aanmelden met uw MI Account om deze waarschuwing uit te scahkelen.
-
-Als u MIUI niet hebt gewijzigd, zorg ervoor dat je weet waar dit apparaat vandaan komt en neem contact op met een erkende Xiaomi service center in uw omgeving."</string>
-  <string name="sys_app_prot_cracked_title">Veiligheidsrisico</string>
   <string name="sys_cpu_title">CPU gebruik</string>
   <string name="sys_freememory_title">Beschikbaar</string>
   <string name="sys_title_gamebooster_unit_gb">G</string>
@@ -2011,6 +2019,10 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="uninstall_app_dialog_msg">Verwijderen zal alle appdata verwijderen.</string>
   <string name="uninstall_app_dialog_title">Nu verwijderen?</string>
   <string name="uninstall_app_done">Met succes verwijderd</string>
+  <string name="uninstall_danagerous_btn">Uninstall</string>
+  <string name="uninstall_danagerous_desc">\"%s\" may damage your device</string>
+  <string name="uninstall_danagerous_msg">\"%s\" may damage your device, lower its performance, or cause reboots.</string>
+  <string name="uninstall_danagerous_title">Uninstall malicious app</string>
   <string name="unlike">Nee bedankt</string>
   <string name="unlock_pattern">&lt;u&gt;Pattern&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Enter password to activate fingerprint</string>

@@ -251,6 +251,7 @@
   <string name="dlg_error_title">USB operatie gefaald</string>
   <string name="dlg_ok">OK</string>
   <string name="dock_forced_resizable">App may not work with split-screen.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">KeyGuard not support multi window, exit multi window mode.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen.</string>
   <string name="drive_mode_tip">U bent in de auto modus</string>
   <string name="enable_adb">USB debugging</string>
@@ -281,6 +282,7 @@
   <string name="ext_media_safe_unmount_notification_title">USB opslag veilig te verwijderen</string>
   <string name="ext_media_unmountable_notification_message">USB opslag is beschadigd. Misschien moet u formatteren.</string>
   <string name="ext_media_unmountable_notification_title">Beschadigde USB opslag</string>
+  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">Negeren</string>
   <string name="float_incall_message">Bericht</string>
   <string name="force_allow_on_external">Force allow apps on external</string>

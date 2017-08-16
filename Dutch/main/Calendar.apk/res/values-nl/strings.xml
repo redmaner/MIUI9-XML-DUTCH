@@ -47,8 +47,6 @@
   <string name="birthday_event_description_a_week_later">Een week tot</string>
   <string name="birthday_event_description_day_after_tomorrow">Overmorgen is</string>
   <string name="birthday_event_description_day_before_yesterday">Eergisteren was</string>
-  <string name="birthday_event_description_days_ago">%1$d dagen sinds</string>
-  <string name="birthday_event_description_days_later">%1$d dagen tot</string>
   <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Vandaag is</string>
@@ -151,7 +149,6 @@
   <string name="downloading_wallpaper">Achtergrond downloaden</string>
   <string name="edit_date_calculate_days_backward_error_hint">Kan niet vooruit rekenen</string>
   <string name="edit_date_calculate_days_empty_hint">Het aantal dagen invoeren</string>
-  <string name="edit_date_calculate_days_error_hint">Dagen invoeren binnen een marge van%1$d</string>
   <string name="edit_date_calculate_days_forward_error_hint">Kan niet achteruit rekenen</string>
   <string name="edit_event_all_day_label">De hele dag</string>
   <string name="edit_event_anniversary_name_empty_hint">Voer beschrijving in</string>
@@ -186,6 +183,7 @@
   <string name="email_picker_label">E-mail met</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Lege afspraak niet gemaakt</string>
+  <string name="english_premium_league">English Premium League</string>
   <string name="event_account">Account</string>
   <string name="event_action_delete">Verwijderen</string>
   <string name="event_action_edit">Bewerken</string>
@@ -234,6 +232,8 @@
   <string name="gas_bill_event_title">Gas rekening:</string>
   <string name="global_action_text_card_manager">Meer categorieën</string>
   <string name="global_cricket_no_match">Er is geen cricketcompetitie vandaag en u kan de hoogtepunten van de vorige competities beoordelen of een andere wedstrijd proberen. Prachtig evenement, het wachten waard!</string>
+  <string name="global_football_final">FINAL</string>
+  <string name="global_football_no_match">No football matches are scheduled for today.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_hint_text">Verjaardagen importeren uit contacten</string>
   <string name="hint_attendees">Gasten</string>

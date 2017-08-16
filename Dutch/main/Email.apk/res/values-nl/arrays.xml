@@ -54,14 +54,6 @@
         <item>Ouder bericht</item>
         <item>Postvak In</item>
     </string-array>
-    <integer-array name="senders_lengths">
-        <item>27</item>
-        <item>27</item>
-    </integer-array>
-    <integer-array name="senders_with_attachment_lengths">
-        <item>25</item>
-        <item>25</item>
-    </integer-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>

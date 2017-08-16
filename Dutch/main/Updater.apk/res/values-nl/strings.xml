@@ -32,6 +32,7 @@ Updates zijn niet beschikbaar voor jou!"</string>
   <string name="notif_install">Installeren</string>
   <string name="notif_new_summary">Tik om details te bekijken</string>
   <string name="notif_new_title">Nieuwe versie beschikbaar!</string>
+  <string name="notifications_switch">Show notifications</string>
   <string name="permdesc_cache_filesystem">Staat app toe om bestanden te schrijven naar /cache.</string>
   <string name="permdesc_reboot">Staat app toe om het apparaat opnieuw op te starten.</string>
   <string name="permlab_cache_filesystem">Cache Access</string>
