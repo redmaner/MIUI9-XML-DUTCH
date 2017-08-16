@@ -1106,7 +1106,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="solar_calendar">Kalender</string>
   <string name="splitConfirmation">Dit contact wordt gesplitst in meerdere contacten.</string>
   <string name="splitConfirmation_title">Contact opsplitsen?</string>
-  <string name="starredList">Met ster</string>
+  <string name="starredList">Favoriet</string>
   <string name="starred_contacts">Favorieten</string>
   <string name="status_available">Beschikbaar</string>
   <string name="status_away">Niet beschikbaar</string>
@@ -1114,10 +1114,10 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="strequentList">Favorieten</string>
   <string name="success_message_import_from_account">Contact geimporteerd</string>
   <string name="summary_kind_title">Samenvatting</string>
-  <string name="t9_search_empty_create_contact">New contact</string>
-  <string name="t9_search_empty_edit_contact">Add to contact</string>
-  <string name="t9_search_empty_send_sms">Send message</string>
-  <string name="t9_search_empty_video_call">Video call</string>
+  <string name="t9_search_empty_create_contact">Nieuw contact</string>
+  <string name="t9_search_empty_edit_contact">Toevoegen aan contact</string>
+  <string name="t9_search_empty_send_sms">Bericht verzenden</string>
+  <string name="t9_search_empty_video_call">Video-oproep</string>
   <string name="t9_search_guide_pinyin_title1">Nummers invoeren om contacten te vinden</string>
   <string name="t9_search_guide_pinyin_title2">Voer 9 en 4 in om te zoeken naar Xavier Henry</string>
   <string name="t9_search_guide_zhuyin_title1">Nummers invoeren om contacten te vinden</string>
