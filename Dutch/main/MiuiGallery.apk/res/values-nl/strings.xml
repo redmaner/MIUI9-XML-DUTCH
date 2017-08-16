@@ -181,7 +181,6 @@
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Camera-album moet worden geback-upt</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Overschakelen naar standaard achtergrond vergrendelscherm?</string>
   <string name="cancel_hint">Handeling geannuleerd</string>
@@ -1016,7 +1015,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="people_mark_mode_title_no_mark_name">Select a person</string>
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
-  <string name="percent_sign">%</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">Foto\'s</string>
@@ -1154,8 +1152,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_title_recommend">Aanbevolen</string>
   <string name="search_title_suggestion">Suggestions</string>
   <string name="search_title_tag">Objecten</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">De beste plek voor al je kleine geheimen</string>
   <string name="secret_album_card_title">Probeer verborgen album</string>
   <string name="secret_album_display_name">Verborgen album</string>
