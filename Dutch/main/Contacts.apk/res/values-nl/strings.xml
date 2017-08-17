@@ -72,14 +72,11 @@
   <string name="call_home">Privé bellen</string>
   <string name="call_isdn">ISDN bellen</string>
   <string name="call_left">Telefoon saldo</string>
-  <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Nieuw</string>
   <string name="call_log_old_header">Ouder</string>
   <string name="call_main">Hoofdnummer bellen</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
-  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
