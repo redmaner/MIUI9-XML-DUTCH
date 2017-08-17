@@ -87,7 +87,6 @@
   <string name="aqi_quality_index_moderate">Matig</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Ongezond</string>
-  <string name="at_miui_browser">\@小米浏览器</string>
   <string name="autoSwithcingSearchEngineTips">Gewisseld naar de zoekmachine die u het meest gebruikt</string>
   <string name="autofill_keyboard_accessory_content_description">Tips beschikbaar</string>
   <string name="autofill_popup_content_description">Autoaanvullen popup weergeven</string>
@@ -487,11 +486,11 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Controleer de %s1proxyinstellingen%s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Cache wissen (%s1Instellingen%s2 - Gegevens wissen).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache en cookies wissen (%s1Instellingen%s2 - Gegevens wissen, accountgegevens kunnen verloren gaan).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Clear cache and cookies (your account info may be lost).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Clear cache.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Cache en cookies wissen (accountgegevens kunnen verloren gaan).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Cache wissen.</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">Verbind opnieuw nadat er verbinding is gemaakt</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Neem contact op met uw systeembeheerder.</string>
-  <string name="miuichromium_error_page_suggestion_correct_url">"Check the address you've entered and try again using the correct URL."</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">Controleer het adres dat u heeft ingevoerd en zorg ervoor dat de URL juist is.</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Verbind opnieuw nadat je de browser toegang hebt gegeven om te verbinden met internet.</string>
   <string name="miuichromium_error_page_suggestion_title">. Probeer het volgende:</string>
   <string name="miuichromium_error_page_title">Er is een fout opgetreden</string>
@@ -768,7 +767,6 @@ Deze pagina verlaten?"</string>
   <string name="send_comment_title">Opmerking</string>
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
-  <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Kijk wat ik heb gevonden!</string>
   <string name="share_page_text">Kijk wat ik heb gevonden: %1$s | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Browser moet verbinding met internet hebben om normaal te werken. Om de veiligheid te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
@@ -786,7 +784,7 @@ Deze pagina verlaten?"</string>
   <string name="ssl_certificate">Veiligheidscertificaat</string>
   <string name="ssl_certificate_is_valid">Dit certificaat is geldig</string>
   <string name="ssl_continue">Doorgaan</string>
-  <string name="ssl_date_error_warnings_header">"The certificate of this site has expired or isn't valid yet. You are advised to leave this page."</string>
+  <string name="ssl_date_error_warnings_header">Het certificaat van deze site is verlopen of is nog niet geldig. U wordt geadviseerd deze pagina te verlaten.</string>
   <string name="ssl_date_invalid">Dit certificaat heeft een ongeldige datum</string>
   <string name="ssl_expired">Dit certificaat is verlopen</string>
   <string name="ssl_go_back">Ga terug</string>
@@ -821,15 +819,8 @@ Deze pagina verlaten?"</string>
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
-  <string name="tae_sdk_login_qr_icon_close"></string>
-  <string name="tae_sdk_login_qr_icon_taobao"></string>
-  <string name="tae_sdk_qr_login_icon_password"></string>
-  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">AM</string>
-  <string name="time_picker_dialog_hour_minute_separator">:</string>
-  <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_pm">PM</string>
-  <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="time_picker_dialog_title">Tijd instellen</string>
   <string name="title_bar_loading">Laden…</string>
   <string name="too_many_windows_dialog_message">Kan geen nieuw tabblad openen totdat u er een sluit.</string>
@@ -923,7 +914,7 @@ Deze pagina verlaten?"</string>
   <string name="view_document_downloaded_files">Gedownloade bestanden bekijken in downloads</string>
   <string name="voice_check_network">Controleer de netwerkinstellingen en probeer opnieuw.</string>
   <string name="voice_connect_network">Kon niet verbinden met het netwerk.</string>
-  <string name="voice_description">Voice search</string>
+  <string name="voice_description">Spraakgestuurd zoeken</string>
   <string name="voice_network_connection">Spraakgestuurd zoeken heeft internet nodig om normaal te werken.</string>
   <string name="voice_search_permission">Spraakgestuurd zoeken heeft toegang tot je microfoon nodig om normaal te werken.</string>
   <string name="voice_semantic_analysis">Browser zal in staat zijn om te analyseren nadat je toestaat om te verbinden.</string>
