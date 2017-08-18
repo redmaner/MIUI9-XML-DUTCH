@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Ga omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer</string>
   <string name="abc_action_mode_done">Klaar</string>
-  <string name="abc_action_mode_select_all">Alle selecteren</string>
+  <string name="abc_action_mode_select_all">Alles selecteren</string>
   <string name="accept_cookies_confirm_message">Deze functie uitschakelen kan ertoe leiden dat sommige websites zich misdragen.</string>
   <string name="accessibility_button_clear">Invoer verwijderen</string>
   <string name="accessibility_date_picker_month">Maand</string>
@@ -667,7 +667,7 @@ Deze pagina verlaten?"</string>
   <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen</string>
   <string name="pull_to_refresh_release_label">Loslaten om naar de aanbevolen te gaan en te vernieuwen</string>
   <string name="qr_code_title">QR Code</string>
-  <string name="qr_description">Scan QR code</string>
+  <string name="qr_description">QR code scannen</string>
   <string name="quicklink_bookmark_save">Opslaan naar</string>
   <string name="quicklink_cannot_save_url">Deze URL kan niet toegevoegd worden</string>
   <string name="quicklink_folder_text">Topapps</string>
@@ -767,8 +767,8 @@ Deze pagina verlaten?"</string>
   <string name="send_comment_title">Opmerking</string>
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
-  <string name="share_image_text">Kijk wat ik heb gevonden!</string>
-  <string name="share_page_text">Kijk wat ik heb gevonden: %1$s | %2$s</string>
+  <string name="share_image_text">Kijk wat ik heb gedeeld! @MIUI</string>
+  <string name="share_page_text">Kijk wat ik heb gedeeld: %1$s @MIUI| %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Browser moet verbinding met internet hebben om normaal te werken. Om de veiligheid te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Browser moet verbinding met internet om normaal te werken. Om relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
   <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>
@@ -776,9 +776,9 @@ Deze pagina verlaten?"</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
-  <string name="snapshot">Local</string>
+  <string name="snapshot">Lokaal</string>
   <string name="snapshot_failed">Kon pagina niet opslaan</string>
-  <string name="snapshot_successed">Pagina opgeslagen</string>
+  <string name="snapshot_successed">Open bladwijzers/geschiedenis-&gt;LOKAAL om pagina te bekijken</string>
   <string name="ssl_bad_clock_date_settings">Datum instellen</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Een priveverbinding met %s1 kan niet worden opgezet omdat de datum en tijd van uw apparaat (%s2) verkeerd zijn ingesteld."</string>
   <string name="ssl_certificate">Veiligheidscertificaat</string>

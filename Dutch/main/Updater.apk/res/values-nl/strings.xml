@@ -6,7 +6,7 @@
   <string name="btn_changelog">Changelog</string>
   <string name="btn_download">Downloaden</string>
   <string name="btn_install">Installeren</string>
-  <string name="btn_no">Cancel</string>
+  <string name="btn_no">Annuleren</string>
   <string name="btn_ok">OK</string>
   <string name="btn_share">Delen</string>
   <string name="btn_yes">Ja</string>
@@ -23,7 +23,7 @@ Gegevens zullen niet worden gewist."</string>
   <string name="menu_title_pick_rom_file">Updatepakket selecteren</string>
   <string name="menu_title_recovery">Herstarten in recoverymodus</string>
   <string name="new_version">Nieuwe versie gevonden!</string>
-  <string name="no_info">No info available.</string>
+  <string name="no_info">Geen informatie beschikbaar.</string>
   <string name="no_network">Geen netwerktoegang.</string>
   <string name="no_update">Je hebt alle updates al geinstalleerd!</string>
   <string name="no_xioamieu">"Je gebruikt niet de ROM van xiaomi.eu!
@@ -32,14 +32,14 @@ Updates zijn niet beschikbaar voor jou!"</string>
   <string name="notif_install">Installeren</string>
   <string name="notif_new_summary">Tik om details te bekijken</string>
   <string name="notif_new_title">Nieuwe versie beschikbaar!</string>
-  <string name="notifications_switch">Show notifications</string>
+  <string name="notifications_switch">Meldingen weergeven</string>
   <string name="permdesc_cache_filesystem">Staat app toe om bestanden te schrijven naar /cache.</string>
   <string name="permdesc_reboot">Staat app toe om het apparaat opnieuw op te starten.</string>
-  <string name="permlab_cache_filesystem">Cache Access</string>
-  <string name="permlab_reboot">Reboot Access</string>
+  <string name="permlab_cache_filesystem">Cachetoegang</string>
+  <string name="permlab_reboot">Toegang om opnieuw op te starten</string>
   <string name="pick_not_found">Er is geen geschikte file explorer gevonden.</string>
-  <string name="pick_title">Kies met:</string>
-  <string name="recovery_desc">Device will reboot to Recover mode now if you are not familiar with the mode cancel future actions. Continue?</string>
+  <string name="pick_title">Kiezen met:</string>
+  <string name="recovery_desc">Apaaraat zal opnieuw opstarten in recoverymodus. Doorgaan?</string>
   <string name="server_error">Server reageert niet, applicatie kan misschien niet goed werken!</string>
   <string name="share_title">Delen met</string>
   <string name="stable">stable</string>
