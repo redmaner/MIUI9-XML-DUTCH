@@ -26,9 +26,6 @@
   <string name="details">Details</string>
   <string name="dialog_content_storage_full">Door te weinig ruimte was de opname gedwongen om te stoppen. Verwijder onnodige bestanden met bestandsbeheer, wilt u het nu openen?</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
-  <string name="duration_format_hour">%sh</string>
-  <string name="duration_format_minute">%sm</string>
-  <string name="duration_format_second">%ss</string>
   <string name="empty_recognition_tip">Leeg</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
@@ -37,7 +34,7 @@
   <string name="error_filename_too_long">Bestandsnaam is te lang</string>
   <string name="error_sdcard_access">Kan geen toegang krijgen tot de USB opslag</string>
   <string name="error_sdcard_unmounted">SD kaart losgekoppeld, steek de SD-kaart in</string>
-  <string name="export_to_note">Exporteren als notitie</string>
+  <string name="export_to_note">Exporteren</string>
   <string name="head_set_tip_dialog_msg">Koppel koptelefoon los om geluid op te nemen met bepaalde presets (bijv. muziek, spraak).</string>
   <string name="head_set_tip_dialog_ok">Begrepen</string>
   <string name="head_set_tip_dialog_title">Interne microfoon gebruiken</string>
