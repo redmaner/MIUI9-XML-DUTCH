@@ -643,6 +643,10 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
+	<string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimaal</item>
+    </string-array>
     <string-array name="screen_key_position_action">
         <item>Menuknop links, terugknop rechts</item>
         <item>Terugknop links, menuknop rechts</item>
