@@ -47,6 +47,8 @@
   <string name="game_setting">Game-instellingen</string>
   <string name="gamebooster_network_dialog_message">Beveiliging toestaan om verbinding te maken met het netwerk om alle functies te gebruiken?</string>
   <string name="gamebooster_network_dialog_title">Sommige functies zijn niet beschikbaar</string>
+  <string name="gb_alipays_can_not_complete">Kan betaling niet afronden. Installeer om verder te gaan.</string>
+  <string name="gb_weixinpay_can_not_complete">Kan betaling niet afronden. Installeer om verder te gaan.</string>
   <string name="get_sys_info">Info verkrijgen…</string>
   <string name="gs_anto_clean_memory_whitelist">Uitzonderingen</string>
   <string name="gs_app_back_self_start">Batterijbespaarder</string>

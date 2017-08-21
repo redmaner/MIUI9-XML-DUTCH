@@ -1,7 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Incorrecte PUK code, %d pogingen resterend</item>
+        <item quantity="one">Incorrecte PUK code, %d poging resterend</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Incorrecte PIN code, %d pogingen resterend</item>
+        <item quantity="one">Incorrecte PIN code, %d poging resterend</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Probeer opnieuw over %d seconden</item>
+        <item quantity="one">Probeer opnieuw over %d seconde</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Probeer opnieuw over %d minuten</item>
+        <item quantity="one">Probeer opnieuw over %d minuut</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d nieuwe meldingen</item>
         <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+	<plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Volledig opgeladen over ongeveer %d minuten​</item>
+        <item quantity="one">Volledig opgeladen over ongeveer %d minuut​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Volledig opgeladen over ongeveer %d uur</item>
+        <item quantity="one">Volledig opgeladen over ongeveer %d uur</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Volledig opgeladen over ongeveer %1$d uur en %2$d minuten</item>
+        <item quantity="one">Volledig opgeladen over ongeveer %1$d uur en %2$d minuut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Ongeveer %d minuten resterend</item>
+        <item quantity="one">Ongeveer %d minuut resterend</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Ongeveer %d uur resterend</item>
+        <item quantity="one">Ongeveer %d uur resterend</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Ongeveer %1$d uur en %2$d minuten resterend</item>
+        <item quantity="one">Ongeveer %1$d uur en %2$d minuut resterend</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d uur en %2$d minuten</item>
+        <item quantity="one">%1$d uur en %2$d minuut</item>
     </plurals>
 </resources>

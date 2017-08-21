@@ -250,8 +250,9 @@ in het geval je hem vergeten bent"</string>
   <string name="apps_list_header_title_sms_access">Toegang tot verificatiecodes beperken</string>
   <string name="auto_atsk_condition_battery_level_text_down">Wanneer de batterij %s bereikt</string>
   <string name="auto_atsk_condition_battery_level_text_up">Wanneer de batterij opgeladen wordt tot %s</string>
+  <string name="auto_clean_close">Automatische opruimen is uitgeschakeld</string>
   <string name="auto_handle_title">ALGEMEEN</string>
-  <string name="auto_import_games">Plaats all uw games op één plaats</string>
+  <string name="auto_import_games">Plaats al uw games op één plaats</string>
   <string name="auto_task_condition_choose_battery_level_down">Wanneer de batterij een bepaald niveau bereikt</string>
   <string name="auto_task_condition_choose_end_time">Eindtijd</string>
   <string name="auto_task_condition_choose_ontime">Timer</string>
@@ -349,6 +350,7 @@ in het geval je hem vergeten bent"</string>
   <string name="battery_status_unknown">Onbekende fout</string>
   <string name="battery_temperature_title">Temperatuur</string>
   <string name="begin_date">Resetdatum</string>
+  <string name="best_booster_status">Gamesnelheid is de best beschikbare.</string>
   <string name="bind_xiaomi_account_cancel">Annuleren</string>
   <string name="bind_xiaomi_account_confirm">Toevoegen</string>
   <string name="bind_xiaomi_account_dialog_summery">"U staat op het punt om Mi Account %s toe te voegen. Als u uw wachtwoord vergeet, kan u dit account gebruiken om het te resetten. Het account zal automatisch verwijderd worden wanneer u afmeld."</string>
@@ -430,6 +432,7 @@ in het geval je hem vergeten bent"</string>
   <string name="card_main_deepclean_wechat_action">Wissen</string>
   <string name="card_main_deepclean_wechat_summary">WeChat cache wissen om ruimte vrij te maken</string>
   <string name="card_main_deepclean_wechat_title">WeChat cache</string>
+  <string name="card_main_gamebooster_title">Snelheid opvoeren om te gamen</string>
   <string name="card_main_hbassistant_summary">Gebruik dit gereedschap om de enveloppen sneller te grijpen</string>
   <string name="card_main_hbassistant_title">Rode envelop assistent</string>
   <string name="card_main_monthreport_action">Bekijken</string>
@@ -586,6 +589,7 @@ in het geval je hem vergeten bent"</string>
   <string name="dlg_white_antispam_message">Dit nummer toevoegen aan uitzonderingen?</string>
   <string name="dns_exception_summary">Controleer de router DNS instellingen.</string>
   <string name="dns_exception_title">Controleer de DNS instellingen</string>
+  <string name="do_clean">Opruimen…</string>
   <string name="domestic_roaming_setting">Nationale roaming</string>
   <string name="dont_bore">Laat knoppen en meldingen u niet afleiden</string>
   <string name="dont_bore_text">Stille meldingen en schakel knoppen uit om afleidingen te vermijden</string>
@@ -595,7 +599,6 @@ in het geval je hem vergeten bent"</string>
   <string name="dual_setting_simcard1">SIM kaart 1</string>
   <string name="dual_setting_simcard2">SIM kaart 2</string>
   <string name="email">Email</string>
-  <string name="empty_activity_title">" "</string>
   <string name="empty_app">Geen apps</string>
   <string name="empty_title_auto_start_list">Geen apps die autostarten</string>
   <string name="empty_title_garbage_virus_white_list">Houd de resultaten in de lijst om over te slaan tijdens de volgende scan</string>
@@ -651,6 +654,8 @@ in het geval je hem vergeten bent"</string>
   <string name="forget_password_button_text">Wachtwoord vergeten</string>
   <string name="forget_password_button_text_normal">Forgot password</string>
   <string name="forget_pattern">Patroon vergeten?</string>
+  <string name="free_send_net_booster">Gratis netwerk versnellen</string>
+  <string name="free_send_net_booster_tip">Geniet van vloeiende games door het versnellen van het netwerk.</string>
   <string name="free_time_traffic">Daluren datalimiet</string>
   <string name="free_time_traffic_hint">Voer daluren datalimiet in</string>
   <string name="free_time_traffic_settings">Daluren datalimiet instellingen</string>
@@ -752,6 +757,7 @@ in het geval je hem vergeten bent"</string>
   <string name="item_dev_mode">Ontwikkelaarsopties</string>
   <string name="item_install_monitor">Installeer monitor</string>
   <string name="item_mms">Filter ongewenste berichten</string>
+  <string name="item_system_auto_download">Updates automatisch downloaden</string>
   <string name="item_usb_debug">USB debugging</string>
   <string name="item_virus_lib">Virusdefinitie automatisch updaten</string>
   <string name="keywords_antispam">Zwarte lijst;Blokkeren;Zwarte lijst;Slimme blokkeerlijst;Fraude;Verkoop;Agenten</string>
@@ -912,7 +918,8 @@ om te reageren"</string>
   <string name="memory_clean_no_running_process">Geen taken om te wissen</string>
   <string name="memory_clean_running_process_title">A controlerenpps (%d)</string>
   <string name="memory_cleaned_memory_info">Beschikbaar geheugen</string>
-  <string name="memory_cleaned_memory_up">Speed boost</string>
+  <string name="memory_cleaned_memory_up">Snelheid opvoeren</string>
+  <string name="memory_clear_unused">Cache wissen (%s)</string>
   <string name="menu_add">Toevoegen</string>
   <string name="menu_bl_call_log">Geblokkeerde oproepen bekijken</string>
   <string name="menu_bl_remove">Deblokkeren</string>
@@ -949,14 +956,9 @@ om te reageren"</string>
   <string name="menu_text_license_manager">Toestemmingen</string>
   <string name="menu_text_networkassistants">Datagebruik</string>
   <string name="menu_text_networkassistants_danger">%s over</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s over</string>
-  <string name="menu_text_networkassistants_unit_b">B</string>
-  <string name="menu_text_networkassistants_unit_gb">GB</string>
-  <string name="menu_text_networkassistants_unit_kb">KB</string>
-  <string name="menu_text_networkassistants_unit_mb">MB</string>
+  <string name="menu_text_optimize_manage">Snelheid opvoeren</string>
   <string name="menu_text_power_manager">Batterijgebruik</string>
-  <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Batterij %s</string>
   <string name="menu_text_power_percent_title_default">Batterij</string>
   <string name="menu_wh_remove">Verwijderen van uitzonderingen</string>
