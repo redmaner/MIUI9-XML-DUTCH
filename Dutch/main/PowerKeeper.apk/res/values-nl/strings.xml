@@ -18,10 +18,10 @@
   <string name="app_list_title">Kies apps</string>
   <string name="app_name">Batterij besparen</string>
   <string name="background">App is actief op de achtergrond</string>
-  <string name="base_info">Base info</string>
+  <string name="base_info">Basis info</string>
   <string name="cloud_addr_info">HideMode cloud info</string>
-  <string name="cloud_china_addr">Update china server data</string>
-  <string name="cloud_international_addr">Update international server data</string>
+  <string name="cloud_china_addr">China server data updaten</string>
+  <string name="cloud_international_addr">International server data updaten</string>
   <string name="cloud_staging_addr">Update staging server data</string>
   <string name="config_description">MIUI kan apps met specifieke achtergrondprocessen (bijvoorbeeld berichten, navigatie-apps en mediaspelers) identificeren en batterijbesparing toepassen op een manier die geen invloed zal hebben op belangrijke achtergrondactiviteit.</string>
   <string name="config_mode_title">Kies configuratie</string>
