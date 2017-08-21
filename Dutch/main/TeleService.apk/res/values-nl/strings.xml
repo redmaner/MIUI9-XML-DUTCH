@@ -390,7 +390,7 @@
   <string name="card_title_unconditionalCF">Oproep onvoorwaardelijk doorschakelen is ingeschakeld</string>
   <string name="carrier_info">Providerinformatie</string>
   <string name="carrier_settings_title">Providerinstellingen</string>
-  <string name="category_personal">Persoonlijk</string>
+  <string name="category_personal">Privé</string>
   <string name="category_work">Werk</string>
   <string name="cb_sms_settings">Instellingen voor SMS info dienstberichten</string>
   <string name="cdma_activate_device">Apparaat activeren</string>

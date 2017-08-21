@@ -250,13 +250,13 @@
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
-  <string name="enable_freeform_support_summary">Enable support for experimental freeform windows.</string>
+  <string name="enable_freeform_support_summary">Ondersteuning voor experimentele freeform windows inschakelen.</string>
   <string name="enable_opengl_traces_title">OpenGL sporen inschakelen</string>
   <string name="enable_power_save_mode">Batterijbespaarder inschakelen</string>
-  <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
+  <string name="enable_terminal_summary">Terminal app die lokale shell toegang biedt inschakelen</string>
   <string name="enable_terminal_title">Lokale terminal</string>
   <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-  <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
+  <string name="enable_webview_multiprocess_desc">WebView renderers afzonderlijk uitvoeren</string>
   <string name="enabled_by_admin">Ingeschakeld door admin</string>
   <string name="expanded_confirm_disable_notification">Verbergen</string>
   <string name="expanded_notification_manager">Meldingen beheren</string>

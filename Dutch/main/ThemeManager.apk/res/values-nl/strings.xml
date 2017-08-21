@@ -26,7 +26,7 @@
   <string name="browser_local_resource">Lokale bronnen</string>
   <string name="can_not_apply">Kan niet toepassen</string>
   <string name="card_data_request_error">Er is een fout opgetreden, probeer later opnieuw</string>
-  <string name="card_loading">Laden...</string>
+  <string name="card_loading">Laden…</string>
   <string name="card_no_network">Geen netwerkverbinding, probeer later opnieuw.</string>
   <string name="card_retry">Opnieuw proberen</string>
   <string name="change_host_hint">Host veranderen</string>
