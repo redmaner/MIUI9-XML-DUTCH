@@ -75,6 +75,7 @@
   <string name="feedback_report_remind_login_desc2">"Je kan ook de voortgang van je rapport bekijken in \"Mijn rapporten\"."</string>
   <string name="feedback_retest_label">Stappen om te triggeren</string>
   <string name="feedback_select_images">Foto\'s toevoegen</string>
+  <string name="feedback_select_modem_log">Modem logs toevoegen</string>
   <string name="feedback_select_problem">Problemen</string>
   <string name="feedback_select_suggestion">Suggesties</string>
   <string name="feedback_select_upload_log">Logs toevoegen</string>
