@@ -55,6 +55,7 @@
   <string name="feedback_choose_module">Selecteer item</string>
   <string name="feedback_choose_module_hint">Is nodig</string>
   <string name="feedback_collect_log_failed">Kon logs niet verkrijgen</string>
+  <string name="feedback_contact_info_hint">Telefoonnummer/E-mail</string>
   <string name="feedback_continue">Doorgaan met feedback</string>
   <string name="feedback_description">Omschrijving</string>
   <string name="feedback_description_bugreport_hint">In sommige gevallen (…) misdraagt mijn telefoon zich (…).</string>

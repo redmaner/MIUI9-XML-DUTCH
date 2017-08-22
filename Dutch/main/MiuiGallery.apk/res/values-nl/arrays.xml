@@ -29,10 +29,6 @@
         <item>Vrienden</item>
         <item>Niet gegroepeerd</item>
     </string-array>
-    <integer-array name="backup_pause_hours">
-        <item>2</item>
-        <item>12</item>
-    </integer-array>
     <string-array name="collage_month">
         <item>Jan</item>
         <item>Feb</item>

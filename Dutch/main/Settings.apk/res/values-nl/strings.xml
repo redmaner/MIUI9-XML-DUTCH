@@ -2559,7 +2559,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="notification_listener_disable_warning_summary">Als u meldingstoegang voor %1$s uitschakelt, kan het zijn dat toegang tot niet storen ook wordt uitgeschakeld.</string>
   <string name="notification_listener_security_warning_summary">%1$s zal in staat zijn om alle meldingen, waaronder persoonlijke informatie zoals namen van contactpersonen en de tekst van de berichten die u ontvangt te lezen. Het zal ook in staat zijn om meldingen af te wijzen of om actieknoppen te gebruiken.</string>
   <string name="notification_listener_security_warning_title">Meldingtoegang toestaan voor %1$s?</string>
-  <string name="notification_log_details_actions">actie\'s</string>
+  <string name="notification_log_details_actions">acties</string>
   <string name="notification_log_details_ashmem">ashmem</string>
   <string name="notification_log_details_content_intent">bedoeling</string>
   <string name="notification_log_details_content_view">aangepaste weergave</string>
@@ -3022,16 +3022,14 @@ Selecteer het OS van uw computer:"</string>
   <string name="radio_info_data_connection_disable">Dataverbinding uitschakelen</string>
   <string name="radio_info_data_connection_enable">Dataverbinding inschakelen</string>
   <string name="radio_info_data_network_type_label">Type gegevensnetwerk:</string>
-  <string name="radio_info_dcrtinfo_label">Data verbinding Real-Time Info:</string>
-  <string name="radio_info_gprs_service_label">Data Service:</string>
-  <string name="radio_info_gsm_service_label">Voice Service:</string>
+  <string name="radio_info_dcrtinfo_label">Dataverbinding real-time info:</string>
+  <string name="radio_info_gprs_service_label">Dataservice:</string>
+  <string name="radio_info_gsm_service_label">Spraakservice:</string>
   <string name="radio_info_http_client_test">HTTP client testen:</string>
   <string name="radio_info_imei_label">IMEI nummer:</string>
   <string name="radio_info_message_waiting_label">Wachtend bericht:</string>
   <string name="radio_info_neighboring_location_label">Naburige CID:</string>
   <string name="radio_info_phone_number_label">Telefoonnummer:</string>
-  <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
-  <string name="radio_info_ping_hostname_v6">Ping Hostname(www.google.com) IPv6:</string>
   <string name="radio_info_ppp_received_label">PPP ontvangen:</string>
   <string name="radio_info_ppp_resets_label">Aantal PPP resets sinds opstarten:</string>
   <string name="radio_info_ppp_sent_label">PPP verzonden:</string>
@@ -3040,11 +3038,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="radio_info_set_perferred_label">Voorkeursnetwerktype instellen:</string>
   <string name="radio_info_signal_location_label">Locatie:</string>
   <string name="radio_info_signal_strength_label">Signaalsterkte:</string>
-  <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Vernieuwen</string>
   <string name="radio_info_smsc_update_label">Bijwerken</string>
   <string name="radio_info_toggle_dns_check_label">DNS controle in-/uitschakelen</string>
-  <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
+  <string name="radio_info_voice_network_type_label">Type spraaknetwerk:</string>
   <string name="rank_title">Rankings</string>
   <string name="rarely_running">Zelden actief (%s)</string>
   <string name="reading_data">Info verkrijgen…</string>
@@ -3079,12 +3076,12 @@ Selecteer het OS van uw computer:"</string>
   <string name="reset_app_preferences_desc">"Hiermee worden alle voorkeuren opnieuw ingesteld voor:  
 
 "&lt;li&gt;Uitgeschakelde apps&lt;/li&gt;"
-"&lt;li&gt;Uitgeschakelde app meldingen&lt;/li&gt;"
+"&lt;li&gt;Uitgeschakelde appmeldingen&lt;/li&gt;"
 "&lt;li&gt;Standaardapps voor acties&lt;/li&gt;"
 "&lt;li&gt;Beperkingen voor achtergrondgegevens voor apps&lt;/li&gt;"
 "&lt;li&gt;Beperkingen voor rechten&lt;/li&gt;"
 
-U verliest geen app gegevens."</string>
+U verliest geen appgegevens."</string>
   <string name="reset_app_preferences_title">Appvoorkeuren herstellen?</string>
   <string name="reset_legacy_password_settings_preface_text">U moet uw vergrendelscherm wachtwoord opnieuw instellen.</string>
   <string name="reset_network_button_text">Instellingen herstellen</string>
