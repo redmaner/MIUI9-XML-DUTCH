@@ -193,4 +193,24 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
         <item quantity="other">Nooit uitschakelen voor %d apps</item>
         <item quantity="one">Nooit uitschakelen voor 1 app</item>
     </plurals>
+	<plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN moet %d tekens lang zijn</item>
+        <item quantity="one">PIN moet %d teken lang zijn</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN kan tot %d tekens bevatten</item>
+        <item quantity="one">PIN kan tot %d teken bevatten</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Verbind ten minste %d punten. Probeer opnieuw.</item>
+        <item quantity="one">Verbind ten minste %d punt. Probeer opnieuw.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Teveel incorrecte pogingen. Probeer opnieuw over %d seconden.</item>
+        <item quantity="one">Teveel incorrecte pogingen. Probeer opnieuw over %d seconde.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Wacht %d seconden en probeer opnieuw.</item>
+        <item quantity="one">Wacht %d seconde en probeer opnieuw.</item>
+    </plurals>
 </resources>

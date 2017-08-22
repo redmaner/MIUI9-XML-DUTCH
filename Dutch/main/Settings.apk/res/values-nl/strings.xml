@@ -2126,7 +2126,7 @@ U kunt een nieuwe schermvergrendeling instellen voor zowel uw apparaat als uw we
   <string name="lockpassword_pin_no_sequential_digits">Een oplopende, aflopende of herhaalde cijferreeks is verboden</string>
   <string name="lockpassword_pin_recently_used">Apparaatbeheerder staat geen PIN ontgrendeling toe.</string>
   <string name="lockpassword_pin_set_toast">PIN code is ingesteld</string>
-  <string name="lockpassword_pin_too_long">PIN code kan tot %d cijfers bevatten.</string>
+  <string name="lockpassword_pin_too_long">PIN moet minder dan %d cijfers bevatten.</string>
   <string name="lockpassword_pin_too_short">PIN code moet ten minste %d cijfers zijn</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_password">Voer het wachtwoord van uw apparaat in om door te gaan. Vereist nadat het apparaat opnieuw is opgestart.</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Gebruik uw apparaatpatroon om door te gaan. Vereist nadat het apparaat opnieuw is opgestart.</string>
@@ -2255,6 +2255,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="master_clear_progress_title">Wissen</string>
   <string name="master_clear_summary">Alle gegevens op het apparaat wissen</string>
   <string name="master_clear_title">Terug naar fabrieksinstellingen</string>
+  <string name="max_aspect_settings_all_app_display_loading">Een momentje…</string>
   <string name="max_fingerprint_number_reached">Kan niet meer dan 5 vingerafdrukken toevoegen. Om een nieuwe vingerafdruk toe te voegen moet je eerst een bestaande vingerafdruk verwijderen</string>
   <string name="maximum_memory_use">Maximum geheugengebruik</string>
   <string name="mbn_version">MBN versie</string>
@@ -3103,6 +3104,7 @@ U verliest geen appgegevens."</string>
   <string name="restore_default_apn_completed">Herstellen van standaard APN instellingen voltooid.</string>
   <string name="restr_pin_enter_admin_pin">Beheerders PIN invoeren</string>
   <string name="restrict_background_blacklisted">Achtergronddata is uitgeschakeld</string>
+  <string name="restrict_max_aspect_ratio_title">Voorstellen max aspectratio uitschakelen</string>
   <string name="restriction_bluetooth_config_summary">Aanpassing van Bluetooth koppelingen en -instellingen toestaan</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Apps uw locatiegegevens laten gebruiken</string>
@@ -3182,6 +3184,8 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_key_press">Eénmalig drukken</string>
   <string name="screen_key_press_action">Trigger functie</string>
   <string name="screen_locking_sounds_title">Schermvergrendelingsgeluiden</string>
+  <string name="screen_max_aspect_ratio_desc">Weerapp kan op volledig scherm weergeven</string>
+  <string name="screen_max_aspect_ratio_title">Max aspectratio instellingen</string>
   <string name="screen_monochrome_mode_apps_loading">Een momentje…</string>
   <string name="screen_monochrome_mode_apps_title">Monochrome modus gebruiken</string>
   <string name="screen_monochrome_mode_global_summary">Monochrome modus gebruiken voor alle apps</string>
@@ -3290,7 +3294,6 @@ Om schermpinning te gebruiken:
   <string name="sd_insert_summary">USB opslag plaatsen om te koppelen</string>
   <string name="sd_memory">USB opslag</string>
   <string name="sd_mount">USB opslag koppelen</string>
-  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Wijzigingen worden van kracht als de USB kabel opnieuw wordt aangesloten.</string>
   <string name="sdcard_format">USB opslag wissen</string>
   <string name="sdcard_optimization">emulated sdcard optimization</string>
@@ -3810,13 +3813,13 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_app_enable_keyguard">Vergrendelscherm</string>
   <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_key_position_custom">Knoppositie wijzigen</string>
-  <string name="status_bar_screen_button_desc">Naar beneden vegen om de schermknoppen te verbergen</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Veeg omhoog vanaf de onderkant van het scherm om knoppen weer te geven</string>
   <string name="status_bar_screen_button_key">Schermknoppen</string>
-  <string name="status_bar_screen_button_key_can_hide">Schermknoppen kunnen verborgen worden</string>
-  <string name="status_bar_screen_key_back">Terug knop</string>
-  <string name="status_bar_screen_key_home">Home knop</string>
-  <string name="status_bar_screen_key_menu">Menu knop</string>
-  <string name="status_bar_screen_key_recent_apps">Recente apps knop</string>
+  <string name="status_bar_screen_button_key_force_immersive">Schermknoppen verbergen</string>
+  <string name="status_bar_screen_key_back">Terugknop</string>
+  <string name="status_bar_screen_key_home">Homeknop</string>
+  <string name="status_bar_screen_key_menu">Menuknop</string>
+  <string name="status_bar_screen_key_recent_apps">Recente appsknop</string>
   <string name="status_bar_settings">Meldingen en statusbalk</string>
   <string name="status_bar_settings_advanced">Extra instellingen</string>
   <string name="status_bar_settings_all_app_display_loading">Een momentje…</string>
@@ -4013,6 +4016,7 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="storageuse_settings_title">Opslaggebruik</string>
   <string name="strict_mode">Strikte modus ingeschakeld</string>
   <string name="strict_mode_summary">Knipperend scherm bij lange bewerkingen door apps</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Voorstellen max aspectratio inschakelen</string>
   <string name="suggested_fingerprint_lock_settings_summary">Ontgrendelen met uw vingerafdruk</string>
   <string name="suggested_lock_settings_summary">Bescherm uw apparaat</string>
   <string name="suggested_lock_settings_title">Schermvergrendeling</string>
@@ -4303,6 +4307,7 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
   <string name="unlock_setup_wizard_fingerprint_details">Als u schermvergrendeling eenmaal hebt ingesteld, kunt u ook uw vingerafdruk instellen in instellingen &gt; Veiligheid.</string>
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
+  <string name="unrestrict_max_aspect_ratio_title">Max aspectratio ondersteunen</string>
   <string name="unrestricted_app_summary">Onbeperkte toegang tot mobiele data toestaan als databespaarder is ingeschakeld</string>
   <string name="unrestricted_app_title">Onbeperkt dataverbruik</string>
   <string name="unrestricted_data_saver">Onbeperkt toegang tot data</string>
