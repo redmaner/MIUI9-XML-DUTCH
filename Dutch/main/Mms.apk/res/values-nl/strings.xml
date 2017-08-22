@@ -573,6 +573,8 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
   <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
+  <string name="sqlite_disk_full">Database of schjf is vol</string>
+  <string name="sqlite_low_memory">Weinig geheugen</string>
   <string name="status_failed">Mislukt</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">In behandeling</string>
@@ -644,11 +646,6 @@
   <string name="url_fraud_visit">&lt;u&gt;Toch bezoeken&lt;/u&gt;</string>
   <string name="url_result_safe">Deze URL is veilig</string>
   <string name="url_scanning">URL controleren…</string>
-  <string name="user_agreement1">Lees de toepasselijke voorwaarden zorgvuldig door voordat u extra software installeert of het product gebruikt.</string>
-  <string name="user_agreement2">Algemene Voorwaarden</string>
-  <string name="user_agreement3">" en "</string>
-  <string name="user_agreement4">Privacybeleid</string>
-  <string name="user_agreement5">Door op OK te tikken, gaat u akkoord met de Algemene Voorwaarden en het Privacybeleid.</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Verificatiecodes</string>
   <string name="view">Weergeven</string>
