@@ -316,7 +316,7 @@
   <string name="call_advanced_setting_title">Geavanceerde instellingen</string>
   <string name="call_background_default">Standaard</string>
   <string name="call_background_lock_wallpaper">Achetrgrond vergrendelscherm</string>
-  <string name="call_background_setting">Oproepachtergrond</string>
+  <string name="call_background_setting">Inkomende oproep in achtergrond</string>
   <string name="call_barring">Oproepen blokkeren</string>
   <string name="call_barring_sum">Gespreksblokkering instellingen</string>
   <string name="call_description_recording">Oproep opnemen…</string>

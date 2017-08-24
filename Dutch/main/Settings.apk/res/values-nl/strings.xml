@@ -2766,6 +2766,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="pointer_location_summary">Schermoverlay met huidige aanraakgegevens</string>
   <string name="pointer_settings_category">Muis/trackpad</string>
   <string name="pointer_speed">Snelheid van aanwijzer</string>
+  <string name="popup_window">popup vensters toestaan</string>
   <string name="power_autorun_apps_empty">Geen autostart apps</string>
   <string name="power_autorun_empty">Geen apps geïnstalleerd</string>
   <string name="power_bluetooth">Bluetooth</string>
