@@ -972,13 +972,22 @@ om te reageren"</string>
   <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="more_game">Meer games</string>
   <string name="name">Naam</string>
+  <string name="net_booster">Netwerk versnellen</string>
+  <string name="net_booster_expire_notification">Netwerkversnelling wordt beeindigd</string>
+  <string name="net_booster_expire_notification_tip">%d resterend voordat netwerkversnelling eindigt. Verleng de sessie om problemen met de netwerksnelheid te voorkomen.</string>
+  <string name="net_booster_overdue_notification">Netwerkversnelling wordt beeindigd</string>
+  <string name="net_booster_overdue_notification_tip">Netwerkversnelling wordt beeindigd. Wilt u de sessie verlengen?</string>
+  <string name="net_booster_tip">Schakel netwerkversnelling in om de Wi-Fi verbinding stabieler te maken en netwerkvertraging te verminderen.</string>
+  <string name="net_booster_title">Netwerk versnellen</string>
+  <string name="net_boosting">Snelheid opvoeren…</string>
   <string name="net_delay_title">Vertraging</string>
+  <string name="net_overdue">Sessie beeindigd</string>
   <string name="network_blocked_connected_open_wifi">Verbinden met openbaar netwerk</string>
-  <string name="network_blocked_notification_summary">Test netwerk</string>
-  <string name="network_blocked_switch_wifi">Verander van netwerk</string>
-  <string name="network_connected_exception_title">Test netwerk</string>
+  <string name="network_blocked_notification_summary">Netwerk testen</string>
+  <string name="network_blocked_switch_wifi">Wisselen van netwerk</string>
+  <string name="network_connected_exception_title">Netwerk testen</string>
   <string name="network_control">Appinstellingen bekijken</string>
-  <string name="network_diagnostics">Test netwerk</string>
+  <string name="network_diagnostics">Netwerk testen</string>
   <string name="network_mobile_exception_detail">"Uw apparaat kan geen verbinding maken met internet:
 
 1. Controleer of u uw mobiele datalimiet niet hebt overschreden.
@@ -1365,6 +1374,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="reach_daily_limit_value_body">Verminder het mobiele dataverbruik.</string>
   <string name="reach_daily_limit_value_title">Dagelijks datalimiet bereikt</string>
   <string name="read_all_sms">Alles lezen</string>
+  <string name="receive_now">Ontvangen</string>
   <string name="recently_reject_message">Installatie van %1$s en %2$d andere apps geweigerd</string>
   <string name="recently_reject_message_one">%1$s installatieverzoeken geweigerd</string>
   <string name="recommend_news">Aanbevelingen ontvangen</string>
@@ -1372,8 +1382,10 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="reject_all">Alles beperken</string>
   <string name="reject_countdown">Weigeren (%d)</string>
   <string name="reject_usb_install">Installatie van volgende apps via USB geweigerd</string>
+  <string name="release_meminfo">%dMB vrijmaken</string>
   <string name="release_memory">Cache wissen</string>
   <string name="renew_ip">Opnieuw proberen</string>
+  <string name="renew_now">Verlengen</string>
   <string name="repair">Herstellen</string>
   <string name="repair_loading_text">Een momentje…</string>
   <string name="repeated_marked_number_summary">Tweede oproep van hetzelfde gemelde nummer binnen 3 minuten niet blokkeren</string>
@@ -1682,13 +1694,13 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sys_app_prot_cracked_confirm">Begrepen</string>
   <string name="sys_cpu_title">CPU gebruik</string>
   <string name="sys_freememory_title">Beschikbaar</string>
-  <string name="sys_title_gamebooster_unit_gb">G</string>
-  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="system_app">Systeemapps</string>
   <string name="system_application">Systeemapps</string>
   <string name="tab_blacklist">Zwarte lijst</string>
   <string name="tab_block_log_unKnowNumber">Privenummer</string>
   <string name="tab_call">Oproepen</string>
+  <string name="tab_gift">Cadeau\'s</string>
+  <string name="tab_guide">Gids</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Zwarte lijst</string>
   <string name="tc_diagnostic_all_error_notification_summary">Tik op om een probleem te melden</string>
@@ -1774,6 +1786,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_app_lock_disable">Blokkeer apps</string>
   <string name="title_app_update">Updates beschikbaar</string>
   <string name="title_auto_update">Automatisch updaten</string>
+  <string name="title_chain_start">Kettingstart voorkomen</string>
   <string name="title_cleaner_cloudscan">Cloudafval scannen</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
@@ -1782,8 +1795,11 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_cmcc_app_check">Verificatie is niet voltooid</string>
   <string name="title_consume_power_rank">Batterijgebruik</string>
   <string name="title_data_flow">Mobiele data controleren</string>
+  <string name="title_data_flow_monitor">Het bijhouden van dataverbruik is ingeschakeld</string>
+  <string name="title_dev_model_off">Ontwikkelaarsopties zijn uitgeschakeld</string>
   <string name="title_dev_no">Ontwikkelaarsopties aan</string>
   <string name="title_dev_yes">Ontwikkelaarsopties uit</string>
+  <string name="title_device_not_root">Roottoegang is niet verleend</string>
   <string name="title_find_device">Apparaat zoeken</string>
   <string name="title_flow_notification">Melding mobiele data</string>
   <string name="title_flow_purchase">Koop mobiele data</string>
@@ -1791,17 +1807,20 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_flow_verify">Vergelijk boekhouding</string>
   <string name="title_flow_verify_failed">Kon 5 dagen achter elkaar niet aanpassen</string>
   <string name="title_garbage_clean">App cachegrootte bereikt %s</string>
-  <string name="title_garbage_lib">Afval definities updaten</string>
-  <string name="title_install_virus_no">Installatie monitor uit</string>
-  <string name="title_install_virus_yes">Installatie monitor aan</string>
+  <string name="title_garbage_less">Appcache is klein</string>
+  <string name="title_garbage_lib">Afvaldefinities updaten</string>
+  <string name="title_install_virus_no">Installatiemonitor uit</string>
+  <string name="title_install_virus_yes">Installatiemonitor aan</string>
   <string name="title_limit_traffic_per_day">Dagelijkse datalimiet</string>
   <string name="title_mifi_insurance">Verlengde garantie</string>
   <string name="title_miui_update">Update beschikbaar</string>
+  <string name="title_miui_update_latest">MIUI is up to date</string>
   <string name="title_mms_no">Berichtenfilter uitgeschakeld</string>
   <string name="title_mms_yes">Berichtenfilter ingeschakeld</string>
   <string name="title_network_switch">Netwerkverbinding</string>
   <string name="title_of_app_manage">Apps</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
+  <string name="title_payment_protection">Betalingen zijn beveiligd</string>
   <string name="title_payment_risk">Betalingsrisico\'s gevonden</string>
   <string name="title_permission_no">Toestemmingsbeheer uit</string>
   <string name="title_permission_root">Roottoegang</string>
@@ -1809,6 +1828,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_power_optimizer">Batterijbespaarder</string>
   <string name="title_realname_verify">ID verificatie</string>
   <string name="title_show_notification">Statusbalk widget</string>
+  <string name="title_system_auto_download">Updates zullen automatisch worden gedownload</string>
   <string name="title_telecom_operator">Automatisch aanpassen</string>
   <string name="title_usb_no">USB debugging aan</string>
   <string name="title_usb_yes">USB debugging uit</string>
@@ -1940,7 +1960,11 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="wifi_item_title_encryption">Wi-Fi versleuteling</string>
   <string name="wifi_item_title_fake">Neppe Wi-Fi detecteren</string>
   <string name="wifi_network_blocked_notification_title">Geen internetverbinding</string>
+  <string name="wifi_optizition_loading">Xunyou netwerkversnelling inschakelen…</string>
+  <string name="wifi_optizition_tip">Schakel netwerkversnelling in om de Wi-Fi verbinding stabieler te maken. Er zal een klein beetje mobiele data worden verbruikt.</string>
+  <string name="wifi_optizition_title">Wi-Fi versnellen</string>
   <string name="wl_no_whitelist">Geen uitzonderingen</string>
-  <string name="wlan_change_protection_detail">Niet automatisch overschakelen naar Wi-Fi wanneer u verbonden bent met het mobiele data netwerk</string>
+  <string name="wlan_booster">Wi-Fi versnellen</string>
+  <string name="wlan_change_protection_detail">Niet automatisch overschakelen naar Wi-Fi wanneer u verbonden bent met het mobiele datanetwerk</string>
   <string name="wlan_change_protection_title">Voorkom overschakelen van netwerken</string>
 </resources>

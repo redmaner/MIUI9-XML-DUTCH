@@ -573,7 +573,7 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
   <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
-  <string name="sqlite_disk_full">Database of schjf is vol</string>
+  <string name="sqlite_disk_full">Database of schijf is vol</string>
   <string name="sqlite_low_memory">Weinig geheugen</string>
   <string name="status_failed">Mislukt</string>
   <string name="status_label">"Status: "</string>
