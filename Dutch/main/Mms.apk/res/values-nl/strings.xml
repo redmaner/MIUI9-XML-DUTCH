@@ -163,7 +163,7 @@
   <string name="expire_on">Verloopt op: %s</string>
   <string name="exporting_progress_private_message">Berichten exporteren uit privéberichten…</string>
   <string name="fail_to_add_attachment">Kon bijlage niet toevoegen</string>
-  <string name="fail_to_view_attachment">bijlage is niet beschikbaar</string>
+  <string name="fail_to_view_attachment">Bijlage is niet beschikbaar</string>
   <string name="failed_to_add_media">U kunt deze %1$s niet toevoegen aan uw bericht.</string>
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
   <string name="fake_cell_alert_hint">Het lijkt erop dat dit bericht is verzonden vanaf een telefoonnummer dat verschilt met het nummer dat wordt getoond. Wees voorzichtig met SMS die financiele verzoeken bevatten.</string>
@@ -326,7 +326,7 @@
   <string name="mx_filter_message_from_stranger">Mi Messages blokkeren van onbekende nummers</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">U zal wel nog in staat zijn om gewone SMS berichten te ontvangen van onbekende nummers. U kan deze functie altijd in- en uitschakelen in berichten &gt; Instellingen."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Mi Messages blokkeren van onbekende nummers</string>
-  <string name="mx_filter_message_from_stranger_summary">U zal wel nog in staat zijn om gewone SMS berichten te ontvangen van onbekende nummers.</string>
+  <string name="mx_filter_message_from_stranger_summary">U zal nog wel in staat zijn om gewone SMS berichten te ontvangen van onbekende nummers.</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_msg_pageview_setting_title">Mi Message instellingen</string>
   <string name="mx_offline">Offline</string>
@@ -337,11 +337,11 @@
   <string name="mx_recommend_msg">Tik om Mi Message in te schakelen</string>
   <string name="mx_stranger_recommend_msg">Tik om Mi berichten van onbekende nummers te blokkeren</string>
   <string name="mx_type_guide">Met Mi Message kan je berichten sturen naar andere MIUI gebruikers zonder kosten</string>
-  <string name="need_download">Sync…</string>
-  <string name="networking_allow_continue">Ok</string>
-  <string name="networking_allow_desc">"Slimme berichten laten u gratis berichten en spraakberichten sturen, onbekende nummers herkennen, spam filteren, enz. Door gebruik te maken van deze service, gaat u akkoord met Xiaomi's %1$s en %2$s. U moet de Gouden Gids inschakelen en verbinding maken met internet om deze dienst te gebruiken."</string>
-  <string name="networking_allow_desc_without_mx">"Slimme berichten laten u onbekende nummers herkennen, spam filteren, enz. Door gebruik te maken van deze service, gaat u akkoord met Xiaomi's %1$s en %2$s. U moet de Gouden Gids inschakelen en verbinding maken met internet om deze dienst te gebruiken."</string>
-  <string name="networking_allow_title">Attentie</string>
+  <string name="need_download">Synchroniseren…</string>
+  <string name="networking_allow_continue">Toestaan</string>
+  <string name="networking_allow_desc">Mi Message heeft verbinding met internet nodig om normaal te werken. Om gratis bericht- en spraakdiensten te leveren, onbekende nummers te herkennen, spam te filteren en andere functies in te schakelen moet Mi Message de gele gids gebruiken. Wilt u toestaan dat de gele gids verbinding met internet kan maken, toegang heeft tot uw locatiegegevens en uw contacten kan lezen?</string>
+  <string name="networking_allow_desc_without_mx">Mi Message heeft verbinding met internet nodig om normaal te werken. Om onbekende nummers te herkennen, spam te filteren en andere functies in te schakelen moet Mi Message de gele gids gebruiken. Wilt u toestaan dat de gele gids verbinding met internet kan maken, toegang heeft tot uw locatiegegevens en uw contacten kan lezen?</string>
+  <string name="networking_allow_title">Opgelet</string>
   <string name="new_message">Nieuw bericht</string>
   <string name="new_message_arrived">Je hebt een nieuw bericht</string>
   <string name="new_phrase">Reactie toevoegen</string>

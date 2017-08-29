@@ -189,11 +189,11 @@
   <string name="mobile_data_note_dialog_content">Gebruik maken van mobiel internet om logs te uploaden kan voor extra kosten zorgen.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Logs uploaden door gebruik te maken van mobiel internet zal %sMB aan data kosten.</string>
   <string name="mobile_data_note_dialog_title">Waarschuwing datagebruik</string>
-  <string name="modem_tool_log">Modem logs opnemen</string>
+  <string name="modem_tool_log">Modemlogs opnemen</string>
   <string name="modem_tool_log_start">Starten</string>
-  <string name="modem_tool_log_start_toast">Modem log wordt opgeslagen naar %s</string>
+  <string name="modem_tool_log_start_toast">Modemlog wordt opgeslagen naar %s</string>
   <string name="modem_tool_log_stop">Stoppen</string>
-  <string name="modem_tool_log_stop_toast">Opslaan van modem logs naar %s is gestopt</string>
+  <string name="modem_tool_log_stop_toast">Opslaan van modemlogs naar %s is gestopt</string>
   <string name="module_communication">Communicatie</string>
   <string name="module_data">Opslag &amp; gedupliceerde apps</string>
   <string name="module_desktop">Startscherm &amp; instellingen</string>

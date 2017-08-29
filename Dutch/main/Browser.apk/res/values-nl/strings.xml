@@ -88,8 +88,8 @@
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Ongezond</string>
   <string name="autoSwithcingSearchEngineTips">Gewisseld naar de zoekmachine die u het meest gebruikt</string>
-  <string name="autofill_keyboard_accessory_content_description">Tips beschikbaar</string>
-  <string name="autofill_popup_content_description">Autoaanvullen popup weergeven</string>
+  <string name="autofill_keyboard_accessory_content_description">Suggesties beschikbaar…</string>
+  <string name="autofill_popup_content_description">Autoaanvullen pop-up weergeven</string>
   <string name="autologin_bar_error">Kon niet aanmelden</string>
   <string name="autologin_bar_hide_text">Verbergen</string>
   <string name="autologin_bar_login_text">Aanmelden</string>
@@ -171,16 +171,15 @@
   <string name="comment_description">Opmerking</string>
   <string name="comment_hint">Opmerking</string>
   <string name="comment_menu">Opmerking</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_text_next">Volgende</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Vorige</string>
-  <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
   <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL link kopiëren</string>
   <string name="contextmenu_dial_dot">Bellen…</string>
   <string name="contextmenu_download_image">Afbeelding opslaan</string>
   <string name="contextmenu_download_image_as">Afbeelding opslaan</string>
+  <string name="contextmenu_manually_block_ad">Markeren als advertentie</string>
   <string name="contextmenu_map">Kaart</string>
   <string name="contextmenu_openlink">Openen</string>
   <string name="contextmenu_openlink_newwindow">Openen in nieuw tabblad</string>
@@ -323,7 +322,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="geolocation_permissions_prompt_message">%s wilt weten wat uw locatie is</string>
   <string name="geolocation_permissions_prompt_remember">Voorkeur onthouden</string>
   <string name="geolocation_permissions_prompt_share">Locatie delen</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">"Deze site heeft toegang tot uw locatie. U kan dit wijzigen in de instellingen.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">"Deze site heeft toegang tot uw locatie. U kan dit wijzigen in instellingen.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">"Deze site heeft geen toegang tot uw locatie. U kan dit wijzigen via 'Instellingen' &gt; 'Geavanceerd' &gt; 'Website'."</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Annuleren</string>
   <string name="geolocation_settings_page_dialog_message">Locatietoegang voor deze website ongedaan maken?</string>
@@ -547,7 +546,7 @@ Deze pagina verlaten?"</string>
   <string name="page_info_address">Adres:</string>
   <string name="page_info_view">Pagina-informatie weergeven</string>
   <string name="password">Wachtwoord</string>
-  <string name="password_generation_popup_content_description">Wachtwoord genereren pop-up wordt weergeven</string>
+  <string name="password_generation_popup_content_description">Wachtwoord genereren pop-up wordt weergegeven…</string>
   <string name="pause_download">Gepauzeerd</string>
   <string name="paused_queued_for_wifi">Wachten op verbinding…</string>
   <string name="paused_unknown">Gepauzeerd</string>
@@ -565,8 +564,10 @@ Deze pagina verlaten?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Snelle URL invoer</string>
   <string name="pref_adblock_counts">%d geblokkeerd</string>
   <string name="pref_adblock_title">Adblocker</string>
+  <string name="pref_advert_null">Ongemarkeerde advertenties. Je kan op het label tikken op de pagina</string>
   <string name="pref_auto_update_under_wifi">Updaten over Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Wisselen naar de zoekmachine die je het meest gebruikt</string>
+  <string name="pref_cancel_screen">Scherm annuleren</string>
   <string name="pref_category_hint">Categorie</string>
   <string name="pref_check_security_url_summary">Stuur URL van website naar de Mi servers voor validatie</string>
   <string name="pref_check_security_url_summary_international">Geef de browser toegang tot de URLs van de websites die je bezoekt om relevante aanbevelingen te ontvangen.</string>
@@ -610,7 +611,8 @@ Deze pagina verlaten?"</string>
   <string name="pref_force_userscalable_summary">Websiteverzoek overschrijden om zoomgedrag te beheren</string>
   <string name="pref_general_title">Algemeen</string>
   <string name="pref_key_gesture_title">Toetsen &amp; gebaren</string>
-  <string name="pref_nav_mode_summary_pad">Pad</string>
+  <string name="pref_label_advert_manager">Gelabelde advertenties beheren</string>
+  <string name="pref_nav_mode_summary_pad">Tablet</string>
   <string name="pref_nav_mode_summary_phone">Telefoon</string>
   <string name="pref_nav_mode_title">Browsermodus</string>
   <string name="pref_notifications_hint">Meldingen</string>
@@ -913,6 +915,7 @@ Deze pagina verlaten?"</string>
   <string name="view_certificate">Certificaat weergeven</string>
   <string name="view_document_downloaded_files">Gedownloade bestanden bekijken in downloads</string>
   <string name="voice_check_network">Controleer de netwerkinstellingen en probeer opnieuw.</string>
+  <string name="voice_close_description">Sluiten</string>
   <string name="voice_connect_network">Kon niet verbinden met het netwerk.</string>
   <string name="voice_description">Spraakgestuurd zoeken</string>
   <string name="voice_network_connection">Spraakgestuurd zoeken heeft internet nodig om normaal te werken.</string>

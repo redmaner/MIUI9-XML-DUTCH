@@ -402,8 +402,8 @@
   <string name="setting_title_about">Over</string>
   <string name="setting_title_holiday_display">Vakanties weergeven</string>
   <string name="show_day_view">Dag weergeven</string>
-  <string name="show_newer_events">Raak aan om gebeurtenissen na %1$s weer te geven</string>
-  <string name="show_older_events">Raak aan om gebeurtenissen vóór %1$s weer te geven</string>
+  <string name="show_newer_events">Tik om gebeurtenissen na %1$s weer te geven</string>
+  <string name="show_older_events">Tik aan om gebeurtenissen vóór %1$s weer te geven</string>
   <string name="start_date_calculate">Berekenen</string>
   <string name="subscribe_card">Abonneer je nu</string>
   <string name="subscribe_card_success">Abonnementen succes, kan thuis worden bekeken </string>
