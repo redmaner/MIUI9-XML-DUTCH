@@ -14,7 +14,7 @@
   <string name="download_done">Met succes gedownload!</string>
   <string name="download_fail">Fout tijdens het downloaden!</string>
   <string name="download_fail_desc">MD5 sum komt niet overeen…</string>
-  <string name="downloading">Downloaden…</string>
+  <string name="downloading">Downloaden:</string>
   <string name="downloading_desc">Bezig met downloaden, bekijk de status in de meldingsbalk.</string>
   <string name="install_desc">"Apparaat zal opstarten in recoverymodus en het volgende bestand installeren: %1$s
 Gegevens zullen niet worden gewist."</string>
