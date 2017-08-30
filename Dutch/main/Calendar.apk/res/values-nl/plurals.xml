@@ -95,14 +95,6 @@
         <item quantity="other">%d werkdagen</item>
         <item quantity="one">%d werkdag</item>
     </plurals>
-    <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d dagen sinds</item>
-        <item quantity="one">%1$d dag sinds</item>
-    </plurals>
-    <plurals name="birthday_event_description_days_later">
-        <item quantity="other">%1$d dagen tot</item>
-        <item quantity="one">%1$d dag tot</item>
-    </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">Je kan tot %1$d dagen invoeren</item>
         <item quantity="one">Je kan tot %1$d dag invoeren</item>
