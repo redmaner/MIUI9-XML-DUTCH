@@ -4,14 +4,10 @@
   <string name="SMTP_password_text">Wachtwoord</string>
   <string name="SMTP_username_text">Gebruikersnaam</string>
   <string name="accessibility_guide_first">Selecteer op het volgende scherm \"Diensten\" tab om de 139 Mailbox Automatishe Configuratie te activeren</string>
-  <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
+  <string name="accessibility_guide_second">En klik dan op de knop in de rechter bovenhoek, tik op \"Bevestigen\" om verder te gaan.</string>
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
-  <string name="account_failure">Account fout</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
+  <string name="account_failure">Accountfout</string>
   <string name="account_name_toast">Kan geen account aanmaken. Een account met dezelfde naam al bestaat</string>
   <string name="account_options_sync_title">Synchronisatie</string>
   <string name="account_password_spaces_error">"Dit wachtwoord begint of eindigt met een of meerdere
@@ -28,7 +24,7 @@
   <string name="account_setting_message_body_load_complete">Volledig bericht</string>
   <string name="account_setting_message_body_load_head_abstract">Sammenvating van E-mail</string>
   <string name="account_setting_message_body_load_head_only">Alleen berichtkoppen</string>
-  <string name="account_setting_message_body_load_text">Allen de body</string>
+  <string name="account_setting_message_body_load_text">Alleen de body</string>
   <string name="account_settings_action">Accountinstellingen</string>
   <string name="account_settings_background_attachments_label">Bijlagen downloaden</string>
   <string name="account_settings_background_attachments_summary">Bijlagen downloaden met Wi-Fi</string>
@@ -52,6 +48,9 @@ Nu bijwerken?"</string>
   <string name="account_settings_notify_summary">Melding tonen wanneer er een e-mail binnenkomt</string>
   <string name="account_settings_param">Accountinstellingen</string>
   <string name="account_settings_policies">Beveiligingsbeleid</string>
+  <string name="account_settings_preference_add_account">Een emailaccount toevoegen</string>
+  <string name="account_settings_preference_head_icon">Hoofd portret wisselen</string>
+  <string name="account_settings_preference_notify">Melding</string>
   <string name="account_settings_retry_label">Poging tot synchroniseren</string>
   <string name="account_settings_retry_summary">Raak aan om account te synchroniseren</string>
   <string name="account_settings_ringtone">Meldingstoon</string>
@@ -65,6 +64,7 @@ Nu bijwerken?"</string>
   <string name="account_settings_sync_email_summary">E-mail voor dit account synchroniseren</string>
   <string name="account_settings_unsupported_label">Niet ondersteund beleid</string>
   <string name="account_settings_unsupported_summary">Geen</string>
+  <string name="account_settings_user_usage">Accountinstellingen</string>
   <string name="account_settings_using_ringtone">Beltoon</string>
   <string name="account_settings_vibrate_when_label">Trillen</string>
   <string name="account_setup_account_type_instructions">Welk type account is dit?</string>
@@ -125,6 +125,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_incoming_username_label">Gebruikersnaam</string>
   <string name="account_setup_incoming_username_label_default_hint">Het mag een domein bevatten</string>
   <string name="account_setup_need_password_verification">Uw account heeft twee-staps-verificatie ingeschakeld, authenticatie is vereist</string>
+  <string name="account_setup_options_actionbar_title">Instellingen</string>
   <string name="account_setup_options_mail_check_frequency_10min">Elke 10 minuten</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Elke 12 uur</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Elk uur</string>
@@ -154,13 +155,15 @@ Nu bijwerken?"</string>
   <string name="account_setup_server_acc_manager_title">Accounts</string>
   <string name="account_setup_username_password_toast">Voer een geldig e-mailadres en wachtwoord in.</string>
   <string name="account_sync_off">Accountsynchronisatie is uitgeschakeld.</string>
+  <string name="account_sync_settings_settings">Account- contacten en kalenders synchroniseren</string>
+ +  <string name="account_sync_settingstip_description">Synchronisatie-instellingen</string>
   <string name="account_waiting_for_folders_msg">Mappenlijst laden…</string>
   <string name="actionbar_large_unread_count">Meer dan %1$d ongelezen</string>
   <string name="activity_folder_selection">Map selecteren</string>
   <string name="activity_mailbox_selection">Account kiezen</string>
   <string name="ad_merge">Adv &amp; Meldingen</string>
   <string name="add_account">Account toevoegen</string>
-  <string name="add_account_keywords">Add account;add mail account</string>
+  <string name="add_account_keywords">Account toevoegen;emailaccount toevoegen</string>
   <string name="add_attachment">Bijlage toevoegen</string>
   <string name="add_calendar">Herinneren</string>
   <string name="add_label">Map toevoegen</string>
@@ -227,16 +230,11 @@ Nu bijwerken?"</string>
   <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
   <string name="automatic_remind_text">herinneren</string>
   <string name="bank_card_detail">Creditcardgegevens</string>
-  <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Energiebesparende modus</string>
   <string name="battery_saver_keywords">Energiebesparen;mail batterij</string>
-  <string name="bcc">Bcc</string>
-  <string name="bcc_heading">"Bcc: "</string>
   <string name="bill_center_setting">Factuurinstellingen</string>
   <string name="bill_center_setting_head">Informatie importeren van deze accounts</string>
   <string name="bill_cycle_text">Factuurcyclus</string>
-  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
-  <string name="bill_list_card_num_fmt">**** **** **** %s</string>
   <string name="bill_remind">Terugbetaling herinnering</string>
   <string name="bill_remind_due">Een terugbetaling is verschuldigd op %s, tik om weer te geven</string>
   <string name="blank_feedback_toast">De feedback is leeg, voer feedback in!</string>
@@ -246,21 +244,16 @@ Nu bijwerken?"</string>
   <string name="bottom_bar_more_quickreply">Snel antwoorden</string>
   <string name="bottom_bar_more_share">Delen</string>
   <string name="bottom_bar_no_quickreply_toast">Geen snel antwoord</string>
-  <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Herinnering</string>
+  <string name="calendar_remind_dialog_title">Later herinneren</string>
   <string name="calendar_remind_gridview_pick_date">Kies een datum</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
   <string name="cancel_pop3_attchemt_downloading">Het downloaden van bijlages annuleren is niet beschikbaar voor een POP3 account.</string>
   <string name="cant_move_or_change_labels">"Kan items van meerdere accounts niet verplaatsen"</string>
-  <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
-  <string name="cc_bcc">Cc/Bcc</string>
-  <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Mappen wijzigen</string>
   <string name="change_sync_settings">Sync. inst. wijzigen</string>
   <string name="changepw_dialog_tips">Wachtwoord opnieuw invoeren voor %s</string>
-  <string name="changepw_dialog_tips_please_clikc_btn">Controleer %s voor verificatie code en meld je opnieuw aan</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Controleer %s voor verificatiecode en meld je opnieuw aan</string>
   <string name="chat_item_msg_people_unit">Personen</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Serverinstellingen valideren…"</string>
@@ -329,10 +322,13 @@ Nu bijwerken?"</string>
   <string name="contextmenu_send_mail">E-mail verzenden</string>
   <string name="contextmenu_sharelink">Link delen</string>
   <string name="contextmenu_sms_dot">"SMS'en…"</string>
+  <string name="conversation_detail_hide">Verbergen</string>
   <string name="conversation_folder_moved">Verplaatst naar %1$s</string>
   <string name="conversation_item_mark_read">Gelezen</string>
   <string name="conversation_item_mark_unread">Ongelezen</string>
+  <string name="conversation_msg_header_collapsed_sent_to">"Verzenden naar "</string>
   <string name="conversation_photo_welcome_text">Raak de afbeelding van een afzender aan om dat gesprek te selecteren.</string>
+  <string name="conversation_pull_ad_content">Efficiente mailbeheerder</string>
   <string name="conversation_quick_button_approve">OK</string>
   <string name="conversation_quick_button_disapprove">Annuleren</string>
   <string name="conversation_quick_button_received">Ontvangen</string>
@@ -346,7 +342,6 @@ Nu bijwerken?"</string>
   <string name="cur_debt">Account saldo</string>
   <string name="custom_from_account_label">Mail verzenden als:</string>
   <string name="date_heading">"Datum: "</string>
-  <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Vandaag, %1$s</string>
   <string name="default_">STANDAARD</string>
   <string name="default_exchange">EXCHANGE</string>
@@ -396,7 +391,6 @@ Nu bijwerken?"</string>
   <string name="download_confirm_message">Download %1$s bijlage?</string>
   <string name="download_confirm_title">Download bijlage</string>
   <string name="download_message_failed_for_too_large">Bericht is te groot om te downloaden.</string>
-  <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bank statements</string>
   <string name="drawer_classification">Categorieën</string>
   <string name="drawer_close">Navigatie lader sluiten</string>
@@ -405,16 +399,10 @@ Nu bijwerken?"</string>
   <string name="due">Vanwege</string>
   <string name="due_date_text">Laatste afbetaling</string>
   <string name="edit_quick_response_dialog">Snelle reactie</string>
-  <string name="elided_padding_token"> </string>
+  <string name="edit_signature">Handtekening wijzigen</string>
   <string name="email_address">E-mailadres</string>
-  <string name="email_feedback_uri"/>
-  <string name="email_netease">NetEase Mail</string>
-  <string name="email_package_name">com.android.email</string>
-  <string name="email_qq">QQ Mail</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
-  <string name="email_sina">Sina Mail</string>
-  <string name="email_suggestions_authority">com.android.email.provider</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -422,7 +410,6 @@ Nu bijwerken?"</string>
   <string name="empty_trash">Prullenbak leegmaken</string>
   <string name="empty_trash_dialog_title">Prullenbak leegmaken?</string>
   <string name="enable_sync_in_account_settings">Inschakelen in %1$s.</string>
-  <string name="enumeration_delimiter">" | "</string>
   <string name="error">Fout</string>
   <string name="exception_cancel">"
          Deze gebeurtenis is geannuleerd
@@ -450,8 +437,8 @@ Nu bijwerken?"</string>
   <string name="file_rar_not_support">Kan versleutelde rar bestanden niet openen</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Tik op de knop om \"%s\" te verzenden naar alle personen in de conversatie</string>
-  <string name="float_window_content">Detecteerrd dat u de mailbox gebruikt, klik op Bevestig voor het automatisch invullen van 139 E-mailaccount en wachtwoord.</string>
-  <string name="float_window_info">"Bij her configureren van de 139 mailbox, gebruik de telefoon niet, bij configuratiefouten."</string>
+  <string name="float_window_content">Gedetecteerd dat u de mailbox gebruikt, klik op Bevestig voor het automatisch invullen van 139 E-mailaccount en wachtwoord.</string>
+  <string name="float_window_info">"Bij het configureren van de 139 mailbox, gebruik de telefoon niet, bij configuratiefouten."</string>
   <string name="float_window_title">Configuratie………</string>
   <string name="folder_drafts_name_cn0">Concepten</string>
   <string name="folder_drafts_name_cn1">Concepten</string>
@@ -489,8 +476,6 @@ Nu bijwerken?"</string>
   <string name="folder_trash_name_en1">Verwijderde berichten</string>
   <string name="folder_trash_name_en2">Verwijderde berichten</string>
   <string name="folder_trash_name_en3">[Gmail]/Prullenbak</string>
-  <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Doorsturen</string>
   <string name="forward_attachment">Doorsturen</string>
   <string name="forward_attribution">---------- Doorgestuurd bericht ----------&lt;br&gt;Van: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Onderwerp: %3$s&lt;br&gt;Aan: %4$s&lt;br&gt;</string>
@@ -545,8 +530,6 @@ Nu bijwerken?"</string>
   <string name="interact_with_server_error">Kon niet verbinden met de server</string>
   <string name="invalid_recipient">Het adres \"%s\" is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers Error</string>
-  <string name="kilobytes">%s kB</string>
-  <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Mailbox zoeken op server</string>
   <string name="load_more">Meer laden</string>
   <string name="loading_conversation">Laden…</string>
@@ -558,15 +541,17 @@ Nu bijwerken?"</string>
   <string name="login139">Aanmelden met China Mobile</string>
   <string name="login_failed_ticker">%s: aanmelden mislukt.</string>
   <string name="login_failed_title">Kan niet inloggen</string>
+  <string name="login_support_tip_text">Alle veelvoorkomende mailboxaccounts ondersteunen</string>
   <string name="long_press_to_select_tip">"Blijf aanraken om één gesprek te selecteren en raak aan om meer te selecteren."</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">Deze e-mail is te groot om te laden, kan slechts een deel weergeven, probeer later op de PC</string>
-  <string name="mail_description_content">E-mail is een mailclient die meerdere mailboxen kan beheren, berichten verzenden en ontvangen, berichten melden en diensten zoals sessiemodus, facturering, post sorteren en andere diensten verzorgen. Nadat u de mail hebt verwijderd, worden de e-mailgegevens verwijderd.</string>
-  <string name="mail_description_title">Email introductie</string>
+  <string name="mail_description_content">E-mail is een mailclient die meerdere mailboxen kan beheren, berichten verzenden en ontvangen en kalender en contacten kan synchroniseren. Please confirm that you will abandon the e-mail provided by the relevant features and services, including the exchange server to synchronize contacts and calendar data.</string>
+  <string name="mail_description_title">E-mailintroductie</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerd account</string>
   <string name="mailbox_name_display_ad">Advertenties &amp; meldingen</string>
+  <string name="mailbox_name_display_add_account">E-mailaccount toevoegen</string>
   <string name="mailbox_name_display_circular">Meldingen</string>
   <string name="mailbox_name_display_drafts">Concepten</string>
   <string name="mailbox_name_display_inbox">Postvak IN</string>
@@ -671,9 +656,7 @@ Nu bijwerken?"</string>
   <string name="min_payment_text">Minimum betaling</string>
   <string name="more_atts_remaining">%1$d meer overgebleven</string>
   <string name="more_context">Meer</string>
-  <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verplaatsen naar een andere map</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Dempen</string>
   <string name="network_error">Geen verbinding</string>
   <string name="network_invaild">Kan niet verbinden netwerk</string>
@@ -683,9 +666,9 @@ Nu bijwerken?"</string>
   <string name="network_unavailable">Netwerk niet beschikbaar</string>
   <string name="new_incoming_messages_one">Nieuw bericht van %s. Weergeven.</string>
   <string name="new_messages">%1$d nieuwe berichten</string>
+  <string name="new_signature_has_saved">Nieuwe handtekening opgeslagen</string>
   <string name="next_action">Volgende</string>
   <string name="no">Nee</string>
-  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
   <string name="no_application_found_title">Open deze bijlage.</string>
   <string name="no_bill_discribe">"Kon geen rekeningen vinden.
@@ -813,7 +796,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="policy_text_truncation">Tekst e-mail grootte beperken</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Tik op voltooien om mailserver in te stellen</string>
-  <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, zullen bijlagen automatisch gedownload worden met e-mail zelf. Dit kan uw mobiele datagebruik verhogen.</string>
   <string name="preference_sender_image_description">Afbeelding van afzender weergeven in Postvak IN</string>
   <string name="preference_sender_image_title">Afbeelding van afzender weergeven in Postvak IN</string>
@@ -824,10 +806,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="previous_action">Vorige</string>
   <string name="print">Afdrukken</string>
   <string name="prompt_title">Prompt</string>
-  <string name="protocol_eas">eas</string>
-  <string name="protocol_imap">imap</string>
-  <string name="protocol_legacy_imap">imap</string>
-  <string name="protocol_pop3">pop3</string>
   <string name="protocol_setting_toast">Tik in de rechterbovenhoek om naar instellingen te gaan nadat u het eens bent</string>
   <string name="pull_to_refresh">Trek naar beneden om te vernieuwen</string>
   <string name="push_wps_better_confirm_download">Downloaden</string>
@@ -878,16 +856,16 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="quote_divider_2">--- Origineel ---</string>
   <string name="quote_divider_3">--------  Origineel  --------</string>
   <string name="quote_divider_4">----- Origineel -----</string>
-  <string name="quote_divider_5">-----------De scheidslijn wordt gebruikt om te verwijzen-------------</string>
+  <string name="quote_divider_5">-----------De scheidingslijn wordt gebruikt om te verwijzen-------------</string>
   <string name="quote_divider_6">---Origineel---</string>
-  <string name="quote_divider_7">Origineel Bericht</string>
+  <string name="quote_divider_7">Origineel bericht</string>
   <string name="quote_divider_apple">"
 &gt;"</string>
   <string name="quote_divider_huawei_zh">Van Huawei mobiele telefoon</string>
   <string name="quote_divider_ipad_zh">Van iPad</string>
   <string name="quote_divider_iphone_en">Verstuurd vanaf mijn iPhone</string>
   <string name="quote_divider_iphone_fwd_en">Begin doorgestuurd bericht:</string>
-  <string name="quote_divider_iphone_fwd_zh">De volgende is een doorgestuurd bericht:</string>
+  <string name="quote_divider_iphone_fwd_zh">Het volgende is een doorgestuurd bericht:</string>
   <string name="quote_divider_ks_web">________________________________________</string>
   <string name="quote_divider_qq_en">------------------ Origineel ------------------</string>
   <string name="quote_divider_qq_zh">------------------ Origineel ------------------</string>
@@ -934,7 +912,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Uit favorieten verwijderen</string>
   <string name="reply">Beantwoorden</string>
-  <string name="reply_add_bodycontent">Snel antwoord toevoegen aan berichtinhoud?</string>
+  <string name="reply_add_bodycontent">Antwoord toevoegen aan berichtinhoud?</string>
   <string name="reply_all">Allen beantwoorden</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="report_phishing">Phishing melden</string>
@@ -947,9 +925,11 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="save_draft_failed">Concept opslaan mislukt</string>
   <string name="save_power_summary">Tijd batterijbesparing instellen</string>
   <string name="save_power_title">Batterijbespaarder</string>
+  <string name="save_this_new_signature">Nieuwe handtekening opslaan?</string>
   <string name="saved">Opgeslagen, %s</string>
   <string name="saving">Opslaan…</string>
   <string name="sdcard_cannot_use">Kan SD kaart niet gebruiken</string>
+  <string name="search_bar_text">Zoeken naar mail en zender</string>
   <string name="search_hint">Zoeken in e-mail</string>
   <string name="search_result">"Resultaten "</string>
   <string name="search_tabs_name_all">Alle</string>
@@ -1061,16 +1041,10 @@ kan het bericht niet laden"</string>
   <string name="topic_merge">Thema\'s samenvoegen</string>
   <string name="translation_loading">Een momentje…</string>
   <string name="translation_no_result">Geen resultaten</string>
-  <string name="translation_pronunciation_am">AmE</string>
-  <string name="translation_pronunciation_cn">Pinyin</string>
-  <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
   <string name="translation_query_failure">Kon geen resultaten vinden</string>
   <string name="translation_technology_support">Technische ondersteuning door iciba.com</string>
   <string name="trash_folder_selection_title">Prullenbak van server selecteren voor %s</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Aanmelden met EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">"Wijzigingen die u aanbrengt in 
     alle apps en accounts, niet alleen in Gmail, worden gesynchroniseerd
@@ -1085,10 +1059,11 @@ Nu stoppen?"</string>
   <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="unzip_file_failed">Kon dit bestand niet unzippen</string>
   <string name="update_date_format_templete">dd MMMM, HH:mm</string>
+  <string name="update_to_wps_mail">Voor geavanceerde functies, upgrade naar WPS-mail</string>
   <string name="updated_at">Laatst bijgewerkt op %1$s</string>
-  <string name="upload_log">Upload logs</string>
+  <string name="upload_log">Logs uploaden</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
-  <string name="upload_log_no">Annueleren</string>
+  <string name="upload_log_no">Annuleren</string>
   <string name="upload_log_success">Met succes verzonden. We nemen spoedig contact met u op.</string>
   <string name="upload_log_title">Verzend foutrapporten om ons te helpen Mail te verbeteren</string>
   <string name="upload_log_yes">Versturen</string>
@@ -1096,10 +1071,6 @@ Nu stoppen?"</string>
   <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">Een momentje…</string>
   <string name="validation_failed_prompt">Kan account niet bevestigen, controleer de server instellingen voor %s"</string>
-  <string name="veiled_address"/>
-  <string name="veiled_alternate_text"/>
-  <string name="veiled_alternate_text_unknown_person"/>
-  <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Meer conversaties weergegeven</string>
   <string name="wait_for_manual_sync_body">"Automatische synchronisatie is niet ingesteld voor dit account.
@@ -1112,7 +1083,6 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="webview_sslerror_handle_continue">Doorgaan</string>
   <string name="webview_sslerror_handle_hitmessage">Er is een certificaat fout opgetreden,  toch doorgaan?</string>
   <string name="widget_all_mail">Alle mails</string>
-  <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Overige</string>
   <string name="wipe_account_fail_description">Klik hier om toestemming te krijgen</string>
   <string name="wipe_account_fail_title">Mislukt om persoonlijke informatie te verwijderen</string>

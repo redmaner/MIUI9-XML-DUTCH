@@ -567,6 +567,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bluetooth_device_context_pair_connect">Koppelen en verbinden</string>
   <string name="bluetooth_device_context_unpair">Koppeling ongedaan maken</string>
   <string name="bluetooth_device_details">Apparaatinstellingen</string>
+  <string name="bluetooth_device_misc_title">Zelden gebruikte bluetooth-apparaten</string>
   <string name="bluetooth_device_name">Apparaatnaam</string>
   <string name="bluetooth_device_searchable">Zichtbaar</string>
   <string name="bluetooth_devices">Bluetooth apparaten</string>
@@ -771,6 +772,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Snoop logbestand voor Bluetooth HCI inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle Bluetooth HCI pakketten tot één bestand samenvoegen</string>
+  <string name="bt_rarely_used_device_title">Zelden gebruikte apparaten (%d)</string>
   <string name="bt_trace_log">Bluetooth Trace log inschakelen</string>
   <string name="bt_trace_log_summary">Bluetooth trace log inschakelen</string>
   <string name="bugreport_in_power">Bugrapport snelkoppeling</string>
@@ -896,7 +898,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="clear_failed_dlg_title">Gegevens wissen</string>
   <string name="clear_uri_btn_text">Toegang wissen</string>
   <string name="clear_user_data_text">Gegevens wissen</string>
-  <string name="close_gesture">Gebaar gebruiken sluiten</string>
+  <string name="close_gesture">Sluiten door middel van gebaar</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
   <string name="close_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
   <string name="close_sdcard_optimization_title">close emulated sdcard optimization</string>
@@ -911,8 +913,6 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="color_black">Zwart</string>
   <string name="color_blue">Blauw</string>
   <string name="color_calibration_none">Origineel</string>
-  <string name="color_calibration_srgb">sRGB</string>
-  <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
   <string name="color_cyan">Cyaan</string>
   <string name="color_gray">Grijs</string>
   <string name="color_green">Groen</string>
@@ -1706,7 +1706,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="go_back_button_label">Ga terug</string>
   <string name="google_backup_enable">Back-ups inschakelen</string>
   <string name="google_backup_section_title">Google back-up &amp; herstel</string>
-  <string name="google_title">Google</string>
   <string name="got_it">Begrepen</string>
   <string name="gsm_to_wifi_connect_type_title">GSM naar WiFi</string>
   <string name="handy_mode">Eén-hand modus</string>
@@ -3169,7 +3168,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="scan_list_label">Scanresultaten:</string>
   <string name="screen">Scherm</string>
   <string name="screen_button">Schermknoppen</string>
-  <string name="screen_button_tips">Naar beneden vegen om de schermknoppen te verbergen</string>
+  <string name="screen_button_tips">Naar beneden vegen om schermknoppen te verbergen</string>
   <string name="screen_cells_config_title">Startschermlayout</string>
   <string name="screen_color_and_optimize">Kleuren &amp; contrast</string>
   <string name="screen_color_and_optimize_disabled">Kan kleurtemperatuur niet aanpassen in leesmodus</string>

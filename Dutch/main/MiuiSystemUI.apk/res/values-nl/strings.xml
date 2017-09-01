@@ -159,6 +159,7 @@
   <string name="bugreport_in_power_summary">Show a button in the power menu for taking a bug report</string>
   <string name="button_convert_fbe">Wissen en converteren…</string>
   <string name="call_status_dialing">Kiezen</string>
+  <string name="call_status_holding">In de wacht</string>
   <string name="call_status_ringing">Bellen</string>
   <string name="camera_key_action_app_title">App openen</string>
   <string name="camera_key_action_category_title">Gebruik als de camera niet open is</string>

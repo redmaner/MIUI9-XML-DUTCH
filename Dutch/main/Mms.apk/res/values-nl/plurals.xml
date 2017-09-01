@@ -16,7 +16,7 @@
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultaten voor \"%2$s\"</item>
-        <item quantity="one">%1$s resultaten voor \"%2$s\"</item>
+        <item quantity="one">%1$s resultaat voor \"%2$s\"</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personen</item>
@@ -57,12 +57,12 @@
         <item quantity="one">%d bericht</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d berichten zijn niet gesync.</item>
-        <item quantity="one">%d bericht is niet gesync.</item>
+        <item quantity="other">%d berichten zijn niet gesynchroniseerd</item>
+        <item quantity="one">%d bericht is niet gesynchroniseerd</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s berichten</item>
-        <item quantity="one">%1$s berichten</item>
+        <item quantity="one">%1$s bericht</item>
     </plurals>
 	<plurals name="custom_select_title_items_selected">
         <item quantity="other">%d geselecteerd</item>

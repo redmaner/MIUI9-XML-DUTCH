@@ -11,6 +11,10 @@
   <string name="btn_share">Delen</string>
   <string name="btn_yes">Ja</string>
   <string name="check_new_version">Controleren</string>
+  <string name="dialog_3g_desc">Wees ervan bewust dat mobiel internet gebruiken om ROMs te downloaden veel data kan gebruiken.</string>
+  <string name="dialog_3g_title">Waarschuwing!</string>
+  <string name="dialog_btn_3g">Toch doorgaan</string>
+  <string name="dialog_btn_wifi">Wisselen naar Wi-Fi</string>
   <string name="download_done">Met succes gedownload!</string>
   <string name="download_fail">Fout tijdens het downloaden!</string>
   <string name="download_fail_desc">MD5 sum komt niet overeen…</string>

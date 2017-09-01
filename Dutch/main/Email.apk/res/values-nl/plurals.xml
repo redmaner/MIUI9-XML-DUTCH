@@ -16,6 +16,9 @@
         <item quantity="other">Deze gesprekken bevatten meerdere berichten. Toch verwijderen?</item>
         <item quantity="one">Dit gesprek bevat meerdere berichten. Toch verwijderen?</item>
     </plurals>
+	<plurals name="confirm_delete_draft">
+        <item quantity="other">%1$d verwijderen?</item>
+    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
@@ -31,6 +34,10 @@
     <plurals name="conversation_folder_changed">
         <item quantity="other">Mappen gewijzigd.</item>
         <item quantity="one">Map gewijzigd.</item>
+    </plurals>
+	<plurals name="conversation_msg_header_count">
+        <item quantity="other">… %1$d personen</item>
+        <item quantity="one">… %1$d persoon</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">%1$d conversaties genegeerd</item>
