@@ -154,8 +154,6 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
 Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren, toegang, apps en de gegevens in verband met deze gebruiker, met inbegrip van de netwerkactiviteit en de locatiegegevens van uw apparaat te beheren."</string>
   <string name="additional_permissions">Extra toestemmingen</string>
   <string name="additional_permissions_more">%1$d meer</string>
-  <string name="additional_system_update"/>
-  <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Aanvullende systeemupdates</string>
   <string name="adjust_3d_depth_title">3D diepte aanpassen voor games</string>
   <string name="admin_device_owner_message">Uw beheerder kan apps en gegevens die bij dit apparaat zijn geassocieerd, waaronder instellingen, machtigingen, bedrijfs toegang, netwerkactiviteit en de locatiegegevens van het apparaat beheren.</string>
@@ -177,8 +175,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="alarm_ringtone_title">Standaard alarmtoon</string>
   <string name="alarm_sound_dialog_title">Kies alarmtoon</string>
   <string name="alarm_sound_title">Alarmtoon</string>
-  <string name="alarm_stop">Alarm bell ring can terminate silent mode</string>
-  <string name="alarm_stop_info">If the alarm is ringing before the end of the setting, the silence can be terminated</string>
+  <string name="alarm_stop">Alarm kan nog steeds afgaan in stille modus</string>
+  <string name="alarm_stop_info">Als het alarm staat ingesteld voor de eindtijd, zal het toch afgaan.</string>
   <string name="alarm_volume_option_title">Alarmvolume</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Volumes</string>
@@ -191,18 +189,20 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
   <string name="allow_overlay_description">Deze toestemming staat een app toe om getoond te worden boven andere apps die je gebruikt.</string>
   <string name="alpha_build">" | Alpha"</string>
-  <string name="always">Always</string>
-  <string name="always_allow_bind_appwidgets_text">Je hebt ervoor gekozen om deze app toe te staan om widgets te maken en toegang te krijgen tot hun gegevens.</string>
+  <string name="always">Altijd</string>
+  <string name="always_allow_bind_appwidgets_text">Je hebt ervoor gekozen om deze app toe te staan widgets te maken en toegang te krijgen tot hun gegevens.</string>
   <string name="always_running">Altijd actief (%s)</string>
   <string name="amber_alerts_summary">Ontvang mededelingen over kinderontvoeringen</string>
-  <string name="amber_alerts_title">AMBER waarschuwingen</string>
-  <string name="android_beam_disabled_summary">Om deze functie te gebruiken, schakel NFC in</string>
-  <string name="android_beam_explained">U kan een webpagina, een video of andere inhoud vanop uw scherm beamen naar een ander apparaat, door de apparaten tegen elkaar te houden (met de rugzijde tegen elkaar).</string>
+  <string name="amber_alerts_title">AMBER alerts</string>
+  <string name="android_beam_disabled_summary">Niet beschikbaar omdat NFC is uitgeschakeld</string>
+  <string name="android_beam_explained">"Wanneer deze functie is ingeschakeld, kan je appinhoud beamen naar andere apparaten met NFC functie door de apparaten dicht bij elkaar te houden. Je kan bijvoorbeeld internetpagina\'s, YouTube video\'s, contacten en meer beamen.
+
+Je hoeft alleen de apparaten dicht tegen elkaar aan te houden (achterkant tegen elkaar aan) en op het scherm te tikken. De app stelt dan vast wat er wordt gebeamt.</string>
   <string name="android_beam_label">Android Beam</string>
-  <string name="android_beam_off_summary">NFC inhoud delen is uitgeschakeld</string>
-  <string name="android_beam_on_summary">NFC inhoud delen is ingeschakeld</string>
+  <string name="android_beam_off_summary">Uit</string>
+  <string name="android_beam_on_summary">Klaar om appinhoud te verzenden via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Maak u er van bewust dat beide apparaten elkaar raken en tik op de inhoud die u wenst te beamen.</string>
+  <string name="android_beam_tips">Zorg ervoor dat beide apparaten elkaar raken en tik op de inhoud die u wenst te beamen.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Duur van animatieschaal</string>
   <string name="another_migration_already_in_progress">Een andere migratie is al aan de gang.</string>
@@ -227,10 +227,10 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="apn_protocol">APN protocol</string>
   <string name="apn_roaming_protocol">Roamingprotocol voor APN</string>
   <string name="apn_save">Wijzigingen opslaan?</string>
-  <string name="apn_save_msg">Sla wijzigingen APN op?</string>
+  <string name="apn_save_msg">Wijzigingen aan APN opslaan?</string>
   <string name="apn_server">Server</string>
   <string name="apn_settings">APN\'s</string>
-  <string name="apn_settings_not_available">Access Point naam instellingen zijn niet beschikbaar voor deze gebruiker</string>
+  <string name="apn_settings_not_available">APN instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="apn_type">APN type</string>
   <string name="apn_user">Gebruikersnaam</string>
   <string name="app_backup">Back-up</string>
@@ -276,7 +276,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_notification_row_sensitive">Gevoelig</string>
   <string name="app_notification_visibility_override_title">Op het vergrendelscherm</string>
   <string name="app_notifications_dialog_done">Klaar</string>
-  <string name="app_notifications_switch_label">Meldingen aanpassen</string>
+  <string name="app_notifications_switch_label">Meldingen weergeven</string>
   <string name="app_notifications_title">Appmeldingen</string>
   <string name="app_ops_never_used">(Nooit gebruikt)</string>
   <string name="app_ops_permiss_name">App netwerktoegang</string>
@@ -304,8 +304,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="application_permission_manager">Apptoestemmingen</string>
   <string name="application_permissions">Apptoestemmingen</string>
   <string name="application_restrictions">Apps en inhoud toestaan</string>
-  <string name="application_size_label">App</string>
-  <string name="applications_settings">Geïnstalleerde apps</string>
   <string name="applications_settings_header">Appinstellingen</string>
   <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
   <string name="apply_fingerprint_to_category_title">Vingerafdruk toepassen naar…</string>
@@ -1003,7 +1001,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="credentials_install_summary">Certificaten installeren van opslag</string>
   <string name="credentials_not_erased">Referentieopslag kon niet worden gewist.</string>
   <string name="credentials_old_password">Huidig wachtwoord:</string>
-  <string name="credentials_password_too_short">Minimaal 8 tekens</string>
+  <string name="credentials_password_too_short">Het wachtwoord moet ten minste 8 tekens lang zijn.</string>
   <string name="credentials_reset">Referenties wissen</string>
   <string name="credentials_reset_hint">Alle inhoud verwijderen?</string>
   <string name="credentials_reset_summary">Alle certificaten verwijderen</string>
@@ -1138,13 +1136,13 @@ Aangezien dit gegevensverbruik wordt gemeten door uw apparaat en uw provider tot
   <string name="data_usage_menu_show_wifi">Wi-Fi gebruik weergeven</string>
   <string name="data_usage_menu_sim_cards">SIM kaarten</string>
   <string name="data_usage_menu_split_4g">4G gebruik apart weergeven</string>
-  <string name="data_usage_metered_body">Selecteer de Wi-Fi netwerken die mobiele hotspots zijn. Het gebruik van deze netwerken op de achtergrond kan in apps worden beperkt. Apps kunnen ook waarschuwen voordat deze netwerken worden gebruikt voor grote downloads.</string>
+  <string name="data_usage_metered_body">Wi-Fi netwerken worden gezien als mobiel wanneer achtergrondgegevens zijn beperkt. Apps kunnen waarschuwen voordat deze netwerken worden gebruikt voor grote downloads.</string>
   <string name="data_usage_metered_mobile">Mobiele netwerken</string>
   <string name="data_usage_metered_title">Netwerkbeperkingen</string>
   <string name="data_usage_metered_wifi">Wi-Fi netwerken</string>
   <string name="data_usage_metered_wifi_disabled">Schakel Wi-Fi in om mobiele hotspots te selecteren.</string>
   <string name="data_usage_other_apps">Andere apps zijn inbegrepen in het gebruik</string>
-  <string name="data_usage_pick_cycle_day">Dag van maand voor opnieuw instellen van gegevensgebruikcyclus:</string>
+  <string name="data_usage_pick_cycle_day">Dag van de maand voor opnieuw instellen van gegevensgebruikcyclus:</string>
   <string name="data_usage_received_sent">%1$s ontvangen, %2$s verzonden</string>
   <string name="data_usage_restrict_background">Als u het gebruik van mobiele achtergrondgegevens beperkt, werken sommige apps en services niet, tenzij u bent verbonden met een Wi-Fi netwerk.</string>
   <string name="data_usage_restrict_background_multiuser">"Als u het gebruik van mobiele achtergrondgegevens beperkt, werken sommige apps en services niet goed, tenzij u bent verbonden met een Wi-Fi netwerk.
@@ -1306,11 +1304,11 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="disabled_by_policy_title">Actie niet toegestaan</string>
   <string name="disconnect">Verbinding verbreken</string>
   <string name="disconnected">Verbinding verbroken</string>
-  <string name="display_auto_rotate_rotate">Aan</string>
-  <string name="display_auto_rotate_stay_in_current">Uit</string>
-  <string name="display_auto_rotate_stay_in_landscape">Horizontale vergrendeling</string>
-  <string name="display_auto_rotate_stay_in_portrait">Verticale vergrendeling</string>
-  <string name="display_auto_rotate_title">Draai scherminhoud</string>
+  <string name="display_auto_rotate_rotate">Inhoud van het scherm draaien</string>
+  <string name="display_auto_rotate_stay_in_current">In de huidige oriëntatie blijven</string>
+  <string name="display_auto_rotate_stay_in_landscape">In landschapmodus blijven</string>
+  <string name="display_auto_rotate_stay_in_portrait">In portretmodus blijven</string>
+  <string name="display_auto_rotate_title">Wanneer apparaat wordt gedraaid</string>
   <string name="display_font_size_label">Lettergrootte:</string>
   <string name="display_label">Scherm</string>
   <string name="display_order_text">Sorteren op:</string>
@@ -1435,8 +1433,8 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="edge_mode_screenshot">Schermafdruk</string>
   <string name="edge_mode_screenshot_summary">Dubbeltikken op beide randen om een schermafdruk te maken</string>
   <string name="edge_touch_volume">Pas het volume aan op de Edge Touch</string>
-  <string name="edit_rule">edit rules</string>
-  <string name="edit_rules">edit</string>
+  <string name="edit_rule">regels wijzigen</string>
+  <string name="edit_rules">wijzigen</string>
   <string name="eighthours">8 hours</string>
   <string name="emergency_info_title">Noodinformatie</string>
   <string name="emergency_tone_alert">Alarm</string>
@@ -1617,7 +1615,7 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="font_size_preview_text_title">The Wonderful Wizard of Oz</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Kleiner</string>
-  <string name="font_size_summary">Verander de lettergrootte voor de tekst op het beginscherm, meldingspaneel, kiezer en systeemmenu\'s</string>
+  <string name="font_size_summary">Maak de tekst op het scherm groter of kleiner.</string>
   <string name="font_size_summary1">"Als de tekst van uw systeem nog te klein is, probeer"</string>
   <string name="font_size_summary2">Lite mode</string>
   <string name="forbidden_switch_apn_string">De geselecteerde APN instellingen komen niet overeen met het netwerktype</string>
@@ -1726,9 +1724,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="hdmi_3dplay_control_disable_subtext">3D Stereoscopic output naar externe 3D display uitgeschakeld</string>
   <string name="hdmi_3dplay_control_enable_subtext">3D Stereoscopic output naar externe 3D display ingeschakeld</string>
   <string name="hdmi_3dplay_control_text">3D uitgang</string>
-  <string name="hdmi_3dplay_settings_title">HDMI</string>
   <string name="hdmi_color_calibration_none">Origineel</string>
-  <string name="hdmi_color_calibration_srgb">sRGB</string>
   <string name="header_account_settings">Accountinstellingen</string>
   <string name="header_add_an_account">Een account toevoegen</string>
   <string name="header_application_sync_settings">Sync. instellingen van de app</string>
@@ -1738,7 +1734,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="header_category_device">Apparaat</string>
   <string name="header_category_personal">Privé</string>
   <string name="header_category_system">Systeem</string>
-  <string name="header_category_wireless_networks">Netwerk</string>
+  <string name="header_category_wireless_networks">Draadloos &amp; netwerken</string>
   <string name="header_data_and_synchronization">Gegevens en sync.</string>
   <string name="heavy_weight_stop_description">Deze app kan niet veilig worden gestopt. Als je het stopt, kan u een deel van uw huidige werk verliezen.</string>
   <string name="help_feedback_label">Help &amp; feedback</string>
@@ -1764,16 +1760,14 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="home_key">Startscherm</string>
   <string name="home_settings">Startscherm</string>
   <string name="home_work_profile_not_supported">Ondersteunt geen werkprofielen</string>
-  <string name="hotspot_accout_check_server_url"/>
-  <string name="hotspot_accout_up_sell_url"/>
-  <string name="http_invoke_app">Web apps</string>
+  <string name="http_invoke_app">Webapps</string>
   <string name="http_invoke_app_summary">Apps sneller openen zonder ze te installeren</string>
   <string name="ignore_optimizations_off">Optimaliseren</string>
   <string name="ignore_optimizations_off_desc">Aanbevolen voor beter batterijleven</string>
   <string name="ignore_optimizations_on">Niet optimaliseren</string>
   <string name="ignore_optimizations_on_desc">Kan ervoor zorgen dat uw batterij sneller leegraakt</string>
-  <string name="ignore_optimizations_title">%s toestaan om batterij optimalisatie te negeren?</string>
-  <string name="ime_security_warning">%1$s kan alles registreren wat u typt, inclusief wachtwoorden, creditcardnummers en andere persoonlijke gegevens.</string>
+  <string name="ignore_optimizations_title">%s toestaan om batterij-optimalisatie te negeren?</string>
+  <string name="ime_security_warning">Deze invoermethode kan alle tekst die je typt verzamelen, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. Het is van de app %1$s. Deze invoermethode gebruiken?</string>
   <string name="imei_information_summary">IMEI gerelateerde informatie</string>
   <string name="imei_information_title">IMEI informatie</string>
   <string name="immediately_destroy_activities">Activiteiten niet behouden</string>
@@ -1787,7 +1781,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="incoming_call_breathing_light_freq_title">Knipperfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
   <string name="information_dialog_button_text">Verstaan</string>
-  <string name="input_method">Toetsenbord</string>
+  <string name="input_method">Invoermethode</string>
   <string name="input_method_selector">Invoermethode kiezer</string>
   <string name="input_method_selector_always_hide_title">Altijd verbergen</string>
   <string name="input_method_selector_always_show_title">Altijd weergeven</string>
@@ -1823,11 +1817,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="invalid_location">De installatielocatie is niet geldig.</string>
   <string name="invalid_size_value">Kan pakketgrootte niet berekenen.</string>
   <string name="ipaddr_label">IPaddr:</string>
-  <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s en %2$s</string>
-  <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s en %2$s</string>
-  <string name="join_two_unrelated_items">%1$s, %2$s</string>
   <string name="keep_legacy_fingerprint">Houden</string>
   <string name="keep_screen_on">Standby</string>
   <string name="keep_screen_on_summary">Scherm gaat nooit uit tijdens het opladen</string>
@@ -1842,7 +1833,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keyboard_layout_dialog_switch_hint">Druk op Ctrl spatiebalk om te schakelen</string>
   <string name="keyboard_layout_dialog_title">Toetsenbordindeling kiezen</string>
   <string name="keyboard_layout_picker_title">Toetsenbordindelingen</string>
-  <string name="keyboard_settings_category">Toetsenbord en invoermethoden</string>
+  <string name="keyboard_settings_category">Toetsenbord  &amp; invoermethoden</string>
   <string name="keyboard_settings_title">Android toetsenbord</string>
   <string name="keyboard_shortcuts_helper">Toetsenbord snelkoppeling helper</string>
   <string name="keyboard_shortcuts_helper_summary">Beschikbare snelkoppelingen weergeven</string>
@@ -1965,7 +1956,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="locale_not_translated">Kan in sommige apps niet beschikbaar zijn</string>
   <string name="locale_remove_menu">Verwijderen</string>
   <string name="locale_settings">Regio</string>
-  <string name="location_access_summary">Apps die uw toestemming hebben gevraagd, toestaan uw locatiegegevens te gebruiken</string>
+  <string name="location_access_summary">Apps die uw toestemming hebben gevraagd toestaan uw locatiegegevens te gebruiken</string>
   <string name="location_access_title">Toegang tot mijn locatie</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
   <string name="location_agps_apn_summary">Kies voorkeurs APN type</string>
@@ -2000,16 +1991,16 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="location_high_battery_use">Hoog accugebruik</string>
   <string name="location_low_battery_use">Laag accugebruik</string>
   <string name="location_menu_scanning">Scannen</string>
-  <string name="location_mode_battery_saving_description">Wi-Fi en mobiele netwerken gebruiken om locatie te bepalen</string>
+  <string name="location_mode_battery_saving_description">Wi-Fi, Bluetooth of mobiele netwerken gebruiken om locatie te bepalen</string>
   <string name="location_mode_battery_saving_title">Batterijbesparing</string>
-  <string name="location_mode_high_accuracy_description">GPS, Wi-Fi en mobiele netwerken gebruiken om locatie te bepalen</string>
+  <string name="location_mode_high_accuracy_description">GPS, Wi-Fi, Bluetooth of mobiele netwerken gebruiken om locatie te bepalen</string>
   <string name="location_mode_high_accuracy_title">Grote nauwkeurigheid</string>
   <string name="location_mode_location_off_title">Locatie uit</string>
   <string name="location_mode_screen_title">Locatiemodus</string>
   <string name="location_mode_sensors_only_description">GPS gebruiken om locatie te bepalen</string>
   <string name="location_mode_sensors_only_title">Alleen apparaat</string>
   <string name="location_mode_title">Modus</string>
-  <string name="location_neighborhood_level">Apps toestaan de locatieservice van Google te gebruiken om uw locatie sneller te schatten. Anonieme locatiegegevens worden verzameld en verzonden naar Google.</string>
+  <string name="location_neighborhood_level">Apps toestaan de locatieservice van Google te gebruiken om uw locatie sneller te bepalen. Anonieme locatiegegevens worden verzameld en verzonden naar Google.</string>
   <string name="location_neighborhood_level_wifi">Locatie bepaald via Wi-Fi</string>
   <string name="location_network_based">Wi-Fi en mobiele netwerklocatie</string>
   <string name="location_no_recent_apps">Er zijn geen apps die uw locatie onlangs hebben aangevraagd</string>
@@ -2045,9 +2036,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_notifications_interstitial_title_profile">Profielmeldingen</string>
   <string name="lock_screen_notifications_summary_disable">Geen enkele melding weergeven</string>
   <string name="lock_screen_notifications_summary_disable_profile">Geen werknotificaties weergeven</string>
-  <string name="lock_screen_notifications_summary_hide">Alle meldingen weergeven maar gevoelige inhoud verbergen</string>
+  <string name="lock_screen_notifications_summary_hide">Alle gevoelige meldinginhoud verbergen</string>
   <string name="lock_screen_notifications_summary_hide_profile">Gevoelige werkgerelateerde meldingsinhoud verbergen</string>
-  <string name="lock_screen_notifications_summary_show">Alle meldingen en de inhoud daarvan weergeven</string>
+  <string name="lock_screen_notifications_summary_show">Alle meldinginhoud weergeven</string>
   <string name="lock_screen_notifications_summary_show_profile">Alle werkgerelateerde meldingsinhoud weergeven</string>
   <string name="lock_screen_notifications_title">Wanneer apparaat vergrendeld is</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig</string>
@@ -2096,13 +2087,13 @@ U kunt een nieuwe schermvergrendeling instellen voor zowel uw apparaat als uw we
   <string name="lockpassword_confirm_workspace_password">Bevestig wachtwoord van werkruimte</string>
   <string name="lockpassword_confirm_your_lock_password_header">Bevestig uw wachtwoord</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Bevestig uw patroon</string>
-  <string name="lockpassword_confirm_your_password_generic">Voer uw apparaatwachtwoord in om verder te gaan.</string>
+  <string name="lockpassword_confirm_your_password_generic">Voer uw apparaatwachtwoord in om verder te gaan</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Voer uw werkwachtwoord in om verder te gaan</string>
   <string name="lockpassword_confirm_your_password_header">Uw wachtwoord bevestigen</string>
-  <string name="lockpassword_confirm_your_pattern_generic">Gebruik uw apparaatpatroon om verder te gaan.</string>
+  <string name="lockpassword_confirm_your_pattern_generic">Gebruik uw apparaatpatroon om verder te gaan</string>
   <string name="lockpassword_confirm_your_pattern_generic_profile">Gebruik uw werkpatroon om door te gaan</string>
   <string name="lockpassword_confirm_your_pattern_header">Uw patroon bevestigen</string>
-  <string name="lockpassword_confirm_your_pin_generic">Voer uw apparaat PIN in om verder te gaan.</string>
+  <string name="lockpassword_confirm_your_pin_generic">Voer uw apparaat PIN in om verder te gaan</string>
   <string name="lockpassword_confirm_your_pin_generic_profile">Voer uw werk PIN in om verder te gaan</string>
   <string name="lockpassword_confirm_your_pin_header">Uw PIN code bevestigen</string>
   <string name="lockpassword_confirm_your_private_password_header">Bevestig uw wachtwoord</string>
@@ -2138,7 +2129,7 @@ U kunt een nieuwe schermvergrendeling instellen voor zowel uw apparaat als uw we
   <string name="lockpattern_confirm_button_text">Bevestigen</string>
   <string name="lockpattern_continue_button_text">Doorgaan</string>
   <string name="lockpattern_need_to_confirm">Teken patroon nogmaals ter bevestiging</string>
-  <string name="lockpattern_need_to_unlock_wrong">Probeer opnieuw:</string>
+  <string name="lockpattern_need_to_unlock_wrong">Verkeerde patroon</string>
   <string name="lockpattern_pattern_confirmed_header">Uw nieuwe ontgrendelpatroon</string>
   <string name="lockpattern_pattern_entered_header">Patroon opgenomen</string>
   <string name="lockpattern_pattern_same_with_others">Moet verschillend zijn van wachtwoord van andere ruimte</string>
@@ -2320,7 +2311,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="menu_proc_stats_type_background">Achtergrond</string>
   <string name="menu_proc_stats_type_cached">In cache</string>
   <string name="menu_proc_stats_type_foreground">Voorgrond</string>
-  <string name="menu_restore">Reset</string>
+  <string name="menu_restore">Standaardwaarden herstellen</string>
   <string name="menu_save">Opslaan</string>
   <string name="menu_share">Delen</string>
   <string name="menu_show_percentage">Percentages weergeven</string>
@@ -2340,15 +2331,15 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_allow_vibrate">Trillingen</string>
   <string name="miui_data_usage_menu_metered">Mobiele hotspots</string>
   <string name="miui_experience_optimization">MIUI optimalisaties inschakelen</string>
-  <string name="miui_lab_feature_applied">Applied</string>
-  <string name="miui_lab_feature_off">Off</string>
-  <string name="miui_lab_feature_on">On</string>
-  <string name="miui_lab_features">MIUI lab features</string>
-  <string name="miui_lab_gallery_search_desc">Improved image search</string>
-  <string name="miui_lab_gallery_search_title">Find photos in Gallery</string>
+  <string name="miui_lab_feature_applied">Toegepast</string>
+  <string name="miui_lab_feature_off">Uit</string>
+  <string name="miui_lab_feature_on">Aan</string>
+  <string name="miui_lab_features">MIUI lab functies</string>
+  <string name="miui_lab_gallery_search_desc">Verbeterd naar afbeeldingen zoeken</string>
+  <string name="miui_lab_gallery_search_title">Vind foto\'s in galerij</string>
   <string name="miui_lab_settings">MIUI lab</string>
-  <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
-  <string name="miui_lab_taplus_desc">Press and hold to trigger shortcuts</string>
+  <string name="miui_lab_slogan">Leer. Verken. Ontdek.</string>
+  <string name="miui_lab_taplus_desc">Tik en houd ingedrukt om snelkoppelingen te triggeren</string>
   <string name="miui_lab_taplus_title">Trigger apps</string>
   <string name="miui_screen_config_title">Startscherm instellingen</string>
   <string name="mms_breathing_light_color_title">Kleur bij berichten</string>
@@ -2363,14 +2354,13 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="mock_location_app">Neplocatie-app selecteren</string>
   <string name="mock_location_app_not_set">Geen neplocatie-app ingesteld</string>
   <string name="mock_location_app_set">Neplocatie-app: %1$s</string>
-  <string name="mode_disable">disabled</string>
-  <string name="mode_enable">enabled</string>
+  <string name="mode_disable">uitgeschakeld</string>
+  <string name="mode_enable">ingeschakeld</string>
   <string name="model_number">Modelnummer</string>
   <string name="modify_instruction_password_settings">Wachtwoord instellen</string>
   <string name="modify_privacy_password">Wachtwoord wijzigen</string>
   <string name="move_app">Verplaatsen</string>
   <string name="move_app_failed_dlg_text">Kon app niet verplaatsen. %1$s</string>
-  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Verplaatsen naar apparaat</string>
   <string name="move_app_to_sdcard">Verplaatsen naar USB opslag</string>
   <string name="move_error_device_admin">Apparaatbeheerder kan niet worden geïnstalleerd op externe media.</string>
@@ -2403,13 +2393,13 @@ Selecteer het OS van uw computer:"</string>
   <string name="mtp_ptp_mode_summary">MTP- of PTP functie is actief</string>
   <string name="multi_touch_points_category_title">Multi touch punten</string>
   <string name="multi_touch_points_preference">Herstart is nodig</string>
-  <string name="music_app_unavailable">Depend on music app, make sure it is available</string>
+  <string name="music_app_unavailable">Afhankelijk van muziekapp, zorg ervoor dat het beschikbaar is</string>
   <string name="music_audio_effect_optimize">Audio instellingen</string>
   <string name="music_audio_effect_optimize_summary">Dirac, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD geluid, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_settings">Audio effect instellingen</string>
-  <string name="music_dirac_control">Optimaliseer audio kwaliteit</string>
+  <string name="music_dirac_control">Optimaliseer audiokwaliteit</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi oordopjes</string>
   <string name="music_dirac_mode_general">Algemene</string>
@@ -2522,13 +2512,13 @@ Selecteer het OS van uw computer:"</string>
   <string name="no_default_home">Geen standaard startscherm</string>
   <string name="no_device_admins">Geen apparaatbeheerders beschikbaar</string>
   <string name="no_internet_access_remember">Niet opnieuw vragen voor dit netwerk</string>
-  <string name="no_internet_access_text">Wi-Fi netwerk %1$s heeft geen internettoegang. Verbonden blijven?</string>
+  <string name="no_internet_access_text">Dit netwerk heeft geen internettoegang. Verbonden blijven?</string>
   <string name="no_media_button_receiver">Nee</string>
   <string name="no_memory_use_summary">Geen geheugen gebruikt in de laatste 3 uur</string>
   <string name="no_nearby_wifi">Er zijn geen netwerken gedetecteerd</string>
   <string name="no_notification_listeners">Geen enkel geïnstalleerde app heeft toegang gevraagd tot meldingen.</string>
   <string name="no_running_services">Niets wordt uitgevoerd.</string>
-  <string name="no_services">Niet actieve services</string>
+  <string name="no_services">Niet actief</string>
   <string name="no_trust_agents">Geen vertrouwde agents beschikbaar</string>
   <string name="no_update_found">Laatste versie is al geïnstalleerd </string>
   <string name="no_updates_found">U heeft de meest recente versie van MIUI al geïnstalleerd.</string>
@@ -2659,7 +2649,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="overlay_settings">Tekenen over andere apps</string>
   <string name="owner_info_settings_edit_text_hint">Bijv. Joe’s Android.</string>
   <string name="owner_info_settings_summary">Geen</string>
-  <string name="owner_info_settings_title">Vergrendelscherm eigenaarsinfo</string>
+  <string name="owner_info_settings_title">Bericht op vergrendelscherm</string>
   <string name="owner_space">Eerste ruimte</string>
   <string name="packages_subtitle">Bijgeleverde pakketten</string>
   <string name="page_layout_1">Zon, 16 Augustus</string>
@@ -2800,7 +2790,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_usage_list_summary">Gebruikt sinds de laatste keer opladen</string>
   <string name="power_usage_not_available">Accugebruikgegevens niet beschikbaar.</string>
   <string name="power_usage_summary">Waarvoor de batterij is gebruikt</string>
-  <string name="power_usage_summary_title">Batterij &amp; prestatie</string>
+  <string name="power_usage_summary_title">Batterij</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">Voorgeïnstalleerde apps</string>
   <string name="pref_button_light">Knopverlichting</string>
@@ -2975,9 +2965,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="proxy_error_invalid_port">De poort die u hebt ingevoerd is niet geldig.</string>
   <string name="proxy_exclusionlist_hint">example.com, mijncomp.test.com, localhost</string>
   <string name="proxy_exclusionlist_label">Proxy omzeilen voor</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Hostnaam van proxy</string>
-  <string name="proxy_port_label">Proxy poort</string>
+  <string name="proxy_port_label">Proxypoort</string>
   <string name="proxy_settings_label">Proxy instellingen</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_warning_limited_support">De HTTP proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
@@ -2987,7 +2976,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="quiet_important_interruptions_mode">Alleen uitzonderingen toestaan</string>
   <string name="quiet_no_interruptions_mode">Alle onderbrekingen dempen</string>
   <string name="quiet_off_mode">Onderbrekingen altijd toestaan</string>
-  <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Verbonden</string>
   <string name="radioInfo_data_connecting">Verbinding maken</string>
   <string name="radioInfo_data_disconnected">Verbinding verbroken</string>
@@ -3248,7 +3236,7 @@ Om schermpinning te gebruiken:
   <string name="screen_saturation">Verzadiging</string>
   <string name="screen_timeout">Slapen</string>
   <string name="screen_timeout_summary">Na %1$s inactiviteit</string>
-  <string name="screen_timeout_title">Slaapmodus</string>
+  <string name="screen_timeout_title">Scherm uitschakelen</string>
   <string name="screen_zoom_conversation_message_1">Hallo Pete!</string>
   <string name="screen_zoom_conversation_message_2">Hey, wil je afspreken vandaag om koffie te drinken?</string>
   <string name="screen_zoom_conversation_message_3">Klinkt goed. Ik ken een leuke plek niet ver hier vandaan</string>
@@ -3588,15 +3576,13 @@ Om schermpinning te gebruiken:
   <string name="selinux_status_enforcing">Wordt afgedwongen</string>
   <string name="selinux_status_permissive">Tolerant</string>
   <string name="service_background_processes">%1$s vrij</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s gebr.</string>
   <string name="service_manage">Instellingen</string>
   <string name="service_manage_description">"%1$s: momenteel in gebruik. Raak 'Instellingen' aan om dit te bedienen."</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Opnieuw starten</string>
   <string name="service_started_by_app">Gestart door app.</string>
   <string name="service_stop">Stoppen</string>
-  <string name="service_stop_description">Deze service is gestart door de app. Als de service wordt gestopt, kan de app vastlopen.</string>
+  <string name="service_stop_description">Deze service is gestart door de bijbehorende app. Als je het afsluit kan de app vastlopen.</string>
   <string name="services_subtitle">Services</string>
   <string name="set_data_limit">Datalimiet instellen</string>
   <string name="set_data_time_range">Tijd weergeven</string>
@@ -3682,7 +3668,7 @@ Om schermpinning te gebruiken:
   <string name="silent_standard">Stil</string>
   <string name="silent_time">Duur van stille modus</string>
   <string name="silent_total">Niet storen</string>
-  <string name="sim_bad_pin">PIN moet 4-8 nummers lang zijn</string>
+  <string name="sim_bad_pin">Verkeerde PIN</string>
   <string name="sim_call_back_title">Terugbellen van standaard SIM</string>
   <string name="sim_calls_always_use">Deze altijd gebruiken voor oproepen</string>
   <string name="sim_calls_ask_first_prefs_title">Elke keer vragen</string>
@@ -3717,7 +3703,7 @@ PIN code mogelijk onjuist.</string>
   <string name="sim_lock_off">PIN code vereist voor gebruik van apparaat</string>
   <string name="sim_lock_on">PIN code vereist voor gebruik van apparaat</string>
   <string name="sim_lock_settings">Instellingen SIM kaart vergrendeling</string>
-  <string name="sim_lock_settings_category">SIM vergrendeling instellen</string>
+  <string name="sim_lock_settings_category">SIM kaart vergrendeling instellen</string>
   <string name="sim_lock_settings_title">SIM kaart vergrendeling</string>
   <string name="sim_management_title">Mobiele netwerken</string>
   <string name="sim_management_title_cr_kolbi">SIM kaart &amp; mobiele netwerken</string>
@@ -3780,7 +3766,7 @@ PIN code mogelijk onjuist.</string>
   <string name="sort_max_use">Sorteren op max. gebr.</string>
   <string name="sort_order_alpha">Sorteren op naam</string>
   <string name="sort_order_size">Sorteren op grootte</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Beltoon &amp; meldingsgeluiden</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Beltoon &amp; trillen</string>
   <string name="sound_category_sound_title">Algemeen</string>
   <string name="sound_category_system_title">Systeem</string>
   <string name="sound_effects_enable_title">Aanraakgeluiden</string>
@@ -3923,7 +3909,7 @@ Verplaats je mediabestanden naar alternatieve opslag op dit apparaat, of verplaa
 
 "&lt;b&gt;Back-up apps&lt;/b&gt;" 
 Alle apps opgeslagen op ^1 zullen worden gewist en hun gegevens zullen verloren gaan. Om deze apps te behouden, verplaats ze naar alternatieve opslag op dit apparaat."</string>
-  <string name="storage_internal_title">Non-systeem opslag</string>
+  <string name="storage_internal_title">Apparaatopslag</string>
   <string name="storage_internal_unmount_details">&lt;b&gt;Als u deze ^1 uitwerpt, zullen apps die erop staan opgeslagen stoppen  met werken, en mediabestanden die erop staan opgeslagen zullen niet beschikbaar zijn totdat u het opnieuw invoert.&lt;/b&gt;" 
 
 Deze ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal niet werken op andere apparaten."</string>
@@ -4296,15 +4282,14 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_unlock_mode_pin">PIN code</string>
   <string name="unlock_set_unlock_none_summary">Geen beveiliging</string>
   <string name="unlock_set_unlock_none_title">Vegen</string>
-  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Geen</string>
-  <string name="unlock_set_unlock_password_summary">Voer vier of meer letters of nummers in om apparaat te ontgrendelen</string>
+  <string name="unlock_set_unlock_password_summary">Goede beveiliging</string>
   <string name="unlock_set_unlock_password_title">Wachtwoord</string>
-  <string name="unlock_set_unlock_pattern_summary">Teken een eenvoudig patroon met uw vinger om apparaat te ontgrendelen</string>
+  <string name="unlock_set_unlock_pattern_summary">Gemiddelde beveiliging</string>
   <string name="unlock_set_unlock_pattern_title">Patroon</string>
-  <string name="unlock_set_unlock_pin_summary">Voer vier nummers in om apparaat te ontgrendelen</string>
+  <string name="unlock_set_unlock_pin_summary">Gemiddelde tot hoge beveiliging</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
-  <string name="unlock_set_unlock_summary">Scherm wachtwoord instellen voor wachtwoord protectie</string>
+  <string name="unlock_set_unlock_summary">Schermwachtwoord instellen voor wachtwoordbeveiliging</string>
   <string name="unlock_setup_wizard_fingerprint_details">Als u schermvergrendeling eenmaal hebt ingesteld, kunt u ook uw vingerafdruk instellen in instellingen &gt; Veiligheid.</string>
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="unrestrict_max_aspect_ratio_title">Max aspectratio ondersteunen</string>
@@ -4407,12 +4392,12 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="user_add_user_item_summary">Gebruikers hebben hun eigen apps en inhoud</string>
   <string name="user_add_user_item_title">Gebruiker</string>
   <string name="user_add_user_menu">Gebruiker toevoegen</string>
-  <string name="user_add_user_message_long">"U kunt dit apparaat met andere mensen delen door extra gebruikers te maken. Elke gebruiker heeft een eigen ruimte die kan worden aangepast met eigen apps, een achtergrond, enzovoort. Gebruikers kunnen ook apparaatinstellingen aanpassen, zoals Wi-Fi, die effect hebben op alle gebruikers.
+  <string name="user_add_user_message_long">"U kunt dit apparaat met andere mensen delen door extra gebruikers te maken. Elke gebruiker heeft een eigen ruimte die kan worden aangepast met eigen apps, achtergrond enzovoort. Gebruikers kunnen ook systeeminstellingen aanpassen, zoals Wi-Fi, die dan effect zullen hebben op alle gebruikers.
 
-Nadat u een nieuwe gebruiker heeft gemaakt, moet die persoon een configuratieproces volgen.
+Wanneer u een nieuwe gebruiker toevoegt moet deze persoon een een eigen ruimte instellen.
 
-Elke gebruiker kan namens alle andere gebruikers bijgewerkte appmachtigingen accepteren."</string>
-  <string name="user_add_user_message_short">"Als je een nieuwe gebruiker toevoegt, moet die persoon zijn eigen ruimte opzetten.
+Elke gebruiker kan apps voor alle andere gebruikers updaten"</string>
+  <string name="user_add_user_message_short">"Als je een nieuwe gebruiker toevoegt moet die persoon zijn eigen ruimte instellen.
 
 Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="user_add_user_or_profile_menu">Gebruiker of profiel toevoegen</string>
@@ -4446,10 +4431,8 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="user_dict_settings_context_menu_delete_title">Verwijderen</string>
   <string name="user_dict_settings_context_menu_edit_title">Bewerken</string>
   <string name="user_dict_settings_edit_dialog_title">Woord bewerken</string>
-  <string name="user_dict_settings_empty_text">"Er staan geen woorden in het gebruikerswoordenboek.
-U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
+  <string name="user_dict_settings_empty_text">"Er staan geen woorden in het gebruikerswoordenboek. U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="user_dict_settings_more_languages">Meer talen…</string>
-  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Persoonlijk woordenboek</string>
   <string name="user_enable_calling">Telefoonoproepen inschakelen</string>
   <string name="user_enable_calling_and_sms_confirm_message">Oproep- en SMS geschiedenis zullen gedeeld worden met deze gebruiker.</string>
@@ -4570,7 +4553,7 @@ U kunt een woord toevoegen door op de knop 'Toevoegen' (+) te tikken."</string>
   <string name="volume_bluetooth_description">Bluetoothvolume</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">HiFi instellingen</string>
-  <string name="volume_media_description">Muziek, video, games en andere media</string>
+  <string name="volume_media_description">Muziek, video, games &amp; andere media</string>
   <string name="volume_media_mute">Muziek en andere media dempen</string>
   <string name="volume_notification_description">Meldingen</string>
   <string name="volume_notification_mute">Meldingen dempen</string>
@@ -4846,8 +4829,7 @@ WLAN assistent"</string>
   <string name="wifi_menu_write_to_nfc">Schrijven naar NFC tag</string>
   <string name="wifi_more">Meer</string>
   <string name="wifi_multiple_cert_added">(Meerdere certificaten toegevoegd)</string>
-  <string name="wifi_network_prefix_length">Lengte van netwerkprefix</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
+  <string name="wifi_network_prefix_length">Lengte van netwerkvoorvoegsel</string>
   <string name="wifi_no_domain_warning">Domein opgeven.</string>
   <string name="wifi_no_internet">"Geen internettoegang gedetecteerd, zal niet automatisch opnieuw verbinden."</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
@@ -4859,7 +4841,7 @@ WLAN assistent"</string>
   <string name="wifi_off_airplane_on_confirm">Ok</string>
   <string name="wifi_off_airplane_on_content">In vliegmodus kan je Wi-Fi handmatig inschakelen.</string>
   <string name="wifi_off_airplane_on_not_remind">Niet meer weergeven</string>
-  <string name="wifi_off_airplane_on_title">Attentie</string>
+  <string name="wifi_off_airplane_on_title">Opgelet</string>
   <string name="wifi_on_time">Wi-Fi op tijd</string>
   <string name="wifi_other_network">Ander netwerk toevoegen</string>
   <string name="wifi_p2p_cancel_connect_message">Wilt u de uitnodiging voor verbinding met %1$s annuleren?</string>
@@ -4931,9 +4913,9 @@ Dit toestaan voor alle apps die willen scannen?"</string>
   <string name="wifi_setup_back">Vorige</string>
   <string name="wifi_setup_cancel">Annuleren</string>
   <string name="wifi_setup_connect">Verbinden</string>
-  <string name="wifi_setup_description_connected">Tik &lt;b&gt;Volgende&lt;/b&gt;" aan om door te gaan met de configuratie.
+  <string name="wifi_setup_description_connected">Tik Volgende aan om door te gaan met de configuratie.
   
-Tik "&lt;b&gt;Terug&lt;/b&gt; aan om verbinding te maken met een ander Wi-Fi netwerk.</string>
+Tik Terug aan om verbinding te maken met een ander Wi-Fi netwerk.</string>
   <string name="wifi_setup_description_connecting">Verbinding maken kan enkele minuten duren...</string>
   <string name="wifi_setup_detail">Netwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">"U kunt een Wi-Fi verbinding van het type EAP niet configureren tijdens het instellen. U kunt dit na het instellen doen via 'Instellingen' &gt; 'Draadloos en netwerken'."</string>
@@ -4957,7 +4939,7 @@ Tik "&lt;b&gt;Terug&lt;/b&gt; aan om verbinding te maken met een ander Wi-Fi net
   <string name="wifi_setup_title_connected_network">Verbonden met Wi-Fi netwerk %s</string>
   <string name="wifi_setup_title_connecting_network">Verbinding maken met Wi-Fi -netwerk %s…</string>
   <string name="wifi_setup_title_editing_network">Verbinding maken met Wi-Fi netwerk %s</string>
-  <string name="wifi_setup_wizard_title">Wi-Fi selecteren</string>
+  <string name="wifi_setup_wizard_title">Wi-Fi netwerk selecteren</string>
   <string name="wifi_setup_wps">Autom. config. (WPS)</string>
   <string name="wifi_share">Wi-Fi delen</string>
   <string name="wifi_share_action_turn_off">Stop met het delen van netwerken</string>
@@ -4997,7 +4979,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_skip_anyway">Toch overslaan</string>
   <string name="wifi_skipped_message">"WAARSCHUWING: Als u Wi-Fi instellen overslaat, zal uw telefoon mobiele data gebruiken voor de eerste downloads en updates. Maak verbinding met Wi-Fi om mogelijke datakosten te vermijden."</string>
   <string name="wifi_speed">Linksnelheid</string>
-  <string name="wifi_ssid">SSID</string>
+  <string name="wifi_ssid">Netwerknaam</string>
   <string name="wifi_ssid_hint">Geef de SSID op</string>
   <string name="wifi_starting">Wi-Fi inschakelen…</string>
   <string name="wifi_state_disabled">Uitgeschakeld</string>
@@ -5054,7 +5036,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_wapi_cert_uninstall">WAPI certificaat deïnstalleren</string>
   <string name="wifi_wapi_cert_uninstall_button">Deïnstalleren</string>
   <string name="wifi_wapi_certification_dont_exist">Het netwerkwachtwoord dat u heeft ingevoerd is incorrect. Probeer het opnieuw.</string>
-  <string name="wifi_wapi_user_cert">Gebruiker Certificaat</string>
+  <string name="wifi_wapi_user_cert">Gebruikercertificaat</string>
   <string name="wifi_wps_available_first_item">WPS beschikbaar</string>
   <string name="wifi_wps_available_second_item">" (WPS beschikbaar)"</string>
   <string name="wifi_wps_complete">WPS geslaagd. Bezig met verbinding maken met netwerk…</string>
@@ -5066,7 +5048,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_wps_failed_wep">De beveiligingsinstelling voor de draadloze router (WEP) wordt niet ondersteund</string>
   <string name="wifi_wps_in_progress">WPS wordt al uitgevoerd en het kan twee minuten duren voordat dit proces is voltooid</string>
   <string name="wifi_wps_nfc_enter_password">Voer uw netwerkwachtwoord in</string>
-  <string name="wifi_wps_onstart_pbc">"Druk op de knop 'Beveiligde configuratie voor Wi-Fi' op uw router. Misschien heet deze knop 'WPS' of bevat deze het volgende symbool:"</string>
+  <string name="wifi_wps_onstart_pbc">"Druk op de knop 'Beveiligde configuratie voor Wi-Fi' op uw router. Misschien heet deze knop “WPS” of heeft deze het volgende symbool:"</string>
   <string name="wifi_wps_onstart_pin">Geef de PIN code %1$s op uw Wi-Fi router op. De configuratie kan twee minuten duren.</string>
   <string name="wifi_wps_overlap_error">Er is een andere Wi-Fi sessie gedetecteerd. Wacht een minuut en probeer opnieuw</string>
   <string name="wifi_wps_setup_msg">WPS opstarten…</string>
