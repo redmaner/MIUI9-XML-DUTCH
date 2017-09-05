@@ -8,7 +8,7 @@
   <string name="back_up_task_in_process">Bezig met back-up…</string>
   <string name="back_up_task_unfinished">Back-up niet voltooid</string>
   <string name="backing_up_to_micloud">Bezig met back-up…</string>
-  <string name="backup_fail">Kon startscherm niet back-uppen</string>
+  <string name="backup_fail">Kon niet back-uppen</string>
   <string name="backup_finished_notification_content">Back-up gemaakt van apps van startscherm, systeeminstelllingen, enz.</string>
   <string name="backup_now">Nu back-uppen</string>
   <string name="backup_size">Grootte: %s</string>
@@ -114,7 +114,7 @@
   <string name="restore_from_this_device">Herstellen met deze backup</string>
   <string name="restore_home_screen_apps">Herstellen vanuit Mi Cloud backup</string>
   <string name="restore_task_unfinished">Apps aan het herstellen, probeer later opnieuw</string>
-  <string name="restoreing_file_tile">Herstellen van %d bestanden</string>
+  <string name="restoreing_file_tile">%d bestanden herstellen</string>
   <string name="retry">Probeer opnieuw</string>
   <string name="self_phone">Deze telefoon</string>
   <string name="settings_backup">Systeeminstellingen</string>

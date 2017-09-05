@@ -175,14 +175,14 @@
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
         <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="status_bar_style_entries">
         <item>Gecombineerd</item>
         <item>Gescheiden</item>
+    </string-array>
+	<string-array name="status_bar_show_carrier_entries">
+        <item>Alleen weergeven op vergrendelscherm en meldingsscherm</item>
+        <item>Providernaam altijd weergeven</item>
+        <item>Providernaam nooit weergeven</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
@@ -192,10 +192,7 @@
         <item>Australië</item>
         <item>Stille Oceaan</item>
         <item>Alles</item>
-	</string-array>	
-    <string-array name="no_cache_clear_package_list">
-        <item></item>
-    </string-array>
+	</string-array>
     <string-array name="screen_timeout_entries">
         <item>15 seconden</item>
         <item>30 seconden</item>
@@ -299,19 +296,13 @@
         <item>Aantal keer gestart</item>
         <item>Appnaam</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -331,11 +322,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP of CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
 	    <item>Ongespecifiëerd</item>

@@ -836,6 +836,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="toast_download_error_by_not_login">Aanmelden op uw Mi Account en probeer opnieuw.</string>
   <string name="toast_download_error_by_vip_required">Premium muziek pakket verkrijgen om dit nummer te downloaden.</string>
   <string name="toast_download_in_process">Bezig met downloaden</string>
+  <string name="toast_new_playlist_name_no_enter">"toets 'Enter' is verwijderd'"</string>
+  <string name="toast_new_playlist_name_too_long">Naam van afspeellijst is te lang</string>
   <string name="toast_normal_songs_for_download">Downloadkwaliteit is ingesteld op standaard</string>
   <string name="toast_normal_songs_for_stream">Streamingkwaliteit is ingesteld op standaard</string>
   <string name="toast_stream_normal">Speelt nu in standaardkwaliteit. Premium abonnement verkrijgen om van hogere kwaliteitsstreaming te genieten.</string>
