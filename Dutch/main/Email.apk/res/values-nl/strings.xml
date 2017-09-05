@@ -156,7 +156,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_username_password_toast">Voer een geldig e-mailadres en wachtwoord in.</string>
   <string name="account_sync_off">Accountsynchronisatie is uitgeschakeld.</string>
   <string name="account_sync_settings_settings">Account- contacten en kalenders synchroniseren</string>
- +  <string name="account_sync_settingstip_description">Synchronisatie-instellingen</string>
+  <string name="account_sync_settingstip_description">Synchronisatie-instellingen</string>
   <string name="account_waiting_for_folders_msg">Mappenlijst laden…</string>
   <string name="actionbar_large_unread_count">Meer dan %1$d ongelezen</string>
   <string name="activity_folder_selection">Map selecteren</string>
