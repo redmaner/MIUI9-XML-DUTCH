@@ -25,6 +25,7 @@
   <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
+  <string name="input_password_handle_sdcard_fs">Schakel \"Geëmuleerde SD kaart optimalisatie\" uit voordat je de tweede ruimte opent.</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
   <string name="input_pattern_hint_text">Teken uw ontgrendelpatroon</string>
   <string name="input_pin_code">Voer PIN code in</string>
@@ -44,10 +45,6 @@
   <string name="keyguard_charging_info_could_use_min_time_text">Ongeveer %d minuten resterend</string>
   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Ongeveer %d uur en %d minuten resterend</string>
   <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
-  <string name="keyguard_charging_info_data_c">%s℃</string>
-  <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%s%%</string>
-  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_hour_time_format">%d uur</string>
   <string name="keyguard_charging_info_drained_min_time_format">%d minuten</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Leeggelopen</string>
@@ -85,15 +82,15 @@
 Probeer het opnieuw over %d seconden.</string>
   <string name="lockscreen_failed_attempts_now_wiping">U heeft de telefoon %d keer foutief proberen te ontgrendelen. De telefoon wordt nu teruggezet naar de fabrieksinstellingen.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Ontgrendeld door Bluetooth apparaat</string>
-  <string name="open_camera_hint_text">Veeg naar links om %s te openen</string>
-  <string name="open_remote_center_hint_text">Veeg naar rechts om %s te openen</string>
+  <string name="open_camera_hint_text">Veeg naar links om camera te openen</string>
+  <string name="open_remote_center_hint_text">Veeg naar rechts om Mi Remote te openen</string>
   <string name="phone_locked_foget_password">Wachtwoord vergeten?</string>
   <string name="phone_locked_foget_password_mehod_back">Terug</string>
   <string name="phone_locked_foget_password_method">Wachtwoord vergeten?</string>
   <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Volgende</string>
   <string name="phone_locked_foget_password_ok">Begrepen</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Schakel uw apparaat uit, houd de &amp;lt;font color=#a5220e&amp;gt;aan- uitknop &amp;lt;/font&amp;gt; en de &amp;lt;font color=#a5220e&amp;gt;volume omhoogknop &amp;lt;/font&amp;gt;tegelijkertijd ingedrukt totdat je ml ziet.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Schakel uw apparaat uit, houd de &amp;lt;font color=#a5220e&amp;gt;aan- uitknop &amp;lt;/font&amp;gt; en de &amp;lt;font color=#a5220e&amp;gt;volume omhoogknop &amp;lt;/font&amp;gt;tegelijkertijd ingedrukt totdat je het Mi logo ziet.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selecteer &amp;lt;font color=#a5220e&amp;gt;\"Wissen &amp;amp;amp; Resetten\"&amp;lt;/font&amp;gt; en wacht tot het apparaat opnieuw opstart.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Hoe moet ik gegevens verwijderen?</string>
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
