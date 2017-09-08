@@ -52,6 +52,7 @@ kan op elk moment bekeken worden"</string>
   <string name="createUserFail">Kon het niet aanmaken</string>
   <string name="create_app_icon_failed">Kon geen icoon aanmaken</string>
   <string name="create_app_icon_success">Icoon aangemaakt</string>
+  <string name="create_second_space">Met succes aangemaakt</string>
   <string name="create_space_loading">Tweede ruimte aanmaken…</string>
   <string name="create_work_space">Werkruimte aanmaken</string>
   <string name="creating_app_icon">Icoon aanmaken…</string>
@@ -99,6 +100,10 @@ Berichten worden enkel weergegeven op de tweede ruimte."</string>
   <string name="guide_pwd_detail_title">"Bescherm uw data
 Ga naar de tweede ruimte vanuit het vergrendelscherm"</string>
   <string name="guide_setting_guide_title">Tweede ruimte beheren</string>
+  <string name="guide_start_ads_text">Een compleet nieuw niveau van beveiliging</string>
+  <string name="guide_start_text">Twee ruimtes. Eén apparaat.</string>
+  <string name="has_created_second_space">"Je kan nu de tweede ruimte openen.
+Eén apparaat. Twee ruimtes."</string>
   <string name="hidden_app">Tweede ruimte</string>
   <string name="imageData">Foto\'s</string>
   <string name="import_application">Apps importeren</string>
@@ -112,6 +117,8 @@ U kan ze ook apart downloaden."</string>
   <string name="import_photo">Foto\'s importeren</string>
   <string name="import_photo_desc">Alle gedeelde items in de tweede ruimte bekijken</string>
   <string name="import_photo_suc">Geïmporteerde foto\'s</string>
+  <string name="input_space_finger">Nu instellen</string>
+  <string name="input_space_password">Nu instellen</string>
   <string name="invalid_qr_code">Ongeldige QR code</string>
   <string name="list_empty_text">Leeg</string>
   <string name="loading">Een momentje…</string>
@@ -152,6 +159,8 @@ U kan ze ook apart downloaden."</string>
   <string name="please_diff_finger_print">Maak u er van bewust dat er verschillende vingerafdrukken gebruikt worden voor de eerste en tweede ruimte./Anders is de toegang tot de tweede ruimte vanuit het vergrendelscherm niet mogelijk.</string>
   <string name="privacyContactsSummary">Privé items weergeven in de tweede ruimte</string>
   <string name="privacyContactsTitle">Privéberichten en contacten</string>
+  <string name="privacy_password_fingerprint_dialog_message">Plaats uw vinger op de sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Scan uw vingerafdruk</string>
   <string name="private_sms_show_sub_title">Berichtdata zal gedeeld worden tussen de twee ruimten​</string>
   <string name="private_sms_show_title">Privéberichten worden weergegeven in de tweede ruimte</string>
   <string name="private_space_setting">Beheren</string>
@@ -191,6 +200,9 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="setSecondSpacePasswordGuideDes">Dit wachtwoord gebruiken om naar de tweede ruimte te gaan vanaf het vergrendelscherm</string>
   <string name="setSpacePasswordGuide">Gebruik verschillende wachtwoorden om naar de ruimten te gaan vanaf het vergrendelscherm</string>
   <string name="setSuccess">Wachtwoord met succes ingesteld</string>
+  <string name="set_space_finger">Vingerafdruk instellen</string>
+  <string name="set_space_finger_sub_text_suc">Vingerafdruk ingesteld</string>
+  <string name="set_space_password">Wachtwoord instellen</string>
   <string name="set_space_pwd_detail">U kan naar de tweede ruimte gaan door het wachtwoord te gebruiken</string>
   <string name="set_space_pwd_suc">Wachtwoord tweede ruimte toegevoegd</string>
   <string name="setting_finger_print_sub_title">Maak u er van bewust dat deze verschillend is dan deze voor de eerste ruimte</string>
@@ -207,13 +219,21 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="settings_status_icon_title">Tweede ruimte icoon</string>
   <string name="settings_switch_shortcut_summary">Geef de startpagina snelkoppeling op de eerste ruimte weer</string>
   <string name="settings_switch_shortcut_title">Tik op snelkoppeling om over te schakelen</string>
+  <string name="show_decktop_quick_switch_icon">Snelkoppeling startscherm</string>
+  <string name="show_decktop_quick_switch_icon_detail">Een snelkoppeling weergeven op het startscherm van de eerste ruimte om tussen ruimtes te schakelen</string>
   <string name="show_normal_content">Geen privé-items weergeven</string>
+  <string name="show_noti_from_owner">Meldingen van de andere ruimte</string>
+  <string name="show_noti_from_owner_detail">Meldingen van de andere ruimte ontvangen in de huidige ruimte</string>
+  <string name="show_noti_quick_switch_icon">Snelkoppeling in het meldingsscherm</string>
+  <string name="show_noti_quick_switch_icon_detail">Een snelkoppeling in het meldingsscherm weergeven om tussen ruimtes te schakelen</string>
   <string name="show_private_content">Privé-items weergeven</string>
   <string name="show_private_msg">Privéberichten weergeven</string>
   <string name="show_private_msg_summary">Privéberichten in de tweede ruimte weergeven</string>
+  <string name="skip">Overslaan</string>
   <string name="spaceSetting">Instellingen</string>
   <string name="space_deleted">Deze ruimte is verwijderd</string>
   <string name="space_des_default">Aparte ruimte met versleutelde gegevens</string>
+  <string name="space_finger_sub_text">Stel een vingerafdruk in voor tweede ruimte om sneller te schakelen</string>
   <string name="space_name_default">Werkruimte</string>
   <string name="startSet">Instellen</string>
   <string name="startTransfer">Verplaatsen</string>

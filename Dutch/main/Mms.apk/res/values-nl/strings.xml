@@ -392,8 +392,10 @@
   <string name="pref_show_sms_template_in_summary">Automatisch eenmalige wachtwoorden detecteren in SMS berichten</string>
   <string name="pref_show_sms_template_summary">Schakel de slimme functies van Mi bericht in, zoals het kopiëren van codes, het controleren van saldo, enz.</string>
   <string name="pref_smart_messages_settings">Slimme berichten</string>
+  <string name="pref_sms_storage_title">Opslag</string>
   <string name="pref_sms_theme_title">Thema-instellingen</string>
   <string name="pref_summary_allow_si_sl_push">Berichten toestaan om inhoud van websites te laden (SI/SL)</string>
+  <string name="pref_summary_auto_delete">Oude berichten verwijderen wanneer limiet is bereikt</string>
   <string name="pref_summary_delete_limit">%1$s berichten per conversatie</string>
   <string name="pref_summary_delivery_reports">Afleverrapporten voor elk verzonden bericht</string>
   <string name="pref_summary_delivery_ringtone">Meldingsgeluid ontvangen voor afgeleverde berichten</string>
@@ -411,7 +413,8 @@
   <string name="pref_system_title">Systeem</string>
   <string name="pref_title_about_smart_sms">Over slimme berichten partner</string>
   <string name="pref_title_allow_si_sl_push">WAP pushberichten toestaan (SI/SL)</string>
-  <string name="pref_title_card_format">Deel kaart indeling</string>
+  <string name="pref_title_auto_delete">Oude berichten verwijderen</string>
+  <string name="pref_title_card_format">Deel kaartindeling</string>
   <string name="pref_title_delivery_reports">Afleverrapporten</string>
   <string name="pref_title_fwd_sender_info">Afzenderinfo doorsturen</string>
   <string name="pref_title_manage_sim_messages">SIM kaart opslag</string>
@@ -419,6 +422,8 @@
   <string name="pref_title_mms_auto_retrieval">Automatisch MMS inhoud downloaden</string>
   <string name="pref_title_mms_delete">Multimediabericht limiet</string>
   <string name="pref_title_mms_read_reports">Ontvangen MMS lezen</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">MMS inhoud downloaden tijdens internationale roaming</string>
+ +  <string name="pref_title_mms_retrieval_during_national_roaming">MMS inhoud downloaden tijdens nationale roaming</string>
   <string name="pref_title_mms_retrieval_during_roaming">MMS inhoud downloaden bij roamen</string>
   <string name="pref_title_mms_validity_period">MMS vervaltijd</string>
   <string name="pref_title_notification_body_enabled">Toon berichten op het vergrendelscherm</string>

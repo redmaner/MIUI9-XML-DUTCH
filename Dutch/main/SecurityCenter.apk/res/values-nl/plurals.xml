@@ -275,4 +275,8 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d games zijn niet toegevoegd</item>
         <item quantity="one">%d game is niet toegevoegd</item>
     </plurals>
+	<plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d minuten resterend tot sessie van netwerkversnelling eindigt. Verleng de sessie om snelheidsproblemen te voorkomen.</item>
+        <item quantity="one">%d minuut resterend tot sessie van netwerkversnelling eindigt. Verleng de sessie om snelheidsproblemen te voorkomen.</item>
+    </plurals>
 </resources>
