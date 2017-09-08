@@ -961,7 +961,6 @@ om te reageren"</string>
   <string name="name">Naam</string>
   <string name="net_booster">Netwerk versnellen</string>
   <string name="net_booster_expire_notification">Netwerkversnelling wordt beeindigd</string>
-  <string name="net_booster_expire_notification_tip">%d resterend voordat netwerkversnelling eindigt. Verleng de sessie om problemen met de netwerksnelheid te voorkomen.</string>
   <string name="net_booster_overdue_notification">Netwerkversnelling wordt beeindigd</string>
   <string name="net_booster_overdue_notification_tip">Netwerkversnelling wordt beeindigd. Wilt u de sessie verlengen?</string>
   <string name="net_booster_tip">Schakel netwerkversnelling in om de Wi-Fi verbinding stabieler te maken en netwerkvertraging te verminderen.</string>

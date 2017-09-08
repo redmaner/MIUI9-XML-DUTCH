@@ -184,6 +184,16 @@
         <item>Providernaam altijd weergeven</item>
         <item>Providernaam nooit weergeven</item>
     </string-array>
+	<string-array name="check_importance_entries">
+        <item>Aanbevolen</item>
+        <item>Belangrijk</item>
+        <item>Onbelangrijk</item>
+    </string-array>
+	<string-array name="check_importance_summary">
+        <item>Onbelangrijke meldingen weergeven in een aparte map</item>
+        <item>Meldingen direct weergeven op het meldingsscherm</item>
+        <item>Alle meldingen weergeven in een aparte map</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>

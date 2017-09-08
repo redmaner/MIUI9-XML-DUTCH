@@ -873,6 +873,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="charge_length_format">%1$s geleden</string>
   <string name="charging_sounds_title">Oplaadgeluiden</string>
   <string name="check_find_device_status_failure_confirm">Ok</string>
+  <string name="check_importance">Belangrijkheid controleren</string>
   <string name="check_update">Controleren op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
   <string name="checking_decryption">Controleren…</string>
@@ -2753,8 +2754,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="phone_call_noise_suppression">Omgevingsgeluid onderdrukken tijdens bellen</string>
   <string name="phone_info_label">Apparaatinformatie</string>
   <string name="phone_language">Taal</string>
-  <string name="phone_language_summary"/>
-  <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Fysiek toetsenbord</string>
   <string name="picture_color_mode">Beeldkleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
@@ -2766,18 +2765,18 @@ Selecteer het OS van uw computer:"</string>
   <string name="pointer_location_summary">Schermoverlay met huidige aanraakgegevens</string>
   <string name="pointer_settings_category">Muis/trackpad</string>
   <string name="pointer_speed">Snelheid van aanwijzer</string>
-  <string name="popup_window">popup vensters toestaan</string>
+  <string name="popup_window">Pop-upvensters toestaan</string>
   <string name="power_autorun_apps_empty">Geen autostart apps</string>
   <string name="power_autorun_empty">Geen apps geïnstalleerd</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Camera</string>
   <string name="power_cell">Mobiele standby</string>
   <string name="power_center">Energiebeheer</string>
-  <string name="power_charge_remaining">%1$s om op te laden</string>
-  <string name="power_charging_duration">%1$s - %2$s tot volledig vol</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s tot volledig vol op AC</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s tot volledig vol over USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig vol op draadloos</string>
+  <string name="power_charge_remaining">Volledig opgeladen over %1$s</string>
+  <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
+  <string name="power_charging_duration_ac">%1$s - %2$s tot volledig opgeladen op AC</string>
+  <string name="power_charging_duration_usb">%1$s - %2$s tot volledig opgeladen over USB</string>
+  <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig draadloos opgeladen</string>
   <string name="power_checker">Power Checker</string>
   <string name="power_discharge_remaining">%1$s resterend</string>
   <string name="power_discharging_duration">%1$s - ongeveer %2$s resterend</string>
@@ -2916,7 +2915,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_password_settings_titles_second_space">Privacy wachtwoordbeveiliging beschermt uw berichten, foto\'s, bestanden en notities</string>
   <string name="privacy_password_title">Privacy wachtwoordbeveiliging</string>
   <string name="privacy_password_toggle_summary">Wachtwoord vereisen elke keer dat er privé-items geopend worden.</string>
-  <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">Je kan ook uw vingerafdruk gebruiken samen met een wachtwoord.</string>
   <string name="privacy_password_use_finger_dialog_open">Instellingen</string>
   <string name="privacy_password_use_finger_dialog_title">Ontgrendelen met vingerafdruk</string>
@@ -2933,7 +2931,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="private_sms_recording_intro_header">Teken een ontgrendelpatroon:</string>
   <string name="private_sms_reset_by_account">Log in op uw Mi account om uw wachtwoord te resetten.</string>
   <string name="process_dex2oat_label">Appoptimalisatie</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android besturingssysteem</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Provider %1$s in gebruik.</string>
@@ -3121,7 +3118,6 @@ U verliest geen appgegevens."</string>
   <string name="ring_volume_title">Belvolume</string>
   <string name="ringtone_mute">Geen</string>
   <string name="ringtone_slot_setting_title">Enkelvoudige SIM instellingen</string>
-  <string name="ringtone_summary"/>
   <string name="ringtone_title">Beltoon telefoon</string>
   <string name="ringtone_uniform_setting_title">Dual SIM instellingen</string>
   <string name="roaming">Gegevensroaming</string>
@@ -3135,7 +3131,7 @@ U verliest geen appgegevens."</string>
 
 Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="rssi_label">RSSI:</string>
-  <string name="rule_name">rule name</string>
+  <string name="rule_name">regelnaam</string>
   <string name="running_frequency">Frequentie</string>
   <string name="running_process_item_removed_user_label">Verwijderde gebruiker</string>
   <string name="running_process_item_user_label">Gebruiker: %1$s</string>
@@ -3875,6 +3871,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_wifi_mac_address">MAC adres voor Wi-Fi</string>
   <string name="status_wimax_mac_address">4G MAC adres</string>
   <string name="status_write_success">Success!</string>
+  <string name="statusbar_permission_desc">Toestemmingen zijn alleen beschikbaar voor belangrijke meldingen</string>
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Gecachete gegevens</string>
@@ -4224,6 +4221,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_update_keyguard_password_wait_dialog">Wachtwoord wijzigen…</string>
   <string name="twohours">1 uur</string>
   <string name="under_keyguard">Scherm uit</string>
+  <string name="unimportant">Onbelangrijk</string>
   <string name="uninstall_all_users_text">Verwijderen voor alle gebruikers</string>
   <string name="uninstall_device_admin">App verwijderen</string>
   <string name="uninstall_dlg_msg">Verwijderen zal alle appgegevens wissen.</string>
