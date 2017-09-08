@@ -2627,15 +2627,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="oem_unlock_enable_summary">Toestaan dat de bootloader van het apparaat kan worden ontgrendeld</string>
   <string name="ok_rules">afsluiten</string>
   <string name="okay">Ok</string>
-  <string name="oldman_mode_confirm_title">Telefoon herstarten?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Uw telefoon zal herstarten om Lite modus te verlaten</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Uw telefoon zal herstarten in Lite modus.</string>
-  <string name="oldman_mode_enabled_name">Lite modus</string>
-  <string name="oldman_mode_entry_name">Lite modus</string>
-  <string name="oldman_mode_entry_title">Lite modus</string>
-  <string name="oldman_mode_settings_caption">Lite modus instellingen</string>
-  <string name="oldman_mode_summary">Gebruik het gemakkelijke Startscherm en menu\'s</string>
-  <string name="oldman_mode_summary_cta">Lite modus moet verbonden zijn met internet en contacten lezen, berichten en locatie info verkrijgen om normaal te kunnen werken.</string>
   <string name="one_cacrt">één CA certificaat</string>
   <string name="one_usercrt">één gebruiker certificaat</string>
   <string name="onehour">30 minuten</string>
@@ -3383,6 +3374,7 @@ Om schermpinning te gebruiken:
   <string name="search_handy_mode">Eén-hand modus;Eén-hand modus;Eén-hand modus;Eén hand</string>
   <string name="search_hint">Zoekinstellingen</string>
   <string name="search_home_key">Home;Homeknop:Homeknop</string>
+  <string name="search_input_hint">Zoekinstellingen</string>
   <string name="search_key_settings_title">Knoppen;Sleutels</string>
   <string name="search_lab_functions_title">Betafuncties;Lab functie</string>
   <string name="search_label">Instellingen</string>
@@ -3796,6 +3788,7 @@ PIN code mogelijk onjuist.</string>
   <string name="spellchecker_language">Taal</string>
   <string name="spellchecker_quick_settings">Instellingen</string>
   <string name="spellchecker_security_warning">Deze spellingscontrole verzamelt mogelijk alle tekst die u typt, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. De service is afkomstig van de app %1$s. Wilt u deze spellingscontrole gebruiken?</string>
+  <string name="spellchecker_switch_title">Spellingscontrole inschakelen</string>
   <string name="spellcheckers_settings_title">Spellingscontrole</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">Netwerk kan worden gecontroleerd</string>
@@ -3804,9 +3797,9 @@ PIN code mogelijk onjuist.</string>
 Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogelijk."</string>
   <string name="stable_build">" | Stabiel"</string>
   <string name="standard">Stil</string>
-  <string name="standard_info">Calls and notifications are forbidden, but alarm, music will still sound</string>
-  <string name="start_silent_mode">Turn on Silent Mode</string>
-  <string name="start_vip_mode">enable VIP mode</string>
+  <string name="standard_info">Oproepen en meldingen worden gedempt, maar wekkers en muziek niet</string>
+  <string name="start_silent_mode">Stille modus inschakelen</string>
+  <string name="start_vip_mode">VIP mode inschakelen</string>
   <string name="starting_android">Android starten…</string>
   <string name="status_awaiting_tap">Tikken om een tag te schrijven…</string>
   <string name="status_awake_time">Standby-tijd</string>
@@ -4791,7 +4784,6 @@ WLAN assistent"</string>
   <string name="wifi_eap_ca_cert">CA certificaat</string>
   <string name="wifi_eap_domain">Domein</string>
   <string name="wifi_eap_identity">Identiteit</string>
-  <string name="wifi_eap_info_reconnect">Authentication failed, please try again!</string>
   <string name="wifi_eap_method">EAP methode</string>
   <string name="wifi_eap_sim_simcard">Kies SIM</string>
   <string name="wifi_eap_user_cert">Gebruikerscertificaat</string>
@@ -4809,9 +4801,8 @@ WLAN assistent"</string>
   <string name="wifi_failed_forget_message">Vergeten van netwerk is mislukt</string>
   <string name="wifi_failed_save_message">Opslaan van netwerk is mislukt</string>
   <string name="wifi_forget">Vergeten</string>
-  <string name="wifi_frequency">Frequency</string>
+  <string name="wifi_frequency">Frequentie</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hotspot_checkbox_text">Wi-Fi hotspot</string>
   <string name="wifi_hotspot_checkbox_text_summary">Gebruik mobiele verbinding om een Wi-Fi netwerk te voorzien</string>
   <string name="wifi_hotspot_configure_ap_text">Wi-Fi hotspot instellen</string>
@@ -4820,10 +4811,9 @@ WLAN assistent"</string>
   <string name="wifi_hotspot_message">%1$s vereist dat u zich online aanmeldt voordat u verbinding maakt met het netwerk.</string>
   <string name="wifi_hotspot_title">Aanmelden om te verbinden?</string>
   <string name="wifi_in_airplane_mode">In vliegmodus</string>
-  <string name="wifi_info_reconnect">Error password, please try again!</string>
+  <string name="wifi_info_reconnect">Verbinding mislukt, probeer opnieuw.</string>
   <string name="wifi_install_credentials">Certificaten installeren</string>
   <string name="wifi_ip_address">IP adres</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP instellingen</string>
   <string name="wifi_ip_settings_invalid_dns">Voer een geldig DNS adres in.</string>
   <string name="wifi_ip_settings_invalid_gateway">Voer een geldig gateway-adres in.</string>
@@ -4833,7 +4823,7 @@ WLAN assistent"</string>
   <string name="wifi_ip_settings_menu_save">Opslaan</string>
   <string name="wifi_limit_optimizations_summary">Beperk batterijgebruik door Wi-Fi</string>
   <string name="wifi_menu_advanced">Geavanceerd</string>
-  <string name="wifi_menu_configure">Configure</string>
+  <string name="wifi_menu_configure">Configureren</string>
   <string name="wifi_menu_connect">Verbinding maken met netwerk</string>
   <string name="wifi_menu_disconnect">Verbinding met netwerk verbreken</string>
   <string name="wifi_menu_forget">Netwerk vergeten</string>
