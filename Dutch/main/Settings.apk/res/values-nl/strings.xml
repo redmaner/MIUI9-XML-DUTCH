@@ -4194,7 +4194,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_off_common_password_confirm_msg">Schermvergrendeling zal ook uitgeschakeld worden.</string>
   <string name="turn_off_keyguard_password_alert_title">Uitschakelen</string>
   <string name="turn_off_keyguard_password_confirm_msg">Sommige beveiligingsfuncties zullen niet werken zonder uw wachtwoord.</string>
-  <string name="turn_off_keyguard_password_wait_dialog">Wachtwoord verwijderen</string>
+  <string name="turn_off_keyguard_password_wait_dialog">Wachtwoord verwijderen…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">U zal niet in staat zijn om het apparaat te ontgrendelen met uw vingerafdruk nadat u het wachtwoord heeft uitgeschakeld.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nadat je het wachtwoord van het vergrendelscherm verwijderd, zullen opgeslagen vingerafdrukken worden verwijderd. Je zal het apparaat niet meer kunnen ontgrendelen met je vingerafdruk.</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
@@ -4203,13 +4203,13 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_on_keyguard_password_alert_choose">Onthoud het wachtwoord. Als je het vergeet zal je alle gegevens op je apparaat moeten wissen en een nieuwe moeten instellen.</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Niet nu</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Begrepen</string>
-  <string name="turn_on_keyguard_password_alert_foget_ok_time">Begrepen (%d seconde)</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Begrepen (%ds)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">Onthoud het wachtwoord van uw vergrendelscherm. Als je het vergeet zal je alle gegevens op je apparaat moeten wissen, inclusief foto\'s en contacten, en een nieuw wachtwoord moeten instellen.</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">Als je het vergeet zal je het niet kunnen herstellen.</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Onthoud je wachtwoord</string>
   <string name="turn_on_security_lock">Kies schermvergrendeling</string>
   <string name="turn_on_wifi_dialog_text">Wi-Fi is uitgeschakeld wanneer mobiele hotspot is ingeschakeld. Om Wi-Fi in te schakelen, zet de mobiele hotspot uit.</string>
   <string name="turn_on_wifi_dialog_title">Schakel Wi-Fi in</string>
-  <string name="turn_update_keyguard_password_wait_dialog">Wachtwoord wijzigen</string>
+  <string name="turn_update_keyguard_password_wait_dialog">Wachtwoord wijzigen…</string>
   <string name="twohours">1 uur</string>
   <string name="under_keyguard">Scherm uit</string>
   <string name="uninstall_all_users_text">Verwijderen voor alle gebruikers</string>

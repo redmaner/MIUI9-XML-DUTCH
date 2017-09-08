@@ -31,9 +31,9 @@
   <string name="account_secure_info_pref_title">Accountinfo</string>
   <string name="account_security">Accountveiligheid</string>
   <string name="account_security_info_pref_title">Veiligheidsinfo</string>
-  <string name="account_token_expired_msg">"Verification code expired, start over or sign out
- Your account ID: %s"</string>
-  <string name="account_token_expired_title">Authentication failed</string>
+  <string name="account_token_expired_msg">"Verificatiecode verlopen, begin opnieuw of log uit
+ Uw account ID: %s"</string>
+  <string name="account_token_expired_title">Authenticatie mislukt</string>
   <string name="account_user_avatar">Profielfoto</string>
   <string name="account_user_avatar_from_album">Foto kiezen</string>
   <string name="account_user_avatar_from_camera">Foto nemen</string>
@@ -51,7 +51,7 @@
   <string name="account_user_name_dialog_title">Voer gebruikersnaam in</string>
   <string name="account_user_other_info">Meer bronnen</string>
   <string name="account_user_phone">Telefoon</string>
-  <string name="account_user_recovery_phone">Herstel telefoon</string>
+  <string name="account_user_recovery_phone">Back-uptelefoon</string>
   <string name="account_user_region">Regio</string>
   <string name="account_user_using_facebook_avatar">Gebruik Facebook profielfoto</string>
   <string name="account_user_using_qq_avatar">Gebruik QQ profielfoto</string>
@@ -64,7 +64,7 @@
   <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
   <string name="bind_facebook">Facebook account verbinden</string>
-  <string name="bind_qq">QQ</string>
+  <string name="bind_safe_phone_msg">Stel een back-uptelefoon in voor volgende keer inloggen</string>
   <string name="bind_settings">Accounts</string>
   <string name="bind_sina_weibo">Sina Weibo Account verbinden</string>
   <string name="bind_sns_description">Aanmelden met %s.</string>
@@ -255,6 +255,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_input_password_hint">Voer wachtwoord in</string>
   <string name="passport_input_phone_hint">Voer telefoonnummer in</string>
   <string name="passport_input_vcode_hint">Voer verificatiecode in</string>
+  <string name="passport_instant_login">Inloggen</string>
   <string name="passport_license_host_unreachable">"Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Aanmelden</string>
@@ -348,6 +349,8 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_user_agreement_p2">Gebruikersovereenkomst</string>
   <string name="passport_user_agreement_p3">" en "</string>
   <string name="passport_user_agreement_p4">Privacybeleid</string>
+  <string name="passport_user_reg_region">Land/regio</string>
+  <string name="passport_user_reg_region_warning">Je zal het land niet kunnen wijzigen als het account eenmaal is aangemaakt</string>
   <string name="passport_vcode_notification_title">Uw aanmeldingsverificatie is onvolledig</string>
   <string name="passport_vcode_prompt_long">Voer de verificatiecode in</string>
   <string name="passport_vcode_sms_send_prompt">Verificatiecode naar %s verzenden</string>
