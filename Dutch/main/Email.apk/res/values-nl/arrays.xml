@@ -89,18 +89,14 @@
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Bedankt,</item>
-        <item>Met vriendelijke groet</item>
+        <item>Met vriendelijke groet,</item>
         <item>Verzonden van mijn</item>
+        <item>Originele e-mail</item>
         <item>Verzonden van mijn</item>
         <item>Verzonden van</item>
         <item>Van</item>
         <item>Deze e-mail</item>
         <item>Gebruiksvoorwaarden</item>
         <item>E-mail gebruiksvoorwaarden</item>
-    </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
     </string-array>
 </resources>
