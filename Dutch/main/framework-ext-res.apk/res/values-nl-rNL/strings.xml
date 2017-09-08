@@ -163,7 +163,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="translation_query_error">Kon geen resultaten vinden</string>
   <string name="translation_query_error_network">Kon geen informatie verkrijgen. Controleer netwerkinstellingen en probeer opnieuw</string>
   <string name="turn_off">Uitschakelen</string>
-  <string name="twohours">1 hour</string>
+  <string name="twohours">1 uur</string>
   <string name="unknown_caller">Onbekend nummer</string>
   <string name="user_switching_dialog_text">Wisselen…</string>
   <string name="xspace_resolver_activity_title">App selecteren</string>
