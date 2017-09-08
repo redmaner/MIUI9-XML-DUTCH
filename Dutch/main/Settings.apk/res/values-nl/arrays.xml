@@ -633,21 +633,8 @@
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimaal</item>
     </string-array>
-    <string-array name="screen_key_position_action">
-        <item>Menuknop links, terugknop rechts</item>
-        <item>Terugknop links, menuknop rechts</item>
-    </string-array>
     <string-array name="screen_key_press_action">
         <item>Recente apps tonen</item>
-        <item>Menu tonen</item>
-    </string-array>
-	<string-array name="screen_key_long_press_action">
-        <item>Geen actie</item>
-        <item>Recente apps tonen</item>
-        <item>Assistent starten</item>
-        <item>Google Now starten</item>
-        <item>Huidige app sluiten</item>
-        <item>Snel zoeken starten</item>
         <item>Menu tonen</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">

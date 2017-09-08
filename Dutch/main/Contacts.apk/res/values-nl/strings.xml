@@ -1058,6 +1058,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="sim_error_password_error">Het ingevoerde wachtwoord is incorrect</string>
   <string name="sim_error_storage_full">SIM kaart opslag is vol</string>
   <string name="sim_error_text_too_long">De naam is te lang</string>
+  <string name="sim_export_error">SIM niet gereed, probeer later opnieuw</string>
   <string name="sim_export_loading">SIM kaart wordt geladen…</string>
   <string name="sim_indexed_contact_not_exist">Positie %1$d is niet beschikbaar op de SIM kaart. Kies een nummer tussen %2$d en %3$d.</string>
   <string name="sim_no_contact">Geen contacten aanwezig op de SIM kaart</string>
@@ -1135,6 +1136,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="toast_for_saving_nickname">Bijnaam opgeslagen</string>
   <string name="toast_join_with_empty_contact">Geef een contactnaam op voordat u dit contact samenvoegt met een ander contact.</string>
   <string name="toast_making_personal_copy">Een persoonlijke kopie maken…</string>
+  <string name="toast_start_intent_failed">Geen app gevonden om die actie uit te voeren</string>
   <string name="toast_text_copied">Tekst gekopiëerd</string>
   <string name="today">Vandaag</string>
   <string name="tomorrow">Morgen</string>

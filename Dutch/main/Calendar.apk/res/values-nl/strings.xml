@@ -12,6 +12,7 @@
   <string name="accounts">Accounts en synchronisatie</string>
   <string name="acct_not_synced">"Dit account wordt niet gesynchroniseerd, dus uw agenda's zijn mogelijk niet bijgewerkt."</string>
   <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
+  <string name="action_bar_more_menu_view_description">meer</string>
   <string name="action_text_card_manager">Abonnementen</string>
   <string name="action_text_today">Vandaag</string>
   <string name="ad_card_connecting">Verbinding</string>
