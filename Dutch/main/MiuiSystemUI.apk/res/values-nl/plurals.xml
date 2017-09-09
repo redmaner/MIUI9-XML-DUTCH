@@ -22,6 +22,7 @@
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Meldingen van %1$s &amp; %2$d apps worden niet getoond.</item>
+		<item quantity="one">Meldingen van %1$s &amp; %2$d app worden niet getoond.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Helder</item>
