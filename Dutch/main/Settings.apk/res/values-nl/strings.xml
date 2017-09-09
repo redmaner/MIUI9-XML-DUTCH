@@ -1836,6 +1836,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="key_gesture_function_preview">Voorbeeld gebaren en knoppen</string>
   <string name="key_gesture_function_shortcut">Functiesnelkoppeling</string>
   <string name="key_none">Geen</string>
+  <string name="key_position_cat">Positie knoppen</string>
   <string name="key_settings">Knop en gebarensnelkoppeling</string>
   <string name="key_settings_title">Knop en gebarensnelkoppeling</string>
   <string name="key_system_control">Systeemcontrole</string>
@@ -2506,7 +2507,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="nfc_how_it_works_got_it">Begrepen</string>
   <string name="nfc_how_it_works_title">Betalen bij het apparaat</string>
   <string name="nfc_more_title">Meer…</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Betalingsstandaard</string>
   <string name="nfc_payment_default_not_set">Niet ingesteld</string>
   <string name="nfc_payment_favor_default">Altijd</string>
@@ -3175,9 +3175,10 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_key_long_press">Ingedrukt houden</string>
   <string name="screen_key_long_press_action">Trigger functie</string>
   <string name="screen_key_long_press_timeout">Tijd dat knop ingedrukt moet worden</string>
+  <string name="screen_key_position">Navigatieknoppen</string>
   <string name="screen_key_press">Eénmalig drukken</string>
   <string name="screen_key_press_action">Trigger functie</string>
-  <string name="screen_locking_sounds_title">Schermvergrendelingsgeluiden</string>
+  <string name="screen_locking_sounds_title">Geluid bij schermvergrendeling</string>
   <string name="screen_max_aspect_ratio_desc">Weerapp kan op volledig scherm weergeven</string>
   <string name="screen_max_aspect_ratio_title">Max aspectratio instellingen</string>
   <string name="screen_monochrome_mode_apps_loading">Een momentje…</string>
