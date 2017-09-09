@@ -423,7 +423,7 @@
   <string name="pref_title_mms_delete">Multimediabericht limiet</string>
   <string name="pref_title_mms_read_reports">Ontvangen MMS lezen</string>
   <string name="pref_title_mms_retrieval_during_international_roaming">MMS inhoud downloaden tijdens internationale roaming</string>
- +  <string name="pref_title_mms_retrieval_during_national_roaming">MMS inhoud downloaden tijdens nationale roaming</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">MMS inhoud downloaden tijdens nationale roaming</string>
   <string name="pref_title_mms_retrieval_during_roaming">MMS inhoud downloaden bij roamen</string>
   <string name="pref_title_mms_validity_period">MMS vervaltijd</string>
   <string name="pref_title_notification_body_enabled">Toon berichten op het vergrendelscherm</string>
