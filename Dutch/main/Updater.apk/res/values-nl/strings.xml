@@ -15,6 +15,8 @@
   <string name="dialog_3g_title">Waarschuwing!</string>
   <string name="dialog_btn_3g">Toch doorgaan</string>
   <string name="dialog_btn_wifi">Wisselen naar Wi-Fi</string>
+  <string name="dialog_stop_desc">Weet je zeker dat je de lopende download wilt stoppen? Alle voortgang zal verloren gaan. De volgende keer zal het downloaden opnieuw beginnen.</string>
+  <string name="dialog_stop_title">Download stoppen?</string>
   <string name="download_done">Met succes gedownload!</string>
   <string name="download_fail">Fout tijdens het downloaden!</string>
   <string name="download_fail_desc">MD5 sum komt niet overeen…</string>
