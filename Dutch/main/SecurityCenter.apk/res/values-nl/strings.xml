@@ -1014,6 +1014,7 @@ om te reageren"</string>
   <string name="network_speed_for_apps_others">Andere</string>
   <string name="network_speed_for_apps_title">Verbinding</string>
   <string name="network_speed_for_apps_total">Verbindingssnelheid</string>
+  <string name="network_test_speed">Wi-Fi snelheid testen</string>
   <string name="networkchanged_exception_summary">Netwerkverbinding is veranderd. Test opnieuw.</string>
   <string name="networkchanged_exception_title">Verbinding is veranderd</string>
   <string name="never">1 keer</string>
@@ -1629,7 +1630,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="start_diagnostic_botton">Start</string>
   <string name="start_downloading_app">Download starten: %1$s</string>
   <string name="start_game">Start</string>
-  <string name="start_tc_button">Kalibreren</string>
   <string name="still_retain_btn">Behouden</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="suggest_scan_again">Het wordt voorgesteld om volledig scan te doen om de veiligheid te waarborgen.</string>
@@ -1873,13 +1873,14 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_over_purchase_link">"Je hebt de datalimiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tik om je saldo bij te vullen.&lt;/U&gt;&lt;/font&gt;""</string>
   <string name="traffic_purchase_body">Bespaar 50% als je nu herlaad.</string>
   <string name="traffic_setting_fragment_area">Lokaal</string>
-  <string name="traffic_setting_fragment_area_dual">%s lokale</string>
   <string name="traffic_setting_fragment_brand">Merk</string>
   <string name="traffic_setting_fragment_button1_text">Annuleren</string>
   <string name="traffic_setting_fragment_button2_text">Opslaan</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Bent u niet zeker van de provider?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_setting_fragment_city">Stad</string>
+  <string name="traffic_setting_fragment_find_brand">"Bent u niet zeker van de provider?"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Niet meer tonen</string>
   <string name="traffic_setting_fragment_operator">Provider</string>
+  <string name="traffic_setting_fragment_province">Provincie</string>
   <string name="traffic_setting_fragment_send_num">Telefoonnr. provider</string>
   <string name="traffic_setting_fragment_send_num_tips">Typ telefoonnr.</string>
   <string name="traffic_setting_fragment_sms_content">Berichtinhoud</string>

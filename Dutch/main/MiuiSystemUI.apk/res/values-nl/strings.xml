@@ -17,6 +17,7 @@
   <string name="accessibility_bluetooth_connected">Bluetooth verbinding ingesteld.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth verbinding verbroken.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
+  <string name="accessibility_brightness_slider">Helderheidsbalk</string>
   <string name="accessibility_camera_button">Camera</string>
   <string name="accessibility_clear_all">Alle meldingen verwijderen.</string>
   <string name="accessibility_data_four_bars">Gegevens: vier streepjes.</string>
@@ -55,6 +56,7 @@
   <string name="accessibility_ringer_silent">Stil.</string>
   <string name="accessibility_ringer_vibrate">Trillen.</string>
   <string name="accessibility_search_light">Zoeken</string>
+  <string name="accessibility_settings">Instellingen</string>
   <string name="accessibility_tty_enabled">TeleTypewriter ingeschakeld.</string>
   <string name="accessibility_wifi_off">Wi-Fi uit.</string>
   <string name="accessibility_wifi_one_bar">"Wi-Fi: één streepje."</string>
