@@ -638,7 +638,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_editor_adjust">Aanpassen</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty_compare">Origineel</string>
-  <string name="photo_editor_crop_and_rotate">Bijsnijden &amp; draaien</string>
+  <string name="photo_editor_crop_and_rotate">Bijsnijden</string>
   <string name="photo_editor_crop_reset">Reset</string>
   <string name="photo_editor_doodle">Tekenen</string>
   <string name="photo_editor_filter">Filter</string>
@@ -953,8 +953,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_text_edit_input_open_hint">Titel invoeren</string>
   <string name="video_editor_text_edit_start">Titel</string>
   <string name="video_editor_text_input_empty_tips">Je hebt nog geen tekst ingevoerd</string>
-  <string name="video_editor_text_none">Geen</string>
-  <string name="video_editor_text_preview_text">Tekst</string>
   <string name="video_editor_trim">Trimmen</string>
   <string name="video_editor_unsupport_audio_file">Niet ondersteund audiobestand</string>
   <string name="video_err">Video afspelen mislukt.</string>
@@ -969,5 +967,5 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="xiaomi_account_not_exists_toast">Mi account bestaat niet</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gisteren</string>
-  <string name="you_are">"Jij bent de baby's"</string>
+  <string name="you_are">Jij bent de baby\'s</string>
 </resources>
