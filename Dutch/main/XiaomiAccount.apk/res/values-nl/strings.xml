@@ -268,6 +268,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_login_using_other_ways">Andere manieren om aan te melden</string>
   <string name="passport_message_dialog_title">SMS met verificatiecode bericht</string>
   <string name="passport_next">Volgende</string>
+  <string name="passport_no">Nee</string>
   <string name="passport_notification_title">Aanmeldfout voor %1$s</string>
   <string name="passport_password_phone_login">Inloggen met Mi Account</string>
   <string name="passport_password_req_notice">Wachtwoord moet 8-16 tekens lang zijn en zowel cijfers als letters bevatten (hoofdlettergevoelig).</string>
@@ -283,6 +284,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_quick_login_dialog_title">Bevestig wachtwoord</string>
   <string name="passport_quick_login_step2_title">2 staps verificatie</string>
   <string name="passport_quick_login_title">Voer je wachtwoord in</string>
+  <string name="passport_quick_register">Registreren</string>
   <string name="passport_quick_register_notice">Heb je geen Mi Account? Maak er één aan.</string>
   <string name="passport_re_get_verify_code">Code opnieuw verkrijgen</string>
   <string name="passport_re_register">Opnieuw aanmelden</string>
@@ -361,6 +363,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_wrong_captcha">De ingevoerde code is fout</string>
   <string name="passport_wrong_phone_number_format">De opmaak van het telefoonnummer dat u hebt ingevoerd is ongeldig</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
+  <string name="passport_yes">Ja</string>
   <string name="phone_activated">%s geactiveerd</string>
   <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
   <string name="push_notification_content">Verificatiecode krijgen</string>

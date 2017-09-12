@@ -1029,7 +1029,7 @@ om te reageren"</string>
   <string name="notification_battery_consume_abnormal_title">Batterij loopt te snel leeg</string>
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
-  <string name="notification_item">Bescherm geselecteerde apps met appvergrendeling</string>
+  <string name="notification_item">Bescherm apps met appvergrendeling</string>
   <string name="notification_mask_summary">Inhoud van meldingen niet weergeven op vergrendelscherm en in de notificatiebalk</string>
   <string name="notification_mask_title">Inhoud verbergen</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>

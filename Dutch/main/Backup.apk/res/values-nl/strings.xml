@@ -2,7 +2,7 @@
 <resources>
   <string name="abort_backup_confirm">Back-up is nog niet afgerond. Toch stoppen?</string>
   <string name="abort_restore_confirm">Herstel is nog niet afgerond. Toch stoppen?</string>
-  <string name="account_contact_backup_info">Gegevens (back-up Xiaomi en Gmail info)</string>
+  <string name="account_contact_backup_info">Gegevens (back-up Xiaomi en Gmail-info)</string>
   <string name="account_login">Inloggen</string>
   <string name="account_summary">Back-up Xiaomi accounts, Google accounts en andere gebruikersgegevens</string>
   <string name="already_enable_encrypt">Encryptie ingeschakeld</string>
@@ -162,6 +162,7 @@
   <string name="notif_trans_receiving_failed">Kon geen data ontvangen</string>
   <string name="notif_trans_sending_completed">Data met succes verzonden</string>
   <string name="notif_trans_sending_failed">Kon geen data verzenden</string>
+  <string name="notif_trans_wait_for_reconnecting">Verbinding met apparaat is verbroken. Verbind opnieuw.</string>
   <string name="page_loading">Een momentje…</string>
   <string name="progress_backup_hint">Back-uppen…</string>
   <string name="progress_restore_hint">Herstellen…</string>
@@ -169,6 +170,7 @@
   <string name="prompt_sending">Uploaden…</string>
   <string name="prompt_writing">Opslaan…</string>
   <string name="read_encrypt_fail">Codering lezen van back-up mislukt</string>
+  <string name="reconnect">Opnieuw verbinden</string>
   <string name="refresh">Vernieuwen</string>
   <string name="remote_receive">Ontvangen</string>
   <string name="restore">Herstellen</string>
@@ -207,10 +209,6 @@
   <string name="select_storage_location">Kies back-up locatie</string>
   <string name="service_stoped">Service gestopt</string>
   <string name="settings_summary">Apparaat- en berichtinstellingen</string>
-  <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Berichten</string>
   <string name="software_backup_info">Back-up apps en gegevens</string>
   <string name="start_backup">Back-up starten</string>
@@ -252,7 +250,6 @@
   <string name="task_service_not_launched">Back-upservice niet gestart, even wachten!</string>
   <string name="task_stopped_exception">Taak geannuleerd</string>
   <string name="total_num">%d items</string>
-  <string name="total_size">, %s</string>
   <string name="trans_backingup">Bezig met back-up…</string>
   <string name="trans_backingup_no_items">Sync.…</string>
   <string name="trans_calculating">Berekenen…</string>
@@ -260,6 +257,7 @@
   <string name="trans_calculating_base_size">Datagrootte berekenen</string>
   <string name="trans_cancel_confirm">Overdracht in uitvoering, nu stoppen?</string>
   <string name="trans_cancelling">Annuleren</string>
+  <string name="trans_connect_failed_device_incompatible">Apparaat is niet compatibel. Annuleer en probeer opnieuw.</string>
   <string name="trans_connect_failed_message">"Kon niet verbinden, probeer opnieuw of herstart het apparaat. Op het andere apparaat, Ga naar Instellingen &gt; Extra Instellingen &gt; Mi Mover, tik [Ik ben een verzender] of start Mi Mover opnieuw na herstarten"</string>
   <string name="trans_connect_failed_title">Kon niet verbinden</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
@@ -270,8 +268,9 @@
   <string name="trans_detail_category_sysdata">Systeemdata</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Apparaat losgekoppeld</string>
+  <string name="trans_device_wait_for_reconnecting">Verbinding met apparaat verbroken. Verbind opnieuw.</string>
   <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
-  <string name="trans_main_tutor">Contacten, belgeschiedenis, berichten, startschermlayout, apps, instellingen, enz. verplaatsen naar een nieuw apparaat</string>
+  <string name="trans_main_tutor">Contacten, oproepgeschiedenis, berichten, startschermlayout, apps, instellingen, enz. verplaatsen naar een nieuw apparaat</string>
   <string name="trans_my_device">Mijn apparaat</string>
   <string name="trans_native_no_space">"Dit apparaat heeft niet genoeg ruimte
 Verwijder tenminste %s"</string>
@@ -286,6 +285,10 @@ Transfereren app op uw oude apparaat
 2. Open de app en selecteer [Ik ben verzender]
 3. Scan de QR code met uw oude apparaat"</string>
   <string name="trans_operate_old_phone_tips2">"Ga naar instellingen &gt; Extra instellingen &gt; Mi Mover, Tik op [Ik ben verzender]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Wacht tot de nieuwe telefoon \"verbinding met apparaat verbroken\" weergeeft.
+Klik daarna op [opnieuw verbinden] om een QR code te maken."</string>
+  <string name="trans_operate_reconnect_old_tips">"Wacht tot de oude telefoon \"apparaat verbroken\" weergeeft.
+Klik daarna op [opnieuw verbinden] om een QR code te maken."</string>
   <string name="trans_please_waiting">Een momentje…</string>
   <string name="trans_progress_subdescript_br_receiver">%1$s aan het herstellen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_br_sender">%1$s aan het back-uppen, %2$s voltooid</string>
@@ -346,9 +349,9 @@ en dat Mi Mover ingeschakeld is"</string>
   <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer de SD kaart.</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
-  <string name="xiaomi_update_dialog_message">"Introductie versie %1$s
+  <string name="xiaomi_update_dialog_message">"Introductieversie %1$s
 Grootte: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introductie versie %1$s
+  <string name="xiaomi_update_dialog_message_diff">"Introductieversie %1$s
 Delta update grootte: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Update beschikbaar!</string>
 </resources>
