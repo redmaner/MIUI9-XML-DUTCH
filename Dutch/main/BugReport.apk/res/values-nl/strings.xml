@@ -13,9 +13,8 @@
   <string name="bugreport_dump_complete_notification_title">Bugreport gemaakt</string>
   <string name="bugreport_dump_start_notification_summary">Dit kan enkele minuten duren.</string>
   <string name="bugreport_dump_start_notification_title">Bugreport maken…</string>
-  <string name="bugreport_tool_log">Bugrapport maken</string>
-  <string name="bugreport_tool_log_toast">Log opgeslagen naar %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Bugrapport maken (duurt ongeveer een minuutje)</string>
+  <string name="bugreport_tool_log_dumping_desc">Duurt ongeveer een minuut</string>
+  <string name="bugreport_tool_log_dumping_title">Bugrapport maken</string>
   <string name="close_feedback_main">Verbergen</string>
   <string name="cta_cancel">Annuleren</string>
   <string name="cta_confirm">OK</string>
@@ -188,11 +187,10 @@
   <string name="mobile_data_note_dialog_content">Gebruik maken van mobiel internet om logs te uploaden kan voor extra kosten zorgen.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Logs uploaden door gebruik te maken van mobiel internet zal %sMB aan data kosten.</string>
   <string name="mobile_data_note_dialog_title">Waarschuwing datagebruik</string>
-  <string name="modem_tool_log">Modemlogs opnemen</string>
-  <string name="modem_tool_log_start">Starten</string>
-  <string name="modem_tool_log_start_toast">Modemlog wordt opgeslagen naar %s</string>
-  <string name="modem_tool_log_stop">Stoppen</string>
-  <string name="modem_tool_log_stop_toast">Opslaan van modemlogs naar %s is gestopt</string>
+  <string name="modem_tool_log_dumping_desc">Tik op icoon om te stoppen</string>
+  <string name="modem_tool_log_dumping_title">Modemlogs verzamelen</string>
+  <string name="modem_tool_log_finish_desc">Log is opgeslagen als %s</string>
+  <string name="modem_tool_log_finish_title">Modemlog verzameld</string>
   <string name="module_communication">Communicatie</string>
   <string name="module_data">Opslag &amp; gedupliceerde apps</string>
   <string name="module_desktop">Startscherm &amp; instellingen</string>
@@ -202,7 +200,7 @@
   <string name="module_medias">Media</string>
   <string name="module_more">Meer</string>
   <string name="module_network">Netwerk &amp; updates</string>
-  <string name="module_search">SZoeken</string>
+  <string name="module_search">Zoeken</string>
   <string name="module_security">Beveiliging &amp; Mi Cloud</string>
   <string name="module_system">Systeem</string>
   <string name="module_tools">Systeem tools</string>

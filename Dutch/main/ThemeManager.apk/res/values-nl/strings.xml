@@ -124,8 +124,8 @@
   <string name="my_gifts_received">Ontvangen</string>
   <string name="no_data">Kan niet verbinden met netwerk</string>
   <string name="online_no_network">Kan niet verbinden met netwerk</string>
-  <string name="online_precust_dreams">Dreams</string>
-  <string name="online_precust_midnight">Midnight</string>
+  <string name="online_precust_asphalt">Asfalt</string>
+  <string name="online_precust_peach_blossom">Perzikbloesem</string>
   <string name="online_search_hint">Zoeken naar online bronnen</string>
   <string name="present_local_themes">Gedownload</string>
   <string name="present_online_themes">Verkrijg meer gratis thema\'s</string>
@@ -134,7 +134,7 @@
   <string name="provision_second_title">Selecteer een van de meerdere standaard thema\'s</string>
   <string name="provision_title">Kies een thema</string>
   <string name="purchased_list">Aangekocht</string>
-  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_current">MIUI 9</string>
   <string name="purchased_list_legacy">Legacy thema\'s</string>
   <string name="recently_used">Recent gebruikt</string>
   <string name="reload">Probeer opnieuw</string>

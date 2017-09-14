@@ -7,7 +7,7 @@
   <string name="accessibility_guide_second">En klik dan op de knop in de rechter bovenhoek, tik op \"Bevestigen\" om verder te gaan.</string>
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
-  <string name="account_failure">Accountfout</string>
+  <string name="account_failure">Sessie verlopen</string>
   <string name="account_name_toast">Kan geen account aanmaken. Een account met dezelfde naam al bestaat</string>
   <string name="account_options_sync_title">Synchronisatie</string>
   <string name="account_password_spaces_error">"Dit wachtwoord begint of eindigt met een of meerdere
@@ -73,13 +73,14 @@ Nu bijwerken?"</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Controleer of de gebruikersnaam, het wachtwoord en de accountinstellingen correct zijn.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Kon account niet instellen</string>
   <string name="account_setup_basics_email_label">E-mailadres</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">De huidige netwerkverbinding gebruiken</string>
   <string name="account_setup_basics_manual_setup_action">Handmatig instellen</string>
   <string name="account_setup_basics_password_label">Wachtwoord</string>
   <string name="account_setup_basics_title">Accountinstellingen</string>
   <string name="account_setup_check_settings_check_incoming_msg">"    Serverinstellingen verifiëren…"</string>
   <string name="account_setup_check_settings_check_outgoing_msg">"    SMTP instellingen verifiëren…"</string>
   <string name="account_setup_check_settings_retr_info_msg">"    Accountinformatie ophalen…"</string>
-  <string name="account_setup_correct_address_tips">E-mail adres invoeren</string>
+  <string name="account_setup_correct_address_tips">E-mailadres invoeren</string>
   <string name="account_setup_creating_account_msg">"    Account maken…"</string>
   <string name="account_setup_deleting_account_msg">"    Account verwijderen…"</string>
   <string name="account_setup_exchange_certificate_title">Clientcertificaat</string>
@@ -228,7 +229,7 @@ Nu bijwerken?"</string>
   <string name="auto_remind_text">Automatishe herinneringen</string>
   <string name="auto_remind_unbind">Stop</string>
   <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
-  <string name="automatic_remind_text">herinneren</string>
+  <string name="automatic_remind_text">Automatisch herinneren</string>
   <string name="bank_card_detail">Creditcardgegevens</string>
   <string name="battery_saver">Energiebesparende modus</string>
   <string name="battery_saver_keywords">Energiebesparen;mail batterij</string>
@@ -248,12 +249,12 @@ Nu bijwerken?"</string>
   <string name="calendar_remind_gridview_pick_date">Kies een datum</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_action">Annuleren</string>
-  <string name="cancel_pop3_attchemt_downloading">Het downloaden van bijlages annuleren is niet beschikbaar voor een POP3 account.</string>
+  <string name="cancel_pop3_attchemt_downloading">Kan het downloaden van bijlagen niet voor een POP3 account</string>
   <string name="cant_move_or_change_labels">"Kan items van meerdere accounts niet verplaatsen"</string>
   <string name="change_folders_selection_dialog_title">Mappen wijzigen</string>
   <string name="change_sync_settings">Sync. inst. wijzigen</string>
   <string name="changepw_dialog_tips">Wachtwoord opnieuw invoeren voor %s</string>
-  <string name="changepw_dialog_tips_please_clikc_btn">Controleer %s voor verificatiecode en meld je opnieuw aan</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Bekijk de verificatiecode op %s en meld je opnieuw aan.</string>
   <string name="chat_item_msg_people_unit">Personen</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Serverinstellingen valideren…"</string>
@@ -266,7 +267,6 @@ Nu bijwerken?"</string>
   <string name="click_to_reload">Tik op scherm om te vernieuwen</string>
   <string name="close">Afsluiten</string>
   <string name="collapse_recipient_details">Ontvangersdetails samenvouwen</string>
-  <string name="colon">:</string>
   <string name="compose">Opstellen</string>
   <string name="compose_attachment_number_limit">Kan niet meer dan 10 bijlagen toevoegen</string>
   <string name="compose_paste_address_oob">Te veel tekens</string>
@@ -349,6 +349,7 @@ Nu bijwerken?"</string>
   <string name="default_pop3">POP3</string>
   <string name="default_setup">STANDAARD INSTELLINGEN</string>
   <string name="default_signature">Verzonden van mijn Mi telefoon</string>
+  <string name="default_signature_2">Verzonden van mijn %s</string>
   <string name="del_account_questionnair_hint">Kan je ons vertellen waarom u dit account verwijderd?</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_message_flow">Automatisch verwijderen</string>
@@ -566,13 +567,6 @@ Nu bijwerken?"</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail sync van</string>
   <string name="mailbox_settings_sync_enabled_label">Deze map synchroniseren</string>
   <string name="mailbox_settings_sync_enabled_summary">Gesync. berichten in deze map</string>
-  <string name="maileditor_fontsize_textitem1">8pt</string>
-  <string name="maileditor_fontsize_textitem2">10pt</string>
-  <string name="maileditor_fontsize_textitem3">12pt</string>
-  <string name="maileditor_fontsize_textitem4">14pt</string>
-  <string name="maileditor_fontsize_textitem5">16pt</string>
-  <string name="maileditor_fontsize_textitem6">18pt</string>
-  <string name="main_help_context">ttl</string>
   <string name="manual_sync">Nu synchroniseren</string>
   <string name="mark_important">Markeren als belangrijk</string>
   <string name="mark_not_important">Markeren als niet belangrijk</string>
@@ -701,6 +695,10 @@ Probeer een andere inbox."</string>
   <string name="oauth_login_continue_qq">Verkrijg een wachtwoord en meld aan bij &gt;</string>
   <string name="ok">Ok</string>
   <string name="okay_action">Ok</string>
+  <string name="open_calendar_and_contacts_permission">Activeer de kalender- en contactentoestemming in systeeminstellingen</string>
+  <string name="open_external_storage_and_calendar_permission">Activeer de externe opslag- en kalendertoestemming in systeeminstellingen</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Activeer de externe opslag, kalender en contactentoestemming in systeeminstellingen</string>
+  <string name="open_external_storage_and_contacts_permission">Activeer de externe opslag- en contactentoestemming in systeeminstellingen</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
   <string name="outbox_alert_certificate_error">Contacteer je email systeemadministrator en update je certificaat.</string>
@@ -982,15 +980,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="shortcut_name_title">Snelkoppeling naar map een naam geven</string>
   <string name="show_elided">▶ Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="show_images">Afbeeldingen weergeven</string>
-  <string name="signature">"
-
-
-  
-%s"</string>
   <string name="silent_ringtone">Stil</string>
-  <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Authenticatie mislukt, controleer of de antivirussoftware SMS onderschept</string>
   <string name="smtp_password_error">Het wachtwoord van de uitgaande mail server is ongeldig</string>
   <string name="sort_attachment">Sorteren op</string>
@@ -999,17 +989,16 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="special_text_3">Schreef:</string>
   <string name="special_text_4">Schreef:</string>
   <string name="special_text_5">Schreef:</string>
-  <string name="special_text_colon_en">:</string>
-  <string name="special_text_colon_zh">：</string>
-  <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">Afzender</string>
   <string name="special_text_sender_zh">Afzender</string>
   <string name="storage">Opslag</string>
   <string name="str_select_all">Alles selecteren</string>
   <string name="str_select_none">Deselecteren</string>
-  <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Onderwerp</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
+  <string name="sync_contacts_fail_per_content">Vraag contactentoestemming. Klik op toestaan.</string>
+  <string name="sync_contacts_fail_per_title">Synchroniseren van contacten mislukt</string>
+  <string name="sync_contacts_fail_permission">Synchroniseren van contacten mislukt. Toegang tot telefooncontacten is niet ingeschakeld, open het in instellingen - toestemmingenbeheer</string>
+  <string name="sync_contacts_req_per_ignored">Telefooncontact is niet open en kan contacten niet synchroniseren</string>
   <string name="sync_error">Kon niet synchroniseren.</string>
   <string name="sync_error_message">Uw apparaat heeft niet voldoende opslagruimte om te synchroniseren.</string>
   <string name="syncing_wait_restart">Klik op opnieuw</string>
@@ -1031,7 +1020,7 @@ kan het bericht niet laden"</string>
   <string name="to_heading">"Aan: "</string>
   <string name="toast_bar_fail_synchronization">Kan niet verbinden met netwerk</string>
   <string name="toast_bar_insufficient_memory_space">Niet genoeg opslag ruimte</string>
-  <string name="toast_bar_invalid_account">Opnieuw aanmelden</string>
+  <string name="toast_bar_invalid_account">Sessie verlopen, meld opnieuw aan.</string>
   <string name="toast_bar_no_connection_network">Er is geen internetverbinding</string>
   <string name="toast_bar_open_gmail_synchronization">Tik om de  proxyserver te gebruiken voor Gmail</string>
   <string name="today_text">Vandaag</string>
@@ -1051,8 +1040,8 @@ kan het bericht niet laden"</string>
 	tussen internet, uw andere apparaten en uw %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Inschakelen</string>
   <string name="turn_auto_sync_on_dialog_title">Automatisch synchroniseren inschakelen?</string>
-  <string name="unbind_dialog_text">"U kunt geen herinneringen meer ontvangen nadat u de analyse heeft gestaakt.
-Nu stoppen?"</string>
+  <string name="unbind_dialog_text">"De e-mailapp zal uw e-mails niet meer analyseren.
+Account verwijderen?"</string>
   <string name="undo">Ongedaan maken</string>
   <string name="unknow">Onbekend</string>
   <string name="unread_string">Conversatie ongelezen</string>

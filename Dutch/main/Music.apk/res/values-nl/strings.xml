@@ -544,12 +544,13 @@ verzorgd door Ultimate Inc.</string>
   <string name="no_scanned_songs">Leeg</string>
   <string name="no_song">Geen nummers</string>
   <string name="no_song_downloaded">Verbinding met de server mislukt</string>
+  <string name="no_system_cropper_find">Systeem kan afbeelding niet bijsnijden</string>
   <string name="normal_quality">Goed</string>
   <string name="not_login">Niet aangemeld</string>
   <string name="not_selected">Kies een nummer</string>
   <string name="notif_text_engine_off">Xunlei versneller is uitgeschakeld.</string>
   <string name="notif_text_engine_on">Bezig met versnellen…</string>
-  <string name="notif_title_file_size">%1$d total</string>
+  <string name="notif_title_file_size">%1$d totaal</string>
   <string name="notif_title_multiple_downloading">%1$d bestanden downloaden</string>
   <string name="notif_title_single_downloading">%1$s downloaden</string>
   <string name="notification_des_next_song">Volgende nummer: %s</string>
