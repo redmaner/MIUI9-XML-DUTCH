@@ -123,12 +123,12 @@
   <string name="find_device_io_error">"Kan niet verbinden met het netwerk"</string>
   <string name="find_device_locked_account_email" formatted="false">%s, gekoppeld e-mailadres: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, gekoppeld telefoonnummer: %s</string>
-  <string name="find_device_message">Het huidige apparaat is geblokkeerd, bericht: %1$s, contacttelefoon: %2$s.</string>
+  <string name="find_device_message">Apparaat is geblokkeerd. Bericht: %1$s. Bellen: %2$s.</string>
   <string name="find_device_null_credential_error">"Kan apparaatinfo niet verkrijgen, neem contact op met Xiaomi klantenservice"</string>
   <string name="find_device_operation_failed_error">Er is een servicefout opgetreden, probeer later opnieuw</string>
   <string name="find_device_operation_failed_error_unknown">Er is een fout opgetreden, probeer later opnieuw</string>
-  <string name="find_device_owner_phone">Het huidige apparaat is geblokkeerd, contacttelefoon: %1$s.</string>
-  <string name="find_device_prompt_message">Het huidige apparaat is geblokkeerd, bericht: %1$s.</string>
+  <string name="find_device_owner_phone">Apparaat is geblokkeerd. Bel %1$s.</string>
+  <string name="find_device_prompt_message">Apparaat is geblokkeerd. Bericht: %1$s.</string>
   <string name="find_device_remote_exception">RPC foutmelding</string>
   <string name="find_device_request_error">Er is een servicefout opgetreden, probeer later opnieuw</string>
   <string name="find_device_request_prepare_error">"Kan status niet verkrijgen, probeer later opnieuw"</string>
@@ -338,6 +338,8 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_skip_setup_account_msg">Je kan later een Mi account aanmaken in Instellingen.</string>
   <string name="passport_skip_setup_account_title">Installatie overslaan</string>
   <string name="passport_sms_send_success">Verzonden</string>
+  <string name="passport_sync_account_data">Accountinfo synchroniseren…</string>
+  <string name="passport_sync_account_data_failed_warning">Uw accountinfo wordt nu gesynchroniseerd. U kan inloggen door middel van uw Mi Account ID. Als je wilt inloggen met je telefoonnummer of email wacht je tot de info compleet is gesynchroniseerd.</string>
   <string name="passport_title_reg">Een account aanmaken</string>
   <string name="passport_trust_device">Dit apparaat toevoegen aan geverifieerde apparaten</string>
   <string name="passport_trying_read_verify_code_sms">Verificatiecode verkrijgen…</string>
@@ -351,8 +353,9 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_user_agreement_p2">Gebruikersovereenkomst</string>
   <string name="passport_user_agreement_p3">" en "</string>
   <string name="passport_user_agreement_p4">Privacybeleid</string>
+  <string name="passport_user_id_notice">Uw Mi Account ID is %s.</string>
   <string name="passport_user_reg_region">Land/regio</string>
-  <string name="passport_user_reg_region_warning">Je zal het land niet kunnen wijzigen als het account eenmaal is aangemaakt</string>
+  <string name="passport_user_reg_region_warning">Je zal het land niet kunnen wijzigen als het account eenmaal is aangemaakt.</string>
   <string name="passport_vcode_notification_title">Uw aanmeldingsverificatie is onvolledig</string>
   <string name="passport_vcode_prompt_long">Voer de verificatiecode in</string>
   <string name="passport_vcode_sms_send_prompt">Verificatiecode naar %s verzenden</string>

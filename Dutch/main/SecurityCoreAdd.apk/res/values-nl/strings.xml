@@ -103,7 +103,7 @@ Ga naar de tweede ruimte vanuit het vergrendelscherm"</string>
   <string name="guide_start_ads_text">Een compleet nieuw niveau van beveiliging</string>
   <string name="guide_start_text">Twee ruimtes. Eén apparaat.</string>
   <string name="has_created_second_space">"Je kan nu de tweede ruimte openen.
-Eén apparaat. Twee ruimtes."</string>
+Twee ruimtes. Eén apparaat."</string>
   <string name="hidden_app">Tweede ruimte</string>
   <string name="imageData">Foto\'s</string>
   <string name="import_application">Apps importeren</string>
@@ -285,9 +285,12 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="tryNow">Nu proberen</string>
   <string name="wating">Een momentje…</string>
   <string name="xpsace_guide_button">Aanmaken</string>
+  <string name="xspace_account">Accounts van gedupliceerde apps</string>
   <string name="xspace_chocie">Ondersteuning om te dupliceren</string>
   <string name="xspace_creating">App dupliceren…</string>
-  <string name="xspace_description">Dupliceer apps om twee versies apart van elkaar te gebruiken. De gedupliceerde app zal een specifiek icoon op het startscherm hebben.</string>
+  <string name="xspace_description">"Gedupliceerde apps zijn kopieën van apps die los van elkaar gebruikt kunnen worden met een ander account.
+  
+Sommige gedupliceerde apps vereisen Google Services Framework. In zulke gevallen wordt er een dubbele Google Services Framework gemaakt."</string>
   <string name="xspace_guide_des">Gebruik twee accounts zonder te wisselen</string>
   <string name="xspace_guide_title">Gedupliceerde app aanmaken voor %s</string>
   <string name="xspace_header">Gedupliceerde apps</string>
@@ -297,6 +300,7 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="xspace_introduce">Aanbevolen</string>
   <string name="xspace_label">Gedupliceerde apps</string>
   <string name="xspace_loading_msg">Apps laden…</string>
+  <string name="xspace_setting_label">Instellingen gedupliceerde apps</string>
   <string name="xspace_uninstall_completed">Gedupliceerde app met succes verwijderd</string>
   <string name="xspace_uninstall_dialog_content">Gedupliceerde app verwijderen zal alle data verwijderen.</string>
   <string name="xspace_uninstall_dialog_title">Gedupliceerde app verwijderen</string>

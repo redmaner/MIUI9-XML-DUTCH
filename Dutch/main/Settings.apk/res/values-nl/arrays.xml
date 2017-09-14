@@ -766,13 +766,13 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Handmatig verbinden</item>
     </string-array>
     <string-array name="connect_mode_entries">
-        <item>compatibele modus</item>
-        <item>hoge modus</item>
+        <item>Compatibiliteit</item>
+        <item>Hoge snelheid</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>sluiten</item>
-        <item>normale modus</item>
-        <item>extreme modus</item>
+        <item>Uit</item>
+        <item>Normaal</item>
+        <item>Extreem</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
