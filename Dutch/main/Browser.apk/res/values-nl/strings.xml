@@ -464,7 +464,7 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_reason_invalid_address">. IP adres of poortnummer is ongeldig</string>
   <string name="miuichromium_error_page_reason_invalid_response">" omdat %s0 een ongeldige reactie heeft gestuurd"</string>
   <string name="miuichromium_error_page_reason_invalid_url">" omdat de URL ongeldig is"</string>
-  <string name="miuichromium_error_page_reason_moved_or_deleted">. Het kan verplaatst of verwijderd worden</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. Het zou verplaatst of verwijderd kunnen zijn</string>
   <string name="miuichromium_error_page_reason_name_collision">. Deze site op het intranet heeft dezelfde URL als een externe website</string>
   <string name="miuichromium_error_page_reason_name_not_resolved">". Kon DNS adres niet vinden voor %s0"</string>
   <string name="miuichromium_error_page_reason_network_changed">" als gevolg van een netwerkverandering"</string>
@@ -564,10 +564,10 @@ Deze pagina verlaten?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Snelle URL invoer</string>
   <string name="pref_adblock_counts">%d geblokkeerd</string>
   <string name="pref_adblock_title">Adblocker</string>
-  <string name="pref_advert_null">Ongemarkeerde advertenties. Je kan op het label tikken op de pagina</string>
+  <string name="pref_advert_null">Geen items gemarkeerd als advertentie. Houd een item op de webpagina ingedrukt om te markeren.</string>
   <string name="pref_auto_update_under_wifi">Updaten over Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Wisselen naar de zoekmachine die je het meest gebruikt</string>
-  <string name="pref_cancel_screen">Scherm annuleren</string>
+  <string name="pref_cancel_screen">Deblokkeren</string>
   <string name="pref_category_hint">Categorie</string>
   <string name="pref_check_security_url_summary">Stuur URL van website naar de Mi servers voor validatie</string>
   <string name="pref_check_security_url_summary_international">Geef de browser toegang tot de URLs van de websites die je bezoekt om relevante aanbevelingen te ontvangen.</string>
@@ -611,7 +611,7 @@ Deze pagina verlaten?"</string>
   <string name="pref_force_userscalable_summary">Websiteverzoek overschrijden om zoomgedrag te beheren</string>
   <string name="pref_general_title">Algemeen</string>
   <string name="pref_key_gesture_title">Toetsen &amp; gebaren</string>
-  <string name="pref_label_advert_manager">Gelabelde advertenties beheren</string>
+  <string name="pref_label_advert_manager">Gemarkeerde advertenties beheren</string>
   <string name="pref_nav_mode_summary_pad">Tablet</string>
   <string name="pref_nav_mode_summary_phone">Telefoon</string>
   <string name="pref_nav_mode_title">Browsermodus</string>

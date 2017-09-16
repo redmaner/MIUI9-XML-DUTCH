@@ -142,7 +142,7 @@ Controleer het volg nummer.</string>
   <string name="express_install_cainiao_ok">Download</string>
   <string name="express_install_cainiao_title">Cainiao installeren</string>
   <string name="express_install_delivery_service">Leveringsdiensten</string>
-  <string name="express_install_open_locker">Nog en stap om de kastje te openen</string>
+  <string name="express_install_open_locker">Kluis openen</string>
   <string name="express_install_order_detail">Bestellingsdetails controleren</string>
   <string name="express_install_schedule_delivery">Levering plannen</string>
   <string name="express_location_failed">Kon locatie niet bepalen, voer je adres in.</string>
@@ -150,12 +150,10 @@ Controleer het volg nummer.</string>
   <string name="express_no_address">Leeg</string>
   <string name="express_no_order">Geen bestellingen</string>
   <string name="express_no_order_info">Nr. bestelling info</string>
-  <string name="express_open_locker">一键开柜</string>
   <string name="express_order_confirmation">Bestel bevestiging</string>
   <string name="express_order_failed">Mislukt</string>
   <string name="express_order_ongoing">Bestellen…</string>
   <string name="express_order_result">Resultaat</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Aanvaard</string>
   <string name="express_order_state_allograph">Ondertekend</string>
   <string name="express_order_state_cancelled">Geannuleerd</string>

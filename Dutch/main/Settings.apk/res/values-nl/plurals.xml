@@ -155,7 +155,7 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d apps mogen automatisch starten</item>
-        <item quantity="one">%d mag automatisch starten</item>
+        <item quantity="one">%d app mag automatisch starten</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN moet %d nummers zijn</item>
