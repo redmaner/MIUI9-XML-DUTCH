@@ -97,6 +97,7 @@
   <string name="permission_group_title_privacy_related">Privacy</string>
   <string name="permission_group_title_settings_related">Instellingen</string>
   <string name="permission_warning_template">%1$s wil %2$s</string>
+  <string name="permission_warning_template_ask">%1$s de volgende toestemmingen geven？</string>
   <string name="permisson_reject_notice_toast_text2">"heeft geen toestemming tot %1$s."</string>
   <string name="screen_overlay_button">Open instellingen</string>
   <string name="screen_overlay_message">Om deze toestemming instelling te wijzigen, moet u eerst schermoverlay uitschakelen in Instellingen &gt; Apps</string>

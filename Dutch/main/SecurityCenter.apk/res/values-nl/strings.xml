@@ -730,7 +730,7 @@ in het geval je hem vergeten bent"</string>
   <string name="hot_today">Populair vandaag</string>
   <string name="i_know">Begrepen</string>
   <string name="info_and_call">Gesprekken en berichten</string>
-  <string name="info_antispam_close">Zwarte lijst uit</string>
+  <string name="info_antispam_close">Zwarte lijst is uitgeschakeld</string>
   <string name="info_antispam_phone">Oproepen blokkeren</string>
   <string name="info_antispam_phone_sms">Oproepen en SMS blokkeren</string>
   <string name="info_antispam_sms">SMS blokkeren</string>
