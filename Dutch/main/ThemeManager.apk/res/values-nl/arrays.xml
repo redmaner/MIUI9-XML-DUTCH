@@ -27,7 +27,8 @@
         <item>Creatief</item>
         <item>Planten</item>
         <item>Lifestyle</item>
-	<string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+    </string-array>	
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
         <item>Landschap</item>
         <item>Dieren</item>
         <item>Creatief</item>
