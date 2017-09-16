@@ -6,18 +6,18 @@
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d conversaties archiveren?</item>
-        <item quantity="one">Deze conversatie archiveren?</item>
+        <item quantity="one">%1$d conversatie archiveren?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">%1$d conversaties verwijderen?</item>
-        <item quantity="one">Deze conversatie verwijderen?</item>
+        <item quantity="one">%1$d conversatie verwijderen?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Deze gesprekken bevatten meerdere berichten. Toch verwijderen?</item>
         <item quantity="one">Dit gesprek bevat meerdere berichten. Toch verwijderen?</item>
     </plurals>
 	<plurals name="confirm_delete_draft">
-        <item quantity="other">%1$d verwijderen?</item>
+        <item quantity="other">%1$d items verwijderen?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d items geselecteerd</item>
@@ -40,8 +40,8 @@
         <item quantity="one">… %1$d persoon</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">%1$d conversaties genegeerd</item>
-        <item quantity="one">%1$d conversatie genegeerd</item>
+        <item quantity="other">%1$d conversaties genegeerd.</item>
+        <item quantity="one">%1$d conversatie genegeerd.</item>
     </plurals>
     <plurals name="conversation_not_important">
         <item quantity="other">"%1$d conversaties verwijderd uit de 'belangrijke' map"</item>
@@ -52,8 +52,8 @@
         <item quantity="one">"%1$d conversatie verwijderd uit de 'spam' map"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">%1$d conversaties gerapporteerd als spam</item>
-        <item quantity="one">%1$d conversatie gerapporteerd als spam</item>
+        <item quantity="other">%1$d conversaties aangegeven als fraude.</item>
+        <item quantity="one">%1$d conversatie aangegeven als fraude.</item>
     </plurals>
     <plurals name="conversation_spammed">
         <item quantity="other">%1$d conversaties aangegeven als spam.</item>
