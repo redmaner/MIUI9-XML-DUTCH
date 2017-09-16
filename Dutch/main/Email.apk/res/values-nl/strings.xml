@@ -22,7 +22,7 @@
   <string name="account_setting">Accounts</string>
   <string name="account_setting_keywords">Accounts;mailaccounts</string>
   <string name="account_setting_message_body_load_complete">Volledig bericht</string>
-  <string name="account_setting_message_body_load_head_abstract">Sammenvating van E-mail</string>
+  <string name="account_setting_message_body_load_head_abstract">Sammenvating van e-mail</string>
   <string name="account_setting_message_body_load_head_only">Alleen berichtkoppen</string>
   <string name="account_setting_message_body_load_text">Alleen de body</string>
   <string name="account_settings_action">Accountinstellingen</string>
@@ -162,7 +162,7 @@ Nu bijwerken?"</string>
   <string name="actionbar_large_unread_count">Meer dan %1$d ongelezen</string>
   <string name="activity_folder_selection">Map selecteren</string>
   <string name="activity_mailbox_selection">Account kiezen</string>
-  <string name="ad_merge">Adv &amp; Meldingen</string>
+  <string name="ad_merge">Adv &amp; meldingen</string>
   <string name="add_account">Account toevoegen</string>
   <string name="add_account_keywords">Account toevoegen;emailaccount toevoegen</string>
   <string name="add_attachment">Bijlage toevoegen</string>

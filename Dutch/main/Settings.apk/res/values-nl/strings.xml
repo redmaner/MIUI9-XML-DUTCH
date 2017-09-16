@@ -1294,7 +1294,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="disableNetwork">Netwerk uitschakelen</string>
   <string name="disable_overlays">HW-overlays uitschakelen</string>
   <string name="disable_overlays_summary">GPU altijd gebruiken voor schermcompositing</string>
-  <string name="disable_power_key_long_press_under_keyguard">Aanuitknop menu uitschakelen</string>
+  <string name="disable_power_key_long_press_under_keyguard">Aan/uitknop menu uitschakelen</string>
   <string name="disable_service_message">"Als u 'OK' aanraakt, wordt %1$s beëindigd."</string>
   <string name="disable_service_title">%1$s beëindigen?</string>
   <string name="disable_text">Uitschakelen</string>
