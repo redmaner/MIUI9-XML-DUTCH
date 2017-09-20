@@ -8,7 +8,7 @@
   <string name="account_duplicate_dlg_message_fmt">"U gebruikt deze gebruikersnaam al voor het account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dubbel account</string>
   <string name="account_failure">Sessie verlopen</string>
-  <string name="account_name_toast">Kan geen account aanmaken. Een account met dezelfde naam al bestaat</string>
+  <string name="account_name_toast">Er bestaat al een account met dezelfde naam</string>
   <string name="account_options_sync_title">Synchronisatie</string>
   <string name="account_password_spaces_error">"Dit wachtwoord begint of eindigt met een of meerdere
         spaties. Veel servers bieden geen ondersteuning voor wachtwoorden met spaties."</string>
@@ -149,9 +149,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_outgoing_port_label">Poort</string>
   <string name="account_setup_outgoing_require_login_label">U moet inloggen</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP server</string>
-  <string name="account_setup_security_policies_required_fmt">"         De server %s vereist dat u de server toestemming geeft 
-         bepaalde beveiligingsfuncties van uw Android apparaat extern te bedienen. Wilt u het instellen van dit account
-		 voltooien?"</string>
+  <string name="account_setup_security_policies_required_fmt">"De server %s vereist dat u de server toestemming geeft bepaalde beveiligingsfuncties van uw Android apparaat extern te bedienen. Wilt u het instellen van dit account voltooien?"</string>
   <string name="account_setup_security_required_title">Extern beveiligingsbeheer</string>
   <string name="account_setup_server_acc_manager_title">Accounts</string>
   <string name="account_setup_username_password_toast">Voer een geldig e-mailadres en wachtwoord in.</string>
@@ -226,7 +224,7 @@ Nu bijwerken?"</string>
   <string name="auto_mail_window_label">139 Mailbox Automatische Configuratie</string>
   <string name="auto_remind_bind">Toevoegen</string>
   <string name="auto_remind_discribe_text">Inschakelen om automatische herinneringen te ontvangen</string>
-  <string name="auto_remind_text">Automatishe herinneringen</string>
+  <string name="auto_remind_text">Automatische herinneringen</string>
   <string name="auto_remind_unbind">Stop</string>
   <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
   <string name="automatic_remind_text">Automatisch herinneren</string>
@@ -298,7 +296,7 @@ Nu bijwerken?"</string>
   <string name="contact_edit_title_phone_contact">Telefoon contact lijst</string>
   <string name="contact_in_filter_title">Afzender</string>
   <string name="contact_info_string">Contactgegevens weergeven voor %1$s</string>
-  <string name="contact_info_string_default">Geef contact informatie weer</string>
+  <string name="contact_info_string_default">Contactinformatie weergeven</string>
   <string name="contact_list_add_btn">Toevoegen</string>
   <string name="contact_list_search_hint">Zoek contacten</string>
   <string name="contact_list_title">Contacten</string>
@@ -308,7 +306,7 @@ Nu bijwerken?"</string>
   <string name="content_description_today">%1$s over %2$s, %3$s om %4$s, %5$s</string>
   <string name="contextmenu_add">Toevoegen aan contacten</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
-  <string name="contextmenu_call">Bel</string>
+  <string name="contextmenu_call">Bellen</string>
   <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL kopiëren</string>
   <string name="contextmenu_create">Nieuw contact aanmaken</string>
@@ -511,12 +509,7 @@ Nu bijwerken?"</string>
   <string name="help_config">Zelf configuratie</string>
   <string name="hide_atts_remaining">%1$d bijlagen verbergen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
-  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
-  <string name="imap_name">IMAP</string>
-  <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="imap_password_error">Wachtwoord van de inkomende e-mailserver is fout</string>
   <string name="import_button_text">Importeren</string>
   <string name="import_from_other_account">Importeren van andere accounts</string>
@@ -526,10 +519,9 @@ Nu bijwerken?"</string>
   <string name="info_switch_title">Promotie</string>
   <string name="inline_picture_deleted">Downloaden van ontbrekende afbeelding…</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_package">com.android.exchange</string>
   <string name="interact_with_server_error">Kon niet verbinden met de server</string>
-  <string name="invalid_recipient">Het adres \"%s\" is ongeldig.</string>
+  <string name="invalid_recipient">Het adres %s is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers Error</string>
   <string name="load_from_remote">Mailbox zoeken op server</string>
   <string name="load_more">Meer laden</string>
@@ -562,11 +554,11 @@ Nu bijwerken?"</string>
   <string name="mailbox_name_display_starred">Favorieten</string>
   <string name="mailbox_name_display_trash">Prullenbak</string>
   <string name="mailbox_name_display_unread">Ongelezen</string>
-  <string name="mailbox_settings_activity_title">Sync. instellingen</string>
-  <string name="mailbox_settings_activity_title_with_mailbox">Sync. instellingen (%s)</string>
-  <string name="mailbox_settings_mailbox_sync_window_label">Mail sync van</string>
+  <string name="mailbox_settings_activity_title">Synchronisatie-instellingen</string>
+  <string name="mailbox_settings_activity_title_with_mailbox">Synchronisatie-instellingeninstellingen (%s)</string>
+  <string name="mailbox_settings_mailbox_sync_window_label">Mail synchroniseren van</string>
   <string name="mailbox_settings_sync_enabled_label">Deze map synchroniseren</string>
-  <string name="mailbox_settings_sync_enabled_summary">Gesync. berichten in deze map</string>
+  <string name="mailbox_settings_sync_enabled_summary">Gesynchroniseerde berichten in deze map</string>
   <string name="manual_sync">Nu synchroniseren</string>
   <string name="mark_important">Markeren als belangrijk</string>
   <string name="mark_not_important">Markeren als niet belangrijk</string>
@@ -666,7 +658,7 @@ Nu bijwerken?"</string>
   <string name="no_application_found">Er is geen app die deze bijlage kan openen voor weergave.</string>
   <string name="no_application_found_title">Open deze bijlage.</string>
   <string name="no_bill_discribe">"Kon geen rekeningen vinden.
-Schakel over naar een ander email account."</string>
+Schakel over naar een ander e-mailaccount."</string>
   <string name="no_contacts">Geen contacten</string>
   <string name="no_content_in_body">[Geen opbouw]</string>
   <string name="no_conversations">Geen berichten.</string>
@@ -729,10 +721,10 @@ Probeer een andere inbox."</string>
   <string name="parse_bill_discribe">Verwerking van creditcardrekeningen…</string>
   <string name="parse_recognize_describe">E-mail analyseren…</string>
   <string name="password_expire_warning_content_title">Wachtwoord schermvergrendeling bijna verlopen</string>
-  <string name="password_expire_warning_dialog_content_fmt">"         U moet uw PIN code of wachtwoord voor schermvergrendeling snel wijzigen of de gegevens voor %s worden gewist. Nu wijzigen?"</string>
+  <string name="password_expire_warning_dialog_content_fmt">"U moet uw PIN code of wachtwoord voor schermvergrendeling snel wijzigen of de gegevens voor %s worden gewist. Nu wijzigen?"</string>
   <string name="password_expire_warning_dialog_title">Wachtwoord schermvergrendeling bijna verlopen</string>
-  <string name="password_expire_warning_ticker_fmt">"Voor \"%s\" moet u uw pincode of wachtwoord 
-            voor schermvergrendeling wijzigen."</string>
+  <string name="password_expire_warning_ticker_fmt">"Voor \"%s\" moet u uw pincode of wachtwoord voor 
+            schermvergrendeling wijzigen."</string>
   <string name="password_expired_content_title">Wachtwoord schermvergrendeling verlopen</string>
   <string name="password_expired_dialog_content_fmt">De gegevens voor %s worden gewist op uw apparaat. U kunt het account herstellen door uw PIN code of wachtwoord voor schermvergrendeling te wijzigen. Nu wijzigen?</string>
   <string name="password_expired_dialog_title">Wachtwoord schermvergrendeling verlopen</string>
@@ -914,6 +906,10 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="reply_all">Allen beantwoorden</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="report_phishing">Phishing melden</string>
+  <string name="report_rendering_improvement">Ziet er goed uit</string>
+  <string name="report_rendering_improvement_desc">Dit bericht ziet er goed uit.</string>
+  <string name="report_rendering_problem">Ziet er slecht uit</string>
+  <string name="report_rendering_problem_desc">Dit bericht ziet er niet goed uit.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Bestand is te groot</string>
   <string name="request_permission_activity">Toestemmingsaanvraag</string>
@@ -970,7 +966,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="ser_resp_err_map_pserr">Onjuiste gebruikersnaam of wachtwoord</string>
   <string name="ser_resp_err_map_serclosed">%s server gesloten</string>
   <string name="ser_resp_err_map_ssl">"Probeer te kiezen voor 'SSL/TLS (alle certificaten accepteren)' in 'Beveiligingstype'"</string>
-  <string name="service_protocol_discribe">"I've read and agree with WPS Mail Service Agreement"</string>
+  <string name="service_protocol_discribe">"Ik heb WPS Mail Service Agreement gelezen en ga ermee akkoord"</string>
   <string name="service_protocol_title">Service Agreement</string>
   <string name="set_network">Netwerk instellen</string>
   <string name="setting_default_lable"/>
