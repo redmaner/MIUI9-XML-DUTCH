@@ -2307,7 +2307,6 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Totaal: %2$s</string>
   <string name="memory_usage">Geheugengebruik</string>
   <string name="memory_usage_apps">Geheugen gebruikt door apps</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Gemiddeld %1$s geheugen gebruikt in laatste 3 uur</string>
   <string name="menu_cancel">Negeren</string>
   <string name="menu_check">Ervaring</string>
@@ -2338,7 +2337,6 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="misc_files">Diverse bestanden</string>
   <string name="misc_files_selected_count">%1$d van %2$d geselecteerd</string>
-  <string name="misc_files_selected_count_bytes">%1$s van %2$s</string>
   <string name="miui_allow_alarm">Wekkers</string>
   <string name="miui_allow_light">Meldingslicht</string>
   <string name="miui_allow_music">Media</string>
@@ -4039,7 +4037,6 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synchroniseren…</string>
   <string name="sync_is_failing">Er zijn momenteel problemen met synchroniseren. Synchronisatie wordt snel opnieuw uitgevoerd.</string>
-  <string name="sync_item_title">%s synchroniseren</string>
   <string name="sync_menu_sync_cancel">Sync. annuleren</string>
   <string name="sync_menu_sync_now">Nu synchroniseren</string>
   <string name="sync_now">Synchroniseren</string>
