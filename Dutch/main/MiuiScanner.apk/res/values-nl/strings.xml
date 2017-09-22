@@ -82,6 +82,8 @@
   <string name="keywords_search_shopping">Shoppen;Scanner;Producten scannen;Product scannen;Prijs checken;Producten;Taobao;Tmall;Prijzen;Online shoppen</string>
   <string name="keywords_search_study">Scanner;Problemen;Problemen oplossen;Huiswerk;School;Natuurkunde;Scheikunde;Wiskunde;Wiskunde;Engels;Geschiedenis;Chinees</string>
   <string name="keywords_search_translation">Scanner;Vertalen;Woordenboek;Engels;Vreemde taal;Taal;Talen;Engels naar Chinees;Italiaans;Duits;Japans;Koreaans;Spaans;Frans; Baidu Translate;Youdao Dictionary;Baidu Dictionary;Google Translate</string>
+  <string name="label_choose_picture">Afbeelding kiezen</string>
+  <string name="label_flash_light">Zaklamp</string>
   <string name="language_entry_chinese_cn">Vereenvoudigd Chinees</string>
   <string name="language_entry_chinese_tw">Traditioneel Chinees</string>
   <string name="language_entry_danish">Deens</string>
