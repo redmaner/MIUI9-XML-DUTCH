@@ -904,10 +904,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="reply_all">Allen beantwoorden</string>
   <string name="reply_attribution" formatted="false">Op %s schreef %s:</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Ziet er goed uit</string>
-  <string name="report_rendering_improvement_desc">Dit bericht ziet er goed uit.</string>
-  <string name="report_rendering_problem">Ziet er slecht uit</string>
-  <string name="report_rendering_problem_desc">Dit bericht ziet er niet goed uit.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Bestand is te groot</string>
   <string name="request_permission_activity">Toestemmingsaanvraag</string>
