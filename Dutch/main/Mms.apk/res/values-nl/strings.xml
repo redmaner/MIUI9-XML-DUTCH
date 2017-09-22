@@ -155,6 +155,7 @@
   <string name="error_state">Tegenstrijdige staat</string>
   <string name="error_state_text">De status van threads en ontvangers is tegenstrijdig. Registreer dit als bug via http://go/droidanizer</string>
   <string name="error_timed_msg">Kan geen tijdstip in verleden instellen.</string>
+  <string name="ex_type_guide">Informatie</string>
   <string name="ex_type_mx">Cloudbericht</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Limiet berichtgrootte bereikt.</string>
@@ -359,6 +360,7 @@
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privécontact</string>
   <string name="open_audio_record_panel">Audio record paneel openen</string>
+  <string name="open_edit_sms_panel">SMS bewerkpaneel openen</string>
   <string name="open_url_with_web">Deze URL openen in browser?</string>
   <string name="over_max_mms_size">MMS is te groot.</string>
   <string name="overwrite_edited_content">"Aangepaste inhoud wordt overschreven, wilt u doorgaan?"</string>

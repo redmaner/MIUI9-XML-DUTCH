@@ -57,6 +57,8 @@ Laatst geback-upt op %2$s"</string>
   <string name="cloud_storage_is_full">Vol</string>
   <string name="cloudservice_new_sync">Sync. %s met Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Gebruik Mi Cloud om gegevens te synchroniseren, je apparaat zoeken en dingen te delen met je vrienden.</string>
+  <string name="confirm_delete">Verwijderen</string>
+  <string name="confirm_save">Bewaren</string>
   <string name="connect_network">Verbind met Wi-Fi of voer SIM kaart in</string>
   <string name="connect_wlan">Verbind met Wi-Fi</string>
   <string name="contact">Contacten</string>
@@ -523,11 +525,9 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
   <string name="unactivated_user">Gedeactiveerd</string>
   <string name="upgrade_space">Toevoegen ruimte</string>
-  <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Credits per jaar</string>
   <string name="upgrade_space_successful">Toegevoegd %sGB</string>
   <string name="upgrade_space_successful_total">%sGB beschikbaar</string>
-  <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Gebruikers overeenkomst</string>
   <string name="user_agreement_p5">"
 "</string>
@@ -541,10 +541,9 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="virtual_sim_desc">Schakel Mi SIM in om apparaat te lokaliseren zonder SIM kaart</string>
   <string name="voip_choose_sim">Kies telefoonnr. om Mi Voice te activeren</string>
   <string name="wipe_data_dialog_button_check_sync">Controleren al ze gesync. zijn</string>
-  <string name="wipe_data_dialog_msg">%s waren niet gesync en zullen op telefoon blijven staan.</string>
+  <string name="wipe_data_dialog_msg">Sommige items (%s) zijn niet gesynchroniseerd, ze worden opgeslagen op je telefoon en zullen niet verwijderd worden.</string>
   <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Sommige items zijn niet gesync.</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmpp_server_addr"/>
+  <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
+  <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
 </resources>

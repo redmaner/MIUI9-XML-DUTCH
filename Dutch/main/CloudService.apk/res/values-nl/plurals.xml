@@ -56,6 +56,10 @@
         <item quantity="other">%d vermeldingen in blokkeerlijst</item>
         <item quantity="one">%d vermelding in blokkeerlijst</item>
     </plurals>
+	<plurals name="dirty_secretphoto_count">
+        <item quantity="other">"%d verborgen foto\'s worden niet gesynchroniseerd. Log uit nadat alle items zijn gesynchroniseerd om ze te bewaren; anders worden de items verwijderd."</item>
+        <item quantity="one">"%d verborgen foto wordt niet gesynchroniseerd. Log uit nadat alle items zijn gesynchroniseerd om te bewaren; anders wordt het item verwijderd."</item>
+    </plurals>
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Synchronisatie na %d uur herhalen</item>
         <item quantity="one">Synchronisatie na %d uur herhalen</item>

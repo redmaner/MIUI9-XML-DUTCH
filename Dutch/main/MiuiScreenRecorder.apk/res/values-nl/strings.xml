@@ -15,9 +15,6 @@
   <string name="cancel_edit">Annuleren</string>
   <string name="cannot_change_parames">Kan parameters niet wijzigen tijdens opnemen</string>
   <string name="cannot_record">Kon niet opnemen, probeer later opnieuw</string>
-  <string name="date_day"/>
-  <string name="date_month">/</string>
-  <string name="date_year">/</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
   <string name="frames">Framerate</string>
@@ -47,6 +44,8 @@
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_send">Verzenden</string>
   <string name="quit_recording">Schermrecorder afsluiten</string>
+  <string name="recording_failure">Laatste opname is mislukt, start een nieuwe schermopname</string>
+  <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen vanwege maximumgrootte van videobestanden. Je kan een nieuwe opname starten als je wil doorgaan met opnemen.</string>
   <string name="resolution">Resolutie</string>
   <string name="resolution_summary">Video\'s met hogere resolutie zien er scherper uit</string>
   <string name="screen_orientation">Oriëntatie</string>
@@ -60,9 +59,10 @@
   <string name="show_screen_touch_summary">Aanrakingen weergeven met een witte stip</string>
   <string name="sound_source">Geluidsbron</string>
   <string name="sound_source_summary">Systeemgeluiden of microfoon</string>
-  <string name="start">Beginnen</string>
+  <string name="start">Starten</string>
+  <string name="start_recording">Opname starten</string>
   <string name="stop_by_second_space">Van gebruiker wisselen zal het opnemen stoppen</string>
   <string name="stop_record_while_locking">Scherm vergrendelen om te stoppen</string>
   <string name="stop_record_while_locking_summary">Opnemen stoppen en video opslaan als het scherm wordt vergrendeld</string>
-  <string name="timer_format">%s</string>
+  <string name="stop_recording">Opname stoppen</string>
 </resources>

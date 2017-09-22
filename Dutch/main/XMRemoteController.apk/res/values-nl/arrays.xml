@@ -26,12 +26,12 @@
         <item>Kan ik Mi 3, Mi 2 en Redmi als IR afstandsbediening gebruiken?</item>
     </string-array>
 	<string-array name="assistant_tab">
-        <item>Video</item>
+        <item>Video/'s</item>
         <item>Schermafdrukken</item>
-        <item>App</item>
+        <item>Apps</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>Compleet</item>
+        <item>Alles</item>
         <item>Favorieten</item>
         <item>CCTV</item>
         <item>TV</item>
@@ -40,87 +40,46 @@
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
         <item>Alle kanalen</item>
-        <item>Favoriete kanalen</item>
-        <item>CCTV kanalen</item>
-        <item>TV kanalen</item>
+        <item>Recent bekeken</item>
         <item>HD kanalen</item>
-        <item>Onlangs bekeken</item>
-    </string-array>
-    <string-array name="epg_channel_tab_actionbar_v53">
-        <item>全部频道</item>
-        <item>经常观看</item>
-        <item>高清频道</item>
-        <item>卫视频道</item>
-        <item>央视频道</item>
+        <item>TV kanalen</item>
+        <item>CCTV kanalen</item>
     </string-array>
     <string-array name="epg_channel_tab_v53">
-        <item>全部</item>
-        <item>常看</item>
-        <item>高清</item>
-        <item>卫视</item>
-        <item>央视</item>
+	    <item>Alles</item>
+        <item>Recent</item>
+        <item>HD</item>
+        <item>TV</item>
+        <item>CCTV</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>
         <item></item>
-        <item>Arts</item>
+        <item>Entertainment</item>
         <item></item>
         <item>Sport</item>
-        <item>Kinderen</item>
+        <item>Voor kinderen</item>
         <item>Nieuws</item>
-        <item>Leven</item>
+        <item>Lifestyle</item>
     </string-array>
     <string-array name="epg_program_tab">
         <item>Populair</item>
-        <item>Film</item>
-        <item>Kunst</item>
-        <item>TV Series</item>
+        <item>Films</item>
+        <item>Entertainment</item>
+        <item>TV series</item>
         <item>Sport</item>
         <item>Kinderprogramma\'s</item>
         <item>Nieuws</item>
-        <item>Wonen</item>
+        <item>Lifestyle</item>
     </string-array>
     <string-array name="epg_program_tab_actionbar">
-        <item>Top Shows</item>
+        <item>Populaire shows</item>
         <item>Films</item>
-        <item>Variety Show</item>
-        <item>TV Series</item>
-        <item>Sport programma\'s</item>
+        <item>Entertainmentprogramma\'s</item>
+        <item>TV series</item>
+        <item>Sportprogramma\'s</item>
         <item>Kinderprogramma\'s</item>
-        <item>Nieuws programma\'s</item>
-        <item>Woon programma\'s</item>
-    </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="user_notification_tab">
-        <item>\@与我相关</item>
-        <item>系统通知</item>
+        <item>Nieuwsprogramma\'s</item>
+        <item>Lifestyleprogramma\'s</item>
     </string-array>
 </resources>

@@ -8,7 +8,6 @@
   <string name="agree">Toestaan</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">Verbergen</string>
-  <string name="byteShort">B</string>
   <string name="cancel">Annuleren</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">Overdrachten bekjken</string>
@@ -22,9 +21,6 @@
   <string name="delete_failed">Kan niet verwijderen</string>
   <string name="delete_failed_retry">Kan niet verwijderen, wacht %1$s en probeer opnieuw</string>
   <string name="delete_file">Dit bestand verwijderen?</string>
-  <string name="delete_files">%1$d bestanden verwijderen?</string>
-  <string name="delete_folder">Deze map verwijderen?</string>
-  <string name="delete_folders">%1$d mappen verwijderen?</string>
   <string name="delete_success">Map verwijderd</string>
   <string name="download_failed">Kon niet downloaden</string>
   <string name="downloading">Bezig met downloaden</string>

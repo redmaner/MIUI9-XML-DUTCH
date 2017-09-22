@@ -5,7 +5,7 @@
   <string name="__leak_canary_delete">Verwijderen</string>
   <string name="__leak_canary_delete_all">Alle verwijderen</string>
   <string name="__leak_canary_display_activity_label">Lekken</string>
-  <string name="__leak_canary_failure_report">"Meld dit gebrek aan  http://github.com/square/leakcanary
+  <string name="__leak_canary_failure_report">"Meld dit gebrek aan http://github.com/square/leakcanary
 "</string>
   <string name="__leak_canary_leak_list_title">Lekken in %s</string>
   <string name="__leak_canary_notification_message">Klik voor meer details</string>
@@ -23,7 +23,7 @@
   <string name="add_to_album_exist">Foto bevindt zich al in album</string>
   <string name="add_to_album_failed">Kon niet toevoegen aan album</string>
   <string name="add_to_album_success">Toegevoegd aan album</string>
-  <string name="add_to_album_tip">Cloud foto\'s</string>
+  <string name="add_to_album_tip">Cloudfoto\'s</string>
   <string name="add_to_secret_exist">Foto bevindt zich al in verborgen album</string>
   <string name="add_to_secret_fail">Kon niet toevoegen aan verborgen album</string>
   <string name="add_to_secret_failed_with_reason">"Kan niet toegevoegd worden aan verborgen album. %1$s."</string>
@@ -653,8 +653,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_page_save_uri_image_ok">Foto opgeslagen in galerij</string>
   <string name="pick_from_contact">Kies uit contacten</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
-  <string name="picker_cancel_download">Download annuleren</string>
-  <string name="picker_continue_download">Download hervatten</string>
+  <string name="picker_cancel_download">Downloaden annuleren</string>
+  <string name="picker_continue_download">Downloaden hervatten</string>
   <string name="picker_continue_with_exists">Doorgaan met lokale foto\'s</string>
   <string name="picker_download">Downloaden</string>
   <string name="picker_download_progress_message">%1$d/%2$d downloaden</string>
