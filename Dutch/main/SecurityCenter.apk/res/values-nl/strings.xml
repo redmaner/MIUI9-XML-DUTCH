@@ -15,6 +15,7 @@
   <string name="ac_firstUseApplock_title">Wachtwoord instellen om uw apps te beschermen</string>
   <string name="ac_summaryOff">Uitgeschakeld, wachtwoord is niet vereist om apps te openen</string>
   <string name="ac_summaryOn">Ingeschakeld, wachtwoord is vereist om apps te openen</string>
+  <string name="access_control_app_is_launching">App start op</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Wachtwoord is vereist om apps te openen</string>
   <string name="access_control_fingerprint_not_identified_msg">Kon vingerafdruk niet lezen</string>
   <string name="access_control_need_password">"%s met succes toegevoegd
@@ -71,7 +72,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">2 dagen geleden bijgewerkt</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Gisteren bijgewerkt om %s</string>
   <string name="adjust_traffic_data">Dataverbruik instellen</string>
-  <string name="after_the_lock_screen">App is vergrendeld samen met het scherm. U kan dit wijzigen in de instellingen voor appvergrendeling.</string>
+  <string name="after_the_lock_screen">Apps samen met het scherm vergrendelen.</string>
   <string name="alarm_headsup_bottom">Mi telefoon is snel pak een rode envelop</string>
   <string name="alarm_lock_screen_summary">Een grote golf rode regen onderweg…</string>
   <string name="alarm_lockscreen_btn">Hij begon aan een rode envelop te pakken</string>
@@ -224,12 +225,12 @@
   <string name="applock_add_account_info">"Voeg Mi Account toe om in staat te zijn om je wachtwoord te herstellen
 in het geval je hem vergeten bent"</string>
   <string name="applock_add_account_setting">Account &amp; privacy</string>
-  <string name="applock_bind_account_title">Resetting your password</string>
+  <string name="applock_bind_account_title">Wachtwoord vergeten</string>
   <string name="applock_close_dialog_summary">Apps zullen niet langer zijn beveiligd en je wachtwoord zal worden verwijderd nadat je appvergrendeling hebt uitgeschakeld.</string>
   <string name="applock_close_dialog_title">Appvergrendeling uitschakelen?</string>
   <string name="applock_exit_account_info">Account zal automatisch worden verwijderd wanneer je uitlogt</string>
-  <string name="applock_header_text_less_than_half">Too little space for this app. Drag the separator further.</string>
-  <string name="applock_login_and_add_account">inloggen &amp; toevoegen</string>
+  <string name="applock_header_text_less_than_half">Te klein. Sleep wat verder.</string>
+  <string name="applock_login_and_add_account">Inloggen &amp; toevoegen</string>
   <string name="applock_not_add_account">Niet nu</string>
   <string name="applock_not_login_account">Je bent niet ingelogd</string>
   <string name="apps_item_sign_dialog_content">"%s's handtekening is verschillend van de versie in de App Store. Deze app verwijderen en de officiele versie installeren? Let op: een app met een conflicterende handtekening kan leiden tot gegevensverlies."</string>
@@ -334,10 +335,6 @@ in het geval je hem vergeten bent"</string>
   <string name="battery_health_title_text">Batterijgezondheid</string>
   <string name="battery_health_voltage_text">Batterijvoltage</string>
   <string name="battery_history_activity_title">Geschiedenis</string>
-  <string name="battery_history_days">%1$dd %2$du %3$dm %4$ds</string>
-  <string name="battery_history_hours">%1$du %2$dm %3$ds</string>
-  <string name="battery_history_minutes">%1$dm %2$ds</string>
-  <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_stats_charging_label">Opladen</string>
   <string name="battery_stats_gps_on_label">GPS</string>
   <string name="battery_stats_on_battery">%1$s op batterij</string>
@@ -393,11 +390,13 @@ in het geval je hem vergeten bent"</string>
   <string name="btn_text_stop">Stoppen</string>
   <string name="button_text_accept">Aanvaarden</string>
   <string name="button_text_accept_timer">Aanvaarden (%d)</string>
+  <string name="button_text_clear">Wissen</string>
   <string name="button_text_delete">Verwijderen</string>
   <string name="button_text_delete_from_virus_white_list">Verwijderen</string>
   <string name="button_text_deny">Afwijzen</string>
   <string name="button_text_disconnect_now">Verbinding verbreken</string>
   <string name="button_text_fix_now">Herstellen</string>
+  <string name="button_text_forbid_now">Verbieden</string>
   <string name="button_text_ignore">Negeren</string>
   <string name="button_text_ignore_alert_title">Alarm negeren?</string>
   <string name="button_text_known">OK</string>
@@ -627,7 +626,7 @@ in het geval je hem vergeten bent"</string>
   <string name="firewall_activity_lable">Dataverbruik beperken per app</string>
   <string name="firewall_allow_all">ALaat alle apps toe verbinding maken op de volgende methode</string>
   <string name="firewall_allow_data">Mobiel datagebruik toestaan</string>
-  <string name="firewall_allow_network">Toegestaan</string>
+  <string name="firewall_allow_network">Toestaan</string>
   <string name="firewall_allow_wlan">Wi-Fi verbinding gebruik toestaan</string>
   <string name="firewall_applist">Apps</string>
   <string name="firewall_fragment_nonesys_listempty">Leeg</string>
@@ -641,7 +640,7 @@ in het geval je hem vergeten bent"</string>
   <string name="firewall_partial">Laat sommige apps verbinding maken op de volgende methode​</string>
   <string name="firewall_restrict_all">Beperk de verbinding voor alle apps op de volgende methode</string>
   <string name="firewall_restrict_android_dialog_content">Om er zeker van te zijn dat uw apparaat normaal werkt, verbinden er nog een paar Android systeemapplicaties met internet. Deze apps gebruiken uw mobiele dataverbinding en kunnen kleine kosten meebrengen van uw provider.</string>
-  <string name="firewall_restrict_android_dialog_title">Aandacht</string>
+  <string name="firewall_restrict_android_dialog_title">Opgelet</string>
   <string name="firewall_restrict_data">Mobiel datagebruik bepereken</string>
   <string name="firewall_restrict_notify_title">%s kan netwerk niet gebruiken</string>
   <string name="firewall_restrict_wlan">Wi-Fi verbinding bepereken</string>
@@ -684,9 +683,9 @@ in het geval je hem vergeten bent"</string>
   <string name="get_sys_info">Info verkrijgen…</string>
   <string name="go_to">Doorgaan</string>
   <string name="go_to_setting_fingerprint">Instellingen</string>
-  <string name="google_base_app_install_choice">\"%s\" vereist Google Service Framework apps om normaal te werken. Downloaden en installeren?</string>
+  <string name="google_base_app_install_choice">\"%s\" vereist Google Services Framework om normaal te werken. Downloaden en installeren?</string>
   <string name="gs_anto_clean_memory_whitelist">Uitzonderingen</string>
-  <string name="gs_app_back_self_start">Batterij besparder</string>
+  <string name="gs_app_back_self_start">Batterijbesparder</string>
   <string name="gs_auto_clean_memory">Cache wissen</string>
   <string name="gs_auto_clean_memory_detail">Cache automatisch wissen om gaming te optimaliseren</string>
   <string name="gs_dialog_confirm_close_msg">De snelkoppeling wordt verwijderd uit uw startscherm. Ga naar Beveiliging &gt; Instellingen om het te herstellen.</string>
@@ -698,8 +697,8 @@ in het geval je hem vergeten bent"</string>
   <string name="gs_game_performance">Prestaties</string>
   <string name="gs_game_shortcut">Geniet van een meer vloeiende game ervaring</string>
   <string name="gs_only_self_start_for_list">Beperk achtergrondprocessen om batterij te sparen voor gaming</string>
-  <string name="gs_open_game_booster">Boost speed</string>
-  <string name="gs_performance_mode">Prestatie modus</string>
+  <string name="gs_open_game_booster">Snelheid opvoeren</string>
+  <string name="gs_performance_mode">Prestatiemodus</string>
   <string name="gs_performance_mode_detail">Verhoging van CPU gebruik om naadloze prestaties te garanderen</string>
   <string name="guide_get_operator_error">Verkeerde provider?</string>
   <string name="guide_operator_text">"Je huidige provider: "</string>
@@ -710,30 +709,28 @@ in het geval je hem vergeten bent"</string>
   <string name="handle_bar_title_system">Systeem</string>
   <string name="handle_title_network">Wi-Fi veiligheid</string>
   <string name="handle_title_pay_env">Betaalomgeving</string>
-  <string name="handle_title_privacy">Privé beveiliging</string>
+  <string name="handle_title_privacy">Privébeveiliging</string>
   <string name="hide_mode_app_background_setting_text">App batterijbespaarder</string>
   <string name="hide_mode_summary_text">De achtergrondactiviteit van apps beheren om batterij te besparen</string>
   <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="hint_antispam_mode_edit">Aangepaste modus</string>
   <string name="hints_handle_item_text_virus">Virussen: %d</string>
-  <string name="hints_input_roaming_daily_limit">Voer dataverbruikslimiet in</string>
+  <string name="hints_input_roaming_daily_limit">Voer limiet voor dataverbruik in</string>
   <string name="hints_loading_text">Laden…</string>
-  <string name="hints_scan_danger_result">risico gevonden, nu herstellen</string>
+  <string name="hints_risk_descx_title">Beschrijving:</string>
+  <string name="hints_risk_name_title">Risico:</string>
+  <string name="hints_scan_danger_result">Risico gevonden, nu herstellen</string>
   <string name="hints_scan_result_no_finish">Scan is niet afgerond. Klik om opnieuw te starten.</string>
   <string name="hints_scan_result_phone_safe">Alles ziet er goed uit</string>
   <string name="hints_scan_result_safe">Veilig</string>
   <string name="hints_scanning">Scannen…</string>
   <string name="hints_scanning_text">Scannen…</string>
-  <string name="hints_virus_apk_list_item_summary">apk</string>
-  <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_lib_update_default_summary">Laatste: onbekend</string>
   <string name="hot">Populair</string>
   <string name="hot_today">Populair vandaag</string>
   <string name="i_know">Begrepen</string>
-  <string name="im">IM</string>
   <string name="info_and_call">Gesprekken en berichten</string>
-  <string name="info_antispam_close">Zwarte lijst uit</string>
-  <string name="info_antispam_current_mode">%s</string>
+  <string name="info_antispam_close">Zwarte lijst is uitgeschakeld</string>
   <string name="info_antispam_phone">Oproepen blokkeren</string>
   <string name="info_antispam_phone_sms">Oproepen en SMS blokkeren</string>
   <string name="info_antispam_sms">SMS blokkeren</string>
@@ -774,12 +771,9 @@ in het geval je hem vergeten bent"</string>
   <string name="keywords_securitycenter">Veiligheid;Controleren;Scan</string>
   <string name="keywords_securitycenter_settings">Batterijbespaarder;Toestemmingen;Zwarte lijst;Dataverbruik;Databundel kalibreren;Netwerk testen;Appblokkering;Batterij besparen;Opwarming;Inschakelen;Uitschakelen;Batterij;Leeglopen;Autostart;ROOT;Locatie;Toegang tot contacten;Blokkeren;Zwarte lijst;Slimme blokkeerlijst;Fraude;Verkoop;Agenten;Data;Verkeer;Kalibreren;Verbinding;Internet;Test;Wachtwoord;Privacy;Toegang;Beveiliging</string>
   <string name="keywords_usb_install">USB installeren;installeren van computer;ADB installeren</string>
-  <string name="kilobyteShort">KB</string>
-  <string name="kilobyte_per_second">K/s</string>
   <string name="label_callwait">Oproep in de wacht</string>
   <string name="label_mi_stats">Mi analyse</string>
   <string name="last_check_canceled">Vorige scan is geannuleerd</string>
-  <string name="left_precent">60%</string>
   <string name="legal_workday">Werkdag</string>
   <string name="legal_workday_invalidate">Ma-vr (werkdag info verlopen)</string>
   <string name="legal_workday_invalidate_message">Tik om werkdagen info te updaten.</string>
@@ -826,16 +820,12 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="lockscreen_glogin_password_hint">Wachtwoord</string>
   <string name="lockscreen_glogin_submit_button">Aanmelden</string>
   <string name="loding">Gegevens laden</string>
-  <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Houd de resultaten in de lijst om ze toe te voegen aan uitzonderingen</string>
-  <string name="long_click_dialog_title">Aandacht</string>
+  <string name="long_click_dialog_title">Opgelet</string>
   <string name="low_memory_warning_dialog_cancel_button">Annuleren</string>
   <string name="low_memory_warning_dialog_msg">Maak ruimte vrij om door te gaan</string>
   <string name="low_memory_warning_dialog_ok_button">Wissen</string>
   <string name="low_memory_warning_dialog_title">Niet genoeg ruimte</string>
-  <string name="lucky_alarm_count_down">0:00:00</string>
-  <string name="lucky_alarm_count_down_default">0:00:00</string>
-  <string name="lucky_alarm_item_date">27</string>
   <string name="main_activity_content_summary_root">Roottoegang</string>
   <string name="main_activity_content_summary_update">Systeemupdate</string>
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
@@ -905,10 +895,7 @@ om te reageren"</string>
   <string name="mark_sell_block_large">Telemarketers</string>
   <string name="mark_sell_time_setting">Blok getallen een bepaald aantal keren die zijn gemeld als telemarketers</string>
   <string name="mark_time_setting_dialog_title">Nummer rapporteren</string>
-  <string name="mark_time_text">%d</string>
   <string name="marked_by_user">"jij hebt het gemarkeerd als "</string>
-  <string name="megabyteShort">MB</string>
-  <string name="megabyte_per_second">M/s</string>
   <string name="memory_check_content">%s vrijgemaakt</string>
   <string name="memory_clean_btn_click_text">Boost speed</string>
   <string name="memory_clean_cleaning_title">Cache wissen</string>
@@ -974,7 +961,6 @@ om te reageren"</string>
   <string name="name">Naam</string>
   <string name="net_booster">Netwerk versnellen</string>
   <string name="net_booster_expire_notification">Netwerkversnelling wordt beeindigd</string>
-  <string name="net_booster_expire_notification_tip">%d resterend voordat netwerkversnelling eindigt. Verleng de sessie om problemen met de netwerksnelheid te voorkomen.</string>
   <string name="net_booster_overdue_notification">Netwerkversnelling wordt beeindigd</string>
   <string name="net_booster_overdue_notification_tip">Netwerkversnelling wordt beeindigd. Wilt u de sessie verlengen?</string>
   <string name="net_booster_tip">Schakel netwerkversnelling in om de Wi-Fi verbinding stabieler te maken en netwerkvertraging te verminderen.</string>
@@ -1028,6 +1014,7 @@ om te reageren"</string>
   <string name="network_speed_for_apps_others">Andere</string>
   <string name="network_speed_for_apps_title">Verbinding</string>
   <string name="network_speed_for_apps_total">Verbindingssnelheid</string>
+  <string name="network_test_speed">Wi-Fi snelheid testen</string>
   <string name="networkchanged_exception_summary">Netwerkverbinding is veranderd. Test opnieuw.</string>
   <string name="networkchanged_exception_title">Verbinding is veranderd</string>
   <string name="never">1 keer</string>
@@ -1042,7 +1029,7 @@ om te reageren"</string>
   <string name="notification_battery_consume_abnormal_title">Batterij loopt te snel leeg</string>
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
-  <string name="notification_item">Bescherm geselecteerde apps met appvergrendeling</string>
+  <string name="notification_item">Bescherm apps met appvergrendeling</string>
   <string name="notification_mask_summary">Inhoud van meldingen niet weergeven op vergrendelscherm en in de notificatiebalk</string>
   <string name="notification_mask_title">Inhoud verbergen</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>
@@ -1110,9 +1097,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="om_settings_memory_occupy_notify">Hoge cache grootte</string>
   <string name="om_settings_memory_occupy_notify_never">Nooit</string>
   <string name="om_settings_notify_manage">Meldingen</string>
-  <string name="om_settings_speed_up_auto">Auto speed boost</string>
+  <string name="om_settings_speed_up_auto">Automatisch snelheid opvoeren</string>
   <string name="om_settings_title">Optimalisatie-instellingen</string>
-  <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">De applicatie is niet gevonden</string>
   <string name="open_app">Openen</string>
   <string name="open_callwait">Aan</string>
@@ -1321,7 +1307,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_normal_traffic_limit">Wanneer dagelijkse databundel is overschreden</string>
   <string name="pref_open_adjust_traffic">Werk uw dagelijkse dataverbruik bij met statistieken van uw provider</string>
   <string name="pref_operator_not_set">Provider is niet ingesteld</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Wanneer u uw datalimiet overschrijdt</string>
   <string name="pref_package_traffic_settings">Mobiel datalimiet</string>
   <string name="pref_pkg_begin_date">Resetdatum verbruik</string>
@@ -1419,8 +1404,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="result_sms_title_antispam">Bedreigd door kwaadaardige SMS URLs</string>
   <string name="result_sms_title_auth">Financiele SMS lekrisico bestaat</string>
   <string name="result_wifi_header">Wi-Fi risico\'s gedetecteerd</string>
-  <string name="right_precent">100%</string>
-  <string name="risk_count_suffix"/>
   <string name="roaming_allow_network_dialog_title">Mobiele dataroaming toestaan?</string>
   <string name="roaming_limit_dialog_message">Dagelijks roaming datalimiet bereikt.</string>
   <string name="roaming_limit_network_notification_body">Tik om beschikbare datanetwerk weer te geven</string>
@@ -1458,9 +1441,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="scan_installed_games">Geïnstalleerde games controleren…</string>
   <string name="scan_status_risk">Risicovol</string>
   <string name="scan_status_safe">Veilig</string>
-  <string name="scanning_bar_number">%d%%</string>
-  <string name="score_pts">%</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="section_clear_acc_item_title">%s. Er is nog steeds niet genoeg ruimte, probeer opruimer te gebruiken</string>
   <string name="section_security_defend_item_title">Bescherm uw data met appvergrendeling</string>
@@ -1650,7 +1630,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="start_diagnostic_botton">Start</string>
   <string name="start_downloading_app">Download starten: %1$s</string>
   <string name="start_game">Start</string>
-  <string name="start_tc_button">Kalibreren</string>
   <string name="still_retain_btn">Behouden</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="suggest_scan_again">Het wordt voorgesteld om volledig scan te doen om de veiligheid te waarborgen.</string>
@@ -1744,15 +1723,15 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="tc_diagnostic_upload_success">Hartelijk dank voor uw feedback!</string>
   <string name="tc_sms_report_direction">SMS aanvraag code</string>
   <string name="tc_sms_report_do_report">Verzenden</string>
-  <string name="tc_sms_report_get_default">Er worden geen kosten voor SMS berichten gebruikt om uw dataverbruik balans te krijgen van uw provider.</string>
+  <string name="tc_sms_report_get_default">Er zijn geen kosten verbonden aan de berichten die worden gebruikt om uw dataverbruik van uw provider te verkrijgen.</string>
   <string name="tc_sms_report_get_sms">Ontvang SMS</string>
   <string name="tc_sms_report_get_sms2">Ontvang SMS</string>
   <string name="tc_sms_report_get_sms_again">SMS vernieuwen</string>
   <string name="tc_sms_report_get_sms_bill">SMS verkrijgen</string>
   <string name="tc_sms_report_get_sms_calltime">SMS verkrijgen</string>
-  <string name="tc_sms_report_get_sms_failure">Ophalen Dataverbruik SMS mislukt</string>
-  <string name="tc_sms_report_get_sms_successs">Dataverbruik SMS bijgewerkt</string>
-  <string name="tc_sms_report_get_sms_timeout">Aanvraag timed out</string>
+  <string name="tc_sms_report_get_sms_failure">Kon geen info over dataverbruik verkrijgen</string>
+  <string name="tc_sms_report_get_sms_successs">Info over dataverbruik bijgewerkt</string>
+  <string name="tc_sms_report_get_sms_timeout">Aanvraag time-out</string>
   <string name="tc_sms_report_get_success">Ontvangen SMS dataverbruiks rapport van provider. Zorg ervoor dat het nauwkeurig is en stuur terug.</string>
   <string name="tc_sms_report_get_success_notify_body">Zorg ervoor dat het rapport correct is en verzend aan MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Ontvangen SMS dataverbruiks rapport</string>
@@ -1768,9 +1747,9 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="tc_sms_report_receive_num">Nummer ontvanger</string>
   <string name="tc_sms_report_send_num">Provider Telefoon #</string>
   <string name="tc_sms_report_summary">Help ons om deze functie te verbeteren door het sturen van een rapport wanneer uw dataverbruik informatie onjuist is of niet kan updaten</string>
-  <string name="tc_sms_report_tips_dialog_message">Dataverbruik maakt gebruik van een speciaal opgemaakte SMS laatste dataverbruik te ophalen van uw provider. Als deze functie is niet normaal werkt, probeer dan het bijwerken van de gebruiksgegevens SMS formaat. De nieuwe bijgewerkte indeling zal dan worden geüpload naar onze servers.</string>
+  <string name="tc_sms_report_tips_dialog_message">Er wordt een SMS verzonden om de laatste gegevens over uw dataverbruik op te halen van uw provider. Als u denkt dat de getoonde informatie niet juist is, stuur ons dan uw feedback.</string>
   <string name="tc_sms_report_tips_dialog_title">Dataverbruiks SMS</string>
-  <string name="tc_sms_report_title">Rapporteer dataverbruik bug</string>
+  <string name="tc_sms_report_title">Rapporteer dataverbruikbug</string>
   <string name="tc_sms_report_toast_text">Info verkrijgen…</string>
   <string name="tc_sms_report_type">Rapporteertype</string>
   <string name="tc_sms_report_upload_success">Dataverbruiks rapport SMS ingediend. We zijn zo mee bezig!</string>
@@ -1803,7 +1782,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_find_device">Apparaat zoeken</string>
   <string name="title_flow_notification">Melding mobiele data</string>
   <string name="title_flow_purchase">Koop mobiele data</string>
-  <string name="title_flow_rank">Mobiele data gebruik</string>
+  <string name="title_flow_rank">Mobiele datagebruik</string>
   <string name="title_flow_verify">Vergelijk boekhouding</string>
   <string name="title_flow_verify_failed">Kon 5 dagen achter elkaar niet aanpassen</string>
   <string name="title_garbage_clean">App cachegrootte bereikt %s</string>
@@ -1855,16 +1834,16 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="toast_root_apply_reject">Roottoegang geweigerd voor %s</string>
   <string name="toast_set_success">Met succes ingeschakeld</string>
   <string name="toast_show_notification">Vastgemaakt aan notificatiebalk</string>
-  <string name="top_game">Top games</string>
+  <string name="top_game">Topgames</string>
   <string name="top_load_fail_detail">Kon het niet laden, tik om opnieuw te proberen</string>
   <string name="top_no_network_detial">Kon het niet laden, controleer de netwerkverbinding en probeer opnieuw</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Maandelijks plan gewijzigd naar %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Dataplan geupdatet</string>
   <string name="traffic_alert_auto_modify_package_summary">Datapakket automatisch aanpassen op basis van informatie van de provider</string>
   <string name="traffic_config_alert_auto_modify">Dataplan automatisch bijwerken</string>
-  <string name="traffic_config_alert_body">"Uw provider's boekhouding laat zien :%s.
+  <string name="traffic_config_alert_body">"Uw providers' databundel laat zien :%s.
 
-Neemt u dit aan?"</string>
+Klopt dit?"</string>
   <string name="traffic_config_alert_body_extra">"
 U heeft %1$s extra data gekocht deze maand. Dit verschilt van de %2$s die u handmatig heeft toegevoegd."</string>
   <string name="traffic_config_alert_body_extra_notset">"
@@ -1894,13 +1873,16 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="traffic_over_purchase_link">"Je hebt de datalimiet van uw mobiele plan bereikt.&lt;br/&gt;Als je over je dataverbruik limiet gaat, kan je provider extra kosten aanrekenen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tik om je saldo bij te vullen.&lt;/U&gt;&lt;/font&gt;""</string>
   <string name="traffic_purchase_body">Bespaar 50% als je nu herlaad.</string>
   <string name="traffic_setting_fragment_area">Lokaal</string>
-  <string name="traffic_setting_fragment_area_dual">%s Lokale</string>
   <string name="traffic_setting_fragment_brand">Merk</string>
   <string name="traffic_setting_fragment_button1_text">Annuleren</string>
   <string name="traffic_setting_fragment_button2_text">Opslaan</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Bent u niet zeker van de provider?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_setting_fragment_city">Stad</string>
+  <string name="traffic_setting_fragment_default">Selecteren</string>
+  <string name="traffic_setting_fragment_find_brand">"Bent u niet zeker van de provider?"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Niet meer tonen</string>
   <string name="traffic_setting_fragment_operator">Provider</string>
+  <string name="traffic_setting_fragment_operator_setting">Providerinstellingen</string>
+  <string name="traffic_setting_fragment_province">Provincie</string>
   <string name="traffic_setting_fragment_send_num">Telefoonnr. provider</string>
   <string name="traffic_setting_fragment_send_num_tips">Typ telefoonnr.</string>
   <string name="traffic_setting_fragment_sms_content">Berichtinhoud</string>
@@ -1946,7 +1928,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="use_immediately">Gebruiken</string>
   <string name="user_define_title">Regels toevoegen</string>
   <string name="virus_ad_icon_text">Advertentie</string>
-  <string name="virus_auto_update_engine">Automatische update：%s</string>
+  <string name="virus_auto_update_engine">Automatische updates: %s</string>
   <string name="virus_update_tips_title">Verbinden met Wi-Fi</string>
   <string name="virus_wait_network_dialog_message">Updates zijn te groot. Met Wi-Fi verbinden om te downloaden</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
@@ -1964,7 +1946,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="wifi_optizition_tip">Schakel netwerkversnelling in om de Wi-Fi verbinding stabieler te maken. Er zal een klein beetje mobiele data worden verbruikt.</string>
   <string name="wifi_optizition_title">Wi-Fi versnellen</string>
   <string name="wl_no_whitelist">Geen uitzonderingen</string>
-  <string name="wlan_booster">Wi-Fi versnellen</string>
+  <string name="wlan_booster">Wi-Fi optimalisatie</string>
   <string name="wlan_change_protection_detail">Niet automatisch overschakelen naar Wi-Fi wanneer u verbonden bent met het mobiele datanetwerk</string>
   <string name="wlan_change_protection_title">Voorkom overschakelen van netwerken</string>
 </resources>

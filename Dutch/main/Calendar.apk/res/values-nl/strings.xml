@@ -12,6 +12,7 @@
   <string name="accounts">Accounts en synchronisatie</string>
   <string name="acct_not_synced">"Dit account wordt niet gesynchroniseerd, dus uw agenda's zijn mogelijk niet bijgewerkt."</string>
   <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
+  <string name="action_bar_more_menu_view_description">meer</string>
   <string name="action_text_card_manager">Abonnementen</string>
   <string name="action_text_today">Vandaag</string>
   <string name="ad_card_connecting">Verbinding</string>
@@ -402,8 +403,8 @@
   <string name="setting_title_about">Over</string>
   <string name="setting_title_holiday_display">Vakanties weergeven</string>
   <string name="show_day_view">Dag weergeven</string>
-  <string name="show_newer_events">Raak aan om gebeurtenissen na %1$s weer te geven</string>
-  <string name="show_older_events">Raak aan om gebeurtenissen vóór %1$s weer te geven</string>
+  <string name="show_newer_events">Tik om gebeurtenissen na %1$s weer te geven</string>
+  <string name="show_older_events">Tik aan om gebeurtenissen vóór %1$s weer te geven</string>
   <string name="start_date_calculate">Berekenen</string>
   <string name="subscribe_card">Abonneer je nu</string>
   <string name="subscribe_card_success">Abonnementen succes, kan thuis worden bekeken </string>

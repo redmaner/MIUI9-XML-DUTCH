@@ -46,7 +46,7 @@
     </plurals>
     <plurals name="birthday_event_description_days_later">
         <item quantity="other">%1$d dagen tot</item>
-        <item quantity="one">%1$d dag toto</item>
+        <item quantity="one">%1$d dag tot</item>
     </plurals>
 	<plurals name="birthday_notification_age_term">
         <item quantity="other">%1$se</item>

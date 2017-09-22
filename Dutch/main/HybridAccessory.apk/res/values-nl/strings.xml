@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="short_cut_dialog_cancel_button_text">Nee</string>
+  <string name="short_cut_dialog_cotent">De volgende apps kunnen worden gebruikt zonder installatie. Snelkoppelingen opslaan?</string>
+  <string name="short_cut_dialog_create_button_text">Ja</string>
+  <string name="short_cut_dialog_not_tip_check_box">Niet meer tonen voor twee weken</string>
+  <string name="short_cut_dialog_title">Snelkoppeling maken</string>
+</resources>

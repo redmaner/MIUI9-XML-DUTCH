@@ -2,7 +2,7 @@
 <resources>
   <string name="action_cancel">Annuleren</string>
   <string name="action_submit">Verzenden</string>
-  <string name="announcement">Attentie</string>
+  <string name="announcement">Opgelet</string>
   <string name="app_empty">U heeft nog geen apps gedownload</string>
   <string name="app_label">Feedback</string>
   <string name="app_name">Feedback</string>
@@ -13,9 +13,8 @@
   <string name="bugreport_dump_complete_notification_title">Bugreport gemaakt</string>
   <string name="bugreport_dump_start_notification_summary">Dit kan enkele minuten duren.</string>
   <string name="bugreport_dump_start_notification_title">Bugreport maken…</string>
-  <string name="bugreport_tool_log">Bugrapport maken</string>
-  <string name="bugreport_tool_log_toast">Log opgeslagen naar %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Bugrapport maken (duurt ongeveer een minuutje)</string>
+  <string name="bugreport_tool_log_dumping_desc">Duurt ongeveer een minuut</string>
+  <string name="bugreport_tool_log_dumping_title">Bugrapport maken</string>
   <string name="close_feedback_main">Verbergen</string>
   <string name="cta_cancel">Annuleren</string>
   <string name="cta_confirm">OK</string>
@@ -55,8 +54,9 @@
   <string name="feedback_choose_module">Selecteer item</string>
   <string name="feedback_choose_module_hint">Is nodig</string>
   <string name="feedback_collect_log_failed">Kon logs niet verkrijgen</string>
-  <string name="feedback_contact_info_hint">Telefoonnummer/E-mail</string>
+  <string name="feedback_contact_info_hint">Telefoonnummer/e-mail</string>
   <string name="feedback_continue">Doorgaan met feedback</string>
+  <string name="feedback_delete_images">Afbeeldingen verwijderen</string>
   <string name="feedback_description">Omschrijving</string>
   <string name="feedback_description_bugreport_hint">In sommige gevallen (…) misdraagt mijn telefoon zich (…).</string>
   <string name="feedback_description_label">Omschrijving</string>
@@ -99,6 +99,7 @@
   <string name="feedback_submit_hint">Bugs elke keer melden als je problemen hebt om ons die sneller te helpen oplossen.</string>
   <string name="feedback_submit_hint1">We houden je op de hoogte over de voortgang van je rapport</string>
   <string name="feedback_submit_hint2">Ga naar \"Mijn rapporten\" om details te bekijken</string>
+  <string name="feedback_submit_hint_gone">Gesloten bericht</string>
   <string name="feedback_submit_succ">Verzonden</string>
   <string name="feedback_submit_succ_button">Klaar</string>
   <string name="feedback_submitting">Indienen</string>
@@ -109,8 +110,6 @@
   <string name="feedback_tracking">Problemen tracken</string>
   <string name="feedback_version_label">Versie</string>
   <string name="feesback_list">Rapporten</string>
-  <string name="first_position">2#</string>
-  <string name="floor">%1$s#</string>
   <string name="from">van %1$s</string>
   <string name="goon_feedback_main">Doorgaan</string>
   <string name="hint_feedback_main">Beschrijf het probleem</string>
@@ -121,7 +120,6 @@
   <string name="menu_copy">Kopiëren</string>
   <string name="message_label">Bericht</string>
   <string name="michat_app_name">Online ondersteuning</string>
-  <string name="michat_artificial_customer_phone">4001005678</string>
   <string name="michat_artificial_customer_phone_dial_error">Als u de 400 hotline niet kan bellen, bel %1$s met een andere telefoon</string>
   <string name="michat_artificial_customer_text">Supportpersoneel</string>
   <string name="michat_attach_image">Afbeelding</string>
@@ -189,11 +187,10 @@
   <string name="mobile_data_note_dialog_content">Gebruik maken van mobiel internet om logs te uploaden kan voor extra kosten zorgen.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Logs uploaden door gebruik te maken van mobiel internet zal %sMB aan data kosten.</string>
   <string name="mobile_data_note_dialog_title">Waarschuwing datagebruik</string>
-  <string name="modem_tool_log">Modem logs opnemen</string>
-  <string name="modem_tool_log_start">Starten</string>
-  <string name="modem_tool_log_start_toast">Modem log wordt opgeslagen naar %s</string>
-  <string name="modem_tool_log_stop">Stoppen</string>
-  <string name="modem_tool_log_stop_toast">Opslaan van modem logs naar %s is gestopt</string>
+  <string name="modem_tool_log_dumping_desc">Tik op icoon om te stoppen</string>
+  <string name="modem_tool_log_dumping_title">Modemlogs verzamelen</string>
+  <string name="modem_tool_log_finish_desc">Log is opgeslagen als %s</string>
+  <string name="modem_tool_log_finish_title">Modemlog verzameld</string>
   <string name="module_communication">Communicatie</string>
   <string name="module_data">Opslag &amp; gedupliceerde apps</string>
   <string name="module_desktop">Startscherm &amp; instellingen</string>
@@ -203,7 +200,7 @@
   <string name="module_medias">Media</string>
   <string name="module_more">Meer</string>
   <string name="module_network">Netwerk &amp; updates</string>
-  <string name="module_search">SZoeken</string>
+  <string name="module_search">Zoeken</string>
   <string name="module_security">Beveiliging &amp; Mi Cloud</string>
   <string name="module_system">Systeem</string>
   <string name="module_tools">Systeem tools</string>
@@ -228,7 +225,6 @@
   <string name="network_unavailable_dialog_content">Uw rapport wordt verzonden als u een dataverbinding hebt.</string>
   <string name="network_unavailable_dialog_title">Kan geen verbinding maken met het netwerk</string>
   <string name="non_system_app_select">Gedownloade apps</string>
-  <string name="nothing">--</string>
   <string name="open_feedback_main">Meer</string>
   <string name="packaging_dialog_content">Rapport aanmaken…</string>
   <string name="permission_granted">%1$s toegang gegeven</string>
@@ -251,7 +247,6 @@
   <string name="save_pic_fail">Kon afbeelding niet opslaan, controleer uw SD kaart</string>
   <string name="save_pic_success">Afbeelding opgeslagen naar %s</string>
   <string name="screen_lock">Schermvergrendeling</string>
-  <string name="second_position">3#</string>
   <string name="section_description">Beschrijving</string>
   <string name="section_err_type">Type bug</string>
   <string name="section_screenshot">Schermafdruk</string>
@@ -293,9 +288,9 @@
   <string name="toast_report_copied_to_clipboard">Rapport gekopieerd naar het klembord</string>
   <string name="toast_report_sent_failed">Kan geen rapport verzenden</string>
   <string name="toast_report_sent_succeed">Rapport is verzonden</string>
+  <string name="toast_screenshot_too_large">Kan geen bestanden groter dan 10MB uploaden.</string>
   <string name="toast_third_packagename_required">Appnaam invoeren</string>
   <string name="toast_title_required">Omschrijf uw probleem</string>
-  <string name="topic_author">1#</string>
   <string name="try_again">Probeer opnieuw</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
   <string name="warning_field_empty">%1$s invoeren</string>

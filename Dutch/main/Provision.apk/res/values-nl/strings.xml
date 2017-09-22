@@ -10,8 +10,6 @@
   <string name="congratulation_label">Je bent klaar om te beginnen!</string>
   <string name="congratulation_title">Instellen voltooid</string>
   <string name="content_description_complete">Voltooid</string>
-  <string name="content_description_language_picker">Taal selecteren</string>
-  <string name="content_description_miui_version">MIUI 9</string>
   <string name="content_description_start">Starten</string>
   <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, verifiëren van Mi Pay transacties of om  aan te melden bij apps en diensten.</string>
   <string name="desc_international_fingerprint">Gebruik uw vingerafdruk om uw toestel te ontgrendelen of aan te melden op apps en diensten.</string>
@@ -25,7 +23,10 @@
   <string name="input_method_category">Kies het standaard toetsenbord dat u gebruikt om berichten, notities en meer mee te schrijven. Merk op dat u andere toetsenborden van derden later kunt installeren.</string>
   <string name="input_method_setting">Kies toetsenbord</string>
   <string name="install_preinstall_app">Bezig met apps aan het laden…</string>
+  <string name="item_fingerprint">Vingerafdruk</string>
+  <string name="item_lock_screen_password">Alleen schermvergrendeling</string>
   <string name="language_picker_other_languages_title">Meer talen</string>
+  <string name="language_settings">Selecteer taal</string>
   <string name="locale_picker_title">Kies uw regio</string>
   <string name="miui_privacy_policy_no_network">"U hebt geen internetverbinding. Bekijk het privacybeleid op %s."</string>
   <string name="miui_terms_no_network">"U hebt geen internetverbinding. Bekijk de Algemene Voorwaarden op %s."</string>
@@ -62,7 +63,7 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
   <string name="terms_of_use_label">"Uw privacy is erg belangrijk voor ons. Lees onze Gebruiksvoorwaarden en Privacybeleid om te begrijpen welke informatie wij verzamelen, hoe we deze gebruiken en welke keuzes er voor u beschikbaar zijn.
 
 U moet akkoord gaan met onze Algemene Voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Tijdens de activering zullen Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat zoeken, startschermmodules, Gameservice, MAB en MSA systeemcomponenten, Direct Service en statistische componenten verbinding maken met internet en toegang uw locatie krijgen."</string>
-  <string name="title_fingerprint">Voeg uw vingerafdruk toe</string>
+  <string name="title_fingerprint">Wachtwoord instellen</string>
   <string name="two_dimensional_code_scan">QR code scan</string>
   <string name="user_agreement">Algemene Voorwaarden</string>
   <string name="user_strayed_warning">Deze pagina is bedoeld voor fabriekstest. Tik op terug om af te sluiten.</string>

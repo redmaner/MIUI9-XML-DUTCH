@@ -124,7 +124,7 @@
   <string name="data_consumption_checkbox_hint">Niet meer tonen</string>
   <string name="data_consumption_confirm">Ok</string>
   <string name="data_consumption_message">Deze app heeft verbinding met internet nodig via Wi-Fi om normaal te kunnen werken.</string>
-  <string name="data_consumption_message1">Apparaat moet verbonden zijn met internet om populaire stickers en video\'s te bekijken.</string>
+  <string name="data_consumption_message1">Explorer heeft verbinding met internet nodig om populaire stickers en video\'s beschikbaar te maken.</string>
   <string name="data_consumption_title">Internetverbinding</string>
   <string name="decompress_cancel">Annuleren</string>
   <string name="decompress_confirm">Uitpakken</string>
@@ -484,8 +484,8 @@
   <string name="recommend_users">%1$s+</string>
   <string name="remote_video_report_success">Bedankt voor uw feedback! We zullen er zo snel mogelijk naar kijken.</string>
   <string name="rename_alert">"Als je de extensie van dit bestand wijzigt, is het mogelijk niet meer te openen."</string>
-  <string name="rename_alert2">Dit bestand zal verborgen worden.</string>
-  <string name="rename_failed">Kan naam %1$s niet wijzigen</string>
+  <string name="rename_alert2">Dit bestand zal verborgen worden nadat u de extensie wijzigt.</string>
+  <string name="rename_failed">Kan naam van %1$s niet wijzigen</string>
   <string name="repair_done">Hersteld</string>
   <string name="repair_error">Kon niet herstellen</string>
   <string name="repair_file">Herstel gecodeerde bestanden</string>
@@ -557,7 +557,7 @@
   <string name="server_control_advanced_settings">Instellingen FTP</string>
   <string name="server_control_charset">Overdrachtsencodering</string>
   <string name="server_control_settings">Instellingen</string>
-  <string name="server_error">Serverfout, probeer later opnieuw. (Fout %s)</string>
+  <string name="server_error">Serverfout, probeer later opnieuw. (Fout %s).</string>
   <string name="set_pattern">Wachtwoord is gewijzigd</string>
   <string name="set_pattern_btn">Instellen</string>
   <string name="set_pattern_msg">Stel wachtwoord opnieuw in. Wachtwoordbeveiliging werkt ook voor foto\'s en berichten.</string>

@@ -31,9 +31,9 @@
   <string name="account_secure_info_pref_title">Accountinfo</string>
   <string name="account_security">Accountveiligheid</string>
   <string name="account_security_info_pref_title">Veiligheidsinfo</string>
-  <string name="account_token_expired_msg">"Verification code expired, start over or sign out
- Your account ID: %s"</string>
-  <string name="account_token_expired_title">Authentication failed</string>
+  <string name="account_token_expired_msg">"Verificatiecode verlopen, begin opnieuw of log uit
+ Uw account ID: %s"</string>
+  <string name="account_token_expired_title">Authenticatie mislukt</string>
   <string name="account_user_avatar">Profielfoto</string>
   <string name="account_user_avatar_from_album">Foto kiezen</string>
   <string name="account_user_avatar_from_camera">Foto nemen</string>
@@ -51,7 +51,7 @@
   <string name="account_user_name_dialog_title">Voer gebruikersnaam in</string>
   <string name="account_user_other_info">Meer bronnen</string>
   <string name="account_user_phone">Telefoon</string>
-  <string name="account_user_recovery_phone">Herstel telefoon</string>
+  <string name="account_user_recovery_phone">Back-uptelefoon</string>
   <string name="account_user_region">Regio</string>
   <string name="account_user_using_facebook_avatar">Gebruik Facebook profielfoto</string>
   <string name="account_user_using_qq_avatar">Gebruik QQ profielfoto</string>
@@ -64,7 +64,7 @@
   <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
   <string name="bind_facebook">Facebook account verbinden</string>
-  <string name="bind_qq">QQ</string>
+  <string name="bind_safe_phone_msg">Voeg uw telefoonnummer toe om volgende keer in te loggen op uw Mi account.</string>
   <string name="bind_settings">Accounts</string>
   <string name="bind_sina_weibo">Sina Weibo Account verbinden</string>
   <string name="bind_sns_description">Aanmelden met %s.</string>
@@ -87,7 +87,7 @@
   <string name="confirm_phone_number_dialog_message">Verificatiecode zal verzonden worden naar: %s.</string>
   <string name="confirm_phone_number_dialog_title">Bevestig telefoonnr.</string>
   <string name="confirm_unbind">Dit account verbreken?</string>
-  <string name="confirm_unbundled_phone_dialog_message">Het telefoonnummer %1$s is gekoppeld aan het %2$s account. Doorgaan zonder het %3$s account te koppelen. Weet je zeker dat je wilt doorgaan?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Het telefoonnummer %1$s is gekoppeld aan Mi account %2$s. Het zal niet langer verbonden zijn aan Mi account %3$s als u verdergaat. Weet je zeker dat je wilt doorgaan?</string>
   <string name="continue_action">Doorgaan</string>
   <string name="current_location_title">Huidige locatie</string>
   <string name="delete_action">Verwijderen</string>
@@ -123,12 +123,12 @@
   <string name="find_device_io_error">"Kan niet verbinden met het netwerk"</string>
   <string name="find_device_locked_account_email" formatted="false">%s, gekoppeld e-mailadres: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, gekoppeld telefoonnummer: %s</string>
-  <string name="find_device_message">Het huidige apparaat is geblokkeerd, bericht: %1$s, contacttelefoon: %2$s.</string>
+  <string name="find_device_message">Apparaat is geblokkeerd. Bericht: %1$s. Bellen: %2$s.</string>
   <string name="find_device_null_credential_error">"Kan apparaatinfo niet verkrijgen, neem contact op met Xiaomi klantenservice"</string>
   <string name="find_device_operation_failed_error">Er is een servicefout opgetreden, probeer later opnieuw</string>
   <string name="find_device_operation_failed_error_unknown">Er is een fout opgetreden, probeer later opnieuw</string>
-  <string name="find_device_owner_phone">Het huidige apparaat is geblokkeerd, contacttelefoon: %1$s.</string>
-  <string name="find_device_prompt_message">Het huidige apparaat is geblokkeerd, bericht: %1$s.</string>
+  <string name="find_device_owner_phone">Apparaat is geblokkeerd. Bel %1$s.</string>
+  <string name="find_device_prompt_message">Apparaat is geblokkeerd. Bericht: %1$s.</string>
   <string name="find_device_remote_exception">RPC foutmelding</string>
   <string name="find_device_request_error">Er is een servicefout opgetreden, probeer later opnieuw</string>
   <string name="find_device_request_prepare_error">"Kan status niet verkrijgen, probeer later opnieuw"</string>
@@ -152,6 +152,7 @@
   <string name="logout_account">Uitloggen</string>
   <string name="logout_failed">Kan niet uitloggen</string>
   <string name="mi_account_identity_title">Verifieer uw identiteit</string>
+  <string name="mi_vip_info">Privileges bekijken</string>
   <string name="mipay">Betalen</string>
   <string name="mipay_balance">Balans</string>
   <string name="mipay_bank_card">Bankpas</string>
@@ -207,6 +208,7 @@ Om je account te activeren, volg de link
 die verzonden is naar je Postvak In."</string>
   <string name="passport_completed">Voltooid</string>
   <string name="passport_confirm_recycle_account">Ja</string>
+  <string name="passport_continue">Doorgaan</string>
   <string name="passport_copy_message_text_success">Met succes gekopieerd</string>
   <string name="passport_copy_message_vcode">Code kopiëren</string>
   <string name="passport_delete_account">Afmelden</string>
@@ -255,6 +257,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_input_password_hint">Voer wachtwoord in</string>
   <string name="passport_input_phone_hint">Voer telefoonnummer in</string>
   <string name="passport_input_vcode_hint">Voer verificatiecode in</string>
+  <string name="passport_instant_login">Inloggen</string>
   <string name="passport_license_host_unreachable">"Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Aanmelden</string>
@@ -263,10 +266,13 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_login_instead_reg_with_email">Gebruik deze e-mail</string>
   <string name="passport_login_other_account">Ander account</string>
   <string name="passport_login_prompt">Eén Mi account. Alle Mi diensten.</string>
+  <string name="passport_login_recycle_account_no">Nee</string>
+  <string name="passport_login_recycle_account_yes">Ja</string>
   <string name="passport_login_title">Aanmelden op je Mi account</string>
   <string name="passport_login_using_other_ways">Andere manieren om aan te melden</string>
   <string name="passport_message_dialog_title">SMS met verificatiecode bericht</string>
   <string name="passport_next">Volgende</string>
+  <string name="passport_no">Nee</string>
   <string name="passport_notification_title">Aanmeldfout voor %1$s</string>
   <string name="passport_password_phone_login">Inloggen met Mi Account</string>
   <string name="passport_password_req_notice">Wachtwoord moet 8-16 tekens lang zijn en zowel cijfers als letters bevatten (hoofdlettergevoelig).</string>
@@ -282,6 +288,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_quick_login_dialog_title">Bevestig wachtwoord</string>
   <string name="passport_quick_login_step2_title">2 staps verificatie</string>
   <string name="passport_quick_login_title">Voer je wachtwoord in</string>
+  <string name="passport_quick_register">Registreren</string>
   <string name="passport_quick_register_notice">Heb je geen Mi Account? Maak er één aan.</string>
   <string name="passport_re_get_verify_code">Code opnieuw verkrijgen</string>
   <string name="passport_re_register">Opnieuw aanmelden</string>
@@ -291,6 +298,8 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_reg_failed">Kan geen account aanmaken</string>
   <string name="passport_reg_new_account">Account aanmaken</string>
   <string name="passport_reg_prompt">Geen Mi Account? Maak er gratis één aan.</string>
+  <string name="passport_reg_recycle_account_no">Nee</string>
+  <string name="passport_reg_recycle_account_yes">Ja</string>
   <string name="passport_reg_success">Account aangemaakt</string>
   <string name="passport_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
   <string name="passport_reg_type_email">Gebruik e-mailadres</string>
@@ -329,12 +338,15 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_send_vcode_failed">Kon code niet verzenden</string>
   <string name="passport_sending_vcode">Code versturen…</string>
   <string name="passport_set">Instellen</string>
+  <string name="passport_set_password_no_phone_msg">Voeg je telefoonnummer toe om je account te beveiligen.</string>
   <string name="passport_setting">Bezig met instellen…</string>
   <string name="passport_skip_login">Overslaan</string>
   <string name="passport_skip_register">Inschrijven overslaan</string>
   <string name="passport_skip_setup_account_msg">Je kan later een Mi account aanmaken in Instellingen.</string>
   <string name="passport_skip_setup_account_title">Installatie overslaan</string>
   <string name="passport_sms_send_success">Verzonden</string>
+  <string name="passport_sync_account_data">Accountinfo synchroniseren…</string>
+  <string name="passport_sync_account_data_failed_warning">Uw accountinfo wordt nu gesynchroniseerd. U kan inloggen door middel van uw Mi Account ID. Als je wilt inloggen met je telefoonnummer of email wacht je tot de info compleet is gesynchroniseerd.</string>
   <string name="passport_title_reg">Een account aanmaken</string>
   <string name="passport_trust_device">Dit apparaat toevoegen aan geverifieerde apparaten</string>
   <string name="passport_trying_read_verify_code_sms">Verificatiecode verkrijgen…</string>
@@ -348,6 +360,9 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_user_agreement_p2">Gebruikersovereenkomst</string>
   <string name="passport_user_agreement_p3">" en "</string>
   <string name="passport_user_agreement_p4">Privacybeleid</string>
+  <string name="passport_user_id_notice">Uw Mi Account ID is %s.</string>
+  <string name="passport_user_reg_region">Land/regio</string>
+  <string name="passport_user_reg_region_warning">Je zal het land niet kunnen wijzigen als het account eenmaal is aangemaakt.</string>
   <string name="passport_vcode_notification_title">Uw aanmeldingsverificatie is onvolledig</string>
   <string name="passport_vcode_prompt_long">Voer de verificatiecode in</string>
   <string name="passport_vcode_sms_send_prompt">Verificatiecode naar %s verzenden</string>
@@ -358,13 +373,13 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_wrong_captcha">De ingevoerde code is fout</string>
   <string name="passport_wrong_phone_number_format">De opmaak van het telefoonnummer dat u hebt ingevoerd is ongeldig</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
+  <string name="passport_yes">Ja</string>
   <string name="phone_activated">%s geactiveerd</string>
   <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
   <string name="push_notification_content">Verificatiecode krijgen</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
   <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>
   <string name="push_notify_dialog_title">Accountverificatie</string>
-  <string name="qq">QQ</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
   <string name="remove_trust_btn">Verwijderen uit vertrouwde apparaten</string>
   <string name="remove_trust_notice">Verwijderen uit vertrouwde apparaten en afmelden</string>
@@ -419,6 +434,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="verify_phone_prompt">Telefoonnummer selecteren om te verifiëren</string>
   <string name="verify_phone_title">Telefoonnummer verifiëren</string>
   <string name="vip_account_settings">VIP instellingen</string>
+  <string name="vip_settings_info">VIP instellingen</string>
   <string name="vip_more_info">Meer vipinformatie</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

@@ -2,19 +2,19 @@
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d recente apps</item>
-        <item quantity="one">1 recente app</item>
+        <item quantity="one">%d recente app</item>
 	</plurals>
     <plurals name="accessibility_recent_task_enter">
         <item quantity="other">Recent geopend, beschikbare apps: %d.</item>
-        <item quantity="one">Recent geopend, beschikbare app: 1.</item>
+        <item quantity="one">Recent geopend, beschikbare app: %d.</item>
     </plurals>
     <plurals name="accessibility_recent_task_first_enter_tips">
         <item quantity="other">Recent geopend, beschikbare apps: %d. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</item>
-        <item quantity="one">Recent geopend, beschikbare app: 1. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</item>
+        <item quantity="one">Recent geopend, beschikbare app: %d. Omhoog vegen om te verwijderen, omlaag vegen om te vergrendelen.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d schakelaars boven deze balk zijn actief</item>
-        <item quantity="one">1 schakelaar boven deze balk is actief</item>
+        <item quantity="other">%1$d schakelaars zullen in de notificatiebalk getoond worden</item>
+        <item quantity="one">%1$d schakelaar zal in de notificatiebalk getoond worden</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Meldingen van %d apps verbergen?"</item>
@@ -22,14 +22,14 @@
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Meldingen van %1$s &amp; %2$d apps worden niet getoond.</item>
-        <item quantity="one">Meldingen van %1$s &amp; 1 app worden niet getoond.</item>
+		<item quantity="one">Meldingen van %1$s &amp; %2$d app worden niet getoond.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Helder</item>
         <item quantity="one">Zonnig</item>
     </plurals>
     <plurals name="fold_tips_title">
-        <item quantity="other">%d notifications are fold</item>
-        <item quantity="one">%d notification is fold</item>
+        <item quantity="other">%d onbelangrijke meldingen</item>
+        <item quantity="one">%d onbelangrijke melding</item>
     </plurals>
 </resources>

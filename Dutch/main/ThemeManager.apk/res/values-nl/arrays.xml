@@ -7,6 +7,34 @@
         <item>Planten</item>
         <item>Dieren</item>
     </string-array>
+	<string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Landschap</item>
+        <item>Dieren</item>
+        <item>Planten</item>
+        <item>Creatief</item>
+        <item>Lifestyle</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>Dieren</item>
+        <item>Gebouwen</item>
+        <item>Creatief</item>
+        <item>Cartoon</item>
+        <item>Landschap</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>Landschap</item>
+        <item>Dieren</item>
+        <item>Creatief</item>
+        <item>Planten</item>
+        <item>Lifestyle</item>
+    </string-array>	
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>Landschap</item>
+        <item>Dieren</item>
+        <item>Creatief</item>
+        <item>Planten</item>
+        <item>Lifestyle</item>
+    </string-array>	
     <string-array name="disable_package_replacement">
         <item>Pakketnaam uitschakelen</item>
     </string-array>

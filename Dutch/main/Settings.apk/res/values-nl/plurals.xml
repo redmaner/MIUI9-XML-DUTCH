@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">%s apps kunnen geen meldingen weergeven</item>
-        <item quantity="one">1 app kan geen meldingen weergeven</item>
+        <item quantity="other">%d apps kunnen geen meldingen weergeven</item>
+        <item quantity="one">%d app kan geen meldingen weergeven</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s apps kunnen meldingen weergeven</item>
-        <item quantity="one">1 app kan meldingen weergeven</item>
+        <item quantity="other">%d apps kunnen meldingen weergeven</item>
+        <item quantity="one">%d app kan meldingen weergeven</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d schakelaars boven de balk zijn actief</item>
-        <item quantity="one">1 schakelaar boven de balk is actief</item>
+        <item quantity="other">%1$d schakelaars zullen verschijnen in het meldingsscherm</item>
+        <item quantity="one">%1$d schakelaar zal verschijnen in het meldingsscherm</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">U moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
@@ -54,7 +54,7 @@
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d items</item>
-        <item quantity="one">1 item</item>
+        <item quantity="one">%d item</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Extreem korte vertraging (%1$d ms)</item>
@@ -78,7 +78,7 @@
     </plurals>
     <plurals name="print_settings_title">
         <item quantity="other">%d afdruktaken</item>
-        <item quantity="one">1 afdruktaak</item>
+        <item quantity="one">%d afdruktaak</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Vertrouw of verwijder certificaten</item>
@@ -147,7 +147,7 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">%1$d apps mogen onbeperkt gegevens gebruiken wanneer databespaarder is ingeschakeld</item>
-        <item quantity="one">1 app mag onbeperkt gegevens gebruiken wanneer databespaarder is ingeschakeld</item>
+        <item quantity="one">%1$d app mag onbeperkt gegevens gebruiken wanneer databespaarder is ingeschakeld</item>
     </plurals>
 	<plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d risico\'s gevonden</item>
@@ -155,7 +155,7 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d apps mogen automatisch starten</item>
-        <item quantity="one">%d mag automatisch starten</item>
+        <item quantity="one">%d app mag automatisch starten</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN moet %d nummers zijn</item>
@@ -191,7 +191,7 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nooit uitschakelen voor %d apps</item>
-        <item quantity="one">Nooit uitschakelen voor 1 app</item>
+        <item quantity="one">Nooit uitschakelen voor %d app</item>
     </plurals>
 	<plurals name="lockpassword_pin_too_short">
         <item quantity="other">PIN moet %d tekens lang zijn</item>
