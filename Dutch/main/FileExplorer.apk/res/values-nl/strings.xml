@@ -199,7 +199,6 @@
   <string name="favorite_ringtone">Beltonen</string>
   <string name="favorite_screen_cap">Schermafdrukken</string>
   <string name="female">Vrouw</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">Leesbaar: </string>
   <string name="file_info_canwrite">Schrijfbaar: </string>
   <string name="file_info_ishidden">Verborgen: </string>
@@ -406,7 +405,6 @@
   <string name="operation_share">Delen</string>
   <string name="operation_show_sys">Verborgen bestanden weergeven</string>
   <string name="operation_unfavorite">Uit favorieten verwijderen</string>
-  <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Upload regelmatig originele video\'s om de Creator status te krijgen</string>
   <string name="original_user_qq_group">Voeg u bij het Talent team QQ groep</string>
   <string name="original_user_register">• %1$s toegetreden tot de community</string>
@@ -481,7 +479,6 @@
   <string name="recommend_popup_title">Aanbevelingen</string>
   <string name="recommend_topic">Aanbevolen topics</string>
   <string name="recommend_user">Aanbevolen profielen</string>
-  <string name="recommend_users">%1$s+</string>
   <string name="remote_video_report_success">Bedankt voor uw feedback! We zullen er zo snel mogelijk naar kijken.</string>
   <string name="rename_alert">"Als je de extensie van dit bestand wijzigt, is het mogelijk niet meer te openen."</string>
   <string name="rename_alert2">Dit bestand zal verborgen worden nadat u de extensie wijzigt.</string>
@@ -774,7 +771,6 @@
   <string name="video_topic_hint">Zoek naar personen of topics</string>
   <string name="video_upload_btn">Volgende</string>
   <string name="video_upload_btn_hint">MP4 video\'s zouden 3s~10min lang moeten zijn</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">KuaiShou video\'s uploaden om meer fans te krijgen.</string>
   <string name="video_upload_retry_confirm">Probeer opnieuw</string>
   <string name="video_upload_retry_message">Kon niet uploaden, opnieuw proberen?</string>

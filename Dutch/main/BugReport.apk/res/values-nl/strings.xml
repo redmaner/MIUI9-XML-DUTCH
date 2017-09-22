@@ -229,7 +229,6 @@
   <string name="packaging_dialog_content">Rapport aanmaken…</string>
   <string name="permission_granted">%1$s toegang gegeven</string>
   <string name="pic_not_exist">Deze afbeelding bestaaat niet</string>
-  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">Uw geselecteerde feedback, samen met error logs, zullen worden verzonden naar de Mi servers.</string>
   <string name="plus_one_submit_dialog_not_show_again">Mijn voorkeur onthouden</string>
   <string name="post_miui_bbs_failed">Kon niet posten naar het MIUI forum</string>

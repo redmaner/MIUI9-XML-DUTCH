@@ -180,7 +180,6 @@
   <string name="file_size">Grootte:</string>
   <string name="file_title">Naam:</string>
   <string name="file_width_height">Grootte:</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">Nieuw bericht</string>
   <string name="forward_from">Verzonden van:</string>
   <string name="forward_prefix">"Doorsturen: "</string>
@@ -536,7 +535,6 @@
   <string name="send_signature_confirm_dialog_title">Bevestiging van verzending</string>
   <string name="send_sms">Bericht verzenden</string>
   <string name="send_to">Aan:</string>
-  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Verzonden op: %1s</string>
   <string name="sent_label">"Verzonden: "</string>
   <string name="service_message_not_found">Bericht verlopen of niet beschikbaar</string>

@@ -1081,7 +1081,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="om_media_scan_timeout_proc_detail">Media server werkt op de achtergrond. U kunt zijn activiteit beperken.</string>
   <string name="om_media_scan_timeout_proc_name">Media server</string>
   <string name="om_memory_clean_cleaning_text">Boosting speed…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Beperk de achtergrondactiviteit om de snelheid te verhogen</string>
   <string name="om_notify_cpu_load_too_high_title">CPU gebruik van %s is te hoog</string>
   <string name="om_notify_need_clean_memory_summary">Cache wissen om de snelheid te verhogen</string>
