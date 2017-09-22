@@ -142,7 +142,6 @@
   <string name="channel_list">Kanalenlijst</string>
   <string name="channel_num">——</string>
   <string name="channel_removed_from_fav">%1$s verwijderd uit favorieten</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Controleer op updates</string>
   <string name="choose_ac">Kies afstandsbediening</string>
   <string name="choose_address_title">Locatie selecteren</string>
@@ -397,7 +396,6 @@
   <string name="loading_more">Meer laden</string>
   <string name="locate_current_place">Zoek huidige locatie</string>
   <string name="location_select">Apparaat hernoemen</string>
-  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Aanmelden</string>
   <string name="login_directly">Direct aanmelden</string>
   <string name="login_done">Aangemeld</string>
@@ -963,7 +961,6 @@ direct vanop uw schermvergrendeling"</string>
   <string name="temprature_frame">%1$d °C</string>
   <string name="third_app_launch_failed">Toepassing kan niet worden gestart</string>
   <string name="time_error">Het lijkt erop dat de tijd niet juist is</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Timer</string>
   <string name="timer_turn_off">Schema uitschakel tijd</string>
   <string name="timer_turn_on">Schema inschakel tijd</string>
@@ -1074,7 +1071,6 @@ Om te wijzigen, aan/uitknop van TV ingedrukt houden"</string>
   <string name="wind_sweep">Draaien</string>
   <string name="wx_not_installed">Eerst WeChat installeren</string>
   <string name="xiaomi_vip">Mi VIP</string>
-  <string name="year_format">%1$d年</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gisteren</string>

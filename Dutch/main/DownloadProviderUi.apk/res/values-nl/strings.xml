@@ -22,7 +22,6 @@
   <string name="apk_filter">Apk</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei account</string>
   <string name="auth_fail">Kon geen autorisatie krijgen</string>
   <string name="bind_xunlei_account">Xunlei account toevoegen</string>
@@ -105,7 +104,6 @@
   <string name="download_list_title_browser">Downloads</string>
   <string name="download_no_application">Geen apps die dit formaat ondersteunen</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
-  <string name="download_num_size">%1$s personen downloadde | %2$s</string>
   <string name="download_paused">Download gepauzeerd</string>
   <string name="download_pending">Download in de wachtrij</string>
   <string name="download_queued">In wachtrij</string>

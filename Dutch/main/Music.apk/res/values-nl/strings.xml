@@ -415,7 +415,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="list_detail_title">Details</string>
   <string name="list_item_play_FM_radio">Raak aan om de FM radio af te spelen</string>
   <string name="list_item_play_all_tracks">Alles afspelen</string>
-  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">Laden…</string>
   <string name="loadercontainer_loading">Een momentje…</string>
   <string name="loading_hint">Een momentje…</string>

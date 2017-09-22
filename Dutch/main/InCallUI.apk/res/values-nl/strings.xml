@@ -4,7 +4,6 @@
   <string name="add_vm_number_str">Voeg nummer toe</string>
   <string name="antispam_local_marked">Lokaal gemarkeerd</string>
   <string name="antispam_marked_count">Gemeld door %1$d MIUI gebruikers</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="antispam_provider">Geïdentificeerd door %s</string>
   <string name="areacode_set_default">Instellen als standaard</string>

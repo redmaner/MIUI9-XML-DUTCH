@@ -802,7 +802,6 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="calendar_sound_title">Kalendertoon</string>
   <string name="call_manager_enable_summary">Deze dienst toestaan om te beheren hoe uw gesprekken worden gemaakt.</string>
   <string name="call_manager_enable_title">Oproepmanager inschakelen</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Oproepmanager</string>
   <string name="call_settings_primary_user_only">Verander oproepinstellingen in eerste ruimte</string>
   <string name="call_settings_summary">Voicemail, gesprekken doorschakelen, wisselgesprek en beller-id instellen</string>
@@ -1345,7 +1344,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="dndm_auto_button_title">Niet storen tijd herhalen</string>
   <string name="dndm_auto_setting_group">Gepland</string>
   <string name="dndm_auto_time_setting">Tijd instellen</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Tot</string>
   <string name="dndm_auto_time_turn_off_title">Rustmodus automatisch uitschakelen</string>
   <string name="dndm_auto_time_turn_on">Van</string>
@@ -1947,7 +1945,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lift_to_wake_title">Optillen om te ontwaken</string>
   <string name="line_breaking_summary">Paragraaf lijn breuken optimaliseren</string>
   <string name="line_breaking_title">Tekst optimaliseren</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Link snelheid:</string>
   <string name="loading_notification_apps">Apps laden…</string>
   <string name="local_auto_backup_off">Uit</string>
@@ -5180,7 +5177,6 @@ als u uw publieke netwerk deelt."</string>
   <string name="zen_mode_summary_alarms_only_by_time">Veranderen naar alleen alarmen tot %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Veranderen naar alleen alarmen voor onbepaalde tijd</string>
   <string name="zen_mode_summary_always">Veranderen naar altijd onderbreken</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Visuele storingen blokkeren</string>
   <string name="zen_mode_when">Automatisch inschakelen</string>
   <string name="zen_mode_when_every_night">Iedere avond</string>

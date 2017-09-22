@@ -93,7 +93,6 @@
   <string name="call_sim_menu_title_suffix">(Primair)</string>
   <string name="call_telex">Telex bellen</string>
   <string name="call_tty_tdd">TTY/TDD bellen</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">CNY</string>
   <string name="call_work">Werk bellen</string>
   <string name="call_work_mobile">Mobiel nummer werk bellen</string>
@@ -481,7 +480,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="foundTooManyContacts">Meer dan %d gevonden.</string>
   <string name="fraud_more_indemnity">Meer</string>
   <string name="frequentList">Vaak</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Naam</string>
   <string name="gallery">Galerij</string>
   <string name="generic_no_account_prompt">Zorg dat uw contacten veilig zijn, zelfs wanneer u uw telefoon verliest: synchroniseer met een online service.</string>
@@ -559,7 +557,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="import_weibo_fetch_followers">Ophalen van contacten…</string>
   <string name="import_weibo_notification_title_done">%s contacten geupdate</string>
   <string name="import_weibo_progress_name">Overeenkomende \"%1$s\"…</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importeren van SIM contacten…</string>
   <string name="importing_sim_contacts_miui_prepare">Voorbereiden van contacten…</string>
   <string name="importing_vcard_canceled_title">Importeren van %s geannuleerd</string>
@@ -1065,7 +1062,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="sim_unloaded">SIM kaart is niet geinstalleerd</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Geen groepsleden</string>
-  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Per bedrijf</string>
   <string name="smart_group_company_unavailable">Geen bedrijf</string>
   <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -1193,7 +1189,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="voip_audio_description">Tik om spraakbericht te verzenden</string>
   <string name="voip_video_description">Tik om video-oproep te maken</string>
   <string name="websiteLabelsGroup">Website</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Data verwijderen</string>
   <string name="yellowPageNavigationIconLabel">Gele Gids</string>
   <string name="yellowPageNavigationLabel">Gele Gids</string>

@@ -324,7 +324,6 @@ Controleer het volg nummer.</string>
   <string name="nearby_average_price">gemiddelde %d RMB</string>
   <string name="nearby_no_yellow_page">Geen resultaten dichtbij</string>
   <string name="nearby_yellow_page_title">Dichtbij</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Netwerk toegang geweigerd</string>
   <string name="network_unavaliable">Kan niet verbinden met netwerk</string>
   <string name="no_brief">Geen overzicht</string>
@@ -340,7 +339,6 @@ Controleer het volg nummer.</string>
   <string name="order_id_label">Bestel #: %1$s</string>
   <string name="order_info">Bestel info</string>
   <string name="order_merchant_title">Mijn bestellingen</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Geen bestellingen</string>
   <string name="order_price_label">Bestel prijs: %1$s</string>
   <string name="order_product_name_label">Productnaam: %1$s</string>
