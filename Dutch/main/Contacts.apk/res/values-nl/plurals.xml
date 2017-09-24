@@ -121,10 +121,6 @@
         <item quantity="other">Deze telefoonnummers deblokkeren?</item>
         <item quantity="one">Dit telefoonnummer deblokkeren?</item>
     </plurals>
-	<plurals name="livetalk_unit">
-        <item quantity="other">Minuten</item>
-        <item quantity="one">Minuut</item>
-    </plurals>
 	<plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Ging %d keer over</item>
         <item quantity="one">Ging %d keer over</item>
