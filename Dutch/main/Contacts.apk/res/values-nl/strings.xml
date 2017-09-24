@@ -587,11 +587,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="list_filter_customize">Aanpassen</string>
   <string name="list_filter_phones">Alle contacten met telefoonnummers</string>
   <string name="list_filter_single">Contact</string>
-  <string name="live_talk_switch_on_toast">Herlaadpakket ingeschakeld</string>
-  <string name="livetalk_charge">Herladen</string>
-  <string name="livetalk_left">Resterend</string>
-  <string name="livetalk_switch_on">Inschakelen</string>
-  <string name="livetalk_title">Herlaadpakket</string>
   <string name="loading_accounts">Een momentje……</string>
   <string name="loading_group_members">Een momentje…</string>
   <string name="loading_groups">Een momentje…</string>
