@@ -2343,7 +2343,6 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_allow_music">Media</string>
   <string name="miui_allow_vibrate">Trillingen</string>
   <string name="miui_data_usage_menu_metered">Mobiele hotspots</string>
-  <string name="miui_enable_service_title">The service will perform these actions:</string>
   <string name="miui_experience_optimization">MIUI optimalisaties inschakelen</string>
   <string name="miui_lab_feature_applied">Toegepast</string>
   <string name="miui_lab_feature_off">Uit</string>
