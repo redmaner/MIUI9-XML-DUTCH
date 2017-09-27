@@ -287,8 +287,6 @@ Raak het scherm aan om GPS te starten…"</string>
   <string name="cit_name">Hardware testen</string>
   <string name="cit_nfc_check_summary">Please put the card on the top of the back of the phone</string>
   <string name="cit_nfc_check_title">NFC test</string>
-  <string name="cit_nfc_check_summary">Plaats de kaart op de bovenkant van de telefoon</string>
-  <string name="cit_nfc_check_title">NFC test</string>
   <string name="cit_not_available">Deze test is niet beschikbaar op deze versie van MIUI</string>
   <string name="cit_notificationlight">Meldingslicht</string>
   <string name="cit_notificationlight_off">Meldingslicht uit</string>
