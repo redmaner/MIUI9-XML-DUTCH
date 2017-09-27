@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Nieuw alarm</string>
+  <string name="add_timezone_title">Add timezone</string>
   <string name="alarm_alert_alert_silenced">Wekker uitgezet na %d minuten.</string>
   <string name="alarm_alert_snooze_set">Snoozen voor %d minuten.</string>
   <string name="alarm_ascending_mode_summary">Wekkervolume neemt geleidelijk toe</string>
@@ -53,6 +54,7 @@
   <string name="force_touch_enter_stopwatch">Stopwatch</string>
   <string name="force_touch_enter_timer">Timer</string>
   <string name="full_wday_month_day_no_year">EEEE d MMMM</string>
+  <string name="go_back">Back</string>
   <string name="hour">1 uur</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">%d uur</string>
@@ -71,6 +73,7 @@
   <string name="legal_workday_message">"(Wekker uit tijdens vakanties)"</string>
   <string name="life_post_setting">Ochtendrapport</string>
   <string name="life_post_setting_FBE_remind">Als gevolg van systeembeperking wordt de weerinformatie in het morgenrapport mogelijk niet correct weergegeven na nieuwe opstart</string>
+  <string name="life_post_setting_close_title">Close morning reports</string>
   <string name="life_post_setting_open_subtitle">Het lokale weer tonen als u een alarm tussen 04:00 en 09:30 sluit</string>
   <string name="life_post_setting_open_title">Ochtendrapporten verkrijgen</string>
   <string name="life_post_setting_wake_up_list_title">Wekgeschiedenis</string>
@@ -92,6 +95,7 @@
   <string name="menu_item_sort_by_name">Sorteren op naam</string>
   <string name="minute">1 minuut</string>
   <string name="minutes">%d minuten</string>
+  <string name="more_setting">More Setting</string>
   <string name="more_settings">Instellingen</string>
   <string name="never">Nooit</string>
   <string name="oneshot_alarm">Verwijderen na afgaan</string>

@@ -313,6 +313,8 @@ in het geval je hem vergeten bent"</string>
   <string name="auto_task_operation_sync">Sync.</string>
   <string name="auto_task_operation_vibration">Trillen</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="back_app_name">Back App lock</string>
+  <string name="back_modifypassword">Back Change password</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="backsound_set_hint">Uw bericht intellen op %s?</string>
   <string name="battery_capacity_title">Batterijcapaciteit</string>
