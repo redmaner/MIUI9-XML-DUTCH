@@ -285,6 +285,8 @@ Raak het scherm aan om GPS te starten…"</string>
 5.De foto die je hebt genomen moet hieronder worden weergegeven. Tik op verwijderen om de test te voltooien."</string>
   <string name="cit_main_camera_check_title">Achterste camera</string>
   <string name="cit_name">Hardware testen</string>
+  <string name="cit_nfc_check_summary">Please put the card on the top of the back of the phone</string>
+  <string name="cit_nfc_check_title">NFC test</string>
   <string name="cit_nfc_check_summary">Plaats de kaart op de bovenkant van de telefoon</string>
   <string name="cit_nfc_check_title">NFC test</string>
   <string name="cit_not_available">Deze test is niet beschikbaar op deze versie van MIUI</string>
@@ -767,6 +769,7 @@ Nadat u \ "MUSIC.mp3 \"  geplaatst hebt in de directory van de SD kaart, tikt u 
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC＆ SPK</string>
+  <string name="nfc_disable_tip">Please turn on the NFC function</string>
   <string name="more_detail">查询识别失败特征数据</string>
   <string name="more_detail_confirm_setting">确认内存设置并请手动重启手机</string>
   <string name="more_than">大于</string>
