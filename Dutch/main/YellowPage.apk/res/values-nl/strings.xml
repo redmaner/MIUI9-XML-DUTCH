@@ -408,6 +408,7 @@ Totaal bedrag: RMB %3$s"</string>
   <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
   <string name="search_title_express">Vragen of snel verzenden</string>
   <string name="select_package_before_buy">Selecteer pakket</string>
+  <string name="send_shortcut_already_exists">Home screen already exists</string>
   <string name="send_shortcut_failed">Kon niet verzenden</string>
   <string name="send_shortcut_success">Op startscherm geplaatst</string>
   <string name="sending_shortcut">Verzenden…</string>

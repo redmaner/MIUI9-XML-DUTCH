@@ -102,6 +102,7 @@
   <string name="battery_low_title">Sluit de oplader aan</string>
   <string name="battery_profiles">Gebruik batterijprofielen</string>
   <string name="block_notification_content_text">Notificaties van %1$s zullen niet opnieuw worden weergegeven. Je kan dit veranderen in de instellingen.</string>
+  <string name="block_notification_desc">"The app's notifications won't be shown again. You can change this in the Settings."</string>
   <string name="block_notification_text">Verbergen</string>
   <string name="block_record_notification_text">Meldingen verbergen van %1$s.</string>
   <string name="block_record_notification_title">Meldingen verborgen</string>
