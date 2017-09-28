@@ -395,8 +395,8 @@ Controleer het volg nummer.</string>
   <string name="recharge_unknown_number">Onbekend</string>
   <string name="recharge_user_confirm_summary">"%1$s wordt in rekening gebracht voor  RMB%2$s. 
   
-Totaal bedrag: RMB %3$s"</string>
-  <string name="recharge_user_confirm_title">Opwaarderings bevestigen</string>
+Totaalbedrag: RMB %3$s"</string>
+  <string name="recharge_user_confirm_title">Opwaardering bevestigen</string>
   <string name="refresh">Vernieuwen</string>
   <string name="remember_preference">Voorkeur onthouden</string>
   <string name="remind_another_time">Niet weergeven voor dit nummer</string>
@@ -408,14 +408,14 @@ Totaal bedrag: RMB %3$s"</string>
   <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
   <string name="search_title_express">Vragen of snel verzenden</string>
   <string name="select_package_before_buy">Selecteer pakket</string>
-  <string name="send_shortcut_already_exists">Home screen already exists</string>
+  <string name="send_shortcut_already_exists">Startscherm bestaat al</string>
   <string name="send_shortcut_failed">Kon niet verzenden</string>
   <string name="send_shortcut_success">Op startscherm geplaatst</string>
   <string name="sending_shortcut">Verzenden…</string>
   <string name="service_unavailiable">Service niet bereikbaar</string>
   <string name="share">Delen</string>
-  <string name="sim1">Sim 1</string>
-  <string name="sim2">Sim 2</string>
+  <string name="sim1">SIM 1</string>
+  <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Kon niet verzenden</string>
   <string name="sina_share_fail_content_repeat">Je hebt dit al gedeeld.</string>
   <string name="sina_share_pendding">Verzenden…</string>

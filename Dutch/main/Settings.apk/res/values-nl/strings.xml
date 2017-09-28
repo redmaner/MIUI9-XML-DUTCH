@@ -1920,7 +1920,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="launch_defaults_none">Geen standaardapps ingesteld</string>
   <string name="launch_defaults_some">Sommige standaardapps ingesteld</string>
   <string name="launch_google_search">Google assistent starten</string>
-  <string name="launch_recents">Launch Recents</string>
+  <string name="launch_recents">Recente starten</string>
   <string name="launch_voice_assistant">Spraakassistent starten</string>
   <string name="launcher_auto_fill_empty_title">Lege cellen vullen</string>
   <string name="launcher_title">Startscherm &amp; recente apps</string>
