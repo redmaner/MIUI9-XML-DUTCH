@@ -510,7 +510,7 @@ Je hoeft alleen de apparaten dicht tegen elkaar aan te houden (achterkant tegen 
   <string name="bind_xiaomi_account_success">Mi Account met succes toegevoegd</string>
   <string name="biometric_weak_improve_matching_title">Gezichtsherkenning verbeteren</string>
   <string name="biometric_weak_liveliness_summary">Knipperen van ogen vereist om te ontgrendelen</string>
-  <string name="biometric_weak_liveliness_title">Liveness check</string>
+  <string name="biometric_weak_liveliness_title">Real person controle</string>
   <string name="ble_scan_notify_text">Om locatienauwkeurigheid te verbeteren kunnen systeem- apps en services nog steeds Bluetooth apparaten detecteren. U kan dit veranderen in LINK_BEGINscaninstellingenLINK_END.</string>
   <string name="block_list_connected_devices">Gekoppelde apparaten</string>
   <string name="block_list_diaglog_cancle">Annuleren</string>
@@ -873,7 +873,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="charge_length_format">%1$s geleden</string>
   <string name="charging_sounds_title">Oplaadgeluiden</string>
   <string name="check_find_device_status_failure_confirm">Ok</string>
-  <string name="check_importance">Belangrijkheid controleren</string>
+  <string name="check_importance">Markeren als belangrijk?</string>
   <string name="check_update">Controleren op updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Volume van inkomende oproepen gebruiken voor meldingen</string>
   <string name="checking_decryption">Controleren…</string>
@@ -1515,8 +1515,8 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="erase_optional">Optioneel</string>
   <string name="erase_personal_data">Alle bestanden op telefoon</string>
   <string name="erase_personal_data_description">Wis uw Mi account info, appdata, en systeeminstellingen</string>
-  <string name="erase_sd_data">SD kaart formatteren</string>
-  <string name="erase_sd_data_description">Formatteren zal alle bestanden en gegevens op de SD kaart wissen</string>
+  <string name="erase_sd_data">Neppe SD kaart formatteren</string>
+  <string name="erase_sd_data_description">Formatteren zal alle bestanden op de SD kaart wissen</string>
   <string name="erase_sure">Verplicht</string>
   <string name="error_apn_empty">De APN mag niet leeg zijn.</string>
   <string name="error_mcc_not3">MCC veld moet 3 cijfers bevatten.</string>
@@ -1567,8 +1567,8 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="fingerprint_enable_keyguard_toggle_title">schermvergrendeling</string>
   <string name="fingerprint_enroll_button_add">Andere toevoegen</string>
   <string name="fingerprint_enroll_button_next">Volgende</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Vingerafdruk 
-  (eerst vergrendelschermwachtwoord instellen voordat u het kan gebruiken)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Gezicht (eerst vergrendelschermwachtwoord instellen)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Vingerafdruk (eerst vergrendelschermwachtwoord instellen)</string>
   <string name="fingerprint_for_keyguard_disabled">Vingerafdruk is uitgeschakeld door beveiligingsinstellingen.</string>
   <string name="fingerprint_identify_input_password_msg">Voer wachtwoord in</string>
   <string name="fingerprint_identify_msg">Vingerafdruk lezen…</string>
@@ -2867,7 +2867,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_factory_reset_dlg_title">Data back-uppen</string>
   <string name="privacy_file">Bestanden</string>
   <string name="privacy_gallery">Foto\'s</string>
-  <string name="privacy_header_text_less_than_half">Te weinig ruimte voor deze app. Sleep de lijn verder.</string>
+  <string name="privacy_header_text_less_than_half">Te klein. Sleep wat verder.</string>
   <string name="privacy_mms">Berichten</string>
   <string name="privacy_mode_dialog_message">Berichten, notities, foto\'s en inkomende oproepen verbergen?</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
@@ -3601,13 +3601,12 @@ Om schermpinning te gebruiken:
   <string name="settings_toggle_position_divider_list">Schakelaars geplaatst boven de balk zijn actief</string>
   <string name="setup_add_fingerprint_failed_retry_text">Kon vingerafdruk niet toevoegen</string>
   <string name="setup_choose_unlock_fingerprint_msg">Stel schermvergrendeling in voordat je je vingerafdruk toevoegt.</string>
-  <string name="setup_choose_unlock_mixed_password_color_normal">Wachtwoord</string>
-  <string name="setup_choose_unlock_mixed_password_color_pressed">Wachtwoord</string>
+  <string name="setup_choose_unlock_mixed_password">Wachtwoord</string>
   <string name="setup_choose_unlock_mixpassword_title">Wachtwoord instellen</string>
+  <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">Voer 4 nummers in</string>
   <string name="setup_choose_unlock_password_title">PIN instellen</string>
-  <string name="setup_choose_unlock_pattern_color_normal">Patroon</string>
-  <string name="setup_choose_unlock_pattern_color_pressed">Patroon</string>
+  <string name="setup_choose_unlock_pattern">Patroon</string>
   <string name="setup_choose_unlock_pattern_title">Teken ontgrendelpatroon</string>
   <string name="setup_choose_unlock_type_title">Wachtwoord instellen</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">U heeft ervoor gekozen om uw vingerafdruk te gebruiken als een manier om uw telefoon te ontgrendelen. Als u dit nu overslaat moet u het later instellen. Instellen duurt maar een minuut.</string>
@@ -3861,7 +3860,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_wifi_mac_address">MAC adres voor Wi-Fi</string>
   <string name="status_wimax_mac_address">4G MAC adres</string>
   <string name="status_write_success">Success!</string>
-  <string name="statusbar_permission_desc">Toestemmingen zijn alleen beschikbaar voor belangrijke meldingen</string>
+  <string name="statusbar_permission_desc">De volgende toestemmingen zijn alleen geldig voor belangrijke meldingen.</string>
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Gecachete gegevens</string>
@@ -4252,7 +4251,7 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw schermvergrendeling.
 
 Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u zal uw telefoon niet kunnen ontgrendelen, betalingen kunnen uitvoeren of inloggen op apps met vingerafdrukken."</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profile protection features will not work without your screen lock.
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profielbeschermingsfuncties zullen niet werken zonder uw schermontgrendeling.
 
 Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw profiel niet ontgrendelen, aankopen autoriseren of u aanmelden bij apps."</string>
   <string name="unlock_disable_frp_warning_content_unknown_profile">De beveiligingsfuncties voor het profiel werken niet zonder uw schermvergrendeling.</string>
@@ -4264,7 +4263,7 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_do_later_title">Niet nu</string>
   <string name="unlock_set_enter_system">Schermvergrendeling overslaan</string>
   <string name="unlock_set_enter_system_summary">Ga direct naar het startscherm na het ontwaken</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Lage veiligheid, experimenteel</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Experimentele functie met lage veiligheid</string>
   <string name="unlock_set_unlock_biometric_weak_title">Gezichtsontgrendeling</string>
   <string name="unlock_set_unlock_disabled_summary">Uitgeschakeld door beheerder, encryptiebeleid of referentieopslag</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Beveiliging via patroon, PIN of wachtwoord wijzigen of uitschakelen</string>
@@ -4272,7 +4271,7 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_unlock_launch_picker_enable_summary">Kies een methode voor schermvergrendeling</string>
   <string name="unlock_set_unlock_launch_picker_title">Schermvergrendeling</string>
   <string name="unlock_set_unlock_launch_picker_title_profile">Vergrendeling werkprofiel</string>
-  <string name="unlock_set_unlock_mode_none">Veeg</string>
+  <string name="unlock_set_unlock_mode_none">Vegen</string>
   <string name="unlock_set_unlock_mode_off">Geen</string>
   <string name="unlock_set_unlock_mode_password">Wachtwoord</string>
   <string name="unlock_set_unlock_mode_pattern">Patroon</string>
