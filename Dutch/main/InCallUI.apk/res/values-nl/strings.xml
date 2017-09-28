@@ -40,7 +40,7 @@
   <string name="call_extension_conference_mode">Conferentiemodus</string>
   <string name="call_record_wait_label">Wachten</string>
   <string name="call_recording_deny_permission_msg">U hebt toestemming tot opnemen geweigerd, kan niet opnemen."</string>
-  <string name="call_recording_error_low_storage">Niet genoeg ruimte: de SD kaart is te vol</string>
+  <string name="call_recording_error_low_storage">Niet genoeg ruimte op opslag</string>
   <string name="call_recording_error_privacy">Je kan niet opnemen terwijl je in gastmodus bent</string>
   <string name="call_recording_error_sd_access">Geen toegang tot de SD kaart</string>
   <string name="call_recording_error_sd_unmounted">De opname is gestopt: SD kaart is losgekoppeld</string>
@@ -162,7 +162,6 @@
   <string name="livetalk_dial">Herlaadpakket gebruiken</string>
   <string name="livetalk_hangup">Ophangen</string>
   <string name="manageConferenceLabel">Beheer groepsgesprekken</string>
-  <string name="miprofile_stranger_card">Vreemde kaart</string>
   <string name="modify_call_failure_str">Wijzigen gesprekaanvraag is mislukt</string>
   <string name="modify_call_option_title">Welk type gesprek?</string>
   <string name="modify_call_option_voice">Enkel spraakgesprek</string>
