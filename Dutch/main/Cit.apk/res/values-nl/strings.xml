@@ -283,8 +283,6 @@ Raak het scherm aan om GPS te starten…"</string>
 5.De foto die je hebt genomen moet hieronder worden weergegeven. Tik op verwijderen om de test te voltooien."</string>
   <string name="cit_main_camera_check_title">Achterste camera</string>
   <string name="cit_name">Hardware testen</string>
-  <string name="cit_nfc_check_summary">Leg de kaart op de achterkant van de telefoon</string>
-  <string name="cit_nfc_check_title">NFC test</string>
   <string name="cit_not_available">Deze test is niet beschikbaar op deze versie van MIUI</string>
   <string name="cit_notificationlight">Meldingslicht</string>
   <string name="cit_notificationlight_off">Meldingslicht uit</string>
