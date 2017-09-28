@@ -134,7 +134,7 @@ Probeer het opnieuw over %d seconden.</string>
   <string name="phone_locked_foget_password_method_next">Volgende</string>
   <string name="phone_locked_foget_password_ok">Begrepen</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Schakel uw apparaat uit, houd de aan/uitknop en de volume omhoogknop tegelijkertijd ingedrukt totdat je het Mi logo ziet.</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">Selecteer \"Wissen &amp Resetten\" en wacht tot het apparaat opnieuw opstart.</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Selecteer \"Wissen &amp; Resetten\" en wacht tot het apparaat opnieuw opstart.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Hoe moet ik gegevens verwijderen?</string>
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
   <string name="phone_locked_timeout_minutes_string">Probeer opnieuw over %s minuten</string>
