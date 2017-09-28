@@ -4,6 +4,7 @@
   <string name="app_label">HTML viewer</string>
   <string name="app_name_which_call">App: %s</string>
   <string name="app_version_which_call">Appversie: %s</string>
+  <string name="autoconnect">Automatisch verbinden</string>
   <string name="ime_privacy_policy">Toetsenbord kiezen</string>
   <string name="license_host_unreachable">"Kon niet verbinden met netwerk. Om deze info nu te bekijken,
 ga naar %s op een ander verbonden apparaat"</string>

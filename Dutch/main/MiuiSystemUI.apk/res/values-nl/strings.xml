@@ -415,10 +415,10 @@
   <string name="recents_drag_hint_message">Sleep items hier naartoe</string>
   <string name="recents_empty_message">Geen recente items</string>
   <string name="recents_empty_message_dismissed_all">Je hebt alle items gewist</string>
-  <string name="recents_empty_message_multi_window">Ga naar het startscherm om apps te openen</string>
+  <string name="recents_empty_message_multi_window">Open apps van het startscherm</string>
   <string name="recents_exit_multi_window_mode">Afsluiten</string>
   <string name="recents_incompatible_app_message">Deze app ondersteunt splitscreen niet</string>
-  <string name="recents_launch_disabled_message">%s is gestopt in veilige modus.</string>
+  <string name="recents_launch_disabled_message">%s kan niet worden uitgevoerd in veilige modus.</string>
   <string name="recents_launch_error_message">Kon %s niet starten</string>
   <string name="recents_lock_to_app_button_label">Scherm vastzetten</string>
   <string name="recents_multi_window_mode">Splitscreen</string>
