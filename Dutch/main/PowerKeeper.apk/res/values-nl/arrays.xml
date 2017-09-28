@@ -32,8 +32,8 @@
     <string-array name="action_param_translate">
         <item>Geen operaties</item>
         <item>Standaard</item>
-        <item>Afbeelding</item>
-        <item>Film</item>
+        <item>Afbeeldingen</item>
+        <item>Films</item>
         <item>Batterij besparen</item>
         <item>Gebalanceerd</item>
         <item>Prestatie</item>
@@ -67,29 +67,23 @@
         <item>Ontwaakt het apparaat regelmatig</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WIFI scan</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Ontwaken</item>
-    </string-array>
-    <string-array name="power_checker_group_suffix">
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Voorkomt diepe slaapmodus</item>
+        <item>Voorkomt slaapmodus</item>
+        <item>Zoekt naar Wi-Fi</item>
+        <item>Gebruikt GPS</item>
+        <item>Houdt CPU bezig</item>
+        <item>Ontwaakt apparaat frequent</item>
     </string-array>
 	<string-array name="invisible_app_groups">
         <item>Geselecteerd</item>
         <item>Gedeselecteerd</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Standaard  warme controle modus</item>
-        <item>Prestaties eerst modus</item>
+        <item>Standaard temperatuurcontrole modus</item>
+        <item>Prestatiemodus</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>De huidige temperatuurregelmodus, de temperatuur van de ervaring heeft de voorkeur</item>
-        <item>Het huidige prestatiemodel, prestatie ervaring heeft de voorkeur, temperaturen kunnen stijgen</item>
+        <item>De huidige temperatuurregelmodus</item>
+        <item>De huidige prestatiemodus</item>
     </string-array>
-    <array name="read_enable" />
 </resources>
