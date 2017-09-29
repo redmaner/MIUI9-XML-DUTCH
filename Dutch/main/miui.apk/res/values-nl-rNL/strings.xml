@@ -5,9 +5,9 @@
   <string name="action_mode_deselect_all">Deselecteren</string>
   <string name="action_mode_select_all">Alles selecteren</string>
   <string name="action_mode_title_empty">Selecteer items</string>
-  <string name="actionbar_button_up_description">back</string>
-  <string name="actionbar_immersion_button_more_description">more</string>
-  <string name="activate">Activeer</string>
+  <string name="actionbar_button_up_description">Terug</string>
+  <string name="actionbar_immersion_button_more_description">Meer</string>
+  <string name="activate">Activeren</string>
   <string name="activate_fail_notification_title">Heractiveren synchronisatie</string>
   <string name="activating">Activeren…</string>
   <string name="address">Adres</string>
@@ -47,7 +47,7 @@
   <string name="chinese_day_8">Acht</string>
   <string name="chinese_day_9">Negen</string>
   <string name="chinese_day_elementary">Eerste</string>
-  <string name="clearable_edittext_clear_description">wissen</string>
+  <string name="clearable_edittext_clear_description">Wissen</string>
   <string name="close">Afsluiten</string>
   <string name="date_picker_dialog_title">Datum instellen</string>
   <string name="date_time_done">Klaar</string>
@@ -117,7 +117,7 @@
   <string name="friday_shortest">V</string>
   <string name="hybrid_provider">De webpagina is aangeboden door %1$s .</string>
   <string name="im">IM</string>
-  <string name="immersion_button_close_description">sluiten</string>
+  <string name="immersion_button_close_description">Sluiten</string>
   <string name="instruction">Instructies</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -181,10 +181,10 @@
   <string name="saturday">Zaterdag</string>
   <string name="saturday_short">Za</string>
   <string name="saturday_shortest">Z</string>
-  <string name="search_input_description">search</string>
-  <string name="search_mode_button_back_description">back</string>
+  <string name="search_input_description">Zoeken</string>
+  <string name="search_mode_button_back_description">Terug</string>
   <string name="select_all">Alles selecteren</string>
-  <string name="select_item">Selecteer items</string>
+  <string name="select_item">Items selecteren</string>
   <string name="send">Verzenden</string>
   <string name="send_sms_for_sync_notice">Uw provider kan je kosten aanrekenen voor een SMS bericht gebruikt om deze dienst te activeren.</string>
   <string name="send_sms_for_sync_title">Dataverbruikswaarschuwing</string>

@@ -1620,8 +1620,8 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="font_size_summary1">"Als de tekst van uw systeem nog te klein is, probeer"</string>
   <string name="font_size_summary2">Lite mode</string>
   <string name="forbidden_switch_apn_string">De geselecteerde APN instellingen komen niet overeen met het netwerktype</string>
-  <string name="force_allow_on_external">Force allow apps on external</string>
-  <string name="force_allow_on_external_summary">Makes any app eligible to be written to external storage, regardless of manifest values</string>
+  <string name="force_allow_on_external">Apps geforceerd laten installeren op externe opslag</string>
+  <string name="force_allow_on_external_summary">Staat toe dat elke app kan installeren op externe opslag, ongeacht manifestwaardes</string>
   <string name="force_hw_ui">GPU rendering afdwingen</string>
   <string name="force_hw_ui_summary">Gebruik van GPU voor 2D tekening forceren</string>
   <string name="force_msaa">4x MSAA forceren</string>
@@ -1629,7 +1629,7 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="force_resizable_activities">Forceer activiteiten om in grootte gewijzigd te kunnen worden</string>
   <string name="force_resizable_activities_summary">Maak alle activiteiten aanpasbaar in grootte voor multi-window, ongeacht de manifestwaarden.</string>
   <string name="force_rtl_layout_all_locales">V.r.n.l. indelingsrichting afdwingen</string>
-  <string name="force_rtl_layout_all_locales_summary">Schermindelingsrichting geforceerd instellen op V.r.n.l. voor alle talen</string>
+  <string name="force_rtl_layout_all_locales_summary">Schermindelingsrichting geforceerd instellen op v.r.n.l. voor alle talen</string>
   <string name="force_stop">Nu stoppen</string>
   <string name="force_stop_dlg_text">Als u een app gedwongen stopt, kan deze onverwacht gedrag vertonen.</string>
   <string name="force_stop_dlg_title">Gedwongen stoppen?</string>
@@ -2340,6 +2340,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_allow_music">Media</string>
   <string name="miui_allow_vibrate">Trillingen</string>
   <string name="miui_data_usage_menu_metered">Mobiele hotspots</string>
+  <string name="miui_enable_service_title">De service zal de volgende acties uitvoeren:</string>
   <string name="miui_experience_optimization">MIUI optimalisaties inschakelen</string>
   <string name="miui_lab_feature_applied">Toegepast</string>
   <string name="miui_lab_feature_off">Uit</string>
@@ -4085,19 +4086,19 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tether_share_qrcode_title">QR code delen</string>
   <string name="tethering_help_button_text">Help</string>
-  <string name="tethering_help_dialog_text">&lt;b&gt;USB tethering&lt;/b&gt;" 
- U kan uw Android apparaat aan uw computer koppelen met een USB kabel, om de internetverbinding van uw apparaat met uw computer te delen. 
+  <string name="tethering_help_dialog_text">USB tethering 
+U kan uw Android apparaat aan uw computer koppelen met een USB kabel om de internetverbinding van uw apparaat met uw computer te delen. 
 
-1.USB tethering werkt met Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
+1. USB tethering werkt met Windows Vista, Windows 7, Windows 8, Windows 8.1 en Linux. 
 
-2.Als uw apparaat een SD kaart of USB opslag heeft, kunt u het niet op uw computer bevestigen als de USB verbinding is gebonden.
+2. Als uw apparaat een SD kaart of USB opslag heeft, is deze niet meer toegankelijk vanaf de PC wanneer er wordt getetherd vanaf USB.
 
- "&lt;b&gt;Draagbare Wi-Fi hotspot &lt;/b&gt;"
- U kan een draagbare Wi-Fi hotspot van uw Android apparaat maken om de internetverbinding van uw Android apparaat te delen met een of meer computers of andere apparaten.
+Draagbare Wi-Fi hotspot
+U kan een draagbare Wi-Fi hotspot van uw Android apparaat maken om de internetverbinding van uw Android apparaat te delen met een of meer computers of andere apparaten.
 
-1.Wanneer uw apparaat als Wi-Fi hotspot wordt gebruikt, kunt u de toepassingen van uw apparaat niet gebruiken via het internet via de Wi-Fii verbinding (maar natuurlijk blijft u verbonden met internet via uw mobiele data netwerk).
+1. Wanneer uw apparaat als Wi-Fi hotspot wordt gebruikt, kunt u de toepassingen van uw apparaat niet gebruiken via het internet via de Wi-Fii verbinding (maar natuurlijk blijft u verbonden met internet via uw mobiele datanetwerk).
 
-2.U configureert de hotspot met de Wi-Fi hotspotinstellingen."</string>
+2. U configureert de hotspot met de Wi-Fi hotspotinstellingen."</string>
   <string name="tethering_help_dialog_title">Help</string>
   <string name="tethering_no_sim_alert_title">Geen SIM kaart</string>
   <string name="tethering_no_sim_card_text">Plaats de SIM kaart om uw dataverbinding te delen met andere apparaten met behulp van mobiele hotspot of USB verbinding voor internettoegang.</string>

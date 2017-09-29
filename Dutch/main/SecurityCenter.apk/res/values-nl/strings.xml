@@ -16,12 +16,11 @@
   <string name="ac_summaryOff">Uitgeschakeld, wachtwoord is niet vereist om apps te openen</string>
   <string name="ac_summaryOn">Ingeschakeld, wachtwoord is vereist om apps te openen</string>
   <string name="access_control_app_is_launching">App start op</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Wachtwoord is vereist om apps te openen</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Teken je patroon om een nieuwe vingerafdruk toe te voegen</string>
   <string name="access_control_fingerprint_not_identified_msg">Kon vingerafdruk niet lezen</string>
   <string name="access_control_need_password">"%s met succes toegevoegd
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Voer wachtwoord voor appvergrendeling in</string>
-  <string name="accessibility_service_description"/>
   <string name="action_button_text_100">Optimaliseren</string>
   <string name="action_button_text_60">Repareren</string>
   <string name="action_button_text_60_80">Repareren</string>
@@ -988,21 +987,20 @@ om te reageren"</string>
   <string name="network_roaming_exception_tips">Kan mobiele data niet gebruiken tijdens roamen om verbinding te maken met netwerk.</string>
   <string name="network_route_exception_detail">"Er is mogelijk een probleem met de router waarmee u verbonden bent:
 
+1. Openbaar Wi-fi netwerkproblemen
+Als je verbonden bent met een openbaar Wi-Fi netwerk, kan het aantal gebruikers aangesloten op dat netwerk voor vertraging of voor verbindings problemen zorgen. Schakel over naar een ander netwerk en probeer opnieuw.
 
- "&lt;b&gt;"1. Openbaar Wi-fi netwerkproblemen
-"&lt;/b&gt;"Als je verbonden bent met een openbaar Wi-Fi netwerk, kan het aantal gebruikers aangesloten op dat netwerk voor vertraging of voor verbindings problemen zorgen. Schakel over naar een ander netwerk en probeer opnieuw.
-
- 2."&lt;b&gt;"Providerproblemen
-"&lt;/b&gt;"Maak er u zeker van dat uw account met uw Internet Service Provider nog geldig is.
+2. Providerproblemen
+Maak er u zeker van dat uw account met uw Internet Service Provider nog geldig is.
  
- 3."&lt;b&gt;" Router hardwareproblemen
-"&lt;/b&gt;"Probeer uw router te herstarten of controleer de admin instellingen van uw router.
+3. Router hardwareproblemen
+Probeer uw router te herstarten of controleer de admin instellingen van uw router.
  
- 4."&lt;b&gt;" Andere routerproblemen
-"&lt;/b&gt;"Lees de instructies die bij uw router zaten en herstel uw router terug naar de fabrieksinstellingen.
+4. Andere routerproblemen
+Lees de instructies die bij uw router zaten en herstel uw router terug naar de fabrieksinstellingen.
  
- 5."&lt;b&gt;"Maak er u zeker van dat de router juist is aangesloten
-"&lt;/b&gt;"Probeer een andere Ethernet kabel op uw router. Als u vermoedt dat er een probleem is met de verbinding in huis, contacteer uw provider. "</string>
+5. Maak er u zeker van dat de router juist is aangesloten
+Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een probleem is met de verbinding in huis, contacteer uw provider."</string>
   <string name="network_sim_exception_detail">"Er is mogelijk een probleem met uw SIM kaart:
   
 1. Maak er u zeker van dat uw account met uw provider nog geldig is. Gebruik een SIM kaart van een vriend en kijk of je dan in staat bent om te verbinden.
