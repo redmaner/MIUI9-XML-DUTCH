@@ -162,7 +162,7 @@
   <string name="notif_trans_receiving_failed">Kon geen data ontvangen</string>
   <string name="notif_trans_sending_completed">Data met succes verzonden</string>
   <string name="notif_trans_sending_failed">Kon geen data verzenden</string>
-  <string name="notif_trans_wait_for_reconnecting">Verbinding met apparaat is verbroken. Verbind opnieuw.</string>
+  <string name="notif_trans_wait_for_reconnecting">Verbinding is verbroken. Verbind opnieuw.</string>
   <string name="page_loading">Een momentje…</string>
   <string name="progress_backup_hint">Back-uppen…</string>
   <string name="progress_restore_hint">Herstellen…</string>
@@ -262,13 +262,13 @@
   <string name="trans_connect_failed_title">Kon niet verbinden</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
   <string name="trans_connecting_toast">Verbinden…</string>
-  <string name="trans_connection_failed">Verbinding van apparaat verbroken</string>
+  <string name="trans_connection_failed">Verbinding is verbroken</string>
   <string name="trans_detail_category_account">Accounts en contacten</string>
   <string name="trans_detail_category_files">Bestanden</string>
   <string name="trans_detail_category_sysdata">Systeemdata</string>
   <string name="trans_detail_category_userdata">Apps</string>
-  <string name="trans_device_disconnected">Apparaat losgekoppeld</string>
-  <string name="trans_device_wait_for_reconnecting">Verbinding met apparaat verbroken. Verbind opnieuw.</string>
+  <string name="trans_device_disconnected">Verbinding is verbroken</string>
+  <string name="trans_device_wait_for_reconnecting">Verbinding is verbroken. Verbind opnieuw om verder te gaan.</string>
   <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
   <string name="trans_intro_desc_2">Annuleer de overdracht, sluit Mi Mover af en begin opnieuw. Dubbele bestanden worden overschreven tijdens de nieuwe overdracht.</string>
   <string name="trans_intro_desc_3">Mi Mover gebruikt Wi-Fi om bestanden te versturen. Daarom kan je niet verbinden met internet over Wi-Fi op beide apparaten tijdens een overdracht. Wel kan je nog steeds mobiele data gebruiken. Maar sommige nieuwe apparaten (bijv. Mi 6) kunnen wel nog verbinding maken via Wi-Fi tijdens een overdracht.</string>
@@ -280,7 +280,7 @@
   <string name="trans_intro_desc_multiapp">Mi Mover kan geen gegevens van gedupliceerde apps overzetten om problemen tussen bestanden te voorkomen.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover heeft geen toegang tot de gegevens in de tweede ruimte. Verplaats gegevens naar de eerste ruimte en start Mi Mover opnieuw.</string>
   <string name="trans_intro_desc_new">Tik op \"Ik ben ontvanger\". Er zal een QR code worden gemaakt.</string>
-  <string name="trans_intro_desc_old">Tik op \"Ik ben verzender\\. Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden er verzonden moeten worden en tik op \"Versturen\".</string>
+  <string name="trans_intro_desc_old">Tik op \"Ik ben verzender\". Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden er verzonden moeten worden en tik op \"Versturen\".</string>
   <string name="trans_intro_desc_private">Mi Mover heeft geen toegang tot foto\'s in verborgen albums omdat ze versleuteld zijn. Je kan deze foto\'s herstellen van Mi Cloud op het nieuwe apparaat.</string>
   <string name="trans_intro_question_1">1. Hoe gebruik ik Mi Mover?</string>
   <string name="trans_intro_question_2">2. Wat moet ik doen als Mi Mover is vastgelopen bij een bepaalde stap?</string>
@@ -292,7 +292,7 @@
   <string name="trans_intro_question_8">"8. Welke items kunnen niet worden overgezet?"</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Accounts en wachtwoorden:</string>
-  <string name="trans_intro_title_multiapp">Gegevens van gedupliceerde apps</string>
+  <string name="trans_intro_title_multiapp">Gegevens van gedupliceerde apps:</string>
   <string name="trans_intro_title_multiuser">Gegevens van tweede ruimte:</string>
   <string name="trans_intro_title_new">Op een nieuwe telefoon:</string>
   <string name="trans_intro_title_old">Op een oude telefoon:</string>
@@ -312,10 +312,10 @@ Transfereren app op uw oude apparaat
 2. Open de app en selecteer [Ik ben verzender]
 3. Scan de QR code met uw oude apparaat"</string>
   <string name="trans_operate_old_phone_tips2">"Ga naar instellingen &gt; Extra instellingen &gt; Mi Mover, Tik op [Ik ben verzender]"</string>
-  <string name="trans_operate_reconnect_new_tips">"Wacht tot de nieuwe telefoon \"verbinding met apparaat verbroken\" weergeeft.
-Klik daarna op [opnieuw verbinden] om een QR code te maken."</string>
-  <string name="trans_operate_reconnect_old_tips">"Wacht tot de oude telefoon \"apparaat verbroken\" weergeeft.
-Klik daarna op [opnieuw verbinden] om een QR code te maken."</string>
+  <string name="trans_operate_reconnect_new_tips">"Wacht tot de nieuwe telefoon \"verbinding verbroken\" weergeeft.
+Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
+  <string name="trans_operate_reconnect_old_tips">"Wacht tot de oude telefoon \"verbinding verbroken\" weergeeft.
+Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
   <string name="trans_please_waiting">Een momentje…</string>
   <string name="trans_progress_subdescript_br_receiver">%1$s aan het herstellen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_br_sender">%1$s aan het back-uppen, %2$s voltooid</string>

@@ -31,6 +31,8 @@ Gegevens zullen niet worden gewist."</string>
   <string name="menu_title_current_version_log">Wat is er nieuw</string>
   <string name="menu_title_pick_rom_file">Updatepakket selecteren</string>
   <string name="menu_title_recovery">Herstarten in recoverymodus</string>
+  <string name="message_checkbox">Berichten van het Xiaomi.eu team niet meer weergeven</string>
+  <string name="message_title">LET OP!</string>
   <string name="new_version">Nieuwe versie gevonden!</string>
   <string name="no_info">Geen informatie beschikbaar.</string>
   <string name="no_network">Geen netwerktoegang.</string>

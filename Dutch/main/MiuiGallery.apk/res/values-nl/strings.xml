@@ -577,7 +577,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="ok">OK</string>
   <string name="onekey_auto">Auto</string>
   <string name="onekey_food">Eten</string>
-  <string name="onekey_none">Geen</string>
+  <string name="onekey_none">Origineel</string>
   <string name="onekey_portrait">Portret</string>
   <string name="onekey_scene">Landschap</string>
   <string name="open">Inschakelen</string>
@@ -648,7 +648,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_editor_navigator_cancel">Annuleren</string>
   <string name="photo_editor_navigator_download_network_metered_msg">%s downloaden vereist ongeveer 4MB aan mobiele data. Nu downloaden?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Waarschuwing dataverbruik</string>
-  <string name="photo_editor_navigator_export">Gereed</string>
+  <string name="photo_editor_navigator_export">Opslaan</string>
   <string name="photo_editor_navigator_module_download_failed">Kon %s niet downloaden</string>
   <string name="photo_editor_navigator_module_download_now">Downloaden</string>
   <string name="photo_editor_navigator_module_download_success">Gedownload</string>
@@ -759,7 +759,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_feedback_false_negative_text">Foto\'s toevoegen aan \"%s\"?</string>
   <string name="search_feedback_false_negative_title">Geselecteerde items zijn \"%s\"</string>
   <string name="search_feedback_false_positive_text">Foto\'s van \"%s\" verwijderen?</string>
-  <string name="search_feedback_false_positive_title">Het lijkt erop dat deze “%s” zijn</string>
+  <string name="search_feedback_false_positive_title">Het lijkt erop dat deze \"%s\" zijn</string>
   <string name="search_feedback_likely_check_title">Controleren</string>
   <string name="search_feedback_likely_title">Het lijkt erop dat deze foto\'s \"%s\" kunnen hebben</string>
   <string name="search_feedback_task_finish_title">Tik om beloning te ontvangen!</string>
@@ -960,7 +960,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_invalid_trim_arguments">Moet langer zijn dan 1 seconde</string>
   <string name="video_editor_loading_plugin">Laden…</string>
   <string name="video_editor_loading_warning_msg">Door een codeer fout zijn sommige functies en voorbeelden mogelijk niet beschikbaar tijdens het bewerkingsproces. Dit heeft geen invloed op de uiteindelijke videobestand.</string>
-  <string name="video_editor_loading_warning_title">Codeer fout</string>
+  <string name="video_editor_loading_warning_title">Codeerfout</string>
   <string name="video_editor_more">Geavanceerd</string>
   <string name="video_editor_not_support_tips">Dit videoformaat wordt niet ondersteund</string>
   <string name="video_editor_ok">OK</string>
@@ -973,7 +973,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Tekst</string>
-  <string name="video_editor_text_default">standaard</string>
+  <string name="video_editor_text_default">Standaard</string>
   <string name="video_editor_text_edit_end">Credits</string>
   <string name="video_editor_text_edit_input_end_hint">Credits invoeren</string>
   <string name="video_editor_text_edit_input_hint">Tik hier om te bewerken</string>

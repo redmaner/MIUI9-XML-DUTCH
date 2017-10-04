@@ -156,9 +156,9 @@
   <string name="mipay">Betalen</string>
   <string name="mipay_balance">Balans</string>
   <string name="mipay_bank_card">Bankpas</string>
-  <string name="mipay_identitiy_no">nee</string>
+  <string name="mipay_identitiy_no">Niet geverifieerd</string>
   <string name="mipay_identity">ID verificatie</string>
-  <string name="mipay_indentity_done">klaar</string>
+  <string name="mipay_indentity_done">Geverifieerd</string>
   <string name="mipay_others">Andere</string>
   <string name="mipay_transit_card">Transportkaart</string>
   <string name="multi_user_not_show_sync_activity_message_1">Het ziet er naar uit dat je het Mi Account van je standaard ruimte gebruikt.</string>
