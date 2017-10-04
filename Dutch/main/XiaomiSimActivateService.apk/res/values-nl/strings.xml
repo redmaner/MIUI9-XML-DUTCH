@@ -104,16 +104,16 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="activate_status_desc_wait_for_sms_success">Activatie SMS ontvangen van de server</string>
   <string name="activate_status_title_activating">SIM kaart activeren…</string>
   <string name="activate_status_title_activating_msim">SIM kaart %d activeren…</string>
-  <string name="agree">Instemmen</string>
+  <string name="agree">Toestaan</string>
   <string name="app_name">Xiaomi SIM activatieservice</string>
   <string name="explain_send_sms_permission_button">Verifiëren</string>
   <string name="explain_send_sms_permission_msg">Om %s in te schakelen, zal Xiaomi Service Framework een SMS sturen om uw telefoonnummer te verifiëren.</string>
   <string name="explain_send_sms_permission_title">Verifieer uw telefoonnummer</string>
-  <string name="phone_get_processing">bezig…</string>
-  <string name="phone_get_text">Toestaan dat %1$s toegang krijgt tot uw telefoonnummer: %2$s?</string>
-  <string name="phone_get_title">Toestemming voor %1$s om uw telefoonnummer te krijgen</string>
-  <string name="phone_verify_processing">verifiëren…</string>
-  <string name="phone_verify_text">%1$s zal uw telefoonnummer niet krijgen. Zorg ervoor dat het telefoonnummer overeenkomt.</string>
-  <string name="phone_verify_title">Geef toestemming aan %1$s om uw telefoonnummer te verifiëren</string>
+  <string name="phone_get_processing">Bezig…</string>
+  <string name="phone_get_text">%1$s toestaan om uw telefoonnummer te krijgen (%2$s)?</string>
+  <string name="phone_get_title">%1$s toestaan om uw telefoonnummer te krijgen</string>
+  <string name="phone_verify_processing">Verifiëren…</string>
+  <string name="phone_verify_text">%1$s zal uw telefoonnummer niet krijgen. Het zal alleen controleren of het nummer geldig is. Akkoord?.</string>
+  <string name="phone_verify_title">%1$s toestaan om uw telefoonnummer te verifiëren</string>
   <string name="sim_unactivated_title">Uw SIM kaart is niet geactiveerd</string>
 </resources>

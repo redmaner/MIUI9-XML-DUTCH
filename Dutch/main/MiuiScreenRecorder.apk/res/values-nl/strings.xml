@@ -19,7 +19,7 @@
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
   <string name="frames">Framerate</string>
   <string name="frames_summary">Hogere framerates voorkomen motion blur</string>
-  <string name="frequently_click_toast">Dienst initialiseren, wacht een momentje</string>
+  <string name="frequently_click_toast">Een momentje…</string>
   <string name="gleam_led_while_recording">Notificatielicht oplichten tijdens opnemen</string>
   <string name="hint_back">Terug</string>
   <string name="hint_home">Home</string>
@@ -44,8 +44,8 @@
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_send">Verzenden</string>
   <string name="quit_recording">Schermrecorder afsluiten</string>
-  <string name="recording_failure">Laatste opname is mislukt, start een nieuwe schermopname</string>
-  <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen vanwege maximumgrootte van videobestanden. Je kan een nieuwe opname starten als je wil doorgaan met opnemen.</string>
+  <string name="recording_failure">Kon niet opnemen, start een nieuwe schermopname</string>
+  <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen omdat het bestand de maximumgrootte heeft bereikt. Als je nog niet klaar was kan je een nieuwe opname starten.</string>
   <string name="resolution">Resolutie</string>
   <string name="resolution_summary">Video\'s met hogere resolutie zien er scherper uit</string>
   <string name="screen_orientation">Oriëntatie</string>

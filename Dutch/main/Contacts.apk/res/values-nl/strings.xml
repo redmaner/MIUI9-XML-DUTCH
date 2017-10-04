@@ -851,7 +851,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="postal_region">Staat</string>
   <string name="postal_street">Straat</string>
   <string name="pref_key_photo">Foto</string>
-  <string name="pref_key_photo_word_summary">Automatisch foto\'s toewijzen aan contacten</string>
+  <string name="pref_key_photo_word_summary">Automatisch een foto toewijzen aan contacten</string>
   <string name="pref_key_photo_word_title">Foto\'s toewijzen aan contacten</string>
   <string name="pref_key_rebuild_t9_index_message">Index herbouwen om zoekresultaten te optimaliseren</string>
   <string name="pref_key_rebuild_t9_index_title">Indexdata herbouwen</string>
@@ -884,8 +884,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="preference_phone">Telefoon</string>
   <string name="preference_phone_more_title">Instellingen voor bellen</string>
   <string name="preference_remove_duplicate">Dubbele contacten samenvoegen</string>
-  <string name="preference_show_yellowpage_tab_description">Sluit de gele gids tab, de gele gids functie zal niet naar behoren werken</string>
-  <string name="preference_show_yellowpage_tab_title">Geef de gele gids tab weer</string>
+  <string name="preference_show_yellowpage_tab_description">De gele gids zou mogelijk niet goed kunnen werken als deze functie is uitgeschakeld.</string>
+  <string name="preference_show_yellowpage_tab_title">Gele gids weergeven</string>
   <string name="preference_simple_mode_description">"Foto's en andere contactgegevens weergeven in de lijstweergave"</string>
   <string name="preference_simple_mode_title">"Foto's en info weergeven"</string>
   <string name="preference_smart_group_company_summary">Groepeer per bedrijf</string>
@@ -1012,9 +1012,9 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="service_provider_detail">Adresboek details</string>
   <string name="set_data_package">Stel eerst dataplan in</string>
   <string name="set_default">Standaardinstellingen herstellen</string>
-  <string name="set_photo_failed_msg">Kon foto niet toewijzen.</string>
-  <string name="share_error">Dit contact kan niet worden gedeeld.</string>
-  <string name="share_over_limit">Meer dan 1000, kan niet gedeeld worden</string>
+  <string name="set_photo_failed_msg">Kon foto niet toewijzen</string>
+  <string name="share_error">Dit contact kan niet worden gedeeld</string>
+  <string name="share_over_limit">Kan niet meer dan 1000 contacten delen</string>
   <string name="share_via">Contact delen via</string>
   <string name="share_visible_contacts">Zichtbare contacten delen</string>
   <string name="shortcutActivityTitle">Kies een contactsnelkoppeling</string>
@@ -1101,7 +1101,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="success_message_import_from_account">Contact geimporteerd</string>
   <string name="summary_kind_title">Samenvatting</string>
   <string name="t9_search_empty_create_contact">Nieuw contact</string>
-  <string name="t9_search_empty_edit_contact">Toevoegen aan contact</string>
+  <string name="t9_search_empty_edit_contact">Toevoegen aan contacten</string>
   <string name="t9_search_empty_send_sms">Bericht verzenden</string>
   <string name="t9_search_empty_video_call">Video-oproep</string>
   <string name="t9_search_guide_pinyin_title1">Nummers invoeren om contacten te vinden</string>
@@ -1123,7 +1123,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="toast_for_saving_nickname">Bijnaam opgeslagen</string>
   <string name="toast_join_with_empty_contact">Geef een contactnaam op voordat u dit contact samenvoegt met een ander contact.</string>
   <string name="toast_making_personal_copy">Een persoonlijke kopie maken…</string>
-  <string name="toast_start_intent_failed">Geen app gevonden om die actie uit te voeren</string>
+  <string name="toast_start_intent_failed">Geen app gevonden om deze actie uit te voeren</string>
   <string name="toast_text_copied">Tekst gekopiëerd</string>
   <string name="today">Vandaag</string>
   <string name="tomorrow">Morgen</string>
@@ -1134,7 +1134,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="type_outgoing">Uitgaande gesprekken</string>
   <string name="type_voicemail">Voicemail</string>
   <string name="unable_get_device_id">Kan geen IMEI verkrijgen</string>
-  <string name="unfold_all">Alle oproepen uitvouwen</string>
+  <string name="unfold_all">Alles weergeven</string>
   <string name="unknow_phone_number_call_failed">Kan onbekend nummer niet bellen</string>
   <string name="unknow_phone_number_mms_failed">Kan onbekend nummer geen bericht zenden</string>
   <string name="unknown">Onbekend</string>

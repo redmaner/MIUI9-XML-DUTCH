@@ -65,7 +65,7 @@
   <string name="card_title_hanging_up">"Ophangen "</string>
   <string name="card_title_hanging_up_fail">Kon oproep niet beëindigen, probeer opnieuw.</string>
   <string name="card_title_hanging_up_restart">Kon oproep niet beëindigen. Herstart uw apparaat.</string>
-  <string name="card_title_hanging_up_weak_signal">Zwak mobiel bereik. Oproep wordt beëindigd</string>
+  <string name="card_title_hanging_up_weak_signal">Zwak mobiel netwerksignaal. Oproep wordt beëindigd…</string>
   <string name="card_title_in_call">In gesprek</string>
   <string name="card_title_in_call_short">In gesprek</string>
   <string name="card_title_in_video">Video </string>
@@ -224,7 +224,7 @@
   <string name="picking_participant">Contactinfo verkrijgen…</string>
   <string name="private_num">Privénummer</string>
   <string name="remind_unlock_message">Uw apparaat is nu vergrendeld. \"%s\" zal beschikbaar zijn nadat u het apparaat ontgrendelt. Nu ontgrendelen?</string>
-  <string name="respond_via_sms_custom_message">Voeg eigen toe…</string>
+  <string name="respond_via_sms_custom_message">Aangepaste SMS</string>
   <string name="select_audio_dialog_title">Selecteer beantwoordmethode</string>
   <string name="select_one_sim_title">Kan alleen SIM %1$d gebruiken</string>
   <string name="select_sim_hint">"Kan SIM %2$d niet gebruiken terwijl SIM %1$d in gebruik is."</string>

@@ -836,10 +836,10 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Rechtshandige stijl</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
-        <item>Klik op aanpassen - Dubbelklik trigger</item>
-        <item>Sleep aanpassen - Sleep trigger</item>
-        <item>Klik op aanpassen - Klik trigger</item>
-        <item>Klik op aanpassen - Lang klikken trigger</item>
+        <item>Tik om aan te passen - Dubbeltikken om te triggeren</item>
+        <item>Veeg om aan te passen - Vegen om te triggeren</item>
+        <item>Tik om aan te passen - Tik om te triggeren</item>
+        <item>Tik om aan te passen - Tik &amp; houd ingedrukt om te triggeren</item>
     </string-array>
     <string-array name="city_timezone">
         <item>Africa/Abidjan</item>

@@ -92,6 +92,7 @@
   <string name="antivirus_choose_engine_title">Definities</string>
   <string name="antivirus_longtime_no_update">Het lijkt erop dat uw virusdefinities oud zijn. Regelmatige updates helpen bij het verkrijgen van betere scanresultaten. Laat beveiliging toe om verbinding te maken met internet en bijwerken van virusdefinities?</string>
   <string name="antivirus_longtime_no_update1">Het lijkt erop dat uw virusdefinities oud zijn. Regelmatige updates helpen bij het verkrijgen van betere scanresultaten. Update definities en probeer opnieuw.</string>
+  <string name="antivirus_main_activity_back">Terug van veiligheidsscan</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Risicovolle apps verwijderen</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Virussen verwijderen</string>
   <string name="antivirus_monitor_clean_tips">Verwijderde items: %s</string>
@@ -312,8 +313,8 @@ in het geval je hem vergeten bent"</string>
   <string name="auto_task_operation_sync">Sync.</string>
   <string name="auto_task_operation_vibration">Trillen</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
-  <string name="back_app_name">Terug appvergrendeling</string>
-  <string name="back_modifypassword">Terug wachtwoord veranderen</string>
+  <string name="back_app_name">Terug naar appvergrendeling</string>
+  <string name="back_modifypassword">Terug naar wachtwoord wijzigen</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="backsound_set_hint">Uw bericht intellen op %s?</string>
   <string name="battery_capacity_title">Batterijcapaciteit</string>
@@ -487,7 +488,7 @@ in het geval je hem vergeten bent"</string>
   <string name="convenient_mode">Alle apps in één keer ontgrendelen</string>
   <string name="convenient_summary">Wachtwoord eenmaal invoeren om alle apps te ontgrendelen</string>
   <string name="correction_attention_dialog_message">Instellingen nu aanpassen. Wacht tot het proces is voltooid en probeer opnieuw.</string>
-  <string name="cpu_usage_android_system">Android Systeem</string>
+  <string name="cpu_usage_android_system">Androidsysteem</string>
   <string name="cpu_usage_app_bg_restrict_default">Auto (aanbevolen)</string>
   <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
   <string name="cpu_usage_app_bg_restrict_full">Achtergrondactiviteit beperken</string>
@@ -510,6 +511,8 @@ in het geval je hem vergeten bent"</string>
   <string name="daily_limit_network_available_body">Tik om gebruiksgegevensstatistieken te bekijken.</string>
   <string name="daily_limit_over_message">Je hebt de dagelijkse datalimiet overschreden.</string>
   <string name="daily_pkg_traffic">Piek datalimiet</string>
+  <string name="data_booster_desc">Deactiveer andere SIMs om de verbinding stabiel te houden</string>
+  <string name="data_booster_title">Stabiliseer dataverbinding</string>
   <string name="data_network_blocked_notification_title">Geen internetverbinding</string>
   <string name="data_usage_correction_timeout_title">Synchronisatie dataverbruik gepauzeerd</string>
   <string name="data_usage_disabled_dialog">"De datalimiet is bereikt. Als je het limiet overschrijdt kan uw provider extra kosten in rekening brengen."</string>
@@ -665,9 +668,10 @@ in het geval je hem vergeten bent"</string>
   <string name="fw_blocked">Zwarte lijst</string>
   <string name="fw_blocked_count">"Geblokkeerd "</string>
   <string name="fw_blocked_join">" en "</string>
-  <string name="game_booster">Game speed booster</string>
-  <string name="game_booster_intro">Over Game speed booster</string>
-  <string name="game_booster_title">Boost</string>
+  <string name="game_anti_disturb_msg">Niet storen tijdens gamen</string>
+  <string name="game_booster">Gamesnelheid opvoeren</string>
+  <string name="game_booster_intro">Over Gamesnelheid opvoeren</string>
+  <string name="game_booster_title">Snelheid opvoeren</string>
   <string name="game_improve_text1">Wis de achtergrondcache om geheugen vrij te maken voor gaming</string>
   <string name="game_improve_text2">Wis de achtergrondcache om geheugen vrij te maken voor gaming en verbeter de CPU prestaties</string>
   <string name="game_improve_title">Prestaties optimaliseren</string>
@@ -676,6 +680,7 @@ in het geval je hem vergeten bent"</string>
   <string name="game_net_text2">Versterk de verbindingssnelheid van het spel tijdens het beperken van de achtergrondverhogingssnelheid om de vertraging van het netwerk te verminderen</string>
   <string name="game_net_title">Verbindingssnelheid optimaliseren</string>
   <string name="game_setting">Game-instellingen</string>
+  <string name="gamebooster_main_activity_back">Terug naar gamesnelheid opvoeren</string>
   <string name="gamebooster_network_dialog_message">Laat beveiliging toe om verbinding te maken met het netwerk om alle functies van de Game speed booster te gebruiken?</string>
   <string name="gamebooster_network_dialog_title">Sommige functies zijn niet beschikbaar</string>
   <string name="gateway_exception_summary">Controleer je router en probeer opnieuw.</string>
@@ -1056,7 +1061,6 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="om_cpu_overload_proc_title">Problemen</string>
   <string name="om_cpu_usage_warn_title_text">"Deze app kan uw
 apparaat vertragen</string>
-  <string name="om_formatted_percent_string">%s%%</string>
   <string name="om_ill_proc_activity_title">Problemen</string>
   <string name="om_ill_proc_handle_uninstall_prompt">Verwijder deze app om batterijverbruiksproblemen op te lossen.</string>
   <string name="om_ill_proc_handle_unstaill_title">%s verwijderen?</string>
@@ -1076,11 +1080,11 @@ apparaat vertragen</string>
   <string name="om_lock_app_locked_app_occupy_memory">Door te veel apps te vergrendelen wordt de prestatie van uw telefoon verminderd</string>
   <string name="om_lock_app_tip_msg">Tik om te vergrendelen</string>
   <string name="om_lock_app_unlocked_app">Ontgrendelen</string>
-  <string name="om_media_scan_time_warn_title">"Media server werkt op de achtergrond.
+  <string name="om_media_scan_time_warn_title">"Mediaserver werkt op de achtergrond.
 Deze activiteit verkort de levensduur van de batterij."</string>
-  <string name="om_media_scan_timeout_proc_detail">Media server werkt op de achtergrond. U kunt zijn activiteit beperken.</string>
-  <string name="om_media_scan_timeout_proc_name">Media server</string>
-  <string name="om_memory_clean_cleaning_text">Boosting speed…</string>
+  <string name="om_media_scan_timeout_proc_detail">Mediaserver werkt op de achtergrond. U kunt zijn activiteit beperken.</string>
+  <string name="om_media_scan_timeout_proc_name">Mediaserver</string>
+  <string name="om_memory_clean_cleaning_text">Snelheid opvoeren…</string>
   <string name="om_notify_cpu_load_too_high_summary">Beperk de achtergrondactiviteit om de snelheid te verhogen</string>
   <string name="om_notify_cpu_load_too_high_title">CPU gebruik van %s is te hoog</string>
   <string name="om_notify_need_clean_memory_summary">Cache wissen om de snelheid te verhogen</string>
@@ -1091,8 +1095,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="om_settings_cpu_over_load_summary">Melden het wanneer het CPU gebruik te hoog is</string>
   <string name="om_settings_lock_app">Apps vergrendelen</string>
   <string name="om_settings_lock_app_manage">Apps vergrendelen</string>
-  <string name="om_settings_memocy_occupy_too_large_summary">Melden wanneer de cache grootte te groot is</string>
-  <string name="om_settings_memory_clean_lock_screen">Cache wissen wanneer het scherm uitgeschakeld is</string>
+  <string name="om_settings_memocy_occupy_too_large_summary">Melden wanneer de cachegrootte te groot is</string>
+  <string name="om_settings_memory_clean_lock_screen">Cache wissen wanneer het apparaat wordt vergrendeld</string>
   <string name="om_settings_memory_occupy_notify">Hoge cache grootte</string>
   <string name="om_settings_memory_occupy_notify_never">Nooit</string>
   <string name="om_settings_notify_manage">Meldingen</string>
@@ -1102,7 +1106,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="open_app">Openen</string>
   <string name="open_callwait">Aan</string>
   <string name="open_game">Open</string>
-  <string name="open_now">App toelaten om mobiele data te gebruiken</string>
+  <string name="open_now">App toestaan om mobiele data te gebruiken</string>
   <string name="operator_diagnostic">Providerdiagnose</string>
   <string name="optimize_manage_title">Snelheid opvoeren</string>
   <string name="optimize_result_ads_close_text">Advertentie</string>
@@ -1123,7 +1127,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="optimize_result_button_see_detaills">Details</string>
   <string name="optimize_result_button_to_set">Instellen</string>
   <string name="optimize_result_button_update_now">Updaten</string>
-  <string name="optimize_result_header_view_summary">Speed boost</string>
+  <string name="optimize_result_header_view_summary">Snelheid opvoeren</string>
   <string name="optimize_result_summary_sucurity_risk">Sommige veiligheidsfuncties zijn uitgeschakeld. Deze functies inschakelen om uw apparaat meer te beveiligen:</string>
   <string name="optimize_result_summary_system_default_settings">Met behulp van standaard MIUI apps verhoogt het niveau van stabiliteit en veiligheid van het systeem.</string>
   <string name="optimize_result_title_sucurity_risk">Veiligheidsrisico\'s gevonden</string>
@@ -1148,11 +1152,11 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="package_setted_error_notification_titile">Kon geen databundel instellen</string>
   <string name="packages_subtitle">Inbegrepen pakketten</string>
   <string name="passwordIncorrect">Gebruikersnaam of wachtwoord onjuist</string>
-  <string name="password_forget_pattern_confirm">Data backuppen</string>
-  <string name="password_forget_pattern_message">Data lokaal backuppen en voer dan een fabrieksherstel uit. Daarna kunt u uw wachtwoord wijzigen.</string>
-  <string name="password_forget_pattern_message_none">"Apps aren't locked. You can reset your password."</string>
-  <string name="password_forget_pattern_reset">Reset</string>
-  <string name="password_forget_pattern_title">Uw data backuppen</string>
+  <string name="password_forget_pattern_confirm">Data back-uppen</string>
+  <string name="password_forget_pattern_message">Data lokaal back-uppen en voer dan een fabrieksherstel uit. Daarna kunt u uw wachtwoord wijzigen.</string>
+  <string name="password_forget_pattern_message_none">Apps zijn niet vergrendeld. Je kan je wachtwoord resetten.</string>
+  <string name="password_forget_pattern_reset">Resetten</string>
+  <string name="password_forget_pattern_title">Uw data back-uppen</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Appvergrendeling wordt geüpgrade naar privacy wachtwoordbeveiliging. U kan uw huidige Mi Account gebruiken om het te resetten. Voeg uw Mi Account toe om dit te kunnen doen.</string>
   <string name="password_promotion_postbutton_text">Ga naar instellingen</string>
   <string name="password_promotion_title">Privacy wachtwoordbeveiliging</string>
@@ -1626,9 +1630,9 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_title_show_antispam_notification">Blokkeerlijst van meldingen</string>
   <string name="st_title_whitelist_numbers">Uitzonderingen</string>
   <string name="start">Starten</string>
-  <string name="start_diagnostic_botton">Start</string>
+  <string name="start_diagnostic_botton">Starten</string>
   <string name="start_downloading_app">Download starten: %1$s</string>
-  <string name="start_game">Start</string>
+  <string name="start_game">Starten</string>
   <string name="still_retain_btn">Behouden</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
   <string name="suggest_scan_again">Het wordt voorgesteld om volledig scan te doen om de veiligheid te waarborgen.</string>
@@ -1931,7 +1935,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="virus_update_tips_title">Verbinden met Wi-Fi</string>
   <string name="virus_wait_network_dialog_message">Updates zijn te groot. Met Wi-Fi verbinden om te downloaden</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
-  <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
+  <string name="whitelist_prefix_add_hint">Alle nummers met voorvoegsel toevoegen aan uitzonderingen</string>
   <string name="wifi_exception_summary">Beschikbare Wi-Fi netwerken testen</string>
   <string name="wifi_exception_title">Wi-Fi netwerk testen</string>
   <string name="wifi_item_status_connection_no">Niet verbonden</string>
@@ -1948,4 +1952,5 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="wlan_booster">Wi-Fi optimalisatie</string>
   <string name="wlan_change_protection_detail">Niet automatisch overschakelen naar Wi-Fi wanneer u verbonden bent met het mobiele datanetwerk</string>
   <string name="wlan_change_protection_title">Voorkom overschakelen van netwerken</string>
+  <string name="xunyou_server_expired">De sessie is verlopen.</string>
 </resources>

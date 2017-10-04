@@ -128,8 +128,17 @@
   <string name="my_gifts_received">Ontvangen</string>
   <string name="no_data">Kan niet verbinden met netwerk</string>
   <string name="online_no_network">Kan niet verbinden met netwerk</string>
+  <string name="online_precust_animal">Dieren</string>
   <string name="online_precust_asphalt">Asfalt</string>
+  <string name="online_precust_building">Gebouwen</string>
+  <string name="online_precust_cartoon">Cartoon</string>
+  <string name="online_precust_creative">Creatief</string>
+  <string name="online_precust_entertainment">Entertainment</string>
+  <string name="online_precust_lifestyle">Lifestyle</string>
   <string name="online_precust_peach_blossom">Perzikbloesem</string>
+  <string name="online_precust_plant">Planten</string>
+  <string name="online_precust_scenery">Landschap</string>
+  <string name="online_precust_starry_sky">Sterrenhemel</string>
   <string name="online_search_hint">Zoeken naar online bronnen</string>
   <string name="present_local_themes">Gedownload</string>
   <string name="present_online_themes">Verkrijg meer onlinethema\'s</string>
@@ -141,6 +150,7 @@
   <string name="purchased_list_current">Geoptimaliseerde thema\'s</string>
   <string name="purchased_list_legacy">Legacy thema\'s</string>
   <string name="recently_used">Recent gebruikt</string>
+  <string name="region_not_support">Sorry, thema\'s worden niet ondersteund in uw land.</string>
   <string name="reload">Probeer opnieuw</string>
   <string name="resource_account_abnormal_state">Accountfout, probeer het later opnieuw.</string>
   <string name="resource_account_fail_to_add">Kan account niet toevoegen</string>
