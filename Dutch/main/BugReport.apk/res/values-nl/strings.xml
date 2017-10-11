@@ -21,6 +21,9 @@
   <string name="cta_dialog_content">Deze app heeft toegang tot het internet nodig om normaal te werken.</string>
   <string name="cta_dialog_title">Internetverbinding</string>
   <string name="cta_not_show_again">Niet opnieuw tonen</string>
+  <string name="customer_service_apply">Klantenservice verzoeken</string>
+  <string name="customer_service_complain">Melden aan klantenservice</string>
+  <string name="customer_service_station">Servicelocaties</string>
   <string name="default_text_view">Tekstweergave</string>
   <string name="description">Beschrijf het probleem</string>
   <string name="dialog_ask_delete">Verwijderen</string>

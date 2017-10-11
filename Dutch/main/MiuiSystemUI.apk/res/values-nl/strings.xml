@@ -464,6 +464,7 @@
   <string name="screenshot_saving_ticker">Schermafdruk opslaan…</string>
   <string name="screenshot_saving_title">Schermafdruk opslaan…</string>
   <string name="screenshot_send">Verzenden</string>
+  <string name="search_hint">Zoek naar websites, apps, contacten en video\'s...</string>
   <string name="select_application">Selecteer applicatie</string>
   <string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
   <string name="select_logd_size_title">Logger buffer sizes</string>

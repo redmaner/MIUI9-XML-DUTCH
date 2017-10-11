@@ -82,6 +82,8 @@
   <string name="new_group_name">Aangepaste modus</string>
   <string name="no_applications">Leeg</string>
   <string name="none">Geen processen</string>
+  <string name="nonui_mode_config_description">Scherm niet ontwaken voor meldingen. Ook meldingslicht, vingerafdruksensor en reageren op aanraken uitschakelen wanneer het apparaat in je zak zit.</string>
+  <string name="nonui_mode_config_title">Non-interactieve modus</string>
   <string name="normal">Standaardmodus</string>
   <string name="operation_create_group">Naam</string>
   <string name="operation_create_group_message">Voer een nieuwe groepnaam in</string>

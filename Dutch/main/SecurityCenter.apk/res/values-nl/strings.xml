@@ -138,6 +138,7 @@
   <string name="app_manager_appupdate_remind">Melden wanneer er updates zijn</string>
   <string name="app_manager_bipartition">Dubbele apps</string>
   <string name="app_manager_card_permission_title">Toestemmingen</string>
+  <string name="app_manager_clear_cache">Cache wissen</string>
   <string name="app_manager_clear_data_dlg_message">Alle gegevens van deze app zullen worden verwijderd. Inclusief alle bestanden, instellingen, accounts, databases, etc.</string>
   <string name="app_manager_clear_data_dlg_title">Appgegevens wissen?</string>
   <string name="app_manager_clear_failed_dlg_message">Kon gegevens van app niet wissen.</string>
@@ -147,17 +148,27 @@
   <string name="app_manager_default_open">Standaard openen</string>
   <string name="app_manager_default_open_summary">U hebt ervoor gekozen om deze app standaard te starten voor bepaalde acties.</string>
   <string name="app_manager_default_open_title">Standaardwaarden wissen</string>
+  <string name="app_manager_defaults_setting">Standaarden</string>
   <string name="app_manager_details_electric_title">Batterij</string>
   <string name="app_manager_details_storage_title">Opslag</string>
-  <string name="app_manager_details_traffic_title">Mobiele dataverbruik</string>
+  <string name="app_manager_details_traffic_title">Dataverbruik</string>
   <string name="app_manager_disable">Niet toestaan</string>
+  <string name="app_manager_disable_dlg_text">Als u deze app uitschakelt kunnen andere apps misschien niet meer werken zoals bedoeld.</string>
+  <string name="app_manager_disable_dlg_title">Ingebouwde app uitschakelen?</string>
+  <string name="app_manager_disable_text">Uitschakelen</string>
+  <string name="app_manager_disabled">Uitgeschakeld</string>
   <string name="app_manager_dlg_cancel">Annuleren</string>
   <string name="app_manager_dlg_ok">Ok</string>
+  <string name="app_manager_enable_text">Inschakelen</string>
+  <string name="app_manager_enabled">Ingeschakeld</string>
   <string name="app_manager_factory_reset">Updates verwijderen</string>
   <string name="app_manager_factory_reset_dlg_msg">Alle updates voor dit Android systeemapp worden verwijderd.</string>
   <string name="app_manager_factory_reset_dlg_title">Updates verwijderen?</string>
   <string name="app_manager_force_stop_dlg_text">Als u een app gedwongen stopt, kan deze zich onverwacht gedragen.</string>
   <string name="app_manager_force_stop_dlg_title">Gedwongen stoppen?</string>
+  <string name="app_manager_globel_other_perm_title">Other permissions</string>
+  <string name="app_manager_globel_perm_summary">Toestemmingen gerelateerd aan locatie, opslag, bellen, berichten en contacten beheren.</string>
+  <string name="app_manager_globel_perm_title">Apptoestemmingen</string>
   <string name="app_manager_have_not_consume">Geen</string>
   <string name="app_manager_hide_system_server">Systeemdiensten verbergen</string>
   <string name="app_manager_instruction">Instructie</string>
@@ -188,6 +199,17 @@
   <string name="app_manager_reduce_wakepath_dialog">Kettingstart beperken</string>
   <string name="app_manager_reduce_wakepath_summary">Automatisch starten beperken zal kettingstarten minimaliseren. Automatisch starten beperken voor %s?</string>
   <string name="app_manager_reject_count_over">100000+ keer geblokkeerd</string>
+  <string name="app_manager_reset_app_preferences">Reset app preferences</string>
+  <string name="app_manager_reset_app_preferences_button">Reset apps</string>
+  <string name="app_manager_reset_app_preferences_desc">"Dit zal alle voorkeuren resetten van:
+
+ "Uitgeschakelde apps"
+ "Meldingen van uitgeschakelde apps"
+ "Standaardapps voor bepaalde acties"
+ "Beperkingen voor datagebruik op de achtergrond voor apps"
+
+ Er zullen geen appgegevens verloren gaan."</string>
+  <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_sort">Sorteren op</string>
@@ -201,6 +223,8 @@
   <string name="app_manager_stop_wp_dialog_uninstall">Verwijderen</string>
   <string name="app_manager_system_mobile_disable">Data uitschakelen</string>
   <string name="app_manager_title">Apps beheren</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Systeemapps verwijderen kan ervoor zorgen dat sommige MIUI componenten niet meer goed werken. Toch verwijderen?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Systeemapps verwijderen</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Dubbele apps zullen worden verwijderd samen met de appgegevens.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Dubbele app verwijderen zal alle appgegevens wissen.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Dubbele app verwijderen?</string>
@@ -1441,6 +1465,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="save_energy_title">Batterij optimaliseren</string>
   <string name="sc_allow_network_dialog_message">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
   <string name="sc_allow_network_dialog_tiltle">Kan deze functie niet gebruiken</string>
+  <string name="sc_system_risk_fix_info_xspace">Het risico kan niet worden verholpen in xspace, wissel naar andere ruimte op te verhelpen.</string>
   <string name="scan_installed_games">Geïnstalleerde games controleren…</string>
   <string name="scan_status_risk">Risicovol</string>
   <string name="scan_status_safe">Veilig</string>
