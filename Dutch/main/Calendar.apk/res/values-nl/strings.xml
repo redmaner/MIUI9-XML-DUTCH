@@ -173,6 +173,7 @@
   <string name="edit_event_to_label">Tot</string>
   <string name="electricity_bill_event_title">Elektriciteitsrekening:</string>
   <string name="email_guests_label">E-mailen aan gasten</string>
+  <string name="email_install_hint">Email is verwijderd. Door het opnieuw te installeren kan je accountgegevens herstellen of een nieuw account toevoegen.</string>
   <string name="email_picker_label">E-mail met</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Lege afspraak niet gemaakt</string>
@@ -254,6 +255,9 @@
   <string name="insert_event_dialog_title">Waarschuwing</string>
   <string name="insert_event_toast_add_failed">Kon niet toevoegen</string>
   <string name="insert_event_toast_add_success">Gebeurtenis aangemaakt</string>
+  <string name="install_email_app">Email installeren</string>
+  <string name="install_email_finished">Email geinstalleerd</string>
+  <string name="installing_email">Installeren...</string>
   <string name="install_weather_app_error">De toepassing kan niet worden geladen.</string>
   <string name="install_weather_app_loading">Bezig met laden…</string>
   <string name="item_num_selected">%1$d geselecteerd</string>

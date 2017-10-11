@@ -39,6 +39,7 @@
   <string name="component_title_wallpaper">Achtergronden</string>
   <string name="current_using_desktop_wallpaper_text">Startscherm</string>
   <string name="current_using_lockscreen_wallpaper_text">Vergrendelscherm</string>
+  <string name="current_version_incompatible">Versie wordt niet ondersteund</string>
   <string name="deleting">Verwijderen…</string>
   <string name="description_author">Auteur:</string>
   <string name="description_designer">Ontwerper</string>
@@ -90,6 +91,8 @@
   <string name="gift_use_confirmation_dlg_title">Dit geschenk verzenden?</string>
   <string name="gift_use_fail_dlg_title">Er ging iets fout</string>
   <string name="gift_used">Verzenden</string>
+  <string name="hide_free">"Gratis verbergen "</string>
+  <string name="hide_incompatible">"Niet ondersteund verbergen "</string>
   <string name="home_apply_failured">Kan achtergrond niet toepassen op het startscherm</string>
   <string name="home_apply_success">Achtergrond toegepast op het startscherm</string>
   <string name="in_the_end">Geen items meer om te tonen</string>
