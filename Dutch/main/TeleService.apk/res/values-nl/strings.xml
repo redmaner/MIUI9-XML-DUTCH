@@ -687,7 +687,7 @@
   <string name="gsm_umts_options">GSM-/UMTS opties</string>
   <string name="hac_mode_summary">Compatibiliteit voor gehoorapparaat inschakelen</string>
   <string name="hac_mode_title">Gehoorapparaten</string>
-  <string name="handon_ringer_summary">Verminderd belvolume voor inkomende oproepen als je de telefoon optilt. Deze functie werkt niet wanneer trillen voor inkomende oproepen is ingeschakeld.</string>
+  <string name="handon_ringer_summary">Verminderd belvolume voor inkomende oproepen als je de telefoon optilt.</string>
   <string name="handon_ringer_title">Beltoon dempen bij optillen</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
@@ -1424,7 +1424,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="tty_mode_option_title">TTY modus</string>
   <string name="turnover_mute_summary">Draai het apparaat horizontaal om de beltoon te dempen.</string>
   <string name="turnover_mute_title">Beltoon dempen bij omkeren</string>
-  <string name="ui_default_package">com.android.dialer</string>
   <string name="undefined">Geen</string>
   <string name="unknown">Onbekend</string>
   <string name="updating_fdn_contact">Vast nummer bijwerken…</string>
