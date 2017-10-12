@@ -139,7 +139,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_edge_instruction_title">Verplaats je vinger een beetje</string>
   <string name="add_fingerprint_failed_retry_text">Kon vingerafdruk niet toevoegen, probeer opnieuw</string>
   <string name="add_fingerprint_finished_button_text">Klaar</string>
-  <string name="add_fingerprint_instruction_msg">Gebruik je vingerafdruk om het apparaat te ontgrendelen en betalingen te doen.</string>
+  <string name="add_fingerprint_instruction_msg">De vingerafdruksensor zit ingebouwd in de homeknop van uw apparaat.</string>
   <string name="add_fingerprint_instruction_title">Voeg uw vingerafdruk toe</string>
   <string name="add_fingerprint_name_suggest_text">Naam vingerafdruk</string>
   <string name="add_fingerprint_put_finger_edge_msg">Beweeg uw vinger iets en plaats het weer op de sensor om alle verschillende onderdelen toe te voegen van uw vingerafdruk.</string>

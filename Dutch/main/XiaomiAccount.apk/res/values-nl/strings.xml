@@ -414,6 +414,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Verzenden</string>
   <string name="sns_access_token_expired_warning">Account aanmelding is verlopen. Meld opnieuw aan om dit account opnieuw te koppelen.</string>
+  <string name="talkback_scan_barcode">Scan de QR code</string>
   <string name="trusted_browsers">Vertrouwde browsers</string>
   <string name="trusted_browsers_prompt">Deze browser zal niet langer vertrouwd zijn als u de cookies verwijderd.</string>
   <string name="turn_off_find_device_failed_title">"Kan apparaat vinden niet uitschakelen"</string>
