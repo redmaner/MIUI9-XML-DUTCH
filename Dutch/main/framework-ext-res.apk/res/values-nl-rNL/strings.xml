@@ -105,7 +105,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="screen_button_notification_text">Om ze in te schakelen, drukt u op de Home- en Power knoppen tegelijk.</string>
   <string name="screen_button_notification_title">Navigatieknoppen zijn uitgeschakeld</string>
   <string name="screen_on_proximity_sensor_hint">Om deze functie uit te schakelen, druk tegelijkertijd op de volume omhoog- en terugknop.</string>
- +  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Om deze functie uit te schakelen, druk op de volume omhoogknop.</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Om deze functie uit te schakelen, druk op de volume omhoogknop.</string>
   <string name="screen_on_proximity_sensor_summary">Bedek het gedeelte van de koptelefooningang niet</string>
   <string name="screen_on_proximity_sensor_title">Broekzakmodus</string>
   <string name="screen_paper_mode_enter_toast">Leesmodus is ingeschakeld. U kunt deze functie in- en uitschakelen op elk gewenst moment in Extra instellingen &gt; Leesmodus.</string>
