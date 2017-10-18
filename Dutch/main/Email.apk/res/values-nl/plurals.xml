@@ -18,7 +18,7 @@
     </plurals>
 	<plurals name="confirm_delete_draft">
         <item quantity="other">%1$d items verwijderen?</item>
-		<item quantity="one">Delete %1$d draft?</item>
+		<item quantity="one">%1$d item verwijderen?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d items geselecteerd</item>

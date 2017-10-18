@@ -6,7 +6,7 @@
   <string name="action_search">Zoeken</string>
   <string name="address">Adres:</string>
   <string name="allow_check_website_security">Geef de website veiligheidscontrole meldingen weer</string>
-  <string name="app_description_content">Scanner kan QR codes, visitekaartjes en documenten scannen. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
+  <string name="app_description_content">Met Scanner kunt u QR codes, documenten, visitekaartjes en meer scannen. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
   <string name="app_description_title">Over Scanner</string>
   <string name="app_details">App:</string>
   <string name="app_name">Scanner</string>
@@ -44,7 +44,7 @@
   <string name="document_ocr_result_title">Document foto</string>
   <string name="document_ocr_tip_msg">Lezen…</string>
   <string name="document_recognize_fail_tip">Kon document niet lezen</string>
-  <string name="document_recognize_null_tip">Document is leeg</string>
+  <string name="document_recognize_null_tip">Kon document niet herkennen</string>
   <string name="document_rectify">Aanpassen</string>
   <string name="document_rectify_tip_msg">Aanpassen…</string>
   <string name="document_save_succeed_tip">Document opgeslagen naar %1$s</string>
@@ -57,7 +57,7 @@
   <string name="error_cannot_connect_camera">Kan niet verbinden met camera</string>
   <string name="error_day_limit">Teveel pogingen binnen 1 dag</string>
   <string name="error_empty_result">Kon resultaten niet vinden</string>
-  <string name="error_get_image">mislukt om afbeelding op te halen</string>
+  <string name="error_get_image">Kon afbeelding niet ophalen</string>
   <string name="error_hour_limit">Teveel pogingen binnen 1 uur</string>
   <string name="error_image_error">Kan deze foto niet herkennen</string>
   <string name="error_invalid_request">Verificatie fout</string>
@@ -82,6 +82,8 @@
   <string name="keywords_search_shopping">Shoppen;Scanner;Producten scannen;Product scannen;Prijs checken;Producten;Taobao;Tmall;Prijzen;Online shoppen</string>
   <string name="keywords_search_study">Scanner;Problemen;Problemen oplossen;Huiswerk;School;Natuurkunde;Scheikunde;Wiskunde;Wiskunde;Engels;Geschiedenis;Chinees</string>
   <string name="keywords_search_translation">Scanner;Vertalen;Woordenboek;Engels;Vreemde taal;Taal;Talen;Engels naar Chinees;Italiaans;Duits;Japans;Koreaans;Spaans;Frans; Baidu Translate;Youdao Dictionary;Baidu Dictionary;Google Translate</string>
+  <string name="label_choose_picture">Afbeelding kiezen</string>
+  <string name="label_flash_light">Zaklamp</string>
   <string name="language_entry_chinese_cn">Vereenvoudigd Chinees</string>
   <string name="language_entry_chinese_tw">Traditioneel Chinees</string>
   <string name="language_entry_danish">Deens</string>

@@ -1363,6 +1363,5 @@ Wilt u de pagina sluiten?"</string>
   <string name="zen_mode_feature_name">Niet storen</string>
   <string name="zen_mode_forever">Tot u dit uitschakelt</string>
   <string name="zen_mode_forever_dnd">Tot u niet storen uitschakelt</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Tot %1$s</string>
 </resources>

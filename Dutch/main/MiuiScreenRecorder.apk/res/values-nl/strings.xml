@@ -15,14 +15,11 @@
   <string name="cancel_edit">Annuleren</string>
   <string name="cannot_change_parames">Kan parameters niet wijzigen tijdens opnemen</string>
   <string name="cannot_record">Kon niet opnemen, probeer later opnieuw</string>
-  <string name="date_day"/>
-  <string name="date_month">/</string>
-  <string name="date_year">/</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
   <string name="frames">Framerate</string>
   <string name="frames_summary">Hogere framerates voorkomen motion blur</string>
-  <string name="frequently_click_toast">Dienst initialiseren, wacht een momentje</string>
+  <string name="frequently_click_toast">Een momentje…</string>
   <string name="gleam_led_while_recording">Notificatielicht oplichten tijdens opnemen</string>
   <string name="hint_back">Terug</string>
   <string name="hint_home">Home</string>
@@ -47,6 +44,8 @@
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_send">Verzenden</string>
   <string name="quit_recording">Schermrecorder afsluiten</string>
+  <string name="recording_failure">Kon niet opnemen, start een nieuwe schermopname</string>
+  <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen omdat het bestand de maximumgrootte heeft bereikt. Als je nog niet klaar was kan je een nieuwe opname starten.</string>
   <string name="resolution">Resolutie</string>
   <string name="resolution_summary">Video\'s met hogere resolutie zien er scherper uit</string>
   <string name="screen_orientation">Oriëntatie</string>
@@ -60,9 +59,10 @@
   <string name="show_screen_touch_summary">Aanrakingen weergeven met een witte stip</string>
   <string name="sound_source">Geluidsbron</string>
   <string name="sound_source_summary">Systeemgeluiden of microfoon</string>
-  <string name="start">Beginnen</string>
+  <string name="start">Starten</string>
+  <string name="start_recording">Opname starten</string>
   <string name="stop_by_second_space">Van gebruiker wisselen zal het opnemen stoppen</string>
   <string name="stop_record_while_locking">Scherm vergrendelen om te stoppen</string>
   <string name="stop_record_while_locking_summary">Opnemen stoppen en video opslaan als het scherm wordt vergrendeld</string>
-  <string name="timer_format">%s</string>
+  <string name="stop_recording">Opname stoppen</string>
 </resources>

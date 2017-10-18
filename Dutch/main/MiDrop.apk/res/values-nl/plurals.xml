@@ -49,8 +49,8 @@
         <item quantity="one">%1$s bestand ontvangen…</item>
     </plurals>
     <plurals name="notif_receive_cancel">
-        <item quantity="other">%1$s bestanden niet verstuurd</item>
-        <item quantity="one">%1$s bestand niet verstuurd</item>
+        <item quantity="other">Overdracht van %1$s is geannuleerd</item>
+        <item quantity="one">Overdracht van %1$s is geannuleerd</item>
     </plurals>
     <plurals name="notif_receive_success">
         <item quantity="other">%1$s bestanden ontvangen</item>

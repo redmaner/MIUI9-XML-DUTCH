@@ -4,7 +4,6 @@
   <string name="add_vm_number_str">Voeg nummer toe</string>
   <string name="antispam_local_marked">Lokaal gemarkeerd</string>
   <string name="antispam_marked_count">Gemeld door %1$d MIUI gebruikers</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="antispam_provider">Geïdentificeerd door %s</string>
   <string name="areacode_set_default">Instellen als standaard</string>
@@ -41,7 +40,7 @@
   <string name="call_extension_conference_mode">Conferentiemodus</string>
   <string name="call_record_wait_label">Wachten</string>
   <string name="call_recording_deny_permission_msg">U hebt toestemming tot opnemen geweigerd, kan niet opnemen."</string>
-  <string name="call_recording_error_low_storage">Niet genoeg ruimte: de SD kaart is te vol</string>
+  <string name="call_recording_error_low_storage">Niet genoeg ruimte op opslag</string>
   <string name="call_recording_error_privacy">Je kan niet opnemen terwijl je in gastmodus bent</string>
   <string name="call_recording_error_sd_access">Geen toegang tot de SD kaart</string>
   <string name="call_recording_error_sd_unmounted">De opname is gestopt: SD kaart is losgekoppeld</string>
@@ -66,7 +65,7 @@
   <string name="card_title_hanging_up">"Ophangen "</string>
   <string name="card_title_hanging_up_fail">Kon oproep niet beëindigen, probeer opnieuw.</string>
   <string name="card_title_hanging_up_restart">Kon oproep niet beëindigen. Herstart uw apparaat.</string>
-  <string name="card_title_hanging_up_weak_signal">Zwak mobiel bereik. Oproep wordt beëindigd</string>
+  <string name="card_title_hanging_up_weak_signal">Zwak mobiel netwerksignaal. Oproep wordt beëindigd…</string>
   <string name="card_title_in_call">In gesprek</string>
   <string name="card_title_in_call_short">In gesprek</string>
   <string name="card_title_in_video">Video </string>
@@ -82,6 +81,7 @@
   <string name="card_title_video_call_paused">Video gepauzeerd</string>
   <string name="card_title_video_conf_call">Video conferentie-oproep</string>
   <string name="card_video_hold_swap">Wisselen</string>
+  <string name="change_to_voice_tips_when_background">De andere partij heeft gewisseld naar spraakoproep</string>
   <string name="close_camera_failed">Kan camera niet afsluiten…</string>
   <string name="close_camera_requesting">Camera afsluiten…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. totaal %s</string>
@@ -163,7 +163,6 @@
   <string name="livetalk_dial">Herlaadpakket gebruiken</string>
   <string name="livetalk_hangup">Ophangen</string>
   <string name="manageConferenceLabel">Beheer groepsgesprekken</string>
-  <string name="miprofile_stranger_card">Vreemde kaart</string>
   <string name="modify_call_failure_str">Wijzigen gesprekaanvraag is mislukt</string>
   <string name="modify_call_option_title">Welk type gesprek?</string>
   <string name="modify_call_option_voice">Enkel spraakgesprek</string>
@@ -226,7 +225,7 @@
   <string name="picking_participant">Contactinfo verkrijgen…</string>
   <string name="private_num">Privénummer</string>
   <string name="remind_unlock_message">Uw apparaat is nu vergrendeld. \"%s\" zal beschikbaar zijn nadat u het apparaat ontgrendelt. Nu ontgrendelen?</string>
-  <string name="respond_via_sms_custom_message">Voeg eigen toe…</string>
+  <string name="respond_via_sms_custom_message">Aangepaste SMS</string>
   <string name="select_audio_dialog_title">Selecteer beantwoordmethode</string>
   <string name="select_one_sim_title">Kan alleen SIM %1$d gebruiken</string>
   <string name="select_sim_hint">"Kan SIM %2$d niet gebruiken terwijl SIM %1$d in gebruik is."</string>

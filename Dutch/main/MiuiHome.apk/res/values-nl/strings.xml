@@ -93,7 +93,7 @@
   <string name="free_style_edit_bar_select_app">Kies app</string>
   <string name="free_style_edit_bottom_empty_tip">Tik op rechthoek om te bewerken</string>
   <string name="free_style_edit_drawer">Lijst</string>
-  <string name="free_style_edit_move_tip">Blijven drukken om te verplaatsen</string>
+  <string name="free_style_edit_move_tip">Tik &amp; houd ingedrukt om een item te verplaatsen</string>
   <string name="free_style_edit_tab_free_component">Objecten</string>
   <string name="free_style_edit_tab_shortcut">Snelkoppelingen</string>
   <string name="free_style_edit_tab_widget">Widgets</string>

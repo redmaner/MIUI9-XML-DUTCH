@@ -101,8 +101,8 @@
   <string name="battery_low_percent_format">%d%% resterend</string>
   <string name="battery_low_title">Sluit de oplader aan</string>
   <string name="battery_profiles">Gebruik batterijprofielen</string>
-  <string name="block_notification_content_text">Notificaties van %1$s zullen niet opnieuw worden weergegeven. Je kan dit veranderen in de instellingen.</string>
-  <string name="block_notification_desc">"The app's notifications won't be shown again. You can change this in the Settings."</string>
+  <string name="block_notification_content_text">Meldingen van %1$s zullen niet opnieuw worden weergegeven. Je kan dit veranderen in de instellingen.</string>
+  <string name="block_notification_desc">Meldingen van de app zullen niet opnieuw worden weergegeven. Je kan dit veranderen in de instellingen.</string>
   <string name="block_notification_text">Verbergen</string>
   <string name="block_record_notification_text">Meldingen verbergen van %1$s.</string>
   <string name="block_record_notification_title">Meldingen verborgen</string>
@@ -114,8 +114,8 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Verbonden (geen telefoon of media)</string>
   <string name="bluetooth_connected_no_map">Verbonden (geen toegang tot berichten)</string>
   <string name="bluetooth_connecting">Verbinden…</string>
-  <string name="bluetooth_disable_absolute_volume">Disable absolute volume</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Disables the Bluetooth absolute volume feature in case of volume issues with remote devices such as unacceptably loud volume or lack of control.</string>
+  <string name="bluetooth_disable_absolute_volume">Absoluut volume uitschakelen</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Schakelt de Bluetooth absoluut volume functie uit in het geval dat er volumeproblemen zijn met apparaten zoals luid volume of gebrek aan controle.</string>
   <string name="bluetooth_disconnected">Verbinding verbroken</string>
   <string name="bluetooth_disconnecting">Verbinding verbreken…</string>
   <string name="bluetooth_dun_profile_summary_connected">Verbonden met DUN Server</string>
@@ -126,8 +126,8 @@
   <string name="bluetooth_hid_profile_summary_use_for">Gebruiken voor invoer</string>
   <string name="bluetooth_map_profile_summary_connected">Verbonden met MAP</string>
   <string name="bluetooth_map_profile_summary_use_for">Gebruiken voor MAP</string>
-  <string name="bluetooth_opp_profile_summary_connected">Verbonden met file transfer server</string>
-  <string name="bluetooth_opp_profile_summary_not_connected">Niet verbonden met file transfer server</string>
+  <string name="bluetooth_opp_profile_summary_connected">Verbonden met bestandsoverdachtserver</string>
+  <string name="bluetooth_opp_profile_summary_not_connected">Niet verbonden met bestandsoverdachtserver</string>
   <string name="bluetooth_opp_profile_summary_use_for">Gebruiken voor bestandsoverdracht</string>
   <string name="bluetooth_pairing">Verbinden…</string>
   <string name="bluetooth_pairing_accept">Verbinden</string>
@@ -282,7 +282,7 @@
   <string name="force_allow_on_external">Forceren apps extern te kunnen installeren</string>
   <string name="force_allow_on_external_summary">Makes any app eligible to be written to external storage, regardless of manifest values</string>
   <string name="force_hw_ui">GPU rendering forceren</string>
-  <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
+  <string name="force_hw_ui_summary">GPU forceren voor 2D tekenen</string>
   <string name="force_msaa">4x MSAA forceren</string>
   <string name="force_msaa_summary">4x MSAA inschakelen in OpenGL ES 2.0 apps</string>
   <string name="force_resizable_activities">Forceren apps te kunnen aanpassen in grootte</string>
@@ -416,10 +416,10 @@
   <string name="recents_drag_hint_message">Sleep items hier naartoe</string>
   <string name="recents_empty_message">Geen recente items</string>
   <string name="recents_empty_message_dismissed_all">Je hebt alle items gewist</string>
-  <string name="recents_empty_message_multi_window">Ga naar het startscherm om apps te openen</string>
+  <string name="recents_empty_message_multi_window">Open apps van het startscherm</string>
   <string name="recents_exit_multi_window_mode">Afsluiten</string>
   <string name="recents_incompatible_app_message">Deze app ondersteunt splitscreen niet</string>
-  <string name="recents_launch_disabled_message">%s is gestopt in veilige modus.</string>
+  <string name="recents_launch_disabled_message">%s kan niet worden uitgevoerd in veilige modus.</string>
   <string name="recents_launch_error_message">Kon %s niet starten</string>
   <string name="recents_lock_to_app_button_label">Scherm vastzetten</string>
   <string name="recents_multi_window_mode">Splitscreen</string>
@@ -464,6 +464,7 @@
   <string name="screenshot_saving_ticker">Schermafdruk opslaan…</string>
   <string name="screenshot_saving_title">Schermafdruk opslaan…</string>
   <string name="screenshot_send">Verzenden</string>
+  <string name="search_hint">Zoek naar websites, apps, contacten en video\'s...</string>
   <string name="select_application">Selecteer applicatie</string>
   <string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
   <string name="select_logd_size_title">Logger buffer sizes</string>

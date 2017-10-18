@@ -48,8 +48,7 @@ Nu bijwerken?"</string>
   <string name="account_settings_notify_summary">Melding tonen wanneer er een e-mail binnenkomt</string>
   <string name="account_settings_param">Accountinstellingen</string>
   <string name="account_settings_policies">Beveiligingsbeleid</string>
-  <string name="account_settings_preference_add_account">Een emailaccount toevoegen</string>
-  <string name="account_settings_preference_head_icon">Hoofd portret wisselen</string>
+  <string name="account_settings_preference_add_account">E-mailaccount toevoegen</string>
   <string name="account_settings_preference_notify">Melding</string>
   <string name="account_settings_retry_label">Poging tot synchroniseren</string>
   <string name="account_settings_retry_summary">Raak aan om account te synchroniseren</string>
