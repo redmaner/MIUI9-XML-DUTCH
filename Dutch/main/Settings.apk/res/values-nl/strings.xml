@@ -2512,6 +2512,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="nfc_se_route_title">Beveiligde element positie</string>
   <string name="nfc_se_wallet_title">Standaard wallet</string>
   <string name="no">Nee</string>
+  <string name="no_account_found">No application supports adding accounts</string>
   <string name="no_application">Niets</string>
   <string name="no_applications">Geen apps.</string>
   <string name="no_battery_summary">Geen batterijverbruik sinds laatste volledige oplading</string>
@@ -5088,7 +5089,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wrong_pin_code_pukked">Onjuiste PIN code voor SIM kaart. U moet nu contact opnemen met uw provider om uw apparaat te ontgrendelen.</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud synchroniseert uw contacten en foto\'s, maakt back-ups van uw apps en instellingen en helpt u uw telefoon terug te vinden.</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud syncs contacts, photos, and other items across your devices. \"Find device\" also requires Mi Cloud to work normally.</string>
   <string name="xiaomi_cloud_service_disabled">Uit</string>
   <string name="xiaomi_cloud_service_unknown">Onbekend</string>
   <string name="xiaomi_money_service">Mi Credit</string>

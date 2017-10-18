@@ -565,6 +565,9 @@ verzorgd door Ultimate Inc.</string>
   <string name="notification_recommend_title">Belangrijke meldingen</string>
   <string name="notification_setting">Meldingsinstellingen</string>
   <string name="notification_title_no_song">Kijk waar iedereen naar luistert!</string>
+  <string name="nowplaying_circle_style">Nowplaying Circle Style</string>
+  <string name="nowplaying_circle_style_rainbow">Rainbow</string>
+  <string name="nowplaying_circle_style_wave">Wave</string>
   <string name="nowplaying_dialog_title_delete_tracks">Huidige afspeellijst wissen?</string>
   <string name="nowplaying_menu_item_delete">Wissen</string>
   <string name="ok">OK</string>
