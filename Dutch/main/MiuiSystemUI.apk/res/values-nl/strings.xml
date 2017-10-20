@@ -224,6 +224,8 @@
   <string name="demo_mode">Demomodus</string>
   <string name="description_direction_left">Veeg links voor %s.</string>
   <string name="description_direction_up">Veeg omhoog voor %s.</string>
+  <string name="description_image_button_answer">Opnemen</string>
+  <string name="description_image_button_reject">Weigeren</string>
   <string name="description_target_search">Zoeken</string>
   <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
   <string name="dev_settings_warning_title">Allow development settings?</string>
