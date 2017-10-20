@@ -2298,7 +2298,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Audio (muziek, beltonen, podcasts, enzovoort)</string>
   <string name="memory_performance">Prestaties</string>
-  <string name="memory_rightvalue">Beschikbaar: %s</string>
+  <string name="memory_rightvalue">Totaal: %s</string>
   <string name="memory_settings_title">Geheugen</string>
   <string name="memory_size">Totale ruimte</string>
   <string name="memory_summary">Gem. %1$s van %2$s geheugen gebruikt</string>

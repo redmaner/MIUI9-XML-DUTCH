@@ -51,8 +51,13 @@
         <item>Vergrendelen 1 minuut na het afsluiten van de app</item>
     </string-array>
 	    <string-array name="sort_type">
-        <item>Sorteren op naam</item>
-        <item>Sorteren op grootte</item>
+        <item>Status</item>
+        <item>Appnaam</item>
+        <item>gebruiksfrequentie</item>
+        <item>Gebruikte opslag</item>
+        <item>Datagebruik</item>
+        <item>Batterijgebruik</item>
+        <item>Installatietijd</item>
     </string-array>
     <string-array name="sort_title">
         <item>Sorteren op status</item>
@@ -61,6 +66,7 @@
         <item>Sorteren op gebruikte opslag</item>
         <item>Sorteren op datagebruik</item>
         <item>Sorteren op batterijgebruik</item>
+		<item>Soreren op installatietijd</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Installatiebron</item>

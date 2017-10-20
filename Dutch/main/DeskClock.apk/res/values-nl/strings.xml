@@ -154,7 +154,7 @@
   <string name="tomorrow">morgen</string>
   <string name="turn_off_a_repeat_alarm">Een herhaald alarm uitschakelen</string>
   <string name="turn_off_this_repeat_alarm">Dit herhaald alarm uitschakelen</string>
-  <string name="upcoming_alarm">" gaat de wekker af"</string>
+  <string name="upcoming_alarm">"%s gaat de wekker af"</string>
   <string name="upcoming_alarm_hint">U kan deze wekker op voorhand afwijzen</string>
   <string name="vibrate_pref_summary">Trillen bij alarm</string>
   <string name="vibrate_when_ringing">Trillen bij beltoon</string>
