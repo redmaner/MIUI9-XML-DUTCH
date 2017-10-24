@@ -76,8 +76,7 @@
   <string name="friday_shortest">V</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometer per uur</string>
-  <string name="global_network_confirm_content">Het omrekenen van eenheden vereist verbinding met internet om te kunnen werken.</string>
-  <string name="global_network_confirm_content">Het converteren van eenheden heeft internetverbinding nodig om te werken.</string>
+  <string name="global_network_confirm_content">Het converteren van eenheden heeft verbinding met internet nodig om te werken.</string>
   <string name="golbal_search_calculator_setting">Calculator;Calculatorinstellingen;Instellingen</string>
   <string name="golbal_search_path_calculator_setting">Systeemapps/Calculator/Instellingen</string>
   <string name="home_title_calculator">Rekenmachine</string>
