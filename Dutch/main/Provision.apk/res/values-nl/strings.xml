@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enabled">Accessibility enabled.</string>
   <string name="agree">Akkoord</string>
   <string name="agree_terms">Ik heb de algemene voorwaarden gelezen en ga akkoord</string>
   <string name="app_name">Provisie</string>
@@ -11,9 +12,11 @@
   <string name="congratulation_title">Instellen voltooid</string>
   <string name="content_description_complete">Voltooid</string>
   <string name="content_description_start">Starten</string>
+  <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
   <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, verifiëren van Mi Pay transacties of om  aan te melden bij apps en diensten.</string>
   <string name="desc_international_fingerprint">Gebruik uw vingerafdruk om uw toestel te ontgrendelen of aan te melden op apps en diensten.</string>
   <string name="disagree">Annuleren</string>
+  <string name="enable_accessibility_canceled">Accessibility canceled.</string>
   <string name="enable_accessibility_dialog_message">U heeft TalkBack ingeschakeld door met twee vingers op het scherm te drukken voor langer dan 10 seconden. TalkBack geeft spraakfeedback voor mensen met oogproblemen. Als je het per ongeluk hebt ingeschakeld, druk op annuleren en tik vervolgens twee keer op het scherm.</string>
   <string name="enable_accessibility_dialog_negative_btn">Annuleren</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>

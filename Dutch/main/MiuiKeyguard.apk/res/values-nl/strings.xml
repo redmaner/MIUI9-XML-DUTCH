@@ -68,7 +68,7 @@
   <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
-  <string name="input_password_handle_sdcard_fs">Schakel \"Neppe SD kaart optimalisatie\" uit voordat je de tweede ruimte opent.</string>
+  <string name="input_password_handle_sdcard_fs">Turn off \"Mock SD card optimization\" in Settings &gt; Additional settings &gt; Developer options before entering Second space.</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
   <string name="input_pattern_hint_text">Teken uw ontgrendelpatroon</string>
   <string name="input_pin_code">Voer PIN code in</string>

@@ -2352,6 +2352,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_lab_slogan">Leer. Verken. Ontdek.</string>
   <string name="miui_lab_taplus_desc">Houd items ingedrukt om acties te triggeren</string>
   <string name="miui_screen_config_title">Startscherm instellingen</string>
+  <string name="miui_updater">Updater</string>
   <string name="mms_breathing_light_color_title">Kleur bij berichten</string>
   <string name="mms_breathing_light_freq_title">Knipperfrequentie berichten</string>
   <string name="mms_privacy_password_role_instruction">Uw conversaties met privécontacten zullen hier opgeslagen worden.</string>

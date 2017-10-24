@@ -74,6 +74,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_basics_email_label">E-mailadres</string>
   <string name="account_setup_basics_login_gmail_without_proxy">De huidige netwerkverbinding gebruiken</string>
   <string name="account_setup_basics_manual_setup_action">Handmatig instellen</string>
+  <string name="account_setup_basics_mi_mail_login_help">mi Mail login successfully, check the SMS, activate the link to send and receive mail Oh!</string>
   <string name="account_setup_basics_password_label">Wachtwoord</string>
   <string name="account_setup_basics_title">Accountinstellingen</string>
   <string name="account_setup_check_settings_check_incoming_msg">"    Serverinstellingen verifiëren…"</string>
@@ -587,6 +588,7 @@ Nu bijwerken?"</string>
          Wanneer:
 %s (terugkerend)
      "</string>
+  <string name="meeting_responded_failed">Response failure</string>
   <string name="meeting_tentative">"
          Tentatieve:
 %s "</string>
