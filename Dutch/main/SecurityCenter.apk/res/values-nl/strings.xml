@@ -869,12 +869,15 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_open_traffic_ctrl">Wij raden beperkte datagebruik aan</string>
   <string name="main_bill_remained">Databundels</string>
+  <string name="main_button_mi_sim_close">Activate Mi SIM</string>
+  <string name="main_button_mi_sim_open">View details</string>
   <string name="main_button_usage_adjust">Sync. mobiel dataverbruik</string>
   <string name="main_button_usage_adjust_manual">Mobiel dataverbruik instellen</string>
   <string name="main_button_usage_adjusting">Wijzigen…</string>
   <string name="main_button_usage_adjusting_bill">Wijzigen…</string>
   <string name="main_button_usage_package_setting">Mobiele dataverbruik instellen</string>
   <string name="main_daily_package">Dagelijkse databundel</string>
+  <string name="main_indicator_title">Waiting for activation</string>
   <string name="main_leisure_remained">Data resterend</string>
   <string name="main_month_total_used">Deze maand gebruikt</string>
   <string name="main_month_used">Databundel</string>
@@ -893,6 +896,7 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
 om te kalibreren"</string>
   <string name="main_tc_wait_result">"Wacht op de provider
 om te reageren"</string>
+  <string name="main_tobe_added_desc">Mobile data from ¥0.03/MB</string>
   <string name="main_today_used">Vandaag gebruikt</string>
   <string name="main_toolbar_firewall">Dataverbruik beperken</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobiele data</string>
@@ -1970,6 +1974,8 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="virus_auto_update_engine">Automatische updates: %s</string>
   <string name="virus_update_tips_title">Waarschuwing</string>
   <string name="virus_wait_network_dialog_message">Je telefoon is niet verbonden met Wi-Fi. Mobiel internet zal worden gebruikt. Doorgaan?</string>
+  <string name="vpn_disabled_by_user">Designated data connection is off</string>
+  <string name="vpn_unbale_get_phonenum">"Can't get phone numbers using designated data plans"</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
   <string name="whitelist_prefix_add_hint">Alle nummers met voorvoegsel toevoegen aan uitzonderingen</string>
   <string name="wifi_exception_summary">Beschikbare Wi-Fi netwerken testen</string>
