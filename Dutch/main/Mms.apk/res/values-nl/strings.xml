@@ -121,7 +121,7 @@
   <string name="delete_phrase">Verwijder reactie</string>
   <string name="delete_unlocked">Vergrendelde berichten verwijderen</string>
   <string name="delete_verification_code_sms_message">Alle eenmalige wachtwoorden verwijderen?</string>
-  <string name="delete_verification_code_sms_title">Eenmalige wachtwoorden wissen</string>
+  <string name="delete_verification_code_sms_title">Eenmalige wachtwoorden verwijderen</string>
   <string name="delete_wild_sims">Nummers verwijderen</string>
   <string name="delete_wild_sims_confirm">Alle berichten van de geselecteerde nummers in de telefoon worden verwijderd. U kunt deze herstellen op i.mi.com.</string>
   <string name="delete_wild_sims_title">Geselecteerde nummers verwijderen</string>
@@ -194,7 +194,7 @@
   <string name="group_message">Groepsbericht</string>
   <string name="group_resend_message">Opnieuw verzenden (%d)</string>
   <string name="group_verification_codes_summary">Berichten met eenmalige wachtwoorden automatisch bij elkaar plaatsen</string>
-  <string name="group_verification_codes_title">Berichten met eenmalige wachtwoorden</string>
+  <string name="group_verification_codes_title">Eenmalige wachtwoorden groeperen</string>
   <string name="guild_add_attachments">Tik hier om smileys of andere bijlagen toe te voegen</string>
   <string name="guild_add_recipients">Tik hier om ontvangers te selecteren uit het adresboek</string>
   <string name="guild_msim_switcher">Tik om van SIM kaart te wisselen</string>
@@ -254,7 +254,7 @@
   <string name="message_number">Telefoonnummer:</string>
   <string name="message_pending">Verzenden</string>
   <string name="message_queued">Kan uw bericht momenteel niet verzenden. Het wordt verzonden als de service(weer) beschikbaar is</string>
-  <string name="message_queued_second_space">Kan je bericht nu niet verzenden. Open het datanetwerk.</string>
+  <string name="message_queued_second_space">Kon bericht niet verzenden. Schakel mobiel internet in om te verzenden.</string>
   <string name="message_readed">Lezen</string>
   <string name="message_received">Ontvangen</string>
   <string name="message_rejected">Afgewezen</string>
@@ -304,9 +304,6 @@
   <string name="mx_activate_status_desc_query_activte_info">SIM kaart info aan het controleren…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Het telefoonnummer dat u invoerde is ongeldig</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">Kon Mi Message niet activeren</string>
-  <string name="mx_and_voip_enable">Mi Message &amp; Stem</string>
-  <string name="mx_and_voip_enable_popup_msg">Berichten versturen en bellen naar andere MIUI apparaten zonder kosten van uw provider. VoIP wordt ondersteund door Weihui. Weihui Privacybeleid weergeven.</string>
-  <string name="mx_and_voip_enable_popup_msg2">Privacybeleid</string>
   <string name="mx_auto_resend_mms">Verzenden als MMS</string>
   <string name="mx_auto_resend_mms_summary">MMS versturen via de mobiele dataverbinding als u niet verbonden bent met Wi-Fi (regelmatig dataverbruik kan kosten meebrengen).</string>
   <string name="mx_auto_resend_sms">Vezenden als SMS</string>
@@ -318,7 +315,6 @@
   <string name="mx_dspt">SMS en MMS berichten versturen naar andere MIUI apparaten zonder bijkomende kosten wanneer u bent verbonden met Wi-Fi.</string>
   <string name="mx_dspt_listview">Berichten versturen naar andere MIUI apparaten zonder bijkomende kosten</string>
   <string name="mx_dspt_provision">Met Mi Message kunt u berichten over internet naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren. Daarnaast heeft deze service toegang tot mobiele data nodig om normaal te kunnen werken</string>
-  <string name="mx_dspt_provision_ex">Berichten versturen en bellen over internet naar andere MIUI gebruikers zonder kosten van uw provider. VoIP wordt ondersteund door Weihui. Bekijk Weihui Privacybeleid.</string>
   <string name="mx_dspt_provision_ex2">Privacybeleid</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Stem</string>
@@ -359,8 +355,8 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privécontact</string>
-  <string name="open_audio_record_panel">Audio record paneel openen</string>
-  <string name="open_edit_sms_panel">SMS bewerkpaneel openen</string>
+  <string name="open_audio_record_panel">Paneel om geluid op te nemen openen</string>
+  <string name="open_edit_sms_panel">Paneel om berichten te bewerken openen</string>
   <string name="open_url_with_web">Deze URL openen in browser?</string>
   <string name="over_max_mms_size">MMS is te groot.</string>
   <string name="overwrite_edited_content">"Aangepaste inhoud wordt overschreven, wilt u doorgaan?"</string>
@@ -405,7 +401,6 @@
   <string name="pref_summary_mms_read_reports">Toon een melding in een gespreksweergave wanneer de ontvanger de MMS inhoud heeft gedownload</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Automatisch foto\'s en video\'s in berichten downloaden bij roamen</string>
   <string name="pref_summary_notification_body_enabled">Berichten weergeven op vergrendelscherm en notificatiescherm</string>
-  <string name="pref_summary_notification_body_enabled_when_secure">U kan geen voorbeeld van berichten zien in Gastmodus</string>
   <string name="pref_summary_off_system_mms_priority">Gebruik apps van derden om uw MMS te verzonden of ontvangen</string>
   <string name="pref_summary_on_system_mms_priority">"Gebruik MIUI berichtenapp standaard voor het ontvangen van berichten en MMS</string>
   <string name="pref_summary_send_delivery_reports">Afleverrapport versturen naar de afzender wanneer u een MMS bericht ontvangt</string>
@@ -571,15 +566,15 @@
   <string name="sms_report_dialog_title">Probeer opnieuw</string>
   <string name="sms_report_failed">Kon rapport niet verzenden</string>
   <string name="sms_report_success">Rapport verzonden</string>
-  <string name="snippet_audio">[audio]</string>
-  <string name="snippet_picture">[afbeelding]</string>
+  <string name="snippet_audio">[Audio]</string>
+  <string name="snippet_picture">[Afbeelding]</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankmeldingsberichten</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
   <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
-  <string name="sqlite_disk_full">Database of schijf is vol</string>
-  <string name="sqlite_low_memory">Weinig geheugen</string>
+  <string name="sqlite_disk_full">Opslagruimte van het apparaat is vol</string>
+  <string name="sqlite_low_memory">Niet genoeg opslagruimte</string>
   <string name="status_failed">Mislukt</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">In behandeling</string>
@@ -656,9 +651,6 @@
   <string name="view">Weergeven</string>
   <string name="view_bookmark">Origineel bericht weergeven</string>
   <string name="view_message_details">Details weergeven</string>
-  <string name="voip_enable">Mi Message en stem</string>
-  <string name="voip_enable_popup_msg">Bellen naar andere MIUI apparaten zonder kosten van uw provider. VoIP wordt ondersteund door Weihui. Weihui Privacybeleid weergeven.</string>
-  <string name="voip_enable_popup_msg2">Privacybeleid</string>
   <string name="wap_push_title">"[WAP Push]"</string>
   <string name="warning_show">Verzenden in %ds</string>
   <string name="wild_msg_processing">Bezig…</string>

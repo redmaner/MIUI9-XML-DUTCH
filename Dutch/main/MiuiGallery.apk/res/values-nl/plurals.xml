@@ -129,8 +129,8 @@
         <item quantity="one">%d video</item>
     </plurals>
 	<plurals name="add_secret_ensure_message">
-        <item quantity="other">Hide these files?</item>
-        <item quantity="one">Hide this file?</item>
+        <item quantity="other">Deze bestanden verbergen?</item>
+        <item quantity="one">Dit bestand verbergen?</item>
     </plurals>
 	<plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto\'s</item>

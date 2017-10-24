@@ -677,9 +677,10 @@ in het geval je hem vergeten bent"</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">De geïnstalleerde app kan geen verbinding maken met internet via Wi-Fi wanneer deze schakelaar uit staat.</string>
   <string name="five_percent_total_pkg">%s (5%% maandelijkse data)</string>
+  <string name="forbid_autobright_title">Schermhelderheid vastzetten</string>
   <string name="foreground_traffic">Voorgrond %s</string>
   <string name="forget_password_button_text">Wachtwoord vergeten</string>
-  <string name="forget_password_button_text_normal">Forgot password</string>
+  <string name="forget_password_button_text_normal">Wachtwoord vergeten</string>
   <string name="forget_pattern">Patroon vergeten?</string>
   <string name="free_send_net_booster">Gratis netwerk versnellen</string>
   <string name="free_send_net_booster_tip">Geniet van vloeiende games door het versnellen van het netwerk.</string>
@@ -695,7 +696,9 @@ in het geval je hem vergeten bent"</string>
   <string name="game_anti_disturb_msg">Niet storen tijdens gamen</string>
   <string name="game_booster">Gamesnelheid opvoeren</string>
   <string name="game_booster_intro">Over Gamesnelheid opvoeren</string>
+  <string name="game_booster_jump_webview">Een momentje…</string>
   <string name="game_booster_title">Snelheid opvoeren</string>
+  <string name="game_bootser_tab_settings">Instellingen</string>
   <string name="game_improve_text1">Wis de achtergrondcache om geheugen vrij te maken voor gaming</string>
   <string name="game_improve_text2">Wis de achtergrondcache om geheugen vrij te maken voor gaming en verbeter de CPU prestaties</string>
   <string name="game_improve_title">Prestaties optimaliseren</string>
@@ -704,7 +707,9 @@ in het geval je hem vergeten bent"</string>
   <string name="game_net_text2">Versterk de verbindingssnelheid van het spel tijdens het beperken van de achtergrondverhogingssnelheid om de vertraging van het netwerk te verminderen</string>
   <string name="game_net_title">Verbindingssnelheid optimaliseren</string>
   <string name="game_setting">Game-instellingen</string>
-  <string name="gamebooster_main_activity_back">Terug naar gamesnelheid opvoeren</string>
+  <string name="gamebooster_lowbattery_notification_summary">Laad het apparaat op voordat het uitvalt.</string>
+  <string name="gamebooster_lowbattery_notification_title">Batterij is minder dan 5%%</string>
+  <string name="gamebooster_main_activity_back">Terug</string>
   <string name="gamebooster_network_dialog_message">Laat beveiliging toe om verbinding te maken met het netwerk om alle functies van de Game speed booster te gebruiken?</string>
   <string name="gamebooster_network_dialog_title">Sommige functies zijn niet beschikbaar</string>
   <string name="gateway_exception_summary">Controleer je router en probeer opnieuw.</string>
@@ -718,8 +723,11 @@ in het geval je hem vergeten bent"</string>
   <string name="gs_app_back_self_start">Batterijbesparder</string>
   <string name="gs_auto_clean_memory">Cache wissen</string>
   <string name="gs_auto_clean_memory_detail">Cache automatisch wissen om gaming te optimaliseren</string>
+  <string name="gs_call_handsfree">Oproepen handsfree beantwoorden</string>
+  <string name="gs_call_handsfree_mute">Stille modus</string>
   <string name="gs_dialog_confirm_close_msg">De snelkoppeling wordt verwijderd uit uw startscherm. Ga naar Beveiliging &gt; Instellingen om het te herstellen.</string>
   <string name="gs_dialog_confirm_close_title">Uitschakelen</string>
+  <string name="gs_forbid_autosync">Synchroniseren op de achtergrond beperken</string>
   <string name="gs_game_disturb_msg">Niet storen</string>
   <string name="gs_game_duration">Tijd</string>
   <string name="gs_game_net_priority">Verbindingsprioriteit</string>
@@ -991,6 +999,7 @@ om te reageren"</string>
   <string name="name">Naam</string>
   <string name="net_booster">Netwerk versnellen</string>
   <string name="net_booster_expire_notification">Netwerkversnelling wordt beeindigd</string>
+  <string name="net_booster_expire_notification_tip">%d resterend totdat de sessie van netwerkvernelling eindigt. Vernieuw de sessie om netwerkproblemen te voorkomen.</string>
   <string name="net_booster_overdue_notification">Netwerkversnelling wordt beeindigd</string>
   <string name="net_booster_overdue_notification_tip">Netwerkversnelling wordt beeindigd. Wilt u de sessie verlengen?</string>
   <string name="net_booster_tip">Schakel netwerkversnelling in om de Wi-Fi verbinding stabieler te maken en netwerkvertraging te verminderen.</string>
@@ -1784,6 +1793,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="tc_sms_report_upload_when_net">Dank je voor de feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
   <string name="text_button">Begrepen</string>
+  <string name="thermal_tips_message">Games spelen met de prestatiemodus ingeschakeld kan leiden tot overhittingsproblemen.</string>
+  <string name="thermal_tips_title">Waarschuwing</string>
   <string name="third_application">Geïnstalleerde apps</string>
   <string name="three_percent_total_pkg">%s (3%% maandelijkse data)</string>
   <string name="tips_dialog_title">Weet u uw datalimiet niet</string>
@@ -1957,8 +1968,8 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="user_define_title">Regels toevoegen</string>
   <string name="virus_ad_icon_text">Advertentie</string>
   <string name="virus_auto_update_engine">Automatische updates: %s</string>
-  <string name="virus_update_tips_title">Verbinden met Wi-Fi</string>
-  <string name="virus_wait_network_dialog_message">Updates zijn te groot. Met Wi-Fi verbinden om te downloaden</string>
+  <string name="virus_update_tips_title">Waarschuwing</string>
+  <string name="virus_wait_network_dialog_message">Je telefoon is niet verbonden met Wi-Fi. Mobiel internet zal worden gebruikt. Doorgaan?</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
   <string name="whitelist_prefix_add_hint">Alle nummers met voorvoegsel toevoegen aan uitzonderingen</string>
   <string name="wifi_exception_summary">Beschikbare Wi-Fi netwerken testen</string>
