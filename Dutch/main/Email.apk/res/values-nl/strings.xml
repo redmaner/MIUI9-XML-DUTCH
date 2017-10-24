@@ -74,7 +74,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_basics_email_label">E-mailadres</string>
   <string name="account_setup_basics_login_gmail_without_proxy">De huidige netwerkverbinding gebruiken</string>
   <string name="account_setup_basics_manual_setup_action">Handmatig instellen</string>
-  <string name="account_setup_basics_mi_mail_login_help">mi Mail login successfully, check the SMS, activate the link to send and receive mail Oh!</string>
+  <string name="account_setup_basics_mi_mail_login_help">Inloggen Mi Mail succesvol. Controleer de SMS en activeer de link om mail te versturen en ontvangen.</string>
   <string name="account_setup_basics_password_label">Wachtwoord</string>
   <string name="account_setup_basics_title">Accountinstellingen</string>
   <string name="account_setup_check_settings_check_incoming_msg">"    Serverinstellingen verifiëren…"</string>
@@ -588,7 +588,7 @@ Nu bijwerken?"</string>
          Wanneer:
 %s (terugkerend)
      "</string>
-  <string name="meeting_responded_failed">Response failure</string>
+  <string name="meeting_responded_failed">Fout bij beantwoorden</string>
   <string name="meeting_tentative">"
          Tentatieve:
 %s "</string>
@@ -986,7 +986,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="special_text_sender_zh">Afzender</string>
   <string name="storage">Opslag</string>
   <string name="str_select_all">Alles selecteren</string>
-  <string name="str_select_none">Deselecteren</string>
+  <string name="str_select_none">Alles deselecteren</string>
   <string name="subject_hint">Onderwerp</string>
   <string name="sync_contacts_fail_per_content">Vraag contactentoestemming. Klik op toestaan.</string>
   <string name="sync_contacts_fail_per_title">Synchroniseren van contacten mislukt</string>
