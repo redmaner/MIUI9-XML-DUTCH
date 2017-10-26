@@ -172,7 +172,6 @@ you need to upload data in old devices to iCloud"</string>
 2.\u0009Ga naar MiTalk Instellingen en selecteer ”Back-up contacten naar Mi Account”"</string>
   <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
   <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor back-up van contacten op andere apparaten.</string>
-  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">Because of compatibility, contacts and photos are supported only. You need to upload data in old devices to iCloud first.</string>
   <string name="import_tip_title">Tips:</string>
   <string name="loading_data">Loading data</string>
