@@ -671,7 +671,7 @@ in het geval je hem vergeten bent"</string>
   <string name="firewall_restrict_android_dialog_title">Opgelet</string>
   <string name="firewall_restrict_data">Mobiel datagebruik bepereken</string>
   <string name="firewall_restrict_notify_title">%s kan netwerk niet gebruiken</string>
-  <string name="firewall_restrict_wlan">Wi-Fi verbinding bepereken</string>
+  <string name="firewall_restrict_wlan">Wi-Fi verbinding beperken</string>
   <string name="firewall_rule_group_title_mobile">Mobiel</string>
   <string name="firewall_rule_group_title_roaming">Internationale roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -683,8 +683,8 @@ in het geval je hem vergeten bent"</string>
   <string name="forget_password_button_text_normal">Wachtwoord vergeten</string>
   <string name="forget_pattern">Patroon vergeten?</string>
   <string name="free_send_net_booster">Gratis netwerk versnellen</string>
-  <string name="free_send_net_booster_busniess">Get a free Xunlei speed boost</string>
-  <string name="free_send_net_booster_busniess_tip">Tap to receive</string>
+  <string name="free_send_net_booster_busniess">Krijg een gratis Xunlei snelheidsboost</string>
+  <string name="free_send_net_booster_busniess_tip">Tik om te ontvangen</string>
   <string name="free_send_net_booster_tip">Geniet van vloeiende games door het versnellen van het netwerk.</string>
   <string name="free_time_traffic">Daluren datalimiet</string>
   <string name="free_time_traffic_hint">Voer daluren datalimiet in</string>
@@ -695,7 +695,7 @@ in het geval je hem vergeten bent"</string>
   <string name="fw_blocked">Zwarte lijst</string>
   <string name="fw_blocked_count">"Geblokkeerd "</string>
   <string name="fw_blocked_join">" en "</string>
-  <string name="game_ad_recommendation">Everybody is playing</string>
+  <string name="game_ad_recommendation">Iedereen is aan het spelen</string>
   <string name="game_anti_disturb_msg">Niet storen tijdens gamen</string>
   <string name="game_booster">Gamesnelheid opvoeren</string>
   <string name="game_booster_intro">Over Gamesnelheid opvoeren</string>
