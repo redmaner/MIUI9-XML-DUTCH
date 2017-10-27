@@ -972,6 +972,7 @@ Dit kan tot 5 minuten duren."</string>
   <string name="path_auto_answer_pref_title">Systeemapps/Telefoon/Automatisch antwoorden</string>
   <string name="path_auto_retry_mode_title">Systeemapps/Telefoon/Geavanceerde instellingen/Automatisch opnieuw proberen</string>
   <string name="path_autoip">Systeemapps/Telefoon/Geavanceerde instellingen/Auto IP dialing</string>
+  <string name="path_call_advanced_settings_title">System apps/Phone/Advanced settings</string>
   <string name="path_call_background_setting_name">Systeemapps/Telefoon/Geavanceerde instellingen/Oproep achtergrond</string>
   <string name="path_call_forwarding_settings">Systeemapps/Telefoon/Instellingen oproep doorsturen</string>
   <string name="path_call_record_auto_title">Systeemapps/Telefoon/Oproep opname/Oproepen automatisch opnemen</string>
