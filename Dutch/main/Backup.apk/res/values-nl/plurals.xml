@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="backup_items_sysdata_tailer">
-        <item quantity="other">%d system data files</item>
-        <item quantity="one">%d system data file</item>
+        <item quantity="other">%d bestanden met systeemgegevens</item>
+        <item quantity="one">%d bestand met systeemgegevens</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d app data files</item>
-        <item quantity="one">%d app data file</item>
+        <item quantity="other">%d bestanden met appgegevens</item>
+        <item quantity="one">%d bestand met appgegevens</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d items</item>
@@ -20,28 +20,20 @@
         <item quantity="other">%d uur</item>
         <item quantity="one">%d uur</item>
     </plurals>
-	<plurals name="select_item_summary">
-        <item quantity="other">%1$s | %2$d items</item>
-        <item quantity="one">%1$s | %2$d item</item>
-    </plurals>
-    <plurals name="select_item_count_unit">
-        <item quantity="other">items</item>
-        <item quantity="one">item</item>
-    </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">%d items are restored</item>
-        <item quantity="one">%d item is restored</item>
+        <item quantity="other">%d items zijn hersteld</item>
+        <item quantity="one">%d item is hersteld</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">%d items are imported and restored</item>
-        <item quantity="one">%d item is imported and restored</item>
+        <item quantity="other">%d items zijn geimporteerd en hersteld</item>
+        <item quantity="one">%d item is geimporteerd en hersteld</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d items imported, "</item>
-        <item quantity="one">"%d item imported, "</item>
+        <item quantity="other">"%d items geimporteerd, "</item>
+        <item quantity="one">"%d item geimporteerd, "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d items need to import again</item>
-        <item quantity="one">%d item needs to import again</item>
+        <item quantity="other">%d items moeten opnieuw worden geimporteerd</item>
+        <item quantity="one">%d item moet opnieuw worden geimporteerd</item>
     </plurals>
 </resources>

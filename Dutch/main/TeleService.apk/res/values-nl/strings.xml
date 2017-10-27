@@ -960,7 +960,7 @@ Dit kan tot 5 minuten duren."</string>
   <string name="ota_touch_activate">"U moet een speciale oproep uitvoeren om uw telefoonservice te activeren. Nadat u op 'Activeren' heeft gedrukt, luistert u naar de instructies om uw telefoon te activeren."</string>
   <string name="ota_try_again">Opnieuw proberen</string>
   <string name="ota_unsuccessful">Uw telefoon is niet geactiveerd. Zoek een plek waar u betere dekking heeft (in de buurt van een raam of buiten). Probeer het opnieuw of bel de klantenservice voor meer opties.</string>
-  <string name="other_settings">Andere oproep instellingen</string>
+  <string name="other_settings">Andere oproepinstellingen</string>
   <string name="other_settings_category">Overige</string>
   <string name="overlay_display_devices_title">Secundaire displays simuleren</string>
   <string name="overseas_roaming_setting">Dataroaming</string>
@@ -972,7 +972,7 @@ Dit kan tot 5 minuten duren."</string>
   <string name="path_auto_answer_pref_title">Systeemapps/Telefoon/Automatisch antwoorden</string>
   <string name="path_auto_retry_mode_title">Systeemapps/Telefoon/Geavanceerde instellingen/Automatisch opnieuw proberen</string>
   <string name="path_autoip">Systeemapps/Telefoon/Geavanceerde instellingen/Auto IP dialing</string>
-  <string name="path_call_advanced_settings_title">System apps/Phone/Advanced settings</string>
+  <string name="path_call_advanced_settings_title">Systeemapps/Telefoon/Geavanceerde instellingen</string>
   <string name="path_call_background_setting_name">Systeemapps/Telefoon/Geavanceerde instellingen/Oproep achtergrond</string>
   <string name="path_call_forwarding_settings">Systeemapps/Telefoon/Instellingen oproep doorsturen</string>
   <string name="path_call_record_auto_title">Systeemapps/Telefoon/Oproep opname/Oproepen automatisch opnemen</string>
