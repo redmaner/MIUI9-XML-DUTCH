@@ -214,6 +214,14 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d niet geblokkeerde apps</item>
         <item quantity="one">%d niet geblokkeerde app</item>
     </plurals>
+	<plurals name="number_masked_text">
+        <item quantity="other">%d meldingen zijn verborgen</item>
+        <item quantity="one">%d melding is verborgen</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d meldingen zijn zichtbaar</item>
+        <item quantity="one">%d melding is zichtbaar</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d apps doorzoeken</item>
         <item quantity="one">%d app doorzoeken</item>

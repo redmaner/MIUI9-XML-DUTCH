@@ -276,9 +276,6 @@
   <string name="delete_album_msg_format">Album \"%2$s\" verwijderen %1$s %3$s?</string>
   <string name="delete_album_success">Album verwijderd</string>
   <string name="delete_finish_format">%d items verwijderd</string>
-  <string name="delete_from_album">van album en Mi Cloud \"%s\"</string>
-  <string name="delete_from_album_no_account">van album \"%s\"</string>
-  <string name="delete_from_all_devices">Van alle apparaten</string>
   <string name="delete_from_all_devices_and_cloud">Van alle apparaten en Mi Cloud</string>
   <string name="delete_from_cloud">Items van Mi Cloud verwijderen</string>
   <string name="delete_from_devices">Alle gesynchroniseerde apparaten</string>
@@ -440,7 +437,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="filter_food_softdrink">Soda</string>
   <string name="filter_food_wholemeal">Korrels</string>
   <string name="filter_original">Geen</string>
-  <string name="filter_people_blackwhite">Zwart &amp; wit</string>
   <string name="filter_people_fairytale">Kinderen</string>
   <string name="filter_people_heart">Emoties</string>
   <string name="filter_people_japanese">Vers</string>

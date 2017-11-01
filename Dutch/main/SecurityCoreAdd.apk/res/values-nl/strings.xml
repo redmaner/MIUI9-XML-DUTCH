@@ -67,6 +67,7 @@ kan op elk moment bekeken worden"</string>
   <string name="delete_phone_fingerprint">Vingerafdruk tweede ruimte verwijderen</string>
   <string name="delete_src_file">Bestanden verwijderen</string>
   <string name="delete_src_photo">Foto\'s verwijderen</string>
+  <string name="dialog_title">Opgelet</string>
   <string name="dir_switch_out_all_photos">Galerij tweede ruimte</string>
   <string name="disable">Uitschakelen</string>
   <string name="dont_import">Niet nu</string>
@@ -153,6 +154,7 @@ U kan ze ook apart downloaden."</string>
   <string name="openPasswordGuard">Wachtwoord tweede ruimte instellen</string>
   <string name="openSuccess">Ingeschakeld</string>
   <string name="opened">Aan</string>
+  <string name="optimize_now">Optimaliseren</string>
   <string name="other">Overig</string>
   <string name="otherSettings">Andere instellingen</string>
   <string name="passWordGuardSummary">Naar tweede ruimte gaan vanaf schermvergrendeling met wachtwoord</string>
@@ -188,7 +190,7 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="scanner_fingerprint_tips_desc">Een bestande vingerafdruk selecteren om naar de tweede ruimte te gaan. Het zal niet meer mogelijk zijn om deze te gebruiken in de eerste ruimte.</string>
   <string name="scanner_fingerprint_tips_title">Naar tweede ruimte gaan door gebruik van een bestande vingerafdruk</string>
   <string name="scanner_second_space_fingerprint">Scan de vingerafdruk voor de tweede ruimte</string>
-  <string name="sdcardfs_dialog_message">Schakel \"Neppe SD kaart optimalisatie\" uit in Instellingen &gt; Extra instellingen &gt; Ontwikkelaaropties voordat je de tweede ruimte betreedt.</string>
+  <string name="sdcardfs_dialog_message">Uw oude gegevens kunnen incompatibel met het nieuwe bestandssysteem. Optimaliseer de gegevens voordat je de tweede ruimte betreedt en herstart het apparaat.</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="secondSpace">Tweede ruimte</string>
   <string name="second_owner_finger_print">Vingerafdruk tweede ruimte</string>

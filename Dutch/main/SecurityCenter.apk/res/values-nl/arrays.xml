@@ -55,8 +55,6 @@
         <item>Appnaam</item>
         <item>gebruiksfrequentie</item>
         <item>Gebruikte opslag</item>
-        <item>Datagebruik</item>
-        <item>Batterijgebruik</item>
         <item>Installatietijd</item>
     </string-array>
     <string-array name="sort_title">
@@ -64,8 +62,6 @@
         <item>Sorteren op appnaaam</item>
         <item>Sorteren op gebruiksfrequentie</item>
         <item>Sorteren op gebruikte opslag</item>
-        <item>Sorteren op datagebruik</item>
-        <item>Sorteren op batterijgebruik</item>
 		<item>Soreren op installatietijd</item>
     </string-array>
     <string-array name="title_app_info">
