@@ -192,6 +192,13 @@
   <string name="error_invalid_path">Onjuist pad</string>
   <string name="error_not_support">Niet ondersteund</string>
   <string name="error_open_file_failed_no_app_found">Geen app gevonden om deze actie uit te voeren.</string>
+  <string name="exo_controls_fastforward_description">Verderspoelen</string>
+  <string name="exo_controls_next_description">Volgende nummer</string>
+  <string name="exo_controls_pause_description">Pauzeren</string>
+  <string name="exo_controls_play_description">Afspelen</string>
+  <string name="exo_controls_previous_description">Vorige nummer</string>
+  <string name="exo_controls_rewind_description">Terugspoelen</string>
+  <string name="exo_controls_stop_description">Stoppen</string>
   <string name="extended_storage_file_can_not_open">Kan bestand niet openen. Kopieer het bestand eerst naar de interne opslag.</string>
   <string name="extract">Uitpakken</string>
   <string name="fail_to_create_folder_unknown">Kan map niet aanmaken</string>

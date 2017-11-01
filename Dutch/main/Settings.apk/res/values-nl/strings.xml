@@ -1431,7 +1431,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="edge_mode_photo_summary">Terwijl u in de camera-app bent, tik op de rand van je telefoon om de sluiter te activeren en tik nogmaals om een foto te nemen</string>
   <string name="edge_mode_screenshot">Schermafdruk</string>
   <string name="edge_mode_screenshot_summary">Dubbeltikken op beide randen om een schermafdruk te maken</string>
-  <string name="edge_touch_volume">Volume aanpassen op de randen</string>
   <string name="edit_rule">Regels wijzigen</string>
   <string name="edit_rules">Wijzigen</string>
   <string name="eighthours">8 uur</string>
@@ -2352,7 +2351,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_lab_slogan">Leer. Verken. Ontdek.</string>
   <string name="miui_lab_taplus_desc">Houd items ingedrukt om acties te triggeren</string>
   <string name="miui_screen_config_title">Startscherm instellingen</string>
-  <string name="miui_updater">Updater</string>
+  <string name="miui_updater">Systeemupdate</string>
   <string name="mms_breathing_light_color_title">Kleur bij berichten</string>
   <string name="mms_breathing_light_freq_title">Knipperfrequentie berichten</string>
   <string name="mms_privacy_password_role_instruction">Uw conversaties met privécontacten zullen hier opgeslagen worden.</string>
@@ -2704,7 +2703,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_page2_small_title">Klein</string>
   <string name="page_layout_page2_title">Voorbeeld</string>
   <string name="page_layout_small_title">Klein</string>
-  <string name="palm_enabled">Bedek het scherm om het uit te schakelen</string>
   <string name="paper_mode_auto_twilight_summary">Automatisch leesmodus inschakelen na zonsondergang</string>
   <string name="paper_mode_auto_twilight_title">"'s nachts lezen"</string>
   <string name="paper_mode_customize_time_summary">Leesmodus inschakelen voor een bepaalde periode</string>
@@ -4013,7 +4011,6 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="supl_not_set">Niet ingesteld</string>
   <string name="supplicant_state_label">Toestand aanvrager:</string>
   <string name="sure_sync_now">Items nu synchroniseren?</string>
-  <string name="suspend_gesture_enabled">Draai telefoon om scherm uit te schakelen</string>
   <string name="suspension_ball_enable">Quick ball snelkoppeling</string>
   <string name="suspension_ball_enable_desc">Quick ball in- en uitschakelen met snelkoppeling</string>
   <string name="suw_back_button_label">Terug</string>

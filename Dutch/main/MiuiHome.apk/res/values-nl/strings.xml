@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_add_to_workspace">Toevoegen aan werkruimte</string>
   <string name="activity_not_found">App is niet geïnstalleerd op uw apparaat</string>
   <string name="add_screen">Schermknop toevoegen</string>
   <string name="app_already_exist">App bestaat reeds</string>
