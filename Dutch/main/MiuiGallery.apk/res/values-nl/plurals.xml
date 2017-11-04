@@ -96,10 +96,6 @@
         <item quantity="other">%d video\'s van dit album en Mi Cloud verwijderen?</item>
         <item quantity="one">%d video van dit album en Mi Cloud verwijderen?</item>
     </plurals>
-	<plurals name="delete_media_from_local">
-        <item quantity="other">%d items verwijderen?</item>
-        <item quantity="one">%d item verwijderen?</item>
-    </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">%d items van alle apparaten en Mi Cloud verwijderen?</item>
         <item quantity="one">%d item van alle apparaten en Mi Cloud verwijderen?</item>
