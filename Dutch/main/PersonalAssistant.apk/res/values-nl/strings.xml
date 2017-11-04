@@ -645,7 +645,6 @@ Check your tracking number."</string>
   <string name="paycode_parent">Alipay</string>
   <string name="paycode_sdk_parent">Shortcut payment</string>
   <string name="payment">My payments</string>
-  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">My payments</string>
   <string name="payment_card_title">My payments</string>
   <string name="payment_clear_records_dialog_message">Delete all payment history records?</string>
@@ -869,7 +868,6 @@ Check your tracking number."</string>
   <string name="steps_vip_des">Count steps without installing third party apps.</string>
   <string name="stock_card_add">Add companies</string>
   <string name="stock_card_title">Stocks</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Color scheme</string>
   <string name="stock_list_empty_text">You arent following any companies.</string>
   <string name="stock_search_empty">Couldnt find results</string>
