@@ -22,8 +22,6 @@
   <string name="agenda_settings_credit">Show credit card bills</string>
   <string name="agenda_settings_elecbill">Show electricity &amp; gas bills</string>
   <string name="agenda_settings_loan">Show loan repayment info</string>
-  <string name="alipay_init">支付宝服务初始化中</string>
-  <string name="alipay_init_success">支付宝服务初始化成功</string>
   <string name="alipay_scan">Scanner</string>
   <string name="alipay_sdk_minute_refresh">Refresh every minute</string>
   <string name="alipay_sdk_payed_desc">Original price: %1$s CNY | Saving %2$s CNY</string>
@@ -190,7 +188,6 @@
   <string name="immediate_recommendation">Recommendations</string>
   <string name="instagram_main">Photo</string>
   <string name="instagram_parent">Instagram</string>
-  <string name="keyword_recommend">推荐您</string>
   <string name="launch_app">App recommendations</string>
   <string name="launch_change_order">Change order</string>
   <string name="launch_enable">Show quick access cards</string>
@@ -227,15 +224,6 @@
   <string name="main_paste_add">Adds</string>
   <string name="main_search_hint">Search</string>
   <string name="main_select">Select</string>
-  <string name="map_msg_smooth">当前路线整体畅通</string>
-  <string name="map_msg_sufix">，详情</string>
-  <string name="map_title_baidu_middle">约有</string>
-  <string name="map_title_blocked">有异常拥堵</string>
-  <string name="map_title_blocked_last">公里异常拥堵</string>
-  <string name="map_title_congestion">有道路拥堵</string>
-  <string name="map_title_congestion_last">公里拥堵</string>
-  <string name="map_title_smooth">整体畅通</string>
-  <string name="metre">m</string>
   <string name="mi_agenda">Calendar events</string>
   <string name="mi_basketball">Basketball</string>
   <string name="mi_express">My express delivery</string>

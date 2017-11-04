@@ -149,7 +149,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_success_msg">Met succes toegevoegd</string>
   <string name="add_fingerprint_text">Vingerafdruk toevoegen</string>
   <string name="add_fingerprint_toast_text">Plaats uw vinger nu op de sensor</string>
-  <string name="add_front_fingerprint_instruction_msg">De vingerafdrukscanner zit aan de achterkant van je apparaat.</string>
+  <string name="add_front_fingerprint_instruction_msg">De vingerafdrukscanner zit op de homeknop van je apparaat.</string>
   <string name="add_new">Toevoegen</string>
   <string name="add_rule">Regels toevoegen</string>
   <string name="add_virtual_keyboard">Toetsenborden beheren</string>

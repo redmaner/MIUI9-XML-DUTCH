@@ -56,20 +56,20 @@
   <string name="camera_summary">"Camera instellingen (foto's niet inbegrepen)"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_backup">Back-up annuleren</string>
-  <string name="cancel_moving_dialog_message">Wilt u het importeren stoppen?</string>
+  <string name="cancel_moving_dialog_message">Stoppen met importeren?</string>
   <string name="cancel_moving_dialog_title">Stoppen met importeren</string>
   <string name="cancel_restore">Herstellen annuleren</string>
   <string name="click_to_view">Tik om te bekijken</string>
-  <string name="close_twice_auth_btn">Sluiten naar two-factor authenticatie</string>
+  <string name="close_twice_auth_btn">Tweestaps authenticatie uitschakelen</string>
   <string name="close_twice_auth_note">"Opmerking:
-Nadat u een nieuwe beveiligingsvraag hebt ingesteld en uw geboortedatum hebt bevestigd, zal de dual authenticatiefunctie worden uitgeschakeld. Als je niet de optie ziet om dual authenticatie uit te schakelen op de Apple ID accountpagina, kan je het niet uitschakelen."</string>
-  <string name="close_twice_auth_operation">"Toegang vanaf uw computer:
+Nadat u een nieuwe beveiligingsvraag hebt ingesteld en uw geboortedatum hebt bevestigd, zal uw Apple ID tweestaps authenticatie worden uitgeschakeld. Als je niet de optie ziet om dual authenticatie uit te schakelen op de Apple ID accountpagina, kan je het niet uitschakelen."</string>
+  <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
-  <string name="close_twice_auth_step_1">1. Log in op de Apple ID accountpagina</string>
-  <string name="close_twice_auth_step_2">2. In de Beveiligingsectie, klik op bewerken</string>
-  <string name="close_twice_auth_step_3">3. Klik op dual / tweestaps authenticatie uitschakelen. Klik opnieuw om te bevestigen.</string>
-  <string name="close_twice_auth_steps">Om de tweestaps authenticatie uit te schakelen, volg de onderstaande stappen:</string>
-  <string name="close_twice_auth_tutor">AppleID tweestaps authenticatie uitschakelen</string>
+  <string name="close_twice_auth_step_1">1. Open de browser op een computer en ga naar appleid.apple.com.</string>
+  <string name="close_twice_auth_step_2">2. Log in op uw Apple ID waarvan u tweestaps authenticatie wilt uitschakelen, ga naar \"Beveiliging\" bij accountinstellingen en kies \"Wijzigen\"</string>
+  <string name="close_twice_auth_step_3">3. Klik op \"Tweestaps authenticatie uitschakelen\". Klik opnieuw om te bevestigen.</string>
+  <string name="close_twice_auth_steps">Volg deze stappen om tweestaps authenticatie uit te schakelen voor Apple ID:</string>
+  <string name="close_twice_auth_tutor">Apple ID tweestaps authenticatie uitschakelen</string>
   <string name="cloud_app_name">Mi Cloud back-up</string>
   <string name="cloud_backup_hint">Inloggen om toegang tot uw back-ups te krijgen</string>
   <string name="cloud_backup_login">Log in op Mi account</string>
@@ -85,7 +85,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="compute_backup_info">Back-up info ophalen…</string>
   <string name="compute_delete_contact_info">Contacten zoeken om te verwijderen…</string>
   <string name="connect_wifi">Verbinden met Wi-Fi</string>
-  <string name="connect_wifi_tip">Er is geen verbinding met het netwerk. Om gegevens van iCloud te importeren is Wi-Fi verbinding nodig.</string>
+  <string name="connect_wifi_tip">Kon niet verbinden met het netwerk. Om gegevens van iCloud te importeren is een Wi-Fi verbinding nodig.</string>
   <string name="contact_title">Contacten</string>
   <string name="current_account">Hallo, %s</string>
   <string name="current_pad_location">Opslaglocatie</string>
@@ -137,31 +137,31 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="guarded_mode_dialog_transfer_message">Kan Mi Mover niet gebruiken in gastmodus.</string>
   <string name="hsa_code_null">Verificatiecode kan niet leeg zijn</string>
   <string name="hsa_input_hint">Voer verificatiecode in</string>
-  <string name="hsa_input_tip">Uw iCloud ID schakelt tweestaps authenticatie in. Voer verificatiecode in.</string>
+  <string name="hsa_input_tip">Uw Apple ID gebruikt tweestaps authenticatie. Voer verificatiecode in.</string>
   <string name="hsa_send_again">Opnieuw verzenden</string>
   <string name="hsa_send_again_countdown">Opnieuw verzenden (%ds)</string>
-  <string name="hsa_send_failed">Niet gelukt om verificatiecode te verzenden. Probeer later opnieuw.</string>
+  <string name="hsa_send_failed">Kon verificatiecode niet verzenden. Probeer later opnieuw.</string>
   <string name="hsa_sending">Verzenden…</string>
-  <string name="hsa_tip_message">"1. Er zal een bericht met de verificatiecode worden gestuurd naar de telefoon die verbonden is met iCloud
-2. Schakel tweestaps authenticatie uit als verifieren mislukt."</string>
+  <string name="hsa_tip_message">"1. Er is een bericht met de verificatiecode gestuurd naar de telefoon die verbonden is met de Apple ID.
+2. Schakel tweestaps authenticatie uit als de code niet werkt."</string>
   <string name="hsa_tip_message_shutdown_hsa">Hoe tweestaps authenticatie uit te schakelen</string>
-  <string name="hsa_tip_message_with_device">"1. Er zal een bericht met de verificatiecode worden gestuurd naar de telefoon %s die verbonden is met iCloud
-2. Schakel tweestaps authenticatie uit als verifieren mislukt."</string>
+  <string name="hsa_tip_message_with_device">"1. Er is een bericht met de verificatiecode gestuurd naar %s die verbonden is met de Apple ID.
+2. Schakel tweestaps authenticatie uit als de code niet werkt."</string>
   <string name="hsa_title">Tweestaps authenticatie</string>
   <string name="hsa_verify_failed">Tweestaps authenticatie mislukt</string>
   <string name="hsa_verify_failed_message">Tweestaps authenticatie mislukt. Je kan het opnieuw proberen of tweestaps authenticatie uitschakelen.</string>
   <string name="hsa_verify_retry">Opnieuw proberen</string>
   <string name="hsa_verify_shutdown">Uitschakelen</string>
-  <string name="icloud_backup_tip">Log in op iCloud ID van oude Apple apparaat</string>
+  <string name="icloud_backup_tip">Log in op het iCloud account van het oude iOS apparaat</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Ga naar instellingen op uw iOS apparaat, en kies voor iCloud.
 2. Schakel Contacten in.
 3. Selecteer foto\'s en schakel iCloud fotobibliotheek in."</string>
-  <string name="icloud_how_to_backup_tip_summary">Om gegevens van iOS te importeren, moet je gegevens op het oude apparaat uploaden naar iCloud.</string>
-  <string name="icloud_login_title">Login op iCloud</string>
-  <string name="icloud_need_sync">"Om gegevens van iOS te importeren
-moet je gegevens op het oude apparaat uploaden naar iCloud"</string>
-  <string name="icloud_need_wifi_message">Niet verbonden met Wi-Fi. Om gegevens van iCloud te importeren, is Wi-Fi nodig om in te loggen en gegevens te downloaden.</string>
-  <string name="icloud_need_wifi_title">Wi-Fi vereist</string>
+  <string name="icloud_how_to_backup_tip_summary">Om gegevens van iOS te importeren, moet je een iCloud back-up maken.</string>
+  <string name="icloud_login_title">Log in op iCloud</string>
+  <string name="icloud_need_sync">"Om gegevens van iOS te importeren,
+moet je eerst een iCloud back-up maken."</string>
+  <string name="icloud_need_wifi_message">Je bent niet verbonden met Wi-Fi. Om gegevens van iCloud te importeren, verbind met Wi-Fi.</string>
+  <string name="icloud_need_wifi_title">Verbind met Wi-Fi</string>
   <string name="import_again">Opnieuw importeren</string>
   <string name="import_data_from_icloud">Gegevens van iCloud importeren</string>
   <string name="import_from_xiaomi_account_hint1">"1. Download de MiTalk app en log in.
@@ -170,7 +170,7 @@ moet je gegevens op het oude apparaat uploaden naar iCloud"</string>
 2. Ga naar MiTalk Instellingen en selecteer ”Back-up contacten naar Mi Account”"</string>
   <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
   <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor back-up van contacten op andere apparaten.</string>
-  <string name="import_tip_summary">Vanwege compatibiliteit worden alleen contacten en foto\'s ondersteund. Je moet eerst gegevens van het oude apparaat uploaden naar iCloud.</string>
+  <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kan je alleen contacten en foto\'s overzetten van iOS apparaten. Zorg ervoor dat je eerst een iCloud back-up maakt voordat je begint met de overdracht.</string>
   <string name="loading_data">Gegevens laden</string>
   <string name="local_app_name">Back-up</string>
   <string name="local_backup_window_title">Lokale back-up gegevens</string>
@@ -186,7 +186,7 @@ moet je gegevens op het oude apparaat uploaden naar iCloud"</string>
   <string name="local_select_userapp">Apps</string>
   <string name="local_select_video">Video\'s</string>
   <string name="login">Inloggen</string>
-  <string name="login_failed">Inloggen mislukt. Probeer opnieuw.</string>
+  <string name="login_failed">Kon niet inloggen. Probeer opnieuw.</string>
   <string name="logining">Inloggen…</string>
   <string name="miliao_account_guide">Maak een Mi Account aan om van alle online services te genieten</string>
   <string name="miliao_account_login">Login bij MiTalk</string>
@@ -208,9 +208,9 @@ moet je gegevens op het oude apparaat uploaden naar iCloud"</string>
   <string name="notif_icloud_canceled_summary">Geannuleerd</string>
   <string name="notif_icloud_canceling_summary">Annuleren…</string>
   <string name="notif_icloud_import_title">Gegevens van iCloud importeren</string>
-  <string name="notif_icloud_loaded_summary">Wachten om gegevens te downloaden</string>
+  <string name="notif_icloud_loaded_summary">Wachten…</string>
   <string name="notif_icloud_loading_summary">Gegevens laden…</string>
-  <string name="notif_icloud_logining">Inloggen op iCloud ID van oude Apple apparaat…</string>
+  <string name="notif_icloud_logining">Inloggen op iCloud op oude iOS apparaat…</string>
   <string name="notif_icloud_need_wifi_summary">Wachten op Wi-Fi</string>
   <string name="notif_icloud_saved_summary">Importeren gelukt</string>
   <string name="notif_icloud_saving_summary">Gegevens herstellen…</string>
@@ -228,8 +228,8 @@ moet je gegevens op het oude apparaat uploaden naar iCloud"</string>
   <string name="password">Wachtwoord</string>
   <string name="password_null">Wachtwoord kan niet leeg zijn</string>
   <string name="pause">Pauzeren</string>
-  <string name="platform_chooser_item_android">Importeren van Android apparaat</string>
-  <string name="platform_chooser_item_ios">Importeren van Apple apparaat</string>
+  <string name="platform_chooser_item_android">Importeren van een Android apparaat</string>
+  <string name="platform_chooser_item_ios">Importeren van een iOS apparaat</string>
   <string name="platform_chooser_title">Kies oude apparaat</string>
   <string name="progress_backup_hint">Back-uppen…</string>
   <string name="progress_restore_hint">Herstellen…</string>
@@ -258,12 +258,12 @@ moet je gegevens op het oude apparaat uploaden naar iCloud"</string>
   <string name="reverse_all">Alles verwijderen</string>
   <string name="router_backup_hint">Uw apparaat ingeschakeld laten</string>
   <string name="save_finish_with_failing_items">"Importeren werd onderbroken. Sommige gegevens zijn geimporteerd
-Sommige gegevens moeten opnieuw worden geimporteerd"</string>
+Sommige gegevens moeten opnieuw worden geimporteerd."</string>
   <string name="saving_data">"Gegevens van iCloud importeren
 Schakel Wi-Fi niet uit"</string>
   <string name="saving_data_no_time">Gegevens herstellen</string>
-  <string name="saving_data_space_low">"Niet genoeg ruimte
-Maak tenminste %s vrij"</string>
+  <string name="saving_data_space_low">"Niet genoeg opslagruimte,
+Maak tenminste %s vrij."</string>
   <string name="sc_bad_request">Ongeldig verzoek</string>
   <string name="sc_internal_server_error">Interne serverfout</string>
   <string name="sc_network_unavailable">Controleer netwerkverbinding en probeer opnieuw</string>
@@ -282,10 +282,10 @@ Maak tenminste %s vrij"</string>
   <string name="select_backup_item">Back-up item selecteren</string>
   <string name="select_empty">Selecteer items om te importeren</string>
   <string name="select_item_contacts">Contacten</string>
-  <string name="select_item_empty_summary">Geen contacten</string>
+  <string name="select_item_empty_summary">Geen items</string>
   <string name="select_item_photos">Foto\'s</string>
   <string name="select_item_summary_loading">Gegevens laden…</string>
-  <string name="select_item_summary_wait">Wachten om gegevens te laden</string>
+  <string name="select_item_summary_wait">Wachten…</string>
   <string name="select_storage_location">Kies back-uplocatie</string>
   <string name="service_stoped">Service gestopt</string>
   <string name="settings_summary">Apparaat- en berichtinstellingen</string>
@@ -351,10 +351,10 @@ Maak tenminste %s vrij"</string>
   <string name="trans_device_auto_reconnecting">Verbinding met apparaat verboken. Automatisch verbinding herstellen…</string>
   <string name="trans_device_disconnected">Verbinding is verbroken</string>
   <string name="trans_device_wait_for_reconnecting">Verbinding is verbroken. Verbind opnieuw om verder te gaan.</string>
-  <string name="trans_disconnected_tips_message">Verbinding met apparaat verboken. Maak handmatig opnieuw verbinding. Je kan de huidige taak annuleren als dat nodig is.</string>
+  <string name="trans_disconnected_tips_message">Verbinding met apparaat verboken. Maak handmatig opnieuw verbinding of annuleer de overdracht.</string>
   <string name="trans_disconnected_tips_title">Verbinding met apparaat verboken</string>
   <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
-  <string name="trans_intro_desc_1">"Op Xiaomi apparaat, Verbind met Wi-Fi. Tik op \"Ik ben een ontvanger\", en dan \"Apple apparaat\". Login op iCloud en importeeer gegevens."</string>
+  <string name="trans_intro_desc_1">"Op een Xiaomi apparaat, verbind met Wi-Fi en tik op \"Ik ben een ontvanger\", selecteer je iOS apparaat, log in op iCloud en importeeer gegevens."</string>
   <string name="trans_intro_desc_3">Annuleer de overdracht, sluit Mi Mover af en start opnieuw. Bestanden die meerdere keren voorkomen worden overschreven tijdens de overdracht.</string>
   <string name="trans_intro_desc_4">"Mi Mover gebruikt Wi-Fi om bestanden te versturen. Daarom kan je niet verbinden met internet met Wi-Fi op beide apparaten tijdens een overdracht. Wel kan je nog steeds mobiel internet gebruiken. Sommige nieuwe apparaten (bijv. Mi 6) kunnen nog wel verbinding maken met internet met Wi-Fi tijdens een overdracht."</string>
   <string name="trans_intro_desc_5">Opslagruimte op oude apparaat wordt gebruikt om overdrachtpakketten te maken. Zorg ervoor dat er tenminste 500MB - 1GB beschikbare ruimte is op het oude apparaat voordat je een overdracht begint.</string>
@@ -367,15 +367,15 @@ Maak tenminste %s vrij"</string>
   <string name="trans_intro_desc_new">Tik op \"Ik ben ontvanger\". Er zal een QR code worden gemaakt.</string>
   <string name="trans_intro_desc_old">Tik op \"Ik ben verzender\". Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden er verzonden moeten worden en tik op \"Versturen\".</string>
   <string name="trans_intro_desc_private">Mi Mover heeft geen toegang tot foto\'s in verborgen albums omdat ze versleuteld zijn. Je kan deze foto\'s herstellen van Mi Cloud op het nieuwe apparaat.</string>
-   <string name="trans_intro_question_1">1. How do I use Mi Mover to move data from Apple device?</string>
-  <string name="trans_intro_question_2">2. How do I use Mi Mover to move data from Android device?</string>
-  <string name="trans_intro_question_3">3. What should I do if Mi Mover got stuck on a certain step?</string>
-  <string name="trans_intro_question_4">"4. Why can't I use WLAN during transfers?"</string>
-  <string name="trans_intro_question_5">"5. Why does Mi Mover tell me there isn't enough storage space on my old phone?"</string>
-  <string name="trans_intro_question_6">"6. Why aren't some apps transferred successfully?"</string>
-  <string name="trans_intro_question_7">"7. Why won't some apps start on a new device?"</string>
-  <string name="trans_intro_question_8">"8. Why isn't WeChat history fully transferred?"</string>
-  <string name="trans_intro_question_9">"9. Which items can't be transferred?"</string>
+   <string name="trans_intro_question_1">1. Hoe gebruik ik Mi Mover om gegevens van een iOS apparaat over te zetten?</string>
+  <string name="trans_intro_question_2">2. Hoe gebruik ik Mi Mover om gegevens van een Android apparaat over te zetten?</string>
+  <string name="trans_intro_question_3">3. Wat moet ik doen als Mi Mover vastloopt bij een bepaalde stap?</string>
+  <string name="trans_intro_question_4">"4. Waarom kan ik Wi-Fi niet gebruiken tijdens een overdracht?"</string>
+  <string name="trans_intro_question_5">"5. Waarom zegt Mi Mover dat er niet genoeg ruimte is op de oude telefoon?"</string>
+  <string name="trans_intro_question_6">"6. Waarom lukt het niet om sommige apps over te zetten?"</string>
+  <string name="trans_intro_question_7">"7. Waarom starten sommige apps niet op het nieuwe apparaat?"</string>
+  <string name="trans_intro_question_8">"8. Waarom wordt WeChat geschiedenis niet volledig overgezet?"</string>
+  <string name="trans_intro_question_9">"9. Welke items kunnen niet worden overgezet?"</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Accounts en wachtwoorden:</string>
   <string name="trans_intro_title_multiapp">Gegevens van gedupliceerde apps:</string>
