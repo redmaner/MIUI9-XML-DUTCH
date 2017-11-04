@@ -79,6 +79,7 @@
   <string name="alarm_lockscreen_btn">Hij begon aan een rode envelop te pakken</string>
   <string name="alarm_setting_title">Rode alarm instellingen</string>
   <string name="all_address_choose_hint">Alle nummers in deze provincie</string>
+  <string name="already_close_gamebooster">Snelheidsboost voor gamen is uitgeschakeld</string>
   <string name="anim_gamebooster_text">Een momentje…</string>
   <string name="anti_disturb_msg_detail">Schakel alle aanmeldingen uit met uitzondering van inkomende oproepen</string>
   <string name="anti_disturb_msg_title">DND</string>
@@ -394,6 +395,7 @@ in het geval je hem vergeten bent"</string>
   <string name="block_message_number">Berichten: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Oproepen: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">Met succes opgevoerd</string>
+  <string name="boost_stop">Snelheidsboost uitschakelen</string>
   <string name="booster_immediately">Opvoeren</string>
   <string name="booster_suc">Met succes opgevoerd</string>
   <string name="boostering">Snelheid opvoeren…</string>
@@ -557,6 +559,8 @@ in het geval je hem vergeten bent"</string>
   <string name="data_usage_warning_body">Tik om details over dataverbruik weer te geven.</string>
   <string name="data_usage_warning_body_notify">Tik om details te bekijken</string>
   <string name="data_usage_warning_title_notify">Je hebt het datalimiet overschreden</string>
+  <string name="databooster_tips_message">Schakel in om alle SIM kaarten te beperken behalve diegene met mobiele data. Schakel deze functie uit als er tijdens het gamen fouten optreden.</string>
+  <string name="databooster_tips_title">Waarschuwing</string>
   <string name="declaration_dialog_msg">Deze functie kan u helpen om uw verbruik te volgen, maar geeft geen garantie om extra kosten te voorkomen. Voor het beste resultaat stelt u een limiet in.</string>
   <string name="deep_clean_disconnect_data_title">Mobiele data uitschakelen wanneer apparaat is vergrendeld</string>
   <string name="deep_clean_memory_clean_title">Cache wissen wanneer apparaat is vergrendeld</string>
@@ -683,6 +687,7 @@ in het geval je hem vergeten bent"</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">De geïnstalleerde app kan geen verbinding maken met internet via Wi-Fi wanneer deze schakelaar uit staat.</string>
   <string name="five_percent_total_pkg">%s (5%% maandelijkse data)</string>
+  <string name="forbid_autobright_summary">"Schermhelderheid zal hetzelfde blijven als je aan het gamen bent"</string>
   <string name="forbid_autobright_title">Schermhelderheid vastzetten</string>
   <string name="foreground_traffic">Voorgrond %s</string>
   <string name="forget_password_button_text">Wachtwoord vergeten</string>
@@ -704,6 +709,7 @@ in het geval je hem vergeten bent"</string>
   <string name="game_ad_recommendation">Iedereen is aan het spelen</string>
   <string name="game_anti_disturb_msg">Niet storen tijdens gamen</string>
   <string name="game_booster">Gamesnelheid opvoeren</string>
+  <string name="game_booster_close">Snelheid opvoeren voor gamen is uitgeschakeld</string>
   <string name="game_booster_intro">Over Gamesnelheid opvoeren</string>
   <string name="game_booster_jump_webview">Een momentje…</string>
   <string name="game_booster_title">Snelheid opvoeren</string>
@@ -2015,5 +2021,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="wlan_booster">Wi-Fi optimalisatie</string>
   <string name="wlan_change_protection_detail">Niet automatisch overschakelen naar Wi-Fi wanneer u verbonden bent met het mobiele datanetwerk</string>
   <string name="wlan_change_protection_title">Voorkom overschakelen van netwerken</string>
+  <string name="xunyou_net_booster">Netwerk versnellen</string>
+  <string name="xunyou_net_booster_detail">Xunyou services gebruiken om snelheid op te voeren voor gamen</string>
   <string name="xunyou_server_expired">De sessie is verlopen.</string>
 </resources>

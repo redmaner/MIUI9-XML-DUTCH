@@ -21,19 +21,19 @@
         <item quantity="one">%d uur</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">%d items zijn hersteld</item>
-        <item quantity="one">%d item is hersteld</item>
+        <item quantity="other">%d items hersteld</item>
+        <item quantity="one">%d item hersteld</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">%d items zijn geimporteerd en hersteld</item>
-        <item quantity="one">%d item is geimporteerd en hersteld</item>
+        <item quantity="other">%d items geimporteerd en hersteld</item>
+        <item quantity="one">%d item geimporteerd en hersteld</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d items geimporteerd, "</item>
-        <item quantity="one">"%d item geimporteerd, "</item>
+        <item quantity="other">"%d items geimporteerd. "</item>
+        <item quantity="one">"%d item geimporteerd. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d items moeten opnieuw worden geimporteerd</item>
-        <item quantity="one">%d item moet opnieuw worden geimporteerd</item>
+        <item quantity="other">Importeer %d items opnieuw.</item>
+        <item quantity="one">Importeer %d item opnieuw.</item>
     </plurals>
 </resources>
