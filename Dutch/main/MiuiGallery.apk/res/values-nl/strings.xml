@@ -636,10 +636,10 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="other_album">Andere albums</string>
   <string name="other_settings">Extra instellingen</string>
   <string name="owner_album_subtitle">Gedeeld met %1$s personen</string>
-  <string name="people_album_empty_title">Photos can be sorted by people in them</string>
+  <string name="people_album_empty_title">Foto\'s kunnen worden gesorteerd op de mensen die erop staan</string>
   <string name="people_jump_failed">Wacht tot foto\'s zijn gesynchroniseerd met Mi Cloud en probeer opnieuw</string>
-  <string name="people_mark_mode_title">Select \"%s\"</string>
-  <string name="people_mark_mode_title_no_mark_name">Select a person</string>
+  <string name="people_mark_mode_title">Selecteer \"%s\"</string>
+  <string name="people_mark_mode_title_no_mark_name">Selecteer een persoon</string>
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
@@ -651,7 +651,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_editor_crop_and_rotate">Bijsnijden</string>
   <string name="photo_editor_crop_reset">Reset</string>
   <string name="photo_editor_doodle">Tekenen</string>
-  <string name="photo_editor_filter">Filter</string>
   <string name="photo_editor_label">Bewerken</string>
   <string name="photo_editor_long_crop">Bijsnijden</string>
   <string name="photo_editor_miui_beauty">Beautify</string>
@@ -681,7 +680,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_editor_remover">Wissen</string>
   <string name="photo_editor_rotate">Draaien</string>
   <string name="photo_editor_saving">Opslaan…</string>
-  <string name="photo_editor_sticker">Sticker</string>
   <string name="photo_editor_text">Tekst</string>
   <string name="photo_page_save_uri_image_fail">Kon niet opslaan naar galerij</string>
   <string name="photo_page_save_uri_image_ok">Foto opgeslagen in galerij</string>

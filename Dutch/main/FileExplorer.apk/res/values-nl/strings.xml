@@ -338,7 +338,7 @@
   <string name="mtp_device">Media apparaat (MTP)</string>
   <string name="mtp_label">MTP</string>
   <string name="my_follows">Mijn feed</string>
-  <string name="name_empty">Naam invullen.</string>
+  <string name="name_empty">Voer een naam in.</string>
   <string name="need_login">Eerst aanmmelden</string>
   <string name="need_read_storage_permission">Explorer heeft toegang nodig tot de interne opslag van het apparaat om normaal te werken.</string>
   <string name="network_dialog_checkbox_tip">Niet meer tonen</string>

@@ -2047,7 +2047,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_notifications_summary_show">Alle meldingen en inhoud daarvan weergeven</string>
   <string name="lock_screen_notifications_summary_show_profile">Alle werkgerelateerde meldingsinhoud weergeven</string>
   <string name="lock_screen_notifications_title">Wanneer apparaat vergrendeld is</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Nooit wachtwoord nodig.</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig.</string>
   <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig: %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
   <string name="lock_screen_signature_summary">Dit bericht zal worden weergegeven op het vergrendelscherm</string>
@@ -2627,10 +2628,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="open_miui_optimization_title">MIUI optimalisatie inschakelen</string>
   <string name="open_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Annuleren</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Sluiten</string>
-  <string name="open_personal_assistant_dialog_desc">Het zal niet meer mogelijk zijn om de slimme assitent te gebruiken en updates te ontvangen. Nu uitschakelen?"</string>
-  <string name="open_personal_assistant_dialog_title">Slimme assitent uitschakelen</string>
-  <string name="open_personal_assistant_title">Slimme assitent inschakelen</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Uitschakelen</string>
+  <string name="open_personal_assistant_dialog_desc">Het zal niet meer mogelijk zijn om de App vault te gebruiken en updates te ontvangen. Nu uitschakelen?"</string>
+  <string name="open_personal_assistant_dialog_title">App vault uitschakelen</string>
+  <string name="open_personal_assistant_title">App vault inschakelen</string>
   <string name="open_sdcard_optimization_title">Neppe SD kaart optimalisatie inschakelen</string>
   <string name="open_sdcard_optimization_warning_message">Het apparaat zal opnieuw opstarten om de wijziging toe te passen.</string>
   <string name="open_wifi_connect_summary">Tik om details weer te geven</string>
@@ -2743,6 +2744,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="phone_info_label">Apparaatinformatie</string>
   <string name="phone_language">Taal</string>
   <string name="physical_keyboard_title">Fysiek toetsenbord</string>
+  <string name="pick_up_gesture_wakeup_title">Kies een gebaar om te ontwaken</string>
   <string name="picture_color_mode">Beeldkleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
   <string name="pin_failed">Bewerking met PIN code voor SIM kaart mislukt.</string>
