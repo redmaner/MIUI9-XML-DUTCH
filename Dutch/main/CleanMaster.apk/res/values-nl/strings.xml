@@ -161,9 +161,9 @@
   <string name="dialog_msg_add_white_list_error">Kan dit bestand niet toevoegen aan uitzonderingen</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Geselecteerde apps back-uppen en verwijderen?</string>
   <string name="dialog_msg_check_all">Bevestigen om te selecteren dat %1$s %2$d items bevat</string>
-  <string name="dialog_msg_esc_cleanmaster">Opruimscan stoppen?</string>
+  <string name="dialog_msg_esc_cleanmaster">Stoppen met scannen en opruimer afsluiten?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Opruimer is beschadigd.</string>
-  <string name="dialog_msg_stop_scan">Stoppen met afval scannen voordat het klaar is?</string>
+  <string name="dialog_msg_stop_scan">Stoppen met scannen?</string>
   <string name="dialog_msg_uninstall_apps">Deze apps verwijderen?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Deze apps inclusief de gekloonde apps verwijderen?</string>
   <string name="dialog_ok_add_white_list_error">Begrepen</string>

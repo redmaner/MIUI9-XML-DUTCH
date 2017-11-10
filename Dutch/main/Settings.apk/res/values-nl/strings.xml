@@ -34,7 +34,7 @@
   <string name="access_control_app_entry_single">Open app</string>
   <string name="access_control_need_password">"%s is beveiligd"</string>
   <string name="access_control_need_to_unlock">Wachtwoord vereist:</string>
-  <string name="access_control_no_back_footer">Klik [icon] om te verlaten</string>
+  <string name="access_control_no_back_footer">Tik [icoon] om te verlaten</string>
   <string name="access_control_password_title">Wachtwoord</string>
   <string name="access_control_recording_intro_header">Teken een ontgrendelpatroon:</string>
   <string name="access_control_reset_by_account">Log in op uw Mi account om uw wachtwoord te resetten</string>
@@ -2513,7 +2513,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="nfc_se_route_title">Beveiligde element positie</string>
   <string name="nfc_se_wallet_title">Standaard wallet</string>
   <string name="no">Nee</string>
-  <string name="no_account_found">Geen applicatie ondersteunt het toevoegen van accounts</string>
+  <string name="no_account_found">Geen applicatie gevonden die accounts kan toevoegen</string>
   <string name="no_application">Niets</string>
   <string name="no_applications">Geen apps.</string>
   <string name="no_battery_summary">Geen batterijverbruik sinds laatste volledige oplading</string>
@@ -2744,7 +2744,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="phone_info_label">Apparaatinformatie</string>
   <string name="phone_language">Taal</string>
   <string name="physical_keyboard_title">Fysiek toetsenbord</string>
-  <string name="pick_up_gesture_wakeup_title">Kies een gebaar om te ontwaken</string>
+  <string name="pick_up_gesture_wakeup_title">Til apparaat op om te ontwaken</string>
   <string name="picture_color_mode">Beeldkleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
   <string name="pin_failed">Bewerking met PIN code voor SIM kaart mislukt.</string>
@@ -3302,7 +3302,7 @@ Om schermpinning te gebruiken:
   <string name="se_wallet_ese">Mi Pay en NFC transport kaart</string>
   <string name="se_wallet_hce">HCE Wallet gebruiken</string>
   <string name="se_wallet_uicc">Use SIM%1$s Wallet</string>
-  <string name="search_about_settings">"Over telefoon;Model nummer;Android versie;MIUI versie;CPU;RAM;Intern geheugen;Baseband versie;Kernel versie;Bouw nummer"</string>
+  <string name="search_about_settings">"Over telefoon;Model nummer;Android versie;MIUI versie;CPU;RAM;Intern geheugen;Geheugen;Opslag;Interne geheugen;Baseband versie;Kernel versie;Bouw nummer"</string>
   <string name="search_accelerometer_title">Scherm automatisch draaien;Scherm draaien;Orientatie;Portret;Landschap</string>
   <string name="search_access_control">Privacy instellingen;Beveiliging Privacy;Gast;Gast modus</string>
   <string name="search_accessibility_captioning_title">Bijschriften</string>
@@ -3589,7 +3589,7 @@ Om schermpinning te gebruiken:
   <string name="settings_backup">Back-up van instellingen maken</string>
   <string name="settings_backup_summary">Back-up maken van mijn instellingen</string>
   <string name="settings_button">Instellingen</string>
-  <string name="settings_forbidden_message">Deze instelling is uitgeschakeld</string>
+  <string name="settings_forbidden_message">Deze instelling is beperkt</string>
   <string name="settings_label">Instellingen</string>
   <string name="settings_label_launcher">Instellingen</string>
   <string name="settings_license_activity_loading">Laden…</string>
