@@ -127,6 +127,7 @@
   <string name="delete_wild_sims_title">Geselecteerde nummers verwijderen</string>
   <string name="delivery_report_activity">Afleveringsrapport</string>
   <string name="delivery_toast_body">Bericht ontvangen door %s</string>
+  <string name="dialog_message_sms_report">"Spamberichten en informatie over de afzender zullen worden verstuurd aan MIUI wanneer je ze rapporteert. Ze zullen alleen worden gebruikt om MIUI's spamfilters te verbeteren."</string>
   <string name="disable_notifications_dialog_message">Dubbele SMS meldingen van standaardapp voor berichten stoppen?</string>
   <string name="disabled">Uit</string>
   <string name="discard">Afwijzen</string>
@@ -379,7 +380,7 @@
   <string name="pref_hide_verification_code_summary">Eenmalige wachtwoorden in meldingen automatisch verbergen op vergrendelscherm</string>
   <string name="pref_messages_to_save">Stel het aantal berichten om op te slaan</string>
   <string name="pref_mms_settings_title">Multimediaberichten (MMS)</string>
-  <string name="pref_msg_trash_bin_title">Recent verwijderde berichten</string>
+  <string name="pref_msg_trash_bin_title">Verwijderde SMS</string>
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>
@@ -392,6 +393,7 @@
   <string name="pref_sms_storage_title">Opslag</string>
   <string name="pref_sms_theme_title">Thema-instellingen</string>
   <string name="pref_summary_allow_si_sl_push">Berichten toestaan om inhoud van websites te laden (SI/SL)</string>
+  <string name="pref_summary_allow_upload_message_info">""Spamberichten en informatie over de afzender zullen worden verstuurd aan MIUI wanneer je ze rapporteert."</string>
   <string name="pref_summary_auto_delete">Oude berichten verwijderen wanneer limiet is bereikt</string>
   <string name="pref_summary_delete_limit">%1$s berichten per conversatie</string>
   <string name="pref_summary_delivery_reports">Afleverrapporten voor elk verzonden bericht</string>
@@ -409,6 +411,7 @@
   <string name="pref_system_title">Systeem</string>
   <string name="pref_title_about_smart_sms">Over slimme berichten partner</string>
   <string name="pref_title_allow_si_sl_push">WAP pushberichten toestaan (SI/SL)</string>
+  <string name="pref_title_allow_upload_message_info">Spamberichten uploaden</string>
   <string name="pref_title_auto_delete">Oude berichten verwijderen</string>
   <string name="pref_title_card_format">Deel kaartindeling</string>
   <string name="pref_title_delivery_reports">Afleverrapporten</string>
@@ -561,6 +564,7 @@
   <string name="sms_full_title">SMS geheugen vol</string>
   <string name="sms_rejected_body">Een inkomend bericht werd geweigerd.</string>
   <string name="sms_rejected_title">Bericht geweigerd</string>
+  <string name="sms_report">Spamberichten rapporteren</string>
   <string name="sms_report_dialog_content">Kon rapport niet verzenden, probeer opnieuw.</string>
   <string name="sms_report_dialog_retry">Probeer opnieuw</string>
   <string name="sms_report_dialog_title">Probeer opnieuw</string>
