@@ -25,7 +25,7 @@
   <string name="account_none">Geen</string>
   <string name="account_none_binded_info">Geen</string>
   <string name="account_none_user_name">Geen</string>
-  <string name="account_notification_message">Xiaomi account ID is verlopen, log opnieuw in.</string>
+  <string name="account_notification_message">Sessie is verlopen, log opnieuw in.</string>
   <string name="account_protection">Accountbescherming</string>
   <string name="account_protection_off">Uit</string>
   <string name="account_protection_on">Aan</string>

@@ -1796,7 +1796,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="install_applications_title">Alle appbronnen toestaan</string>
   <string name="install_no_market_app_summary">Sta installatie van apps toe van andere bronnen dan de App Store</string>
   <string name="install_no_market_app_title">Onbekende bronnen</string>
-  <string name="install_preinstall_app">Apps laden…</string>
+  <string name="install_preinstall_app">Regio wisselen…</string>
   <string name="install_text">Installeren</string>
   <string name="install_unknown_applications">Toestaan dat apps uit andere bronnen dan de Play Store worden geïnstalleerd</string>
   <string name="install_unknown_applications_title">Hiermee kunt u apps van andere bronnen dan Google Play installeren</string>
@@ -2047,8 +2047,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_notifications_summary_show">Alle meldingen en inhoud daarvan weergeven</string>
   <string name="lock_screen_notifications_summary_show_profile">Alle werkgerelateerde meldingsinhoud weergeven</string>
   <string name="lock_screen_notifications_title">Wanneer apparaat vergrendeld is</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Nooit wachtwoord nodig.</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig.</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Nooit wachtwoord nodig</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig</string>
   <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig: %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
   <string name="lock_screen_signature_summary">Dit bericht zal worden weergegeven op het vergrendelscherm</string>
@@ -2794,7 +2794,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pre_installed_application">Voorgeïnstalleerde apps</string>
   <string name="pref_button_light">Knopverlichting</string>
-  <string name="pref_button_light_summary">Menu, Home en Terug knop verlichten</string>
+  <string name="pref_button_light_summary">Menu, %1$s, en terugknop verlichten</string>
+  <string name="pref_button_light_summary_sub">Home,</string>
   <string name="pref_edge_handgrip">Edge besturing</string>
   <string name="pref_operational_key">Navigatieknoppen</string>
   <string name="pref_title_lang_selection">Language preferences</string>
@@ -4281,11 +4282,11 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_unlock_none_summary">Geen beveiliging</string>
   <string name="unlock_set_unlock_none_title">Geen</string>
   <string name="unlock_set_unlock_off_title">Geen</string>
-  <string name="unlock_set_unlock_password_summary">Voer tenminste 4 letters of cijfers in</string>
+  <string name="unlock_set_unlock_password_summary">Voer tenminste 4 letters of cijfers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_password_title">Wachtwoord</string>
   <string name="unlock_set_unlock_pattern_summary">Teken een simpel patroon</string>
   <string name="unlock_set_unlock_pattern_title">Patroon</string>
-  <string name="unlock_set_unlock_pin_summary">Voer 4 cijfers in</string>
+  <string name="unlock_set_unlock_pin_summary">Voer 4 cijfers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Schermwachtwoord instellen voor wachtwoordbeveiliging</string>
   <string name="unlock_setup_wizard_fingerprint_details">Als u schermvergrendeling eenmaal hebt ingesteld, kunt u ook uw vingerafdruk instellen in instellingen &gt; Veiligheid.</string>

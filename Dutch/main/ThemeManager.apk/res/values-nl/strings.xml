@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_info">Ik</string>
+  <string name="account_info">Mijn profiel</string>
   <string name="account_name_not_login">Inloggen</string>
   <string name="account_unactivated">Account niet geactiveerd</string>
   <string name="ad_app_download_start">Download starten…</string>
@@ -39,7 +39,7 @@
   <string name="component_title_wallpaper">Achtergronden</string>
   <string name="current_using_desktop_wallpaper_text">Startscherm</string>
   <string name="current_using_lockscreen_wallpaper_text">Vergrendelscherm</string>
-  <string name="current_version_incompatible">Versie wordt niet ondersteund</string>
+  <string name="current_version_incompatible">Dit thema wordt niet ondersteund</string>
   <string name="deleting">Verwijderen…</string>
   <string name="description_author">Auteur:</string>
   <string name="description_designer">Ontwerper</string>
@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Dit geschenk verzenden?</string>
   <string name="gift_use_fail_dlg_title">Er ging iets fout</string>
   <string name="gift_used">Verzenden</string>
-  <string name="hide_free">"Gratis verbergen "</string>
-  <string name="hide_incompatible">"Niet ondersteund verbergen "</string>
+  <string name="hide_free">Gratis thema\'s verbergen</string>
+  <string name="hide_incompatible">Thema\'s die niet ondersteund worden verbergen</string>
   <string name="home_apply_failured">Kan achtergrond niet toepassen op het startscherm</string>
   <string name="home_apply_success">Achtergrond toegepast op het startscherm</string>
   <string name="in_the_end">Geen items meer om te tonen</string>
@@ -144,8 +144,8 @@
   <string name="online_precust_scenery">Landschap</string>
   <string name="online_precust_tiny">Klein</string>
   <string name="online_search_hint">Zoeken naar online bronnen</string>
-  <string name="present_local_themes">Mijn themabronnen</string>
-  <string name="present_official_themes">Officiele thema\'s</string>
+  <string name="present_local_themes">Mijn thema\'s</string>
+  <string name="present_official_themes">Onze keuze</string>
   <string name="present_online_themes">Verkrijg meer onlinethema\'s</string>
   <string name="provision_default_theme_title">Standaard</string>
   <string name="provision_loading_tips">Een momentje…</string>
@@ -155,7 +155,7 @@
   <string name="purchased_list_current">Geoptimaliseerde thema\'s</string>
   <string name="purchased_list_legacy">Legacy thema\'s</string>
   <string name="recently_used">Recent gebruikt</string>
-  <string name="region_not_support">Sorry, thema\'s worden niet ondersteund in uw land.</string>
+  <string name="region_not_support">Thema\'s worden niet ondersteund in uw land.</string>
   <string name="reload">Probeer opnieuw</string>
   <string name="resource_account_abnormal_state">Accountfout, probeer het later opnieuw.</string>
   <string name="resource_account_fail_to_add">Kan account niet toevoegen</string>

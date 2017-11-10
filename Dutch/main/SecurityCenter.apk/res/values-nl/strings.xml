@@ -180,7 +180,7 @@
   <string name="app_manager_has_not_data">Geen data</string>
   <string name="app_manager_have_not_consume">Geen</string>
   <string name="app_manager_hide_system_server">Systeemdiensten verbergen</string>
-  <string name="app_manager_install_other_app">Installeer apps onbekende bronnen</string>
+  <string name="app_manager_install_other_app">Apps van onbekende bronnen installeren</string>
   <string name="app_manager_instruction">Instructie</string>
   <string name="app_manager_loading_data">Gegevens laden…</string>
   <string name="app_manager_manage_space">Ruimte beheren</string>

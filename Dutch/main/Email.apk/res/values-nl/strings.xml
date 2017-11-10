@@ -40,6 +40,8 @@
 Nu bijwerken?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Uw aanmelding bij %s is mislukt. De server retourneerde het volgende bericht: %s Wilt u uw gebruikersnaam en/of wachtwoord bijwerken?</string>
   <string name="account_settings_login_dialog_title">Kan niet inloggen</string>
+  <string name="account_settings_mail_check_frequency_dialog_title">Je moet Mail handmatig vernieuwen om uw e-mails te synchroniseren</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Wanneer je voor handmatig kiest, moet je handmatig vernieuwen om berichten en kalender te synchroniseren</string>
   <string name="account_settings_mail_check_frequency_label">Frequentie</string>
   <string name="account_settings_mibill_resolve_label">Rekeningen automatisch beheren</string>
   <string name="account_settings_name_label">Gebruikersnaam</string>
@@ -49,6 +51,7 @@ Nu bijwerken?"</string>
   <string name="account_settings_param">Accountinstellingen</string>
   <string name="account_settings_policies">Beveiligingsbeleid</string>
   <string name="account_settings_preference_add_account">E-mailaccount toevoegen</string>
+  <string name="account_settings_preference_att_save_path">Standaardlocatie voor bijlagen</string>
   <string name="account_settings_preference_notify">Melding</string>
   <string name="account_settings_retry_label">Poging tot synchroniseren</string>
   <string name="account_settings_retry_summary">Raak aan om account te synchroniseren</string>
@@ -71,10 +74,10 @@ Nu bijwerken?"</string>
   <string name="account_setup_address_label">E-mail</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Controleer of de gebruikersnaam, het wachtwoord en de accountinstellingen correct zijn.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Kon account niet instellen</string>
-  <string name="account_setup_basics_email_label">E-mailadres</string>
+  <string name="account_setup_basics_email_label">Voer e-mailadres in</string>
   <string name="account_setup_basics_login_gmail_without_proxy">De huidige netwerkverbinding gebruiken</string>
   <string name="account_setup_basics_manual_setup_action">Handmatig instellen</string>
-  <string name="account_setup_basics_mi_mail_login_help">Inloggen Mi Mail succesvol. Controleer de SMS en activeer de link om mail te versturen en ontvangen.</string>
+  <string name="account_setup_basics_mi_mail_login_help">Mogelijk moet je je account verifiëren met een SMS om e-mails te ontvangen</string>
   <string name="account_setup_basics_password_label">Wachtwoord</string>
   <string name="account_setup_basics_title">Accountinstellingen</string>
   <string name="account_setup_check_settings_check_incoming_msg">"    Serverinstellingen verifiëren…"</string>
@@ -227,6 +230,7 @@ Nu bijwerken?"</string>
   <string name="auto_remind_unbind">Stop</string>
   <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
   <string name="automatic_remind_text">Automatisch herinneren</string>
+  <string name="back">Terug</string>
   <string name="bank_card_detail">Creditcardgegevens</string>
   <string name="battery_saver">Energiebesparende modus</string>
   <string name="battery_saver_keywords">Energiebesparen;mail batterij</string>
@@ -364,8 +368,8 @@ Nu bijwerken?"</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server fout.</string>
   <string name="dialog_insufficient_space_on_external">Kan bijlage niet downloaden. Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_insufficient_space_on_internal">Niet genoeg ruimte op interne opslag.</string>
-  <string name="dialog_system_auto_sync_account_no_open">Account synchronisatie is niet ingeschakeld en berichten kunnen niet automatisch gesynchroniseerd worden</string>
-  <string name="dialog_system_auto_sync_master_no_open">Systeem synchronisatie is niet ingeschakeld en berichten kunnen niet automatisch gesynchroniseerd worden</string>
+  <string name="dialog_system_auto_sync_account_no_open">Schakel accountsynchronisatie in om e-mails automatisch te ontvangen</string>
+  <string name="dialog_system_auto_sync_master_no_open">Schakel synchronisatie in om e-mails automatisch te ontvangen</string>
   <string name="disable_admin_warning">"WAARSCHUWING: als u de toestemming van de E-mailapp voor het beheren van uw apparaat uitschakelt, worden alle e-mailaccounts verwijderd waarvoor deze rechten vereist zijn, samen met de bijbehorende  berichten, contacten, agenda afspraken en andere gegevens."</string>
   <string name="discard">Verwijderen</string>
   <string name="discard_drafts">Concepten verwijderen</string>
@@ -402,6 +406,7 @@ Nu bijwerken?"</string>
   <string name="email_address">E-mailadres</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
+  <string name="eml_parse_message">eml bestanden oplossen, even geduld…</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -420,6 +425,7 @@ Nu bijwerken?"</string>
   <string name="expand_recipient_details">Ontvangersdetails uitvouwen</string>
   <string name="fail_get_email_message">Bericht ontvangen mislukt.</string>
   <string name="failed">Kan afbeelding niet laden</string>
+  <string name="failed_parse_eml_file">Email parseren mislukt, probeer opnieuw</string>
   <string name="failed_read_phone_state_permission">"Geen toestemming om toegang te krijgen tot telefoonstaat"</string>
   <string name="failed_read_write_calendar_permission">"Geen toestemming om toegang te krijgen tot kalender"</string>
   <string name="failed_read_write_contacts_permission">"Geen toestemming om toegang te krijgen tot contact"</string>
@@ -430,11 +436,14 @@ Nu bijwerken?"</string>
   <string name="feedback_user_edit_tag">Van MIUI </string>
   <string name="fetch_bank_sender_list_failure">Kon geen informatie verkrijgen</string>
   <string name="fetching_attachment">Bijlage ophalen</string>
+  <string name="file_defailt_save_path">Bijlagen worden standaard opgeslagen in %s. Je kan de map wijzigen in instellingen.</string>
+  <string name="file_default_save_path_title">Standaardlocatie voor bijlagen</string>
   <string name="file_deleted_success">Bestand verwijderd</string>
   <string name="file_not_found">Kon bestand niet vinden</string>
   <string name="file_not_found_redownload">Kon bestand niet vinden</string>
   <string name="file_rar_not_support">Kan versleutelde rar bestanden niet openen</string>
-  <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="file_save_path_dialog_cancel">Begrepen</string>
+  <string name="file_save_path_dialog_ok">Nu wijzigen</string>
   <string name="first_quick_default_reply">Tik op de knop om \"%s\" te verzenden naar alle personen in de conversatie</string>
   <string name="float_window_content">Gedetecteerd dat u de mailbox gebruikt, klik op Bevestig voor het automatisch invullen van 139 E-mailaccount en wachtwoord.</string>
   <string name="float_window_info">"Bij het configureren van de 139 mailbox, gebruik de telefoon niet, bij configuratiefouten."</string>
@@ -509,6 +518,7 @@ Nu bijwerken?"</string>
   <string name="help_config">Zelf configuratie</string>
   <string name="hide_atts_remaining">%1$d bijlagen verbergen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
+  <string name="hide_password">Wachtwoord verbergen</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
   <string name="imap_password_error">Wachtwoord van de inkomende e-mailserver is fout</string>
   <string name="import_button_text">Importeren</string>
@@ -539,7 +549,7 @@ Nu bijwerken?"</string>
   <string name="long_string">laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaang</string>
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">Deze e-mail is te groot om te laden, kan slechts een deel weergeven, probeer later op de PC</string>
-  <string name="mail_description_content">E-mail is een mailclient die meerdere mailboxen kan beheren, berichten verzenden en ontvangen en kalender en contacten kan synchroniseren. Please confirm that you will abandon the e-mail provided by the relevant features and services, including the exchange server to synchronize contacts and calendar data.</string>
+  <string name="mail_description_content">Mail is een e-mailclient die meerdere accounts kan beheren, e-mails kan verzenden en ontvangen en kalendergegevens en contacten kan synchroniseren. Zorg ervoor dat je zonder deze functies kan voordat je deze app verwijderd. Uw Exchange contacten en kalendergegevens zullen ook worden verwijderd.</string>
   <string name="mail_description_title">E-mailintroductie</string>
   <string name="mail_header_network_not_available">Je hebt geen netwerkverbinding</string>
   <string name="mailbox_list_account_selector_combined_view">Gecombineerd account</string>
@@ -588,7 +598,7 @@ Nu bijwerken?"</string>
          Wanneer:
 %s (terugkerend)
      "</string>
-  <string name="meeting_responded_failed">Fout bij beantwoorden</string>
+  <string name="meeting_responded_failed">Geen reactie</string>
   <string name="meeting_tentative">"
          Tentatieve:
 %s "</string>
@@ -645,6 +655,7 @@ Nu bijwerken?"</string>
   <string name="more_context">Meer</string>
   <string name="move_to_selection_dialog_title">Verplaatsen naar een andere map</string>
   <string name="mute">Dempen</string>
+  <string name="navigation_menu">Navigatiemenu</string>
   <string name="network_error">Geen verbinding</string>
   <string name="network_invaild">Kan niet verbinden netwerk</string>
   <string name="network_not_available">Netwerkfout, controleer het netwerk</string>
@@ -688,10 +699,10 @@ Probeer een andere inbox."</string>
   <string name="oauth_login_continue_qq">Verkrijg een wachtwoord en meld aan bij &gt;</string>
   <string name="ok">Ok</string>
   <string name="okay_action">Ok</string>
-  <string name="open_calendar_and_contacts_permission">Activeer de kalender- en contactentoestemming in systeeminstellingen</string>
-  <string name="open_external_storage_and_calendar_permission">Activeer de externe opslag- en kalendertoestemming in systeeminstellingen</string>
-  <string name="open_external_storage_and_contacts_and_calendar_permission">Activeer de externe opslag, kalender en contactentoestemming in systeeminstellingen</string>
-  <string name="open_external_storage_and_contacts_permission">Activeer de externe opslag- en contactentoestemming in systeeminstellingen</string>
+  <string name="open_calendar_and_contacts_permission">Sta toe dat Mail de contacten en kalendergegevens kan lezen in instellingen</string>
+  <string name="open_external_storage_and_calendar_permission">Sta toe dat Mail de opslag en kalendergegevens kan lezen in instellingen</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Sta toe dat Mail de contacten, opslag en kalendergegevens kan lezen in instellingen</string>
+  <string name="open_external_storage_and_contacts_permission">Sta toe dat Mail de opslag en contacten kan lezen in instellingen</string>
   <string name="outbox_alert_button_no_resend">Niet verzenden</string>
   <string name="outbox_alert_button_resend">Opnieuw verzenden</string>
   <string name="outbox_alert_certificate_error">Contacteer je email systeemadministrator en update je certificaat.</string>
@@ -973,6 +984,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="shortcut_name_title">Snelkoppeling naar map een naam geven</string>
   <string name="show_elided">▶ Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="show_images">Afbeeldingen weergeven</string>
+  <string name="show_password">Wachtwoord tonen</string>
   <string name="silent_ringtone">Stil</string>
   <string name="sms_tip">Authenticatie mislukt, controleer of de antivirussoftware SMS onderschept</string>
   <string name="smtp_password_error">Het wachtwoord van de uitgaande mail server is ongeldig</string>
@@ -988,10 +1000,10 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="str_select_all">Alles selecteren</string>
   <string name="str_select_none">Alles deselecteren</string>
   <string name="subject_hint">Onderwerp</string>
-  <string name="sync_contacts_fail_per_content">Vraag contactentoestemming. Klik op toestaan.</string>
-  <string name="sync_contacts_fail_per_title">Synchroniseren van contacten mislukt</string>
-  <string name="sync_contacts_fail_permission">Synchroniseren van contacten mislukt. Toegang tot telefooncontacten is niet ingeschakeld, open het in instellingen - toestemmingenbeheer</string>
-  <string name="sync_contacts_req_per_ignored">Telefooncontact is niet open en kan contacten niet synchroniseren</string>
+  <string name="sync_contacts_fail_per_content">Tik om toegang te geven tot contacten</string>
+  <string name="sync_contacts_fail_per_title">Kon contacten niet synchroniseren</string>
+  <string name="sync_contacts_fail_permission">Kon contacten niet synchroniseren, sta toe dat Mail toegang heeft tot contacten in instellingen</string>
+  <string name="sync_contacts_req_per_ignored">Sta toe dat Mail toegang heeft tot contacten om te synchroniseren</string>
   <string name="sync_error">Kon niet synchroniseren.</string>
   <string name="sync_error_message">Uw apparaat heeft niet voldoende opslagruimte om te synchroniseren.</string>
   <string name="syncing_wait_restart">Try again</string>
@@ -1004,23 +1016,25 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="system_folders_trash_dlg">Prullenbak van uw server selecteren</string>
   <string name="system_folders_trash_summary">Prullenbak van uw server selecteren</string>
   <string name="system_folders_trash_title">Prullenbak</string>
-  <string name="system_setup_open_error">"Kan de synchronisatie van de account niet oproepen, zet het systeem 'instellen' in het synchronisatie mailaccount aan"</string>
-  <string name="tablet">Tablet</string>
+  <string name="system_root_path">Instellingen voor interne opslag</string>
+  <string name="system_security_open_error">Om beveiligingsinstellingen aan te passen, moet je Mail de vereiste toestemmingen geven in instellingen</string>
+  <string name="system_setup_open_error">Schakel synchronisatie voor Mail in in instellingen</string>
   <string name="tap_to_configure">Raak aan om in te stellen</string>
   <string name="tap_to_enable_sync">Raak aan om in te schakelen.</string>
   <string name="to">Aan</string>
   <string name="to_heading">"Aan: "</string>
   <string name="toast_bar_fail_synchronization">Kan niet verbinden met netwerk</string>
-  <string name="toast_bar_insufficient_memory_space">Niet genoeg opslag ruimte</string>
-  <string name="toast_bar_invalid_account">Sessie verlopen, meld opnieuw aan.</string>
+  <string name="toast_bar_insufficient_memory_space">Kan geen e-mails ontvangen. Niet genoeg opslagruimte.</string>
+  <string name="toast_bar_invalid_account">Accountinfo is verlopen. Tik om opnieuw aan te melden.</string>
   <string name="toast_bar_no_connection_network">Er is geen internetverbinding</string>
-  <string name="toast_bar_open_gmail_synchronization">Tik om de  proxyserver te gebruiken voor Gmail</string>
-  <string name="toastbar_calendar_and_contacts_permission_switch_close">Calendar and contact permissions are close. Calendar and contacts cannot be synchronized</string>
-  <string name="toastbar_calendar_permission_switch_close">Calendar permission is close. Calendar cannot synchronized</string>
-  <string name="toastbar_contacts_permission_switch_close">The contact permission is close. The contacts cannot synchronized</string>
-  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Calendar and contacts synchronization switch is close. Calendar and contacts cannot be synchronized</string>
-  <string name="toastbar_local_calendar_sync_switch_close">The calendar sync switch is close. The calendar cannot be synchronized</string>
-  <string name="toastbar_local_contacts_sync_swtich_close">The contact sync switch is close. The contacts cannot be synchronized</string>
+  <string name="toast_bar_open_gmail_synchronization">"Kon niet verbinden met Gmail. Schakel Gmailproxy in."</string>
+  <string name="toast_bar_send_fail_remind">"Kon e-mail niet versturen. Het is opgeslagen in \"Postvak UIT\"."</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">Om kalendergegevens en contacten te synchroniseren moet je Mail de vereiste toestemmingen geven in instellingen</string>
+  <string name="toastbar_calendar_permission_switch_close">Om kalenderherinneringen te ontvangen moet je Mail de vereiste toestemmingen geven in instellingen</string>
+  <string name="toastbar_contacts_permission_switch_close">Om contacten toe te voegen moet je Mail de vereiste toestemmingen geven in instellingen</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Schakel synchronisatie voor kalender en contacten in om kalender en contacten te synchroniseren</string>
+  <string name="toastbar_local_calendar_sync_switch_close">Schakel synchronisatie voor kalender in om kalenderherinneringen te ontvangen</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Schakel synchronisatie voor contacten in om contacten toe te voegen</string>
   <string name="today_text">Vandaag</string>
   <string name="too_large_to_attach_additional">Bestand niet bijgevoegd. Limiet van %1$s bereikt.</string>
   <string name="too_large_to_attach_multiple">Een of meer bestanden niet bijgevoegd. Limiet van %1$s.</string>

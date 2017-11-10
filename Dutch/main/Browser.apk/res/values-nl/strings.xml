@@ -23,14 +23,14 @@
   <string name="action_menu_account_not_login_hint">Log in om te synchroniseren met Mi Cloud</string>
   <string name="action_menu_bookshelf">Boekenplank</string>
   <string name="action_menu_current_version">Huidige versie</string>
-  <string name="action_menu_request_desktop_site">Desktopversie opvragen</string>
-  <string name="action_menu_request_desktop_site_off">Desktopversie opvragen/uit</string>
-  <string name="action_menu_request_desktop_site_on">Desktopversie opvragen/aan</string>
+  <string name="action_menu_request_desktop_site">Websitetoegang</string>
+  <string name="action_menu_request_desktop_site_off">Websitetoegang is uitgeschakeld</string>
+  <string name="action_menu_request_desktop_site_on">Websitetoegang is ingeschakeld</string>
   <string name="action_menu_text_add_bookmark">Bladwijzer toevoegen</string>
   <string name="action_menu_text_bandwidth">Databespaarder</string>
   <string name="action_menu_text_bandwidth_off">Databespaarder</string>
   <string name="action_menu_text_bandwidth_on">Databespaarder</string>
-  <string name="action_menu_text_bookmark_add_off">Er kan geen webpagina worden toegevoegd.</string>
+  <string name="action_menu_text_bookmark_add_off">Kon website niet toevoegen.</string>
   <string name="action_menu_text_bookmark_added">Bladwijzer toegevoegd</string>
   <string name="action_menu_text_copy_url">URL kopiëren</string>
   <string name="action_menu_text_create_qr_code">QR code</string>
@@ -65,7 +65,7 @@
   <string name="add_favorites_to">Toevoegen aan favorieten</string>
   <string name="add_new_bookmark">Bladwijzer toevoegen</string>
   <string name="add_new_quicklink">Toevoegen aan startpagina</string>
-  <string name="add_pwa_to_homescreen">Deze pagina toevoegen aan het startscherm?</string>
+  <string name="add_pwa_to_homescreen">Een snelkoppeling toevoegen aan het startscherm?</string>
   <string name="add_ql_bm_title">Opslaan</string>
   <string name="add_quicklink_to_popular">Toevoegen aan startpagina</string>
   <string name="add_quicklinks">Toevoegen</string>
@@ -155,7 +155,7 @@
   <string name="close_cloud_tab_tip">Cloudtabbladen sluiten op %s?</string>
   <string name="cloud_loading_tips">Naar beneden vegen om te synchroniseren</string>
   <string name="cloud_no_new_data_toast">Alles is up to date</string>
-  <string name="cloud_sync_closed_toast">Kan niet updaten omdat synchroniseren is uitgeschakeld</string>
+  <string name="cloud_sync_closed_toast">Schakel synchronisatie in om te updaten</string>
   <string name="cloud_sync_failed_toast">Kon niet updaten</string>
   <string name="cloud_tab">Cloudtabbladen</string>
   <string name="cloud_time_tips">Laatste synchronisatie</string>
@@ -294,8 +294,8 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="empty_app_name">andere app</string>
   <string name="empty_bookmark">Leeg</string>
   <string name="empty_cloud_tab_login_hint">Geen cloudtabbladen</string>
-  <string name="empty_cloud_tab_logout_hint">"Login Mi Account
- tabbladen geopend op andere apparaten worden hier getoond"</string>
+  <string name="empty_cloud_tab_logout_hint">"Log in op uw Mi Account
+ om geopende tabs van andere apparaten te zien."</string>
   <string name="empty_history_hint">Geschiedenis is leeg</string>
   <string name="empty_snapshot_hint">Leeg</string>
   <string name="enable_geolocation_confirm_message">Locatiediensten uitschakelen heeft invloed op de aanbevelingen die je ontvangt.</string>
@@ -568,12 +568,12 @@ Deze pagina verlaten?"</string>
   <string name="pay_failed_toast">Betaling mislukt</string>
   <string name="pay_success_toast">Betaling voltooid</string>
   <string name="permission_alert_window">Pop-up vensters toestaan om deze functie te gebruiken</string>
-  <string name="permission_notification">meldingen sturen</string>
+  <string name="permission_notification">meldingen sturen.</string>
   <string name="permission_unknown">Onbekende optie</string>
-  <string name="permissions_prompt_message">"%s wil "</string>
+  <string name="permissions_prompt_message">%s wil</string>
   <string name="popup_window_attempt">Deze site toestaan een pop-upvenster te openen?</string>
   <string name="positive_confirm_message">Toch uitschakelen</string>
-  <string name="pref_accept_quicklink_push">Startpagina drukken</string>
+  <string name="pref_accept_quicklink_push">Nieuwsfeed</string>
   <string name="pref_accessibility">Toegankelijkheid</string>
   <string name="pref_accessibility_title">Toegankelijkheid</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Bij het invoeren van de adresbalk, kunnen veel gebruikte lettercombinaties ingevoerd worden met één toetsaanslag</string>
@@ -613,7 +613,7 @@ Deze pagina verlaten?"</string>
   <string name="pref_extras_reset_default_summary">Standaardinstellingen herstellen</string>
   <string name="pref_extras_reset_default_title">Overig</string>
   <string name="pref_extras_send_feedback">Feedback versturen</string>
-  <string name="pref_extras_title">Geavanceerde instellingen</string>
+  <string name="pref_extras_title">Extra instellingen</string>
   <string name="pref_extras_title_version">Versie-info</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Bestanden opslaan op standaardlocatie"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Standaardlocatie herstellen</string>
@@ -684,14 +684,14 @@ Deze pagina verlaten?"</string>
   <string name="progress_dialog_setting_wallpaper">Achtergrond instellen…</string>
   <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen</string>
   <string name="pull_to_refresh_release_label">Loslaten om naar de aanbevolen te gaan en te vernieuwen</string>
-  <string name="pwa_app_name">Webapp</string>
+  <string name="pwa_app_name">Webapps</string>
   <string name="qr_code_title">QR Code</string>
   <string name="qr_description">QR code scannen</string>
   <string name="quicklink_bookmark_save">Opslaan naar</string>
   <string name="quicklink_cannot_save_url">Deze URL kan niet toegevoegd worden</string>
   <string name="quicklink_folder_text">Topapps</string>
   <string name="quicklink_not_saved">Kon site niet toevoegen aan startpagina</string>
-  <string name="quicklink_push_confirm_message">Deze functie uitschakelen zal invloed hebben op startscherm drukken.</string>
+  <string name="quicklink_push_confirm_message">Als je deze functie uitschakelt zal je feed geen updates ontvangen. Nu uitschakelen?</string>
   <string name="quicklink_saved">Site toegevoegd aan startpagina</string>
   <string name="quicklink_saved_before">Deze site is al toegevoegd</string>
   <string name="quicklink_user_define_webpage_title">Naam</string>
@@ -714,7 +714,7 @@ Deze pagina verlaten?"</string>
   <string name="readmode_recommend_message">U heeft alle hoofdstukken van dit boek gelezen. Selecteer een ander boek."</string>
   <string name="readmode_refresh">Vernieuwen</string>
   <string name="readmodelist_bookmarks_to_show">Leeslijst</string>
-  <string name="refuse_permissions_request">Weigeren</string>
+  <string name="refuse_permissions_request">Beperken</string>
   <string name="remember_passwords_confirm_message">Deze functie uitschakelen zal effect hebben op uw verbruik.</string>
   <string name="remove_bookmark">Bladwijzer verwijderen</string>
   <string name="remove_bookmark_group">Uit groep verwijderen</string>
@@ -799,7 +799,7 @@ Deze pagina verlaten?"</string>
   <string name="skip_current_version">Deze versie overslaan</string>
   <string name="snapshot">Lokaal</string>
   <string name="snapshot_failed">Kon pagina niet opslaan</string>
-  <string name="snapshot_successed">Open bladwijzers/geschiedenis-&gt;LOKAAL om pagina te bekijken</string>
+  <string name="snapshot_successed">Open Bladwijzers &amp; Geschiedenis -&gt; LOKAAL om pagina te bekijken</string>
   <string name="ssl_bad_clock_date_settings">Datum instellen</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Een priveverbinding met %s1 kan niet worden opgezet omdat de datum en tijd van uw apparaat (%s2) verkeerd zijn ingesteld."</string>
   <string name="ssl_certificate">Veiligheidscertificaat</string>
@@ -882,7 +882,7 @@ Deze pagina verlaten?"</string>
   <string name="version_check_button_no_network">Kan niet verbinden met netwerk</string>
   <string name="version_check_button_resume_download">Hervat download</string>
   <string name="version_check_button_update">Update</string>
-  <string name="version_check_failed">Mislukt om op updates te controleren</string>
+  <string name="version_check_failed">Kon niet controleren voor updates</string>
   <string name="version_dialog_buttion_ok">OK</string>
   <string name="version_dialog_buttion_update">Update</string>
   <string name="version_update_file_download_toast">Downloaden</string>
