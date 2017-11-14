@@ -44,12 +44,12 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometer per uur</string>
   <string name="global_network_confirm_content">Het converteren van eenheden heeft verbinding met internet nodig om te werken.</string>
-  <string name="golbal_search_calculator_setting">Calculator;Calculatorinstellingen;Instellingen</string>
-  <string name="golbal_search_path_calculator_setting">Systeemapps/Calculator/Instellingen</string>
+  <string name="golbal_search_calculator_setting">Rekenmachine;Rekenmachine-instellingen;Instellingen</string>
+  <string name="golbal_search_path_calculator_setting">Systeemapps/Rekenmachine/Instellingen</string>
   <string name="home_title_calculator">Rekenmachine</string>
   <string name="item_title_aa_payment">De rekening delen</string>
   <string name="item_title_area_conversion">Gebied</string>
-  <string name="item_title_calculator">Calculator</string>
+  <string name="item_title_calculator">Rekenmachine</string>
   <string name="item_title_currency">Valuta</string>
   <string name="item_title_dress_size">Kledingmaat</string>
   <string name="item_title_length_conversion">Lengte</string>
