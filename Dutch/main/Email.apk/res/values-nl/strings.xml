@@ -41,8 +41,8 @@ Nu bijwerken?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Uw aanmelding bij %s is mislukt. De server retourneerde het volgende bericht: %s Wilt u uw gebruikersnaam en/of wachtwoord bijwerken?</string>
   <string name="account_settings_login_dialog_title">Kan niet inloggen</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Je moet Mail handmatig vernieuwen om uw e-mails te synchroniseren</string>
-  <string name="account_settings_mail_check_frequency_dialog_title_eas">Wanneer je voor handmatig kiest, moet je handmatig vernieuwen om berichten en kalender te synchroniseren</string>
-  <string name="account_settings_mail_check_frequency_label">Frequentie</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Je moet Mail handmatig synchroniseren om berichten en kalendergegevens te synchroniseren.</string>
+  <string name="account_settings_mail_check_frequency_label">Frequentie voor synchronisatie</string>
   <string name="account_settings_mibill_resolve_label">Rekeningen automatisch beheren</string>
   <string name="account_settings_name_label">Gebruikersnaam</string>
   <string name="account_settings_notifications">Meldingen</string>
@@ -80,8 +80,8 @@ Nu bijwerken?"</string>
   <string name="account_setup_basics_mi_mail_login_help">Mogelijk moet je je account verifiëren met een SMS om e-mails te ontvangen</string>
   <string name="account_setup_basics_password_label">Wachtwoord</string>
   <string name="account_setup_basics_title">Accountinstellingen</string>
-  <string name="account_setup_check_settings_check_incoming_msg">"    Serverinstellingen verifiëren…"</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">"    SMTP instellingen verifiëren…"</string>
+  <string name="account_setup_check_settings_check_incoming_msg">Serverinstellingen verifiëren…</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">MTP instellingen verifiëren…</string>
   <string name="account_setup_check_settings_retr_info_msg">"    Accountinformatie ophalen…"</string>
   <string name="account_setup_correct_address_tips">E-mailadres invoeren</string>
   <string name="account_setup_creating_account_msg">"    Account maken…"</string>
@@ -406,7 +406,7 @@ Nu bijwerken?"</string>
   <string name="email_address">E-mailadres</string>
   <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
-  <string name="eml_parse_message">eml bestanden oplossen, even geduld…</string>
+  <string name="eml_parse_message">EML bestand openen…</string>
   <string name="empty_account_tip">Kon account niet vinden</string>
   <string name="empty_email_tip">Kan geen leeg bericht zenden</string>
   <string name="empty_spam">Spammap leegmaken</string>
@@ -425,7 +425,7 @@ Nu bijwerken?"</string>
   <string name="expand_recipient_details">Ontvangersdetails uitvouwen</string>
   <string name="fail_get_email_message">Bericht ontvangen mislukt.</string>
   <string name="failed">Kan afbeelding niet laden</string>
-  <string name="failed_parse_eml_file">Email parseren mislukt, probeer opnieuw</string>
+  <string name="failed_parse_eml_file">Kon EML bestand niet openen, probeer opnieuw</string>
   <string name="failed_read_phone_state_permission">"Geen toestemming om toegang te krijgen tot telefoonstaat"</string>
   <string name="failed_read_write_calendar_permission">"Geen toestemming om toegang te krijgen tot kalender"</string>
   <string name="failed_read_write_contacts_permission">"Geen toestemming om toegang te krijgen tot contact"</string>
@@ -950,6 +950,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="security_unsupported_ticker_fmt">"Account \"%s\" kan niet worden gesynchroniseerd wegens beveiligingsvereisten."</string>
   <string name="select_attachment_type">Bijlagetype selecteren</string>
   <string name="select_no_file">Geen geselecteerde bijlagen om te delen</string>
+  <string name="select_path">Selecteer pad</string>
   <string name="send">Verzenden</string>
   <string name="send_failed">Bericht niet verzonden.</string>
   <string name="send_feed_back">Feedback versturen</string>
@@ -1089,7 +1090,7 @@ Raak"&lt;b&gt;Nu synchroniseren&lt;/b&gt; aan om e-mail &amp;#233;&amp;#233;n ke
   <string name="wipe_account_fail_title">Mislukt om persoonlijke informatie te verwijderen</string>
   <string name="wrong_password">Het door u ingevoerde wachtwoord is onjuist</string>
   <string name="yes">Ja</string>
-  <string name="you_are_in_mobile_network">Log verzenden door gebruik van mobiele data verbinding? Als je over datalimiet zit kan uw kan je provider extra kosten aanrekenen.</string>
+  <string name="you_are_in_mobile_network">Mobiel internet gebruiken om logs te uploaden?</string>
   <string name="youfuli">Promotie</string>
   <string name="zip_viewer_no_file">Geen bestanden</string>
 </resources>
