@@ -20,6 +20,7 @@
   <string name="auto_start_warning_allow">Toestaan</string>
   <string name="auto_start_warning_deny">Weigeren</string>
   <string name="auto_start_warning_title">%s toestaan om automatisch op te starten?</string>
+  <string name="autofill">Automatisch vullen</string>
   <string name="button_text_cancel">Annuleren</string>
   <string name="button_text_delete">Verwijderen</string>
   <string name="button_text_delete_timer">Verwijderen (%d)</string>
