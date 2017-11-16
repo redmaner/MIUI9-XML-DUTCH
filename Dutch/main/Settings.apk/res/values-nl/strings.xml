@@ -2795,7 +2795,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="pre_installed_application">Voorgeïnstalleerde apps</string>
   <string name="pref_button_light">Knopverlichting</string>
   <string name="pref_button_light_summary">Menu, %1$s, en terugknop verlichten</string>
-  <string name="pref_button_light_summary_sub">Home,</string>
+  <string name="pref_button_light_summary_sub">Home</string>
   <string name="pref_edge_handgrip">Edge besturing</string>
   <string name="pref_operational_key">Navigatieknoppen</string>
   <string name="pref_title_lang_selection">Language preferences</string>

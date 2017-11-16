@@ -528,7 +528,7 @@
   <string name="search_file_type_music">Muziek</string>
   <string name="search_file_type_picture">Foto</string>
   <string name="search_file_type_video">Video</string>
-  <string name="search_guid_hint">Zoek naar bestand</string>
+  <string name="search_guid_hint">Zoek naar bestanden</string>
   <string name="search_hint">Zoeken</string>
   <string name="search_history">Zoeken in geschiedenis</string>
   <string name="search_hot_sticker">Stickers; Stickers downloaden</string>
