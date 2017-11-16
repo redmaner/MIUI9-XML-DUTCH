@@ -380,7 +380,7 @@
   <string name="pref_hide_verification_code_summary">Eenmalige wachtwoorden in meldingen automatisch verbergen op vergrendelscherm</string>
   <string name="pref_messages_to_save">Stel het aantal berichten om op te slaan</string>
   <string name="pref_mms_settings_title">Multimediaberichten (MMS)</string>
-  <string name="pref_msg_trash_bin_title">Verwijderde SMS</string>
+  <string name="pref_msg_trash_bin_title">Verwijderde berichten</string>
   <string name="pref_notification_settings_title">Meldingen</string>
   <string name="pref_other_title">Extra instellingen</string>
   <string name="pref_show_blocked_messages_summary">Geblokkeerde SMS in conversatielijst</string>

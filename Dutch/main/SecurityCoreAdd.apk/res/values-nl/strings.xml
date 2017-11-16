@@ -170,6 +170,8 @@ U kan ze ook apart downloaden."</string>
   <string name="public_app">Beide ruimten</string>
   <string name="removeSuccess">Met succes verwijderd</string>
   <string name="remove_second_space_msg">Alle appgegevens van de tweede ruimte zal verloren gaan nadat je de tweede ruimte wist. Tweede ruimte nu wissen?</string>
+  <string name="remove_user_click_message">"*Als u geen belangrijke bestanden hebt in de tweede ruimte, %s"</string>
+  <string name="remove_user_click_message_action">kan je de tweede ruimte verwijderen en uw apparaat nu opnieuw opstarten.</string>
   <string name="removingSpace">Verwijderen…</string>
   <string name="repeat_scanner_fingerprint">Opnieuw toevoegen</string>
   <string name="reset_passwd_success">Wachtwoord is gereset</string>
@@ -190,7 +192,14 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="scanner_fingerprint_tips_desc">Een bestande vingerafdruk selecteren om naar de tweede ruimte te gaan. Het zal niet meer mogelijk zijn om deze te gebruiken in de eerste ruimte.</string>
   <string name="scanner_fingerprint_tips_title">Naar tweede ruimte gaan door gebruik van een bestande vingerafdruk</string>
   <string name="scanner_second_space_fingerprint">Scan de vingerafdruk voor de tweede ruimte</string>
-  <string name="sdcardfs_dialog_message">Uw oude gegevens kunnen incompatibel met het nieuwe bestandssysteem. Optimaliseer de gegevens voordat je de tweede ruimte betreedt en herstart het apparaat.</string>
+  <string name="sdcardfs_dialog_message">MIUI 9 maakt gebruik van een nieuwe bestandssysteem. Oude gegevens kunnen mogelijk niet werken. Om dit probleem op te lossen, volg de stappen om een update te installeren. Uw apparaat zal tweemaal opnieuw opstarten tijdens het updaten.</string>
+  <string name="sdcardfs_dialog_title">Belangrijke update</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 maakt gebruik van een nieuwe bestandssysteem. Oude gegevens kunnen mogelijk niet werken. Om te updaten, verplaats gegeven van tweede ruimte, start uw apparaat opnieuw op en maak tweede ruimte opnieuw aan.
+Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</string>
+  <string name="sdcradfs_dialog_in_owner_title">Tweede ruimte</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Om te updaten, moet je de tweede ruimte verwijderen en opnieuw aanmaken. Verplaats de gegevens van tweede ruimte naar de eerste ruimte, start uw apparaat opnieuw op om de update af te ronden.
+Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</string>
+  <string name="sdcradfs_dialog_in_sec_title">Belangrijke update</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="secondSpace">Tweede ruimte</string>
   <string name="second_owner_finger_print">Vingerafdruk tweede ruimte</string>
@@ -234,6 +243,7 @@ om tweede ruimte vanaf vergrendelscherm te openen"</string>
   <string name="show_private_msg_summary">Privéberichten in de tweede ruimte weergeven</string>
   <string name="skip">Overslaan</string>
   <string name="spaceSetting">Instellingen</string>
+  <string name="space_created_success">Tweede ruimte aangemaakt</string>
   <string name="space_deleted">Deze ruimte is verwijderd</string>
   <string name="space_des_default">Aparte ruimte met versleutelde gegevens</string>
   <string name="space_finger_sub_text">Stel een vingerafdruk in voor tweede ruimte om sneller te schakelen</string>
