@@ -349,6 +349,7 @@ in het geval je hem vergeten bent"</string>
   <string name="auto_task_operation_vibration">Trillen</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Terug naar appvergrendeling</string>
+  <string name="back_description_securitycenter">Terug</string>
   <string name="back_modifypassword">Terug naar wachtwoord wijzigen</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="backsound_set_hint">Uw bericht intellen op %s?</string>
