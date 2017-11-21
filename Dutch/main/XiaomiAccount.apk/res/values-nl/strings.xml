@@ -55,8 +55,8 @@
   <string name="account_user_using_qq_avatar">Gebruik QQ profielfoto</string>
   <string name="account_user_using_weibo_avatar">Gebruik Sina Weibo profielfoto</string>
   <string name="account_xiaomi_service">Diensten</string>
-  <string name="action_add_phone">Bind phone number</string>
-  <string name="action_update_phone">Change phone number</string>
+  <string name="action_add_phone">Telefoonnummer binden</string>
+  <string name="action_update_phone">Telefoonnummer wijzigen</string>
   <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
   <string name="activity_not_found_notice">Kan de app niet vinden</string>
   <string name="add_account">Account verbinden</string>
@@ -133,12 +133,12 @@
   <string name="find_device_request_prepare_error">"Kan status niet verkrijgen, probeer later opnieuw"</string>
   <string name="find_device_unknown_error">Kan apparaatstatus niet verkrijgen, probeer later opnieuw</string>
   <string name="first_login_time">Eerste aanmeldpoging: %s</string>
-  <string name="get_back_pwd">Get back password</string>
+  <string name="get_back_pwd">Wachtwoord terugkrijgen</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
   <string name="get_phone_bind_exceed_limit">Het aantal apparaten verbonden met het account is bereikt(3). Er kan niet meer worden verbonden met het account.</string>
   <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
-  <string name="guest_account_label">Mi Gast Account</string>
-  <string name="identity">Identity</string>
+  <string name="guest_account_label">Mi gastaccount</string>
+  <string name="identity">Identiteit</string>
   <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
   <string name="io_error_title">Bevestig uw netwerk</string>
   <string name="just_a_second">Een momentje…</string>
@@ -168,7 +168,7 @@
   <string name="my_device_title">Huidig apparaat</string>
   <string name="no_network_btn">Vernieuwen</string>
   <string name="no_network_title">Kan geen verbinding maken met netwerk</string>
-  <string name="no_phone">No Phone</string>
+  <string name="no_phone">Geen telefoon</string>
   <string name="no_response_retry">Geen antwoord, probeer opnieuw.</string>
   <string name="no_sim_card_or_unactivated">SIM kaart is niet geïnstalleerd of niet geactiveerd</string>
   <string name="nobind">Niet verbonden</string>
@@ -377,7 +377,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
   <string name="passport_yes">Ja</string>
   <string name="phone_activated">%s geactiveerd</string>
-  <string name="phone_num_use_for">phone number uses for：</string>
+  <string name="phone_num_use_for">telefoonnummer gebruikt voor:</string>
   <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
   <string name="push_notification_content">Verificatiecode krijgen</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
@@ -414,8 +414,8 @@ die verzonden is naar je Postvak In."</string>
   <string name="select_location_title">Uw locatie selecteren</string>
   <string name="send_email_activate_message">Verificatie e-mail verzonden</string>
   <string name="service_error">Servicefout</string>
-  <string name="set_success">Success</string>
-  <string name="sign_in">Sign in</string>
+  <string name="set_success">Gelukt</string>
+  <string name="sign_in">Inloggen</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Verzenden</string>
   <string name="sns_access_token_expired_warning">Account aanmelding is verlopen. Meld opnieuw aan om dit account opnieuw te koppelen.</string>
@@ -431,7 +431,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>
   <string name="update_email_address_dialog_title">E-mail updaten</string>
-  <string name="update_phone_notice">change security settings</string>
+  <string name="update_phone_notice">Beveiligingsvragen wijzigen</string>
   <string name="update_phone_number_notice_message">U moet uw identiteit verifiëren voordat uw telefoonnummer kan updaten.</string>
   <string name="updated_nothing">Geüpdatet</string>
   <string name="user_avatar_update_title">Verander profielfoto</string>
