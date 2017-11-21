@@ -121,7 +121,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="err_unknown">Onbekende fout</string>
   <string name="err_version_too_old">Back-up is te oud.</string>
   <string name="err_version_unsupported">Back-up versie wordt niet ondersteund.</string>
-  <string name="error_permissions">Geef de kalender lees- en schrijftoestemmingen in de instellingen</string>
+  <string name="error_permissions">"This app doesn't have the the permissions required for it to access Calendar. Go to Settings and check permissions to continue."</string>
   <string name="every_day">Dagelijks</string>
   <string name="exchange_account">Van account wisselen</string>
   <string name="fail">Mislukt</string>
@@ -155,7 +155,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="hsa_verify_shutdown">Uitschakelen</string>
   <string name="icloud_backup_tip">Log in op het iCloud account van het oude iOS apparaat</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Ga naar instellingen op uw iOS apparaat, en kies voor iCloud.
-2. Schakel Contacten in etc.
+2. Toggle the switches for contacts and other items.
 3. Selecteer foto\'s en schakel iCloud fotobibliotheek in."</string>
   <string name="icloud_how_to_backup_tip_summary">Om gegevens van iOS te importeren, moet je een iCloud back-up maken.</string>
   <string name="icloud_login_title">Log in op iCloud</string>
