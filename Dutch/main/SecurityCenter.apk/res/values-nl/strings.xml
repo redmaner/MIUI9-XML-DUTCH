@@ -13,8 +13,10 @@
   <string name="ac_enter_applock">Appvergrendeling openen</string>
   <string name="ac_firstUseApplock_subTitle">Betere systeem-niveau bescherming tools gebruiken</string>
   <string name="ac_firstUseApplock_title">Wachtwoord instellen om uw apps te beschermen</string>
+  <string name="ac_mask_all_apps">Verbergen voor alle apps</string>
   <string name="ac_summaryOff">Uitgeschakeld, wachtwoord is niet vereist om apps te openen</string>
   <string name="ac_summaryOn">Ingeschakeld, wachtwoord is vereist om apps te openen</string>
+  <string name="ac_unmask_all_apps">Zichtbaar maken voor alle apps</string>
   <string name="access_control_app_is_launching">App start op</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Teken je patroon om een nieuwe vingerafdruk toe te voegen</string>
   <string name="access_control_fingerprint_not_identified_msg">Kon vingerafdruk niet lezen</string>
@@ -77,6 +79,7 @@
   <string name="alarm_lockscreen_btn">Hij begon aan een rode envelop te pakken</string>
   <string name="alarm_setting_title">Rode alarm instellingen</string>
   <string name="all_address_choose_hint">Alle nummers in deze provincie</string>
+  <string name="already_close_gamebooster">Snelheidsboost voor gamen is uitgeschakeld</string>
   <string name="anim_gamebooster_text">Een momentje…</string>
   <string name="anti_disturb_msg_detail">Schakel alle aanmeldingen uit met uitzondering van inkomende oproepen</string>
   <string name="anti_disturb_msg_title">DND</string>
@@ -92,7 +95,7 @@
   <string name="antivirus_choose_engine_title">Definities</string>
   <string name="antivirus_longtime_no_update">Het lijkt erop dat uw virusdefinities oud zijn. Regelmatige updates helpen bij het verkrijgen van betere scanresultaten. Laat beveiliging toe om verbinding te maken met internet en bijwerken van virusdefinities?</string>
   <string name="antivirus_longtime_no_update1">Het lijkt erop dat uw virusdefinities oud zijn. Regelmatige updates helpen bij het verkrijgen van betere scanresultaten. Update definities en probeer opnieuw.</string>
-  <string name="antivirus_main_activity_back">Terug van veiligheidsscan</string>
+  <string name="antivirus_main_activity_back">Terug</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Risicovolle apps verwijderen</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Virussen verwijderen</string>
   <string name="antivirus_monitor_clean_tips">Verwijderde items: %s</string>
@@ -125,10 +128,12 @@
   <string name="app_install_tips_go_to">Open</string>
   <string name="app_install_tips_install_success">%1$s is met succes geïnstalleerd</string>
   <string name="app_maanger_app_uninstalled_toast">Deze app is verwijderd</string>
-  <string name="app_manager_app_ifno_version">App version</string>
-  <string name="app_manager_app_info_label">App info</string>
-  <string name="app_manager_app_info_name">App name</string>
-  <string name="app_manager_app_info_pkg">APK name</string>
+  <string name="app_manager_advanced_setting">Geavanceerde instellingen</string>
+  <string name="app_manager_allow">Ja</string>
+  <string name="app_manager_app_ifno_version">Appversie</string>
+  <string name="app_manager_app_info_label">Appinfo</string>
+  <string name="app_manager_app_info_name">Appnaam</string>
+  <string name="app_manager_app_info_pkg">APK naam</string>
   <string name="app_manager_app_lock">Appvergrendeling</string>
   <string name="app_manager_app_power">"Batterij gebruik: "</string>
   <string name="app_manager_app_storage">"Oplag: "</string>
@@ -136,6 +141,8 @@
   <string name="app_manager_app_update">Updates</string>
   <string name="app_manager_app_version_name">Versie:</string>
   <string name="app_manager_appupdate_remind">Melden wanneer er updates zijn</string>
+  <string name="app_manager_as_dlg_msg">Toestaan dat apps automatisch mogen opstarten kan voor extra RAM- en batterijgebruik zorgen. Toch toestaan?</string>
+  <string name="app_manager_as_dlg_title">Opgelet</string>
   <string name="app_manager_bipartition">Dubbele apps</string>
   <string name="app_manager_card_permission_title">Toestemmingen</string>
   <string name="app_manager_clear_cache">Cache wissen</string>
@@ -143,9 +150,9 @@
   <string name="app_manager_clear_data_dlg_title">Appgegevens wissen?</string>
   <string name="app_manager_clear_failed_dlg_message">Kon gegevens van app niet wissen.</string>
   <string name="app_manager_clear_failed_dlg_title">Gegevens wissen</string>
-  <string name="app_manager_copy_pkg_to_clip">Copied to clipboard</string>
+  <string name="app_manager_copy_pkg_to_clip">Gekopieerd naar klembord</string>
+  <string name="app_manager_default_cleared">Gewist</string>
   <string name="app_manager_default_close_summary">Geen standaardwaarden ingesteld.</string>
-  <string name="app_manager_default_open">Standaard openen</string>
   <string name="app_manager_default_open_summary">U hebt ervoor gekozen om deze app standaard te starten voor bepaalde acties.</string>
   <string name="app_manager_default_open_title">Standaardwaarden wissen</string>
   <string name="app_manager_defaults_setting">Standaarden</string>
@@ -153,10 +160,11 @@
   <string name="app_manager_details_storage_title">Opslag</string>
   <string name="app_manager_details_traffic_title">Dataverbruik</string>
   <string name="app_manager_disable">Niet toestaan</string>
-  <string name="app_manager_disable_dlg_text">Als u deze app uitschakelt kunnen andere apps misschien niet meer werken zoals bedoeld.</string>
-  <string name="app_manager_disable_dlg_title">Ingebouwde app uitschakelen?</string>
+  <string name="app_manager_disable_dlg_text">Als u deze app uitschakelt kunnen andere apps misschien niet meer normaal werken.</string>
+  <string name="app_manager_disable_dlg_title">Systeemapp uitschakelen?</string>
   <string name="app_manager_disable_text">Uitschakelen</string>
   <string name="app_manager_disabled">Uitgeschakeld</string>
+  <string name="app_manager_disabled_by_admin">Uitgeschakeld door beheerder</string>
   <string name="app_manager_dlg_cancel">Annuleren</string>
   <string name="app_manager_dlg_ok">Ok</string>
   <string name="app_manager_enable_text">Inschakelen</string>
@@ -169,8 +177,10 @@
   <string name="app_manager_globel_other_perm_title">Other permissions</string>
   <string name="app_manager_globel_perm_summary">Toestemmingen gerelateerd aan locatie, opslag, bellen, berichten en contacten beheren.</string>
   <string name="app_manager_globel_perm_title">Apptoestemmingen</string>
+  <string name="app_manager_has_not_data">Geen data</string>
   <string name="app_manager_have_not_consume">Geen</string>
   <string name="app_manager_hide_system_server">Systeemdiensten verbergen</string>
+  <string name="app_manager_install_other_app">Apps van onbekende bronnen installeren</string>
   <string name="app_manager_instruction">Instructie</string>
   <string name="app_manager_loading_data">Gegevens laden…</string>
   <string name="app_manager_manage_space">Ruimte beheren</string>
@@ -178,6 +188,7 @@
   <string name="app_manager_net_control_title">Dataverbruik beperken</string>
   <string name="app_manager_net_mobile">Mobiele</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">Nee</string>
   <string name="app_manager_not_record">Geen items hier</string>
   <string name="app_manager_notify_bar">Badges</string>
   <string name="app_manager_notify_floating">Zwevende meldingen</string>
@@ -199,17 +210,17 @@
   <string name="app_manager_reduce_wakepath_dialog">Kettingstart beperken</string>
   <string name="app_manager_reduce_wakepath_summary">Automatisch starten beperken zal kettingstarten minimaliseren. Automatisch starten beperken voor %s?</string>
   <string name="app_manager_reject_count_over">100000+ keer geblokkeerd</string>
-  <string name="app_manager_reset_app_preferences">Reset app preferences</string>
-  <string name="app_manager_reset_app_preferences_button">Reset apps</string>
+  <string name="app_manager_reset_app_preferences">Appvoorkeuren herstellen</string>
+  <string name="app_manager_reset_app_preferences_button">Apps resetten</string>
   <string name="app_manager_reset_app_preferences_desc">"Dit zal alle voorkeuren resetten van:
 
  "Uitgeschakelde apps"
  "Meldingen van uitgeschakelde apps"
- "Standaardapps voor bepaalde acties"
+ "Standaardapps"
  "Beperkingen voor datagebruik op de achtergrond voor apps"
 
  Er zullen geen appgegevens verloren gaan."</string>
-  <string name="app_manager_reset_app_preferences_title">Reset app preferences?</string>
+  <string name="app_manager_reset_app_preferences_title">Appvoorkeuren herstellen?</string>
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_sort">Sorteren op</string>
@@ -338,6 +349,7 @@ in het geval je hem vergeten bent"</string>
   <string name="auto_task_operation_vibration">Trillen</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Terug naar appvergrendeling</string>
+  <string name="back_description_securitycenter">Terug</string>
   <string name="back_modifypassword">Terug naar wachtwoord wijzigen</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="backsound_set_hint">Uw bericht intellen op %s?</string>
@@ -388,6 +400,7 @@ in het geval je hem vergeten bent"</string>
   <string name="block_message_number">Berichten: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Oproepen: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">Met succes opgevoerd</string>
+  <string name="boost_stop">Snelheidsboost uitschakelen</string>
   <string name="booster_immediately">Opvoeren</string>
   <string name="booster_suc">Met succes opgevoerd</string>
   <string name="boostering">Snelheid opvoeren…</string>
@@ -551,6 +564,8 @@ in het geval je hem vergeten bent"</string>
   <string name="data_usage_warning_body">Tik om details over dataverbruik weer te geven.</string>
   <string name="data_usage_warning_body_notify">Tik om details te bekijken</string>
   <string name="data_usage_warning_title_notify">Je hebt het datalimiet overschreden</string>
+  <string name="databooster_tips_message">Schakel in om alle SIM kaarten te beperken behalve diegene met mobiele data. Schakel deze functie uit als er tijdens het gamen fouten optreden.</string>
+  <string name="databooster_tips_title">Waarschuwing</string>
   <string name="declaration_dialog_msg">Deze functie kan u helpen om uw verbruik te volgen, maar geeft geen garantie om extra kosten te voorkomen. Voor het beste resultaat stelt u een limiet in.</string>
   <string name="deep_clean_disconnect_data_title">Mobiele data uitschakelen wanneer apparaat is vergrendeld</string>
   <string name="deep_clean_memory_clean_title">Cache wissen wanneer apparaat is vergrendeld</string>
@@ -570,6 +585,7 @@ in het geval je hem vergeten bent"</string>
   <string name="dialog_app_roaming_title">"Internationale roaming is niet ingeschakeld voor %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Sommige beveiligingsapps kunnen foutief aangeven dat MIUI hen heeft verhinderd te starten. Als u de machtigingen wilt controleren die zijn toegekend aan individuele apps, gaat u naar Instellingen &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Virusscan stoppen voordat hij klaar is?</string>
+  <string name="dialog_no_longer_alert">Niet opnieuw weergeven</string>
   <string name="dialog_roaming_message">Deze app toelaten om mobiele data te gebruiken bij internationaal roamen?</string>
   <string name="dialog_roaming_title">Internationale roaming</string>
   <string name="dialog_text">Maak een snelkoppeling voor het startscherm voor Game Speed Booster</string>
@@ -671,20 +687,21 @@ in het geval je hem vergeten bent"</string>
   <string name="firewall_restrict_android_dialog_title">Opgelet</string>
   <string name="firewall_restrict_data">Mobiel datagebruik bepereken</string>
   <string name="firewall_restrict_notify_title">%s kan netwerk niet gebruiken</string>
-  <string name="firewall_restrict_wlan">Wi-Fi verbinding bepereken</string>
+  <string name="firewall_restrict_wlan">Wi-Fi verbinding beperken</string>
   <string name="firewall_rule_group_title_mobile">Mobiel</string>
   <string name="firewall_rule_group_title_roaming">Internationale roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">De geïnstalleerde app kan geen verbinding maken met internet via Wi-Fi wanneer deze schakelaar uit staat.</string>
   <string name="five_percent_total_pkg">%s (5%% maandelijkse data)</string>
+  <string name="forbid_autobright_summary">"Schermhelderheid zal hetzelfde blijven als je aan het gamen bent"</string>
   <string name="forbid_autobright_title">Schermhelderheid vastzetten</string>
   <string name="foreground_traffic">Voorgrond %s</string>
   <string name="forget_password_button_text">Wachtwoord vergeten</string>
   <string name="forget_password_button_text_normal">Wachtwoord vergeten</string>
   <string name="forget_pattern">Patroon vergeten?</string>
   <string name="free_send_net_booster">Gratis netwerk versnellen</string>
-  <string name="free_send_net_booster_busniess">Get a free Xunlei speed boost</string>
-  <string name="free_send_net_booster_busniess_tip">Tap to receive</string>
+  <string name="free_send_net_booster_busniess">Krijg een gratis Xunlei snelheidsboost</string>
+  <string name="free_send_net_booster_busniess_tip">Tik om te ontvangen</string>
   <string name="free_send_net_booster_tip">Geniet van vloeiende games door het versnellen van het netwerk.</string>
   <string name="free_time_traffic">Daluren datalimiet</string>
   <string name="free_time_traffic_hint">Voer daluren datalimiet in</string>
@@ -695,9 +712,10 @@ in het geval je hem vergeten bent"</string>
   <string name="fw_blocked">Zwarte lijst</string>
   <string name="fw_blocked_count">"Geblokkeerd "</string>
   <string name="fw_blocked_join">" en "</string>
-  <string name="game_ad_recommendation">Everybody is playing</string>
+  <string name="game_ad_recommendation">Iedereen is aan het spelen</string>
   <string name="game_anti_disturb_msg">Niet storen tijdens gamen</string>
   <string name="game_booster">Gamesnelheid opvoeren</string>
+  <string name="game_booster_close">Snelheid opvoeren voor gamen is uitgeschakeld</string>
   <string name="game_booster_intro">Over Gamesnelheid opvoeren</string>
   <string name="game_booster_jump_webview">Een momentje…</string>
   <string name="game_booster_title">Snelheid opvoeren</string>
@@ -872,15 +890,15 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="main_alert_message_no_imsi">Geen SIM kaart gevonden</string>
   <string name="main_alert_message_open_traffic_ctrl">Wij raden beperkte datagebruik aan</string>
   <string name="main_bill_remained">Databundels</string>
-  <string name="main_button_mi_sim_close">Activate Mi SIM</string>
-  <string name="main_button_mi_sim_open">View details</string>
-  <string name="main_button_usage_adjust">Sync. mobiel dataverbruik</string>
+  <string name="main_button_mi_sim_close">Mi SIM activeren</string>
+  <string name="main_button_mi_sim_open">Details bekijken</string>
+  <string name="main_button_usage_adjust">Mobiel dataverbruik synchroniseren</string>
   <string name="main_button_usage_adjust_manual">Mobiel dataverbruik instellen</string>
   <string name="main_button_usage_adjusting">Wijzigen…</string>
   <string name="main_button_usage_adjusting_bill">Wijzigen…</string>
   <string name="main_button_usage_package_setting">Mobiele dataverbruik instellen</string>
   <string name="main_daily_package">Dagelijkse databundel</string>
-  <string name="main_indicator_title">Waiting for activation</string>
+  <string name="main_indicator_title">Wachten op activatie</string>
   <string name="main_leisure_remained">Data resterend</string>
   <string name="main_month_total_used">Deze maand gebruikt</string>
   <string name="main_month_used">Databundel</string>
@@ -899,7 +917,7 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
 om te kalibreren"</string>
   <string name="main_tc_wait_result">"Wacht op de provider
 om te reageren"</string>
-  <string name="main_tobe_added_desc">Mobile data from ¥0.03/MB</string>
+  <string name="main_tobe_added_desc">Mobiele data vanaf ¥0.03/MB</string>
   <string name="main_today_used">Vandaag gebruikt</string>
   <string name="main_toolbar_firewall">Dataverbruik beperken</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobiele data</string>
@@ -997,12 +1015,13 @@ om te reageren"</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
-  <string name="modify_password_mode">&lt;u&gt;Wachtwoordtype veranderen&lt;/u&gt;</string>
+  <string name="modify_password_mode">Wachtwoordtype veranderen</string>
   <string name="modifypassword">Wachtwoord wijzigen</string>
   <string name="monitor_app_add">Toevoegen</string>
   <string name="monitor_app_more">Meer</string>
   <string name="monitor_requests_from_pc">Beheer installatie van de apps via USB</string>
   <string name="more_game">Meer games</string>
+  <string name="more_lock">Meer</string>
   <string name="name">Naam</string>
   <string name="net_booster">Netwerk versnellen</string>
   <string name="net_booster_expire_notification">Netwerkversnelling wordt beeindigd</string>
@@ -1075,8 +1094,10 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
   <string name="notification_item">Bescherm apps met appvergrendeling</string>
-  <string name="notification_mask_summary">Inhoud van meldingen niet weergeven op vergrendelscherm en in de notificatiebalk</string>
+  <string name="notification_mask_summary">Meldingsinhoud niet weergeven op vergrendelscherm en in de notificatiebalk</string>
   <string name="notification_mask_title">Inhoud verbergen</string>
+  <string name="notification_masked_item">Meldingen verbergen</string>
+  <string name="notification_masked_subtitle">Meldingen van apps beveiligd door appvergrendeling verbergen</string>
   <string name="notification_subtitle">Tik om in te schakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
@@ -1476,12 +1497,12 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="safe_result_item_info_system_scan">Betalingen controleren is aan</string>
   <string name="safe_result_item_info_system_version">MIUI is up to date</string>
   <string name="safepay_alert_dialog_button_continue">Doorgaan</string>
-  <string name="safepay_alert_dialog_button_risk">Oplossen</string>
+  <string name="safepay_alert_dialog_button_fix">Oplossen</string>
   <string name="save_energy_text">Beperk autostart en synchronisatie voor apps op de achtergrond om optimaal gebruik te maken van de batterij van uw apparaat</string>
   <string name="save_energy_title">Batterij optimaliseren</string>
   <string name="sc_allow_network_dialog_message">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
   <string name="sc_allow_network_dialog_tiltle">Kan deze functie niet gebruiken</string>
-  <string name="sc_system_risk_fix_info_xspace">Het risico kan niet worden verholpen in xspace, wissel naar andere ruimte op te verhelpen.</string>
+  <string name="sc_system_risk_fix_info_xspace">Kan het niet oplossen in tweede ruimte. Probeer het in de eerste ruimte.</string>
   <string name="scan_installed_games">Geïnstalleerde games controleren…</string>
   <string name="scan_status_risk">Risicovol</string>
   <string name="scan_status_safe">Veilig</string>
@@ -1538,8 +1559,10 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sms_stranger_block">Vreemde onderscheppen</string>
   <string name="sorted_dialog_title">Sorteren op</string>
   <string name="sp_background_risk_dialog_summary">, controleer en herstel betalingsproblemen.</string>
-  <string name="sp_background_risk_dialog_title">Aandacht</string>
-  <string name="sp_background_risk_type_messaging">Systeem berichtapp is vervangen</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Je bent verbonden met een publiek Wi-Fi netwerk dat onveilig kan zijn. Zorg ervoor dat de betaling veilig kan verlopen voordat je deze doet.</string>
+  <string name="sp_background_risk_dialog_title">Let op</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Publieke Wi-Fi waarschuwing</string>
+  <string name="sp_background_risk_type_messaging">Standaard berichtapp is vervangen</string>
   <string name="sp_background_risk_type_root">Systeem is geroot</string>
   <string name="sp_background_risk_type_sign">Onofficiële app wordt uitgevoerd</string>
   <string name="sp_background_risk_type_virus">Virusapp wordt uitgevoerd in de achtergrond</string>
@@ -1674,15 +1697,24 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="start_diagnostic_botton">Starten</string>
   <string name="start_downloading_app">Download starten: %1$s</string>
   <string name="start_game">Starten</string>
+  <string name="status_bar_network_flow_content">Vandaag: %1$s   Resterend: %2$s</string>
+  <string name="status_bar_network_flow_content_not_setting">Vandaag: %1$s   Deze maand: %2$s</string>
+  <string name="status_bar_network_flow_exceed_content">Vandaag: %1$s   Databundel overschreden: %2$s&gt;%3$s</string>
+  <string name="status_bar_network_flow_phone_balance">"   Belminuten:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"   Kopen &gt;"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"   Databundel instellen &gt;"</string>
+  <string name="status_bar_network_flow_today">Vandaag: %1$s</string>
   <string name="still_retain_btn">Behouden</string>
   <string name="suggest_app_tolock">Aanbevelingen</string>
+  <string name="suggest_app_tolock_masked">Verborgen</string>
+  <string name="suggest_app_tolock_unmasked">Zichtbare meldingen</string>
   <string name="suggest_scan_again">Het wordt voorgesteld om volledig scan te doen om de veiligheid te waarborgen.</string>
   <string name="summary_app_lock_disable">Bescherm uw data met appvergrendeling</string>
   <string name="summary_auto_update">MIUI zal de meest geschikte tijd kiezen om updates te downloaden en te installeren.</string>
   <string name="summary_cleaner_cloudscan">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_cloud_account">Haal het meeste uit uw Mi apparaat</string>
   <string name="summary_cloud_service">"Sync. uw foto's, contactpersonen en meer op al uw apparaten"</string>
-  <string name="summary_cloud_space_almost_full">Verkrijg meer opslagruimte</string>
+  <string name="summary_cloud_space_almost_full">Verkrijg opslagruimte</string>
   <string name="summary_cloud_space_full">Verkrijg meer opslagruimte en heb toegang tot meer functies</string>
   <string name="summary_cmcc_app_check">Sommige apps konden niet geverifieerd worden</string>
   <string name="summary_consume_power">Opwarmingsproblemen gevonden, die kunnen de levensduur van uw batterij bepalen</string>
@@ -1976,9 +2008,9 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="virus_ad_icon_text">Advertentie</string>
   <string name="virus_auto_update_engine">Automatische updates: %s</string>
   <string name="virus_update_tips_title">Waarschuwing</string>
-  <string name="virus_wait_network_dialog_message">Je telefoon is niet verbonden met Wi-Fi. Mobiel internet zal worden gebruikt. Doorgaan?</string>
-  <string name="vpn_disabled_by_user">Designated data connection is off</string>
-  <string name="vpn_unbale_get_phonenum">"Can't get phone numbers using designated data plans"</string>
+  <string name="virus_wait_network_dialog_message">Je telefoon is niet verbonden met Wi-Fi. Mobiel internet gebruiken?</string>
+  <string name="vpn_disabled_by_user">Dataverbinding is uitgeschakeld</string>
+  <string name="vpn_unbale_get_phonenum">Kan geen telefoonnummers verkrijgen met aangewezen databundels</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
   <string name="whitelist_prefix_add_hint">Alle nummers met voorvoegsel toevoegen aan uitzonderingen</string>
   <string name="wifi_exception_summary">Beschikbare Wi-Fi netwerken testen</string>
@@ -1997,5 +2029,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="wlan_booster">Wi-Fi optimalisatie</string>
   <string name="wlan_change_protection_detail">Niet automatisch overschakelen naar Wi-Fi wanneer u verbonden bent met het mobiele datanetwerk</string>
   <string name="wlan_change_protection_title">Voorkom overschakelen van netwerken</string>
+  <string name="xunyou_net_booster">Netwerk versnellen</string>
+  <string name="xunyou_net_booster_detail">Xunyou services gebruiken om snelheid op te voeren voor gamen</string>
   <string name="xunyou_server_expired">De sessie is verlopen.</string>
 </resources>

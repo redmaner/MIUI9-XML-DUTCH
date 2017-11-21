@@ -68,7 +68,7 @@
   <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
-  <string name="input_password_handle_sdcard_fs">Turn off \"Mock SD card optimization\" in Settings &gt; Additional settings &gt; Developer options before entering Second space.</string>
+  <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet betreden vanaf vergrendelscherm. Betreed vanuit eerste ruimte.</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
   <string name="input_pattern_hint_text">Teken uw ontgrendelpatroon</string>
   <string name="input_pin_code">Voer PIN code in</string>
@@ -103,10 +103,10 @@
   <string name="keyguard_charging_info_tip_text4">Gebruik uw apparaat niet teveel wanneer deze aan het opladen is om overhitting te voorkomen.</string>
   <string name="keyguard_charging_info_tip_text5">Batterijen doen er langer over om op te laden als ze warm zijn.</string>
   <string name="keyguard_charging_info_tip_text6">Schakel het scherm uit en leg uw apparaat weg om deze af te laten koelen.</string>
-  <string name="keyguard_left_bankcard">Mi Pay</string>
-  <string name="keyguard_left_buscard">Transport card</string>
-  <string name="keyguard_left_remotecentral">Mi Remote</string>
-  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_left_bankcard">Rekenmachine</string>
+  <string name="keyguard_left_buscard">Notities</string>
+  <string name="keyguard_left_remotecentral">Kalender</string>
+  <string name="keyguard_left_smarthome">Contacten</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
   <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
@@ -144,5 +144,6 @@ Probeer het opnieuw over %d seconden.</string>
   <string name="unlockscreen_low_battery">Sluit oplader nu aan</string>
   <string name="unlockscreen_recharge_completed">Batterij vol</string>
   <string name="unlockscreen_recharging_message">Opladen %d%%</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Laat los om details te bekijken</string>
   <string name="wrong_password">Verkeerd wachtwoord</string>
 </resources>

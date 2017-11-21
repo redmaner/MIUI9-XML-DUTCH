@@ -203,10 +203,10 @@
   <string name="onscreen_add_call_text">Gesprek toevoegen</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Conferentie</string>
-  <string name="onscreen_audio_mode_handset">Handsfree</string>
+  <string name="onscreen_audio_mode_handset">Oordopjes</string>
   <string name="onscreen_audio_mode_headset">Hoofdtelefoon</string>
   <string name="onscreen_audio_mode_speaker">Luidspreker</string>
-  <string name="onscreen_audio_switch_mode">Wissel audio</string>
+  <string name="onscreen_audio_switch_mode">Audio wisselen</string>
   <string name="onscreen_call_record">Opnemen</string>
   <string name="onscreen_change_to_video">Video-oproep</string>
   <string name="onscreen_change_to_voice">Spraakoproep</string>

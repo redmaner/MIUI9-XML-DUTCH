@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Whetstone</string>
-  <string name="permstep_description">Sta toepassing toe om uw telefoon stappen informatie  te lezen</string>
-  <string name="permstep_label">Lees stappen</string>
-  <string name="whetstone_accessibility_desc">Whetstone hulp functie</string>
-  <string name="whetstone_accessibility_label">Whetstone hulpdienst</string>
+  <string name="permstep_description">Sta toepassing toe om uw stappeninformatie te lezen</string>
+  <string name="permstep_label">Stappenteller</string>
 </resources>

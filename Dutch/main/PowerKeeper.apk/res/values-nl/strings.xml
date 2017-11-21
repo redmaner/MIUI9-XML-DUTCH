@@ -62,8 +62,8 @@
   <string name="hints_loading_text">Een momentje…</string>
   <string name="important_warning">Opgelet</string>
   <string name="invalid_size_value">Kon pakketgrootte niet verkrijgen</string>
-  <string name="lasttime_applist_cloud">Applijst bijgewerkt：</string>
-  <string name="lasttime_feature_cloud">Functies bijgewerkt：</string>
+  <string name="lasttime_applist_cloud">Geupdatete apps:</string>
+  <string name="lasttime_feature_cloud">Geupdatete functies:</string>
   <string name="location_disable_description">Apps in de achtergrond kunnen slechts een korte tijdsperiode toegang hebben tot locatiediensten terwijl de constante toegang beperkt blijft.</string>
   <string name="location_disable_title">Beperken</string>
   <string name="location_enable_description">Apps kunnen in de achtergrond locatiediensten gebruiken</string>
@@ -82,7 +82,7 @@
   <string name="new_group_name">Aangepaste modus</string>
   <string name="no_applications">Leeg</string>
   <string name="none">Geen processen</string>
-  <string name="nonui_mode_config_description">Scherm niet ontwaken voor meldingen. Ook meldingslicht, vingerafdruksensor en reageren op aanraken uitschakelen wanneer het apparaat in je zak zit.</string>
+  <string name="nonui_mode_config_description">Scherm niet ontwaken voor meldingen. Ook meldingslicht, vingerafdruksensor en reageren op aanraken uitschakelen om batterij te besparen wanneer MIUI detecteert dat je je apparaat niet gebruikt.</string>
   <string name="nonui_mode_config_title">Non-interactieve modus</string>
   <string name="normal">Standaardmodus</string>
   <string name="operation_create_group">Naam</string>

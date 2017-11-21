@@ -15,4 +15,9 @@
         <item>Appgegevens zullen verloren gaan nadat de apps worden verplaatst naar de huidige ruimte.</item>
         <item>Apps worden gebruikt in beide ruimtes.</item>
     </string-array>
+	<string-array name="choose_ask_type">
+        <item>Altijd vragen</item>
+        <item>Standaardapp</item>
+        <item>Secundaire app</item>
+    </string-array>
 </resources>

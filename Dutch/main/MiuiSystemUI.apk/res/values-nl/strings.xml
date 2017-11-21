@@ -25,7 +25,20 @@
   <string name="accessibility_data_signal_full">Gegevenssignaal is op volle sterkte.</string>
   <string name="accessibility_data_three_bars">Gegevens: drie streepjes.</string>
   <string name="accessibility_data_two_bars">Gegevens: twee streepjes.</string>
+  <string name="accessibility_desc_app_allow_block">"%1$s's notifications can be hidden."</string>
+  <string name="accessibility_desc_app_unallow_block">De meldingen van %1$s kunnen niet worden verborgen.</string>
+  <string name="accessibility_desc_block_notification">Meldingen verbergen.</string>
+  <string name="accessibility_desc_cancel_block">Niet verbergen</string>
+  <string name="accessibility_desc_check_block_notification">%1$s meldingen geselecteerd.</string>
+  <string name="accessibility_desc_confirm_block">Verbergen.</string>
+  <string name="accessibility_desc_details_page">%1$s detailspagina.</string>
+  <string name="accessibility_desc_notification_shade">Meldingenscherm.</string>
+  <string name="accessibility_desc_quick_settings">Snelle instellingen.</string>
+  <string name="accessibility_desc_reconfirm_block">Nu verbergen?</string>
   <string name="accessibility_desc_recent_apps">Overzicht</string>
+  <string name="accessibility_desc_select_block_notification">Selecteer meldingen om te verbergen.</string>
+  <string name="accessibility_desc_uncheck_block_notification">%1$s meldingen deselecteren.</string>
+  <string name="accessibility_desc_weather_temperature">Weer %1s graden.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beïnvloeden.</string>
   <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
   <string name="accessibility_divider">Splitscreen verdeling</string>
@@ -72,7 +85,7 @@
   <string name="activate_usb_title">USB activeren</string>
   <string name="adb_keys_warning_message">Revoke access to USB debugging from all computers you’ve previously authorized?</string>
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
-  <string name="adb_warning_title">Allow USB debugging?</string>
+  <string name="adb_warning_title">USB debugging toestaan?</string>
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
   <string name="always_use_accessory">Standaard gebruiken voor dit USB accessoire</string>
@@ -87,16 +100,16 @@
   <string name="audio_effect_info">Audio optimaliseren</string>
   <string name="audio_effect_settings">Kies type hoofdtelefoon</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
-  <string name="battery_info_status_charging">Charging</string>
-  <string name="battery_info_status_charging_ac">Charging on AC</string>
-  <string name="battery_info_status_charging_ac_short">Charging</string>
-  <string name="battery_info_status_charging_usb">Charging over USB</string>
-  <string name="battery_info_status_charging_usb_short">Charging</string>
-  <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
+  <string name="battery_info_status_charging">Opladen</string>
+  <string name="battery_info_status_charging_ac">Opladen op stopcontact</string>
+  <string name="battery_info_status_charging_ac_short">Opladen</string>
+  <string name="battery_info_status_charging_usb">Opladen over USB</string>
+  <string name="battery_info_status_charging_usb_short">Opladen</string>
+  <string name="battery_info_status_charging_wireless">Draadloos opladen</string>
   <string name="battery_info_status_charging_wireless_short">Opladen</string>
   <string name="battery_info_status_discharging">Niet aangesloten</string>
   <string name="battery_info_status_full">Volledig opgeladen</string>
-  <string name="battery_info_status_not_charging">Not charging</string>
+  <string name="battery_info_status_not_charging">Niet aan het opladen</string>
   <string name="battery_info_status_unknown">Onbekend</string>
   <string name="battery_low_percent_format">%d%% resterend</string>
   <string name="battery_low_title">Sluit de oplader aan</string>
@@ -182,16 +195,16 @@
   <string name="choose_profile">Profiel kiezen</string>
   <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
   <string name="click_to_return_multi_window">Tik om terug te keren naar splitscreen</string>
-  <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
+  <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeveiligingsfuncties werken niet op dit apparaat wanneer deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendeling toestaan?</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
   <string name="connected_via_wfa">Verbonden via Wi-Fi assistent</string>
-  <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
- !!Warning!! This will erase all your data.
- This feature is alpha, and may not work correctly.
- Press 'Wipe and convert…' to continue."</string>
-  <string name="convert_to_file_encryption">Convert to file encryption</string>
-  <string name="convert_to_file_encryption_done">Already file encrypted</string>
+  <string name="convert_to_fbe_warning">"Datapartitie omzetten naar bestandsbegaseerde versleuteling.
+ !!Waarschuwing!! Dit zal alle gegevens wissen.
+ Deze functie is alpha, en werkt misschien niet correct.
+ Tik 'Wissen en converteren…' om verder te gaan."</string>
+  <string name="convert_to_file_encryption">Omzetten naar bestandsversleuteling</string>
+  <string name="convert_to_file_encryption_done">Is al versleuteld</string>
   <string name="convert_to_file_encryption_enabled">Converteren…</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (rood-groen)</string>
   <string name="daltonizer_mode_disabled">Uigeschakeld</string>
@@ -227,9 +240,9 @@
   <string name="description_image_button_answer">Opnemen</string>
   <string name="description_image_button_reject">Weigeren</string>
   <string name="description_target_search">Zoeken</string>
-  <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
+  <string name="dev_settings_warning_message">Deze instellingen zijn alleen bedoeld voor ontwikkelaars. Het kan er voor zorgen dat het apparaat of applicaties niet meer goed functioneren.</string>
   <string name="dev_settings_warning_title">Allow development settings?</string>
-  <string name="development_settings_enable">Enable developer options</string>
+  <string name="development_settings_enable">Ontwikkelaarsopties inschakelen</string>
   <string name="development_settings_not_available">Developer options are not available for this user</string>
   <string name="development_settings_summary">Set options for app development</string>
   <string name="development_settings_title">Opties voor ontwikkelaars</string>
@@ -252,7 +265,7 @@
   <string name="dock_non_resizeble_failed_to_dock_text">Deze app ondersteunt geen splitscreen.</string>
   <string name="drive_mode_tip">U bent in de automodus</string>
   <string name="enable_adb">USB debugging</string>
-  <string name="enable_adb_summary">Debug mode when USB is connected</string>
+  <string name="enable_adb_summary">Debugmodus wanneer verbonden met USB</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
   <string name="enable_freeform_support_summary">Ondersteuning voor experimentele freeform windows inschakelen.</string>
   <string name="enable_opengl_traces_title">OpenGL sporen inschakelen</string>
@@ -355,7 +368,7 @@
   <string name="no_weather_description">Weerinformatie ophalen &gt;</string>
   <string name="not_support_multi_window">Huidige app ondersteund split-screen modus niet</string>
   <string name="notification_header_title">Meldingen</string>
-  <string name="notification_hidden_text">Melding is verborgen</string>
+  <string name="notification_hidden_text">U heeft een nieuw bericht</string>
   <string name="notification_low_battery_action_btn">Inschakelen</string>
   <string name="notification_low_battery_need_charge">Batterij is bijna leeg. Laad uw apparaat op.</string>
   <string name="notification_low_battery_open_save_mode">Batterijbespaarder inschakelen</string>
@@ -466,7 +479,7 @@
   <string name="screenshot_saving_ticker">Schermafdruk opslaan…</string>
   <string name="screenshot_saving_title">Schermafdruk opslaan…</string>
   <string name="screenshot_send">Verzenden</string>
-  <string name="search_hint">Zoek naar websites, apps, contacten en video\'s...</string>
+  <string name="search_hint">Zoek naar websites, apps, contacten en video\'s</string>
   <string name="select_application">Selecteer applicatie</string>
   <string name="select_logd_size_dialog_title">Select Logger sizes per log buffer</string>
   <string name="select_logd_size_title">Logger buffer sizes</string>

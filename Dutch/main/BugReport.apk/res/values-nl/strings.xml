@@ -56,12 +56,14 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s probleem \"%2$s\"</string>
   <string name="feedback_choose_module">Selecteer item</string>
   <string name="feedback_choose_module_hint">Is nodig</string>
+  <string name="feedback_choose_third_app_name">Selecteer appnaam</string>
   <string name="feedback_collect_log_failed">Kon logs niet verkrijgen</string>
   <string name="feedback_contact_info_hint">Telefoonnummer/e-mail</string>
   <string name="feedback_continue">Doorgaan met feedback</string>
   <string name="feedback_delete_images">Afbeeldingen verwijderen</string>
   <string name="feedback_description">Omschrijving</string>
   <string name="feedback_description_bugreport_hint">In sommige gevallen (…) misdraagt mijn telefoon zich (…).</string>
+  <string name="feedback_description_hint">Beschrijf het probleem dat u bent tegengekomen</string>
   <string name="feedback_description_label">Omschrijving</string>
   <string name="feedback_description_suggest_hint">"Ik wil graag dat jullie een functie toevoegen () omdat ik het nodig heb ()."</string>
   <string name="feedback_detail_tile">Voortgang</string>
@@ -94,6 +96,7 @@
   <string name="feedback_status_recorded">Feedback ontvangen</string>
   <string name="feedback_status_replyed">Beantwoord</string>
   <string name="feedback_status_reresolved">Opgelost</string>
+  <string name="feedback_status_submit_attachment">Bijlage verstuurd</string>
   <string name="feedback_status_supplement">Beschrijf de details van je probleem</string>
   <string name="feedback_status_supplement_more">Opmerking toevoegen</string>
   <string name="feedback_submit_failed_notification_desc">Bekijk details</string>
@@ -252,6 +255,7 @@
   <string name="section_description">Beschrijving</string>
   <string name="section_err_type">Type bug</string>
   <string name="section_screenshot">Schermafdruk</string>
+  <string name="select_system_app_tag">Selecteer tags</string>
   <string name="submit_dialog_cancel">Annuleren</string>
   <string name="submit_dialog_confirm">Indienen</string>
   <string name="submit_dialog_content">Uw feedback zal samen verzonden worden met bijlagen en logs naar MIUI\’s servers. Het kan personlijke info bevatten.</string>

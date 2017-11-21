@@ -25,6 +25,7 @@
   <string name="account_none">Geen</string>
   <string name="account_none_binded_info">Geen</string>
   <string name="account_none_user_name">Geen</string>
+  <string name="account_notification_message">Sessie is verlopen, log opnieuw in.</string>
   <string name="account_protection">Accountbescherming</string>
   <string name="account_protection_off">Uit</string>
   <string name="account_protection_on">Aan</string>
@@ -212,7 +213,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_copy_message_text_success">Met succes gekopieerd</string>
   <string name="passport_copy_message_vcode">Code kopiëren</string>
   <string name="passport_delete_account">Afmelden</string>
-  <string name="passport_downlink_reg">Account aanmaken door middel van telefoonnummer</string>
+  <string name="passport_downlink_reg">Telefoonnummer</string>
   <string name="passport_email">E-mailadres</string>
   <string name="passport_email_or_id_hint_text">E-mailadres of Mi account ID</string>
   <string name="passport_email_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>

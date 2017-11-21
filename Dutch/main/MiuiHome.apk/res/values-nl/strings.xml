@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_add_to_workspace">Toevoegen aan werkruimte</string>
   <string name="activity_not_found">App is niet geïnstalleerd op uw apparaat</string>
   <string name="add_screen">Schermknop toevoegen</string>
   <string name="app_already_exist">App bestaat reeds</string>
@@ -50,7 +51,7 @@
   <string name="confirm_btn_label">OK</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Gedupliceerde apps zullen worden verwijderd samen met deze.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Gedupliceerde apps zullen worden verwijderd samen met deze.</string>
-  <string name="confirm_uninstall_dialog_title">Bijbehorende gedupliceerde apps zullen worden verwijderd.</string>
+  <string name="confirm_uninstall_dialog_title">Gedupliceerde apps zullen worden verwijderd.</string>
   <string name="current_preview">Voorbeeld</string>
   <string name="current_wallpaper">Huidige</string>
   <string name="custom_wallpaper_picker">Bladeren</string>
