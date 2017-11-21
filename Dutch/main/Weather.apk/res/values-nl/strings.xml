@@ -176,7 +176,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="precipitation_degree_three">Gemiddeld</string>
   <string name="precipitation_degree_two">Licht</string>
   <string name="pull_fresh_updated">Bijgewerkt</string>
-  <string name="pull_fresh_updating">Bijwerken</string>
+  <string name="pull_fresh_updating">Bijwerken…</string>
   <string name="radar_cloud_image_title">Radarkaart</string>
   <string name="rainfall_settings_summary">Alarmen voor regenval</string>
   <string name="rainfall_settings_title">Regenval</string>
@@ -218,7 +218,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="update_night_setting_title_text">\'s Nachts automatisch bijwerken</string>
   <string name="update_setting_title_text">Weergegevens updaten</string>
   <string name="updated_a_moment_ago">Zojuist bijgewerkt</string>
-  <string name="updating">Bijwerken..</string>
+  <string name="updating">Bijwerken…</string>
   <string name="view_forecast_item_yesterday">Gisteren</string>
   <string name="view_indexes_item_today">Vandaag</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>

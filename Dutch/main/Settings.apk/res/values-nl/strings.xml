@@ -1581,6 +1581,7 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="fingerprint_manage_category_title">Vingerafdrukken beheren</string>
   <string name="fingerprint_not_identified_msg">Kon vingerafdruk niet lezen. Voer uw wachtwoord in"</string>
   <string name="fingerprint_not_recognized">Niet herkend</string>
+  <string name="fingerprint_payment">Fingerprint payments</string>
   <string name="fingerprint_removal_failed">Kon vingerafdruk niet verwijderen, probeer later opnieuw</string>
   <string name="fingerprint_unlock_set_unlock_password">Vingeradruk + wachtwoord</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Vingeradruk + patroon</string>

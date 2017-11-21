@@ -466,6 +466,7 @@ Neem meer foto\'s van je vrienden!"</string>
 %s
  om normaal te kunnen werken, tik op instellen om naar toestemmingen te gaan."</string>
   <string name="grant_permission_title">Toegang verlenen</string>
+  <string name="grant_permission_unlock_and_set">Unlock and set</string>
   <string name="has_invalid_recipient">Ongeldige ontvanger(s): %1$s;</string>
   <string name="have_known">Begrepen</string>
   <string name="hidden_album_display_name">Verborgen album</string>
@@ -786,9 +787,12 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_feedback_false_positive_title">Het lijkt erop dat deze \"%s\" zijn</string>
   <string name="search_feedback_likely_check_title">Controleren</string>
   <string name="search_feedback_likely_title">Het lijkt erop dat deze foto\'s \"%s\" kunnen hebben</string>
-  <string name="search_feedback_task_finish_title">Tik om beloning te ontvangen!</string>
+  <string name="search_feedback_task_complete">All missions are completed</string>
+  <string name="search_feedback_task_progress">Missions %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Kon beloning niet ontvangen. Probeer later opnieuw.</string>
   <string name="search_feedback_task_requesting_award">Beloning ontvangen​…</string>
+  <string name="search_feedback_user_notice">"I've read and agreed to %s."</string>
+  <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
   <string name="search_hint">Afbeeldingen zoeken​</string>
   <string name="search_image_result_title">Zoekresultaten</string>
   <string name="search_login_now">Aanmelden</string>
@@ -940,6 +944,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="tip_not_download">Niet op apparaat. Zal worden gedownload van Mi Cloud bij het afspelen.</string>
   <string name="tip_screenshot_package_info">Appnaam:</string>
   <string name="title_set_name">Naam invoeren</string>
+  <string name="title_tip">Hint</string>
   <string name="title_warn">Waarschuwing</string>
   <string name="to_count">%d totaal</string>
   <string name="to_enable_gallery_sync_dialog_message">Eerst galerijsynchronisatie inschakelen</string>
