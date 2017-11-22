@@ -20,7 +20,6 @@
   <string name="enable_accessibility_dialog_message">U heeft TalkBack ingeschakeld door met twee vingers op het scherm te drukken voor langer dan 10 seconden. TalkBack geeft spraakfeedback voor mensen met oogproblemen. Als je het per ongeluk hebt ingeschakeld, druk op annuleren en tik vervolgens twee keer op het scherm.</string>
   <string name="enable_accessibility_dialog_negative_btn">Annuleren</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="fail_to_generate_qr_code">Kon geen QR code genereren. Open deze pagina opnieuw.</string>
   <string name="ime_privacy_policy">Privacybeleid voor geselecteerde toetsenbord</string>
   <string name="ime_privacy_policy_no_network">Geen netwerkverbinding. Bekijk het privacybeleid voor dit keyboard op %s</string>
   <string name="input_method_category">Kies het standaard toetsenbord dat u gebruikt om berichten, notities en meer mee te schrijven. Merk op dat u andere toetsenborden van derden later kunt installeren.</string>
@@ -67,8 +66,6 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
 
 U moet akkoord gaan met onze Algemene Voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat vinden, startscherm, gamecenter, MAB en MSA systeemcomponenten, webapps, quick cards, statistieken, smart cards, Mi Link, en Mi Account componenten zullen verbinding maken met internet en toegang tot uw locatie krijgen."</string>
   <string name="title_fingerprint">Wachtwoord instellen</string>
-  <string name="two_dimensional_code_scan">QR code scannen</string>
   <string name="user_agreement">Algemene Voorwaarden</string>
-  <string name="user_strayed_warning">Deze pagina is bedoeld voor fabriekstests. Tik op \"Terug\" om af te sluiten.</string>
   <string name="welcome">Welkom</string>
 </resources>

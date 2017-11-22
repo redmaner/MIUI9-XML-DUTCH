@@ -717,6 +717,8 @@ Controleer het trackingnummer."</string>
   <string name="payment_method_credit">Creditcard</string>
   <string name="payment_method_other">Overig</string>
   <string name="payment_method_wechat">WeChat</string>
+  <string name="payment_month_next">Volgende maand</string>
+  <string name="payment_month_prev">Vorige maand</string>
   <string name="payment_pref_basic_category_title">Algemene instellingen</string>
   <string name="payment_pref_clear_records_title">Betalingsgeschiedenis verwijderen</string>
   <string name="payment_pref_enabled_summary">Alle betalingen automatisch opnemen</string>
@@ -725,12 +727,14 @@ Controleer het trackingnummer."</string>
   <string name="payment_pref_privacy_category_title">Privacy</string>
   <string name="payment_pref_privacy_security_summary">Gebruik MIUI privacywachtwoord om accountdetails te verbergen</string>
   <string name="payment_pref_privacy_security_title">Wachtwoord</string>
+  <string name="payment_pref_report_category_title">Rapporteren</string>
+  <string name="payment_pref_report_failed_record_title">Rapporteer onbehandelde rekeningen</string>
   <string name="payment_pref_source_alipay_summary">Verkrijg betalingsinfo van Alipay</string>
   <string name="payment_pref_source_category_title">Bron betalingsinfo</string>
   <string name="payment_pref_source_mms_summary">Verkrijg betalingsinfo van SMS berichten</string>
   <string name="payment_pref_source_mms_title">SMS</string>
   <string name="payment_pref_source_wechat_summary">Verkrijg betalingsinfo van WeChat</string>
-  <string name="payment_privacy_dialog_cancel">Exit</string>
+  <string name="payment_privacy_dialog_cancel">Afsluiten</string>
   <string name="payment_privacy_dialog_message">"\"Mijn betalingen\" kan rekeningen van betalingapps bij elkaar brengen op 1 plek. Alle betalingsgegevens wordt versleuteld en veilig opgeslagen op het apparaat. Het wordt niet gesynchroniseerd met Mi Cloud of geupload naar een server. Je kan \"Mijn betalingen\" uitschakelen in instellingen of deze kaart verwijderen van App vault om te stoppen deze dienst te gebruiken. Toestaan?"</string>
   <string name="payment_privacy_dialog_ok">Toestaan</string>
   <string name="payment_privacy_dialog_title">\"Mijn betalingen\" Privacybeleid</string>
@@ -744,6 +748,10 @@ Controleer het trackingnummer."</string>
   <string name="payment_record_new_lable">Geschiedenisrecord toevoegen</string>
   <string name="payment_record_recent_title">Recente betalingen</string>
   <string name="payment_record_show_more">Meer tonen</string>
+  <string name="payment_report_failed_record_dialog_cancel">Annuleren</string>
+  <string name="payment_report_failed_record_dialog_message">"Rapporteer onbehandelde rekeningen om ons te helpen betalingsberekeningen nauwkeuriger te maken.
+"De items die je deelt zullen alleen worden gebruikt om App vault te verbeteren.</string>
+  <string name="payment_report_failed_record_dialog_ok">Rapporteren</string>
   <string name="payment_setting">Instellingen</string>
   <string name="payment_total_month_desc">Deze maand</string>
   <string name="payment_total_today_desc">Vandaag</string>
