@@ -3,8 +3,8 @@
   <string name="about_hide_mode">Over batterijbespaarder</string>
   <string name="action_bar_delete">Verwijderen</string>
   <string name="action_settings">Instellingen</string>
-  <string name="activity_title_poweranalyze">Test batterij</string>
-  <string name="activity_title_powerconfigure">Batterij instellingen</string>
+  <string name="activity_title_poweranalyze">Batterij testen</string>
+  <string name="activity_title_powerconfigure">Batterij-instellingen</string>
   <string name="activity_title_poweroptimize">Batterij besparen</string>
   <string name="add_applications">Kies apps</string>
   <string name="add_apps_title">Apps</string>
@@ -60,7 +60,7 @@
   <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="high">Prestatie</string>
   <string name="hints_loading_text">Een momentje…</string>
-  <string name="important_warning">Opgelet</string>
+  <string name="important_warning">Let op</string>
   <string name="invalid_size_value">Kon pakketgrootte niet verkrijgen</string>
   <string name="lasttime_applist_cloud">Geupdatete apps:</string>
   <string name="lasttime_feature_cloud">Geupdatete functies:</string>
@@ -75,8 +75,8 @@
   <string name="menu_text_power_configure">Batterij-instellingen</string>
   <string name="middle">Gebalanceerd</string>
   <string name="mode_delete">Verwijderen</string>
-  <string name="mode_export">Exporteer</string>
-  <string name="mode_import">Importeer</string>
+  <string name="mode_export">Exporteren</string>
+  <string name="mode_import">Importeren</string>
   <string name="mode_settings">Instellingen</string>
   <string name="movie">Film</string>
   <string name="new_group_name">Aangepaste modus</string>
@@ -87,6 +87,8 @@
   <string name="normal">Standaardmodus</string>
   <string name="operation_create_group">Naam</string>
   <string name="operation_create_group_message">Voer een nieuwe groepnaam in</string>
+  <string name="performance_category">Prestaties</string>
+  <string name="power_center">Batterijgebruik</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s gedraagt zich abnormaal</string>
   <string name="power_checker_background_cpu_title">%1$s gedraagt zich abnormaal</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s vraagt regelmatig toegang tot locatie</string>
@@ -163,8 +165,9 @@
   <string name="power_event_view_event_title">Triggers</string>
   <string name="power_hide_mode_app_list_summary">Appinstellingen</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps , Wi-Fi,  mobiele dataverbindingen en GPS</string>
-  <string name="power_hide_mode_title">Batterijgebruik van apps beheren</string>
+  <string name="power_hide_mode_title">Batterij &amp; prestaties</string>
   <string name="power_keeper">Batterij besparen</string>
+  <string name="power_mode">Batterij-instellingen</string>
   <string name="power_mode_cpu_state_high">Prestatie</string>
   <string name="power_mode_cpu_state_high_desc">Prestaties gaan voor op levensduur van de batterij</string>
   <string name="power_mode_cpu_state_low">Batterij besparen</string>
@@ -175,6 +178,7 @@
   <string name="power_mode_view_event_title">Evenementen</string>
   <string name="power_mode_view_user_define_title">Nieuw evenement</string>
   <string name="power_optimize_activity_profile_file_error">Batterij besparingsfout</string>
+  <string name="power_usage">Batterijgebruik</string>
   <string name="ragment_sys_listempty">Geen systeemapps</string>
   <string name="reading">Leesmodus</string>
   <string name="scenario_policies_summary">Verschillende besparingsmodi instellen voor verschillende scenario\'s.</string>

@@ -35,6 +35,7 @@
   <string name="action_menu_text_copy_url">URL kopiëren</string>
   <string name="action_menu_text_create_qr_code">QR code</string>
   <string name="action_menu_text_download">Downloads beheren</string>
+  <string name="action_menu_text_drop">Menu afsluiten</string>
   <string name="action_menu_text_exit">Afsluiten</string>
   <string name="action_menu_text_find_in_page">Op pagina zoeken</string>
   <string name="action_menu_text_fullscreen">Volledig scherm</string>
@@ -114,6 +115,7 @@
   <string name="bookmark_cannot_save_url">Deze URL kan niet worden toegevoegd aan bladwijzers.</string>
   <string name="bookmark_folder_needs_title">Voer een groepsnaam in</string>
   <string name="bookmark_group_lable">Groep</string>
+  <string name="bookmark_move_to">Verplaatsen naar</string>
   <string name="bookmark_needs_title">Bladwijzer moet een naam hebben</string>
   <string name="bookmark_needs_url">Bladwijzer moet een URL bevatten</string>
   <string name="bookmark_not_saved">Kon bladwijzer niet opslaan</string>
@@ -140,6 +142,8 @@
   <string name="cancel">Annuleren</string>
   <string name="cancle_sync_cloud_tabs">Synchroniseren annuleren</string>
   <string name="cannot_download">"Kan alleen URL's met\ "http \" of \ "https \" downloaden"</string>
+  <string name="check_security_tip_privacy_policy">Privacybeleid</string>
+  <string name="check_security_tip_user_agreement">Gebruikersovereenkomst</string>
   <string name="choosertitle_sharevia">Delen via</string>
   <string name="clear_history">Geschiedenis verwijderen</string>
   <string name="clear_most_visited">Recente geschiedenis</string>
@@ -208,10 +212,6 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefoon</string>
-  <string name="custom_head_card_text">"Always believe that something wonderful
-is about to happen"</string>
-  <string name="custom_head_card_text_incognito">"Je bent incognito!
-Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="data_traffic_prompt_change">Het gebruik van mobiele gegevensverbinding om video\'s te bekijken zal uw dataverbruik verhogen. Als u een datalimiet hebt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_message">Het gebruik van mobiele dataverbinding om te bladeren in video\'s zal uw dataverbruik verhogen. Als u een datalimiet hebt, kan uw provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_message_short">Het gebruik van mobiele data om video te streamen kan ertoe leiden dat u over uw datalimiet heen gaat.</string>
@@ -223,6 +223,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_bookmark">Verwijderen</string>
+  <string name="delete_bookmark_action_warning">Bladwijzers verwijderen?</string>
   <string name="delete_bookmark_group_warning">\"%s\" verwijderen? Alle bladwijzers in deze groep zullen worden verwijderd.</string>
   <string name="delete_bookmark_warning">Bladwijzer \"%s\" verwijderen?</string>
   <string name="delete_download">Verwijderen</string>
@@ -342,6 +343,7 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="geolocation_settings_page_summary_allowed">Deze site heeft toegang tot uw locatie</string>
   <string name="geolocation_settings_page_summary_not_allowed">Deze site heeft geen toegang tot uw locatie</string>
   <string name="geolocation_settings_page_title">Locatietoegang blokkeren</string>
+  <string name="go_back_descirption">Terug</string>
   <string name="go_supermarket_button">Ga</string>
   <string name="go_supermarket_title">Meer apps, grotere snelheid en minder dataverbruik in App Store</string>
   <string name="gold_medals">Gouden medailles</string>
@@ -359,7 +361,6 @@ Pagina\'s die je bekijkt zullen niet opgeslagen worden."</string>
   <string name="homepage_search_hint">Zoeken</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="ignore_add_pwa_dialog_today">Vandaag niet tonen</string>
-  <string name="in_incognito">"U bent in incognitomodus! Webpagina's die u bekijkt in dit tabblad verschijnen niet in uw browsergeschiedenis."</string>
   <string name="in_secureaccess">Browser overgeschakeld naar veilige modus</string>
   <string name="isReplacePage">Bestand bestaat reeds, vervangen?</string>
   <string name="is_first_history_item">Dit is het eerste geschiedenis item</string>
@@ -530,9 +531,14 @@ Deze pagina verlaten?"</string>
   <string name="more_option">Meer opties</string>
   <string name="nav_bottom_bar_back">Terug</string>
   <string name="nav_bottom_bar_close_all">Alles sluiten</string>
+  <string name="nav_bottom_bar_close_description">Sluiten</string>
   <string name="nav_bottom_bar_new_tab">Nieuwe tab</string>
   <string name="nav_screen_container_tab_incognito">Incognito tab</string>
   <string name="nav_screen_container_tab_normal">Normale tab</string>
+  <string name="nav_screen_incognito_message">"Je browse- en zoekgeschiedenis wordt niet opgeslagen in incognitomodus.
+Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat wel worden bewaard."</string>
+  <string name="nav_screen_incognito_time">Na %s seconden wordt er automatisch een nieuwe pagina geopend</string>
+  <string name="nav_screen_incognito_title">Incognitomodus</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuleren</string>
   <string name="navigationbar_rightbutton_actiontext_go">Ga</string>
   <string name="navigationbar_rightbutton_actiontext_search">Zoeken</string>
@@ -788,18 +794,25 @@ Deze pagina verlaten?"</string>
   <string name="send_comment_title">Opmerking</string>
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
+  <string name="sequence_bookmark_description">Bladwijzervolgorde wijzigen</string>
   <string name="share_image_text">Kijk wat ik heb gedeeld! @MIUI</string>
   <string name="share_page_text">Kijk wat ik heb gedeeld: %1$s @MIUI| %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Browser moet verbinding met internet hebben om normaal te werken. Om de veiligheid te verbeteren en relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Browser moet verbinding met internet om normaal te werken. Om relevante aanbevelingen te ontvangen, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
-  <string name="show_security_tip_dialog_title">Algemene voorwaarden</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Browser moet verbinding met internet hebben om normaal te werken. Om de veiligheid te verbeteren, relevante aanbevelingen te ontvangen en weerdiensten te gebruiken, sta de browser toe om toegang te krijgen tot de URLs van de websites die je bezoekt en uw locatiegegevens.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"We zullen je persoonlijke gegevens verzamelen en gebruiken als je onze diensten gebruikt.
+De gegevens die we verzamelen zijn:
+1. URL links: We verzamelen de URLs van de websites die je bezoekt.
+2. Locatiegegevens: We krijgen toegang tot locatiegegevens.
+We gebruiken de gegevens die we verzamelen voor:
+1. Veiligheid: We gebruiken je gegevens om je apparaat te beschermen tegen fraude en virussen, alsmede opslag- en back-upredenen.
+2. Inhoud: Je gegevens helpen ons om relevante gelokaliseerde nieuwsinhoud te tonen.
+Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoord gaan met de %2$s en %1$s om de broswer te kunnen gebruiken.​"</string>
+  <string name="show_security_tip_dialog_title">Privacybeleid</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
   <string name="snapshot">Lokaal</string>
   <string name="snapshot_failed">Kon pagina niet opslaan</string>
   <string name="snapshot_successed">Open Bladwijzers &amp; Geschiedenis -&gt; LOKAAL om pagina te bekijken</string>
+  <string name="soft_toast_see_view">Bekijken</string>
   <string name="ssl_bad_clock_date_settings">Datum instellen</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Een priveverbinding met %s1 kan niet worden opgezet omdat de datum en tijd van uw apparaat (%s2) verkeerd zijn ingesteld."</string>
   <string name="ssl_certificate">Veiligheidscertificaat</string>
@@ -827,10 +840,12 @@ Deze pagina verlaten?"</string>
   <string name="suggest_access_btn_view">Bekijken</string>
   <string name="suggest_access_item_album_songs">%d nummers</string>
   <string name="suggest_access_item_app_update">Update: %s</string>
-  <string name="suggest_access_item_book_mark">BOEK</string>
+  <string name="suggest_access_item_book_mark">BOEKEN</string>
   <string name="suggest_access_item_music_mark">MUZIEK</string>
   <string name="suggest_access_item_singer_albums">%d albums</string>
   <string name="suggest_access_item_singer_pop">%d populaire nummers</string>
+  <string name="suggest_access_item_video_mark">VIDEO\'S</string>
+  <string name="suggest_access_item_yellow_mark">GELE GIDS</string>
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">Verwijderen</string>
   <string name="suggest_open_app_failed">Kon deze app niet openen</string>
@@ -848,6 +863,8 @@ Deze pagina verlaten?"</string>
   <string name="title_bar_loading">Laden…</string>
   <string name="too_many_windows_dialog_message">Kan geen nieuw tabblad openen totdat u er een sluit.</string>
   <string name="too_many_windows_dialog_title">Tabbladlimiet bereikt</string>
+  <string name="transfer_prompt_0">Video afspelen</string>
+  <string name="transfer_restart">Opnieuw beginnen</string>
   <string name="unSwitchText">NEE</string>
   <string name="undo">Ongedaan maken</string>
   <string name="unknown_title">Onbekend</string>
@@ -892,7 +909,8 @@ Deze pagina verlaten?"</string>
   <string name="video_buffering_percent_string">"Bufferen "</string>
   <string name="video_collect_cancel">Verwijderen uit favorieten</string>
   <string name="video_collect_success">Toegevoegd aan favorieten</string>
-  <string name="video_download_complete">Download voltooid.</string>
+  <string name="video_doenload_complete">Video gedownload</string>
+  <string name="video_download_complete">Download voltooid</string>
   <string name="video_download_empty">Geen video\'s</string>
   <string name="video_download_error">Fout</string>
   <string name="video_download_error_http_gone">Kon bestand niet vinden</string>
@@ -902,7 +920,7 @@ Deze pagina verlaten?"</string>
   <string name="video_download_finding_address">Download URL verkrijgen</string>
   <string name="video_download_pause">Gepauzeerd</string>
   <string name="video_download_start">Downloaden…</string>
-  <string name="video_download_success">Voltooid</string>
+  <string name="video_download_success">Download voltooid</string>
   <string name="video_download_unknown_name">Onbekende naam</string>
   <string name="video_download_unknown_size">Onbekende grootte</string>
   <string name="video_download_unsupport">Niet ondersteund</string>
@@ -927,7 +945,8 @@ Deze pagina verlaten?"</string>
   <string name="video_project_title">Video uitzending</string>
   <string name="video_push_multi_message">%1$d updates beschikbaar.</string>
   <string name="video_push_multi_title">Update beschikbaar</string>
-  <string name="video_push_single_message">Tik om up te daten naar %1$d.</string>
+  <string name="video_push_single_message">Tik om te updaten naar %1$d.</string>
+  <string name="video_service_notification_title">Pop-upvideo afspelen</string>
   <string name="video_subtitle_last_message1">Minder dan één minuut over</string>
   <string name="video_subtitle_prefix1">Bekeken</string>
   <string name="video_subtitle_prefix2">"Bekeken "</string>

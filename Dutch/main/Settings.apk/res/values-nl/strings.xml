@@ -1406,19 +1406,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="doze_title">Omgevingslichtscherm</string>
   <string name="draw_overlay">Tekenen over andere apps</string>
   <string name="draw_overlay_title">Apps die kunnen tekenen over andere apps</string>
-  <string name="drive_mode">Automodus</string>
-  <string name="drive_mode_auto_reply">Snel antwoord</string>
-  <string name="drive_mode_auto_sms_reply_content">Kan nu niet praten, ik bel je later</string>
-  <string name="drive_mode_auto_sms_reply_content_title">Snel antwoord</string>
-  <string name="drive_mode_calling_auto_sms_reply">Beantwoord gesprekken</string>
-  <string name="drive_mode_invert_stop_report">Telefoon omdraaien om te dempen</string>
-  <string name="drive_mode_only_contact_reply">Beantwoord alleen contactpersonen</string>
-  <string name="drive_mode_phone_report">Informatie over inkomende oproepen</string>
-  <string name="drive_mode_settings">Automodus instellingen</string>
-  <string name="drive_mode_sms_auto_sms_reply">Beantwoord SMS</string>
-  <string name="drive_mode_sms_report">Berichten</string>
-  <string name="drive_mode_title">Automodus</string>
-  <string name="drive_mode_voice_report">Uitvoer voor tekst naar spraak</string>
   <string name="dtmf_tone_enable_title">Toetsenblokgeluiden</string>
   <string name="edge_mode_back">Ga terug</string>
   <string name="edge_mode_back_summary">Dubbeltikken op de rand van de telefoon om terug te gaan</string>
@@ -1445,7 +1432,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="enable_adb">USB foutopsporing</string>
   <string name="enable_adb_summary">Foutopsporingsmodus bij USB verbinding</string>
   <string name="enable_compatibility">App schalen</string>
-  <string name="enable_drive_mode">Automodus</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
   <string name="enable_freeform_support_summary">Activeer ondersteuning voor experimentele freeform windows.</string>
   <string name="enable_mobile_data_when_opening_hotspot">Mobiele dataverbinding inschakelen?</string>
@@ -1581,7 +1567,7 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="fingerprint_manage_category_title">Vingerafdrukken beheren</string>
   <string name="fingerprint_not_identified_msg">Kon vingerafdruk niet lezen. Voer uw wachtwoord in"</string>
   <string name="fingerprint_not_recognized">Niet herkend</string>
-  <string name="fingerprint_payment">Fingerprint payments</string>
+  <string name="fingerprint_payment">Vingerafdrukbetalingen</string>
   <string name="fingerprint_removal_failed">Kon vingerafdruk niet verwijderen, probeer later opnieuw</string>
   <string name="fingerprint_unlock_set_unlock_password">Vingeradruk + wachtwoord</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Vingeradruk + patroon</string>
@@ -4078,7 +4064,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tether_and_hotspot_title">Tethering en hotspot</string>
   <string name="tether_devices_management_title">Apparaten beheren</string>
   <string name="tether_devices_max_number">Limiet van aangesloten apparaten</string>
-  <string name="tether_settings_disabled">Persoonlijke hotspot is uitgeschakeld</string>
+  <string name="tether_settings_disabled">Draagbare hotspot is uitgeschakeld</string>
   <string name="tether_settings_disabled_on_data_saver">Kan niet tetheren of draagbare hotspot gebruiken wanneer databespaarder is ingeschakeld</string>
   <string name="tether_settings_launch_title">Draagbare hotspot</string>
   <string name="tether_settings_title_all">Tethering en draagbare hotspot</string>
@@ -5001,9 +4987,9 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s draagbare Wi-Fi hotspot</string>
   <string name="wifi_tether_enabled_subtext">Draagbare hotspot %1$s actief</string>
   <string name="wifi_tether_failed_subtext">Fout met draagbare Wi-Fi hotspot</string>
-  <string name="wifi_tether_first_use_message">Mobiele hotspot opzetten bij eerste gebruik</string>
+  <string name="wifi_tether_first_use_message">Draagbare hotspot opzetten bij eerste gebruik</string>
   <string name="wifi_tether_setting_title">Instellingen</string>
-  <string name="wifi_tether_settings_title">Persoonlijke hotspot</string>
+  <string name="wifi_tether_settings_title">Draagbare hotspot</string>
   <string name="wifi_tether_starting">Hotspot inschakelen…</string>
   <string name="wifi_tether_stopping">Hotspot uitschakelen…</string>
   <string name="wifi_type_approval_dialog_title">Wettelijk verplichte informatie</string>

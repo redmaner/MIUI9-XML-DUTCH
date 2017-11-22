@@ -86,4 +86,8 @@
         <item>De huidige temperatuurregelmodus</item>
         <item>De huidige prestatiemodus</item>
     </string-array>
+	<string-array name="power_mode_entries">
+        <item>Prestatiemodus</item>
+        <item>Gebalanceerd</item>
+    </string-array>
 </resources>

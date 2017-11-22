@@ -285,6 +285,7 @@
   <string name="toast_feedbackservice_in_submit">Vorige feedback in behandeling…</string>
   <string name="toast_fill_brackets">Uw rapport mist info</string>
   <string name="toast_log_not_exists">De nodige log is verwijderd of bestaat niet</string>
+  <string name="toast_log_too_large">Kan niet uploaden. Het bestand is te groot.</string>
   <string name="toast_module_required">Selecteer item</string>
   <string name="toast_network_unavailable">Kon niet verzenden. Kan niet verbinden met netwerk</string>
   <string name="toast_pending_log_collection">Er komen nog steeds logs binnen…</string>
