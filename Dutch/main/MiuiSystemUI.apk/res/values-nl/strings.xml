@@ -514,7 +514,6 @@
 d MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE 
 d MMMM"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Vandaag: %1$s   Resterend: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Vandaag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan overschreden:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Maandelijks limiet: %1$s"</string>

@@ -249,7 +249,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="download_paused">Download gepauzeerd</string>
   <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer batterijbespaader is ingeschakeld</string>
   <string name="download_pending">Download in de wacht</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_processing">Downloaden…</string>
   <string name="download_quality">Downloadkwaliteit</string>
   <string name="download_quality_summary">Extra instellingen voor je download nummers</string>
@@ -286,9 +285,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="downloaded_empty">Leeg</string>
   <string name="downloading_empty">Leeg</string>
   <string name="downloads_operating">Bezig…</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editmode_menu_delete">Verwijderen</string>
   <string name="editmode_menu_share">Delen</string>
   <string name="empty_page_no_album">Geen albums.</string>
