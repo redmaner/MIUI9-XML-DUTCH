@@ -453,6 +453,7 @@ in het geval je hem vergeten bent"</string>
   <string name="call_contact_block">Blokkeer oproepen van contacten</string>
   <string name="call_delete_hint">Alle geblokkeerde oproepen van dit nummer verwijderen?</string>
   <string name="call_delete_title">Oproepgeschiedenis wissen</string>
+  <string name="call_oversea_block">Block calls from abroad</string>
   <string name="call_prefix">Voorvoegsel zwarte lijst</string>
   <string name="call_private">Blokkeer oproepen van privenummers</string>
   <string name="call_stranger_block">Blokkeer oproepen van vreemden</string>
@@ -712,6 +713,8 @@ in het geval je hem vergeten bent"</string>
   <string name="fw_blocked">Zwarte lijst</string>
   <string name="fw_blocked_count">"Geblokkeerd "</string>
   <string name="fw_blocked_join">" en "</string>
+  <string name="fw_oversea">Block calls from abroad</string>
+  <string name="fw_oversea_content">Block incoming calls from foreign phone numbers</string>
   <string name="game_ad_recommendation">Iedereen is aan het spelen</string>
   <string name="game_anti_disturb_msg">Niet storen tijdens gamen</string>
   <string name="game_booster">Gamesnelheid opvoeren</string>
@@ -1626,6 +1629,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_call_backsound_group">Geluid zwarte lijst</string>
   <string name="st_call_intercept_contacts">Oproepen van contacten blokkeren</string>
   <string name="st_call_intercept_forwarding">Doorgeschakelde oproepen blokkeren</string>
+  <string name="st_call_intercept_oversea">Block calls from abroad</string>
   <string name="st_call_intercept_reported">Oproepen van gerapporteerde nummers blokkeren</string>
   <string name="st_call_intercept_stranger">Oproepen  van vreemden blokkeren</string>
   <string name="st_call_intercept_unknown">Oproepen van verborgen nummers blokkeren</string>
@@ -1634,6 +1638,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_call_stranger_group">Oproepen van vreemden blokkeren</string>
   <string name="st_confirm_dialog_btn_open">Openen</string>
   <string name="st_confirm_dialog_summary_contact_call">Alle oproepen van contacten worden geblokkeerd.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Turn on to block all incoming calls from foreign phone numbers.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Alle oproepen van vreemden worden geblokkeerd.</string>
   <string name="st_filter_keywords_setting_summary1">Berichten van onbekende nummers die de woorden in deze lijst bevatten worden geblokkeerd.</string>
   <string name="st_filter_keywords_setting_summary2">"

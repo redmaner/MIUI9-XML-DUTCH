@@ -42,6 +42,7 @@
   <string name="audio_chat">Voicechat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="back_description">Back</string>
   <string name="back_view_description">Tik om terug te keren</string>
   <string name="batch_delete">Meerdere contacten verwijderen</string>
   <string name="blacklist">Blokkeren</string>
@@ -85,7 +86,6 @@
   <string name="call_radio">Radio bellen</string>
   <string name="call_record_setting_miui">Opname instellingen</string>
   <string name="call_settings">Instellingen</string>
-  <string name="call_settings_primary_user_only">Oproepinstellingen kunnen alleen worden gewijzigd door de primaire gebruiker.</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Bellen met SIM 1</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -97,6 +97,8 @@
   <string name="call_work">Werk bellen</string>
   <string name="call_work_mobile">Mobiel nummer werk bellen</string>
   <string name="call_work_pager">Pager werk bellen</string>
+  <string name="calllog_call_note_menu">Call notes</string>
+  <string name="calllog_call_record_menu">Recorded calls</string>
   <string name="calllog_menu_blacklist">Blokkeren</string>
   <string name="calllog_menu_edit_before_call">Bewerken</string>
   <string name="calllog_menu_send_sms">Een bericht sturen</string>
@@ -203,7 +205,7 @@
   <string name="contactSavedErrorToast">Kan wijzigingen in contactpersoon niet opslaan</string>
   <string name="contactSavedToast">Contactpersoon opgeslagen</string>
   <string name="contact_clear_search_history">Geschiedenis wissen</string>
-  <string name="contact_delete_toast">Contact verwijderd</string>
+  <string name="contact_delete_toast">Deleted contact successfully</string>
   <string name="contact_detail_action_item_calllog">Gespreksgeschiedenis</string>
   <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
@@ -243,6 +245,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contact_editor_prompt_multiple_accounts">Contact opslaan naar</string>
   <string name="contact_editor_prompt_one_account">Uw nieuwe contactpersoon wordt gesynchroniseerd met %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Er wordt geen back-up van uw nieuwe contactpersoon gemaakt. Een account toevoegen waarmee online een back-up van contacten wordt gemaakt?</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+  <string name="contact_import_methods_dialog_title">Select import method</string>
   <string name="contact_is_readOnly">Kan alleen lezen contacten niet bewerken</string>
   <string name="contact_list_loading">Laden…</string>
   <string name="contact_pick_photo">Foto</string>
@@ -261,6 +266,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contacts_unavailable_add_account">Inloggen bij een account</string>
   <string name="contacts_unavailable_create_contact">Een nieuw contact maken</string>
   <string name="contacts_unavailable_import_contacts">Importeren vanuit een bestand</string>
+  <string name="contacts_unavailable_import_from_old_device">Import from an older device</string>
+  <string name="contacts_unavailable_import_sim_contacts">Import SIM contacts</string>
   <string name="convenient_service">Services</string>
   <string name="copy_number">Kopiëren</string>
   <string name="copy_text">Kopiëren naar klembord</string>
@@ -535,6 +542,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="import_one_vcard_string">1 vCard bestand importeren</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importeer geselecteerde contacten</string>
+  <string name="import_sim_contacts_hint_title">Import SIM contacts</string>
   <string name="import_sim_entries_finish">Contacten geïmporteerd van SIM kaart</string>
   <string name="import_sim_entry_miui">Importeren</string>
   <string name="import_to_xiaomi_account_confirm">Importeren</string>
@@ -544,15 +552,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="import_to_xiaomi_account_title">Importeer onderstaande contacten naar uw Mi Account?</string>
   <string name="import_vcard_description">Importeer contacten van de interne opslag van telefoon</string>
   <string name="import_vcard_dialog_message">VCard importeren?</string>
-  <string name="import_weibo_dialog_title">Importeer Weibo contacten</string>
-  <string name="import_weibo_error_no_matched_contacts">Er komen geen contacten overeen</string>
-  <string name="import_weibo_error_no_network">Er is geen netwerkverbinding. Controleer de verbinding en probeer het opnieuw.</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Er zijn geen telefoonnummers opgeslagen in uw Mi Account.</string>
-  <string name="import_weibo_error_unknown">Onbekende fout</string>
-  <string name="import_weibo_error_user_cancel">Importeren geannuleerd</string>
-  <string name="import_weibo_fetch_followers">Ophalen van contacten…</string>
-  <string name="import_weibo_notification_title_done">%s contacten geupdate</string>
-  <string name="import_weibo_progress_name">Overeenkomende \"%1$s\"…</string>
   <string name="importing_sim_contacts_miui">Importeren van SIM contacten…</string>
   <string name="importing_sim_contacts_miui_prepare">Voorbereiden van contacten…</string>
   <string name="importing_vcard_canceled_title">Importeren van %s geannuleerd</string>
@@ -749,12 +748,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Contacten herstellen van Mi Account</string>
   <string name="noContacts">Geen contacten.</string>
-  <string name="noContactsHelpText">"U heeft geen contacten om weer te geven. Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SIM- of SDkaart"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;""</string>
-  <string name="noContactsHelpTextForCreateShortcut">Er zijn geen contacten om weer te geven.</string>
-  <string name="noContactsHelpTextWithSync">"Er zijn geen contacten om weer te geven. (Indien u zojuist een account heeft toegevoegd, kan het even duren voordat de contacten zijn gesynchroniseerd.)Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Pas aan welke contactpersonen getoond worden"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SIM- of SD-kaart"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;""</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Er zijn geen contacten om weer te geven. (Indien u zojuist een account heeft toegevoegd, kan het even duren voordat de contacten zijn gesynchroniseerd.)"</string>
-  <string name="noContactsNoSimHelpText">"YEr zijn geen contacten om weer te geven."Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SD-kaart"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Er zijn geen contacten om weer te geven.(Indien u zojuist een account heeft toegevoegd, kan het even duren voordat de contacten zijn gesynchroniseerd.) Om contacten toe te voegen, klik "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", vervolgens klik: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts om toe te voegen of stel een account in met contactpersonen om te synchroniseren met uw toestel"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Pas aan welke contactpersonen getoond worden"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nieuw aan te maken contactpersoon"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importeer/Exporteer om contactpersonen te importeren van uw SD-kaart"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;""</string>
   <string name="noContactsWithPhoneNumbers">Er zijn geen contacten met telefoonnummers</string>
   <string name="noFavoritesHelpText">"U heeft geen favorieten. Om een contact toe te voegen aan uw favorieten: "&lt;li&gt;Klik op &lt;b&gt;Contacts&lt;/b&gt;" tab "&lt;/li&gt;" "&lt;li&gt;"Selecteer het contact die je aan de favorieten wilt toevoegen "&lt;/li&gt;" "&lt;li&gt;"Selecteer de ster bij de naam van het contact"&lt;/li&gt;""</string>
   <string name="noGroups">Geen groepen.</string>
@@ -766,7 +759,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="no_contacts_dialog_message">Contacten kunnen opgeslagen zijn op de SIM kaart. Probeer deze te importeren vanaf de SIM kaart en probeer het opnieuw.</string>
   <string name="no_contacts_dialog_title">"Er zijn geen contacten gevonden"</string>
   <string name="no_contacts_selected">Er zijn geen contacten geselecteerd.</string>
-  <string name="no_sdcard_message">Geen opslag gevonden.</string>
+  <string name="no_sdcard_message">Geen SD kaart gevonden.</string>
   <string name="non_phone_add_to_contacts">Toevoegen aan bestaand contact</string>
   <string name="non_phone_caption">Telefoonnummer</string>
   <string name="non_phone_close">Sluiten</string>
@@ -994,7 +987,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="search_simple_mode">Weergave;info;foto\'s;Contacten</string>
   <string name="search_smart_group_title">Contacten;Weergave</string>
   <string name="search_wipe_data">Organiseren;Contacten</string>
-  <string name="searching_vcard_message">Zoeken naar vCardgegevens in opslag…</string>
+  <string name="searching_vcard_message">Zoeken naar vCardgegevens op SD kaart…</string>
   <string name="select_all">Selecteer alles</string>
   <string name="select_all_exceed">Selecteer er niet meer dan %1$d, kan ze niet allemaal selecteren</string>
   <string name="select_done">Niets meer om te selecteren</string>

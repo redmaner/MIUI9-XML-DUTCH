@@ -60,6 +60,7 @@
   <string name="hours">%d uur</string>
   <string name="install_weather_app_error">Kon app niet laden</string>
   <string name="install_weather_app_loading">Een momentje…</string>
+  <string name="invalid_time">Invalid time: %3$s %1$d: %2$d</string>
   <string name="keep_screen_on">Scherm aanlaten</string>
   <string name="label">Label instellen</string>
   <string name="label_pref_summary">Label</string>
