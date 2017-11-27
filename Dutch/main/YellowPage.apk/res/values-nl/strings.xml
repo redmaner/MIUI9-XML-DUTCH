@@ -116,6 +116,7 @@
   <string name="mark_number_feedback_success">Feedback met succes verzonden</string>
   <string name="mark_number_marked_maintitle">Rapport wijzigen voor dit nummer</string>
   <string name="mark_number_marked_subtitle">U rapporteerde dit nummer als %s</string>
+  <string name="mark_number_notification_title">Report suspicious number</string>
   <string name="mark_number_remove">Label verwijderen</string>
   <string name="mark_title_null_hint">Voer label in</string>
   <string name="menu_add_black_list">Toevoegen aan zwarte lijst</string>
