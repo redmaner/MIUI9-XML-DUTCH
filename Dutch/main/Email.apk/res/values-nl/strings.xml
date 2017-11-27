@@ -1022,7 +1022,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="system_setup_open_error">Schakel synchronisatie voor Mail in in instellingen</string>
   <string name="tap_to_configure">Raak aan om in te stellen</string>
   <string name="tap_to_enable_sync">Raak aan om in te schakelen.</string>
-  <string name="to">Aan</string>
   <string name="to_heading">"Aan: "</string>
   <string name="toast_bar_fail_synchronization">Kan niet verbinden met netwerk</string>
   <string name="toast_bar_insufficient_memory_space">Kan geen e-mails ontvangen. Niet genoeg opslagruimte.</string>
