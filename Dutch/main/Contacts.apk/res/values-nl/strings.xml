@@ -75,7 +75,6 @@
   <string name="call_left">Telefoon saldo</string>
   <string name="call_log_new_header">Nieuw</string>
   <string name="call_log_old_header">Ouder</string>
-  <string name="call_main">Hoofdnummer bellen</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
   <string name="call_operator_init">Provider instellen</string>
