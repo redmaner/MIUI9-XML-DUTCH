@@ -163,7 +163,6 @@
   <string name="dialog_type_image">Foto\'s</string>
   <string name="dialog_type_text">Documenten</string>
   <string name="dialog_type_video">Video\'s</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">"Beschikbaar: "</string>
   <string name="disk_total">"Totaal: "</string>
   <string name="dislike_toast">Video\'s zoals deze worden niet aanbevolen voor jou</string>
@@ -314,11 +313,9 @@
   <string name="message_comment_prefix">"Opmerking: "</string>
   <string name="message_my_received_notification">Nieuw bericht</string>
   <string name="message_my_received_praise">Mijn vind ik leuks</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" vind deze reactie leuk"</string>
   <string name="message_praise_video">" vind deze video leuk"</string>
   <string name="message_reply_prefix">Reageren</string>
-  <string name="message_reply_suffix">": "</string>
   <string name="mi_router_label">Router</string>
   <string name="midrop_msg_1">Zet Mi Drop aan op het andere apparaat</string>
   <string name="midrop_msg_2">Wanneer Mi Drop ingeschakeld is, kunt u naar apparaten in de buurt zoeken en bestanden verzenden</string>

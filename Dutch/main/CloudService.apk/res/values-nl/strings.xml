@@ -89,8 +89,6 @@ Laatst geback-upt op %2$s"</string>
   <string name="find_device_disabling">Uitschakelen…</string>
   <string name="find_device_dspt">Uw apparaat op afstand lokaliseren, vergrendelen, of resetten</string>
   <string name="find_device_dspt_provision">"Als u uw toestel verliest, kunt u naar %s gaan om hem te lokaliseren, vergrendelen of resetten. U kunt deze functie in- en uitschakelen op elk gewenst moment in Instellingen."</string>
-  <string name="find_device_dspt_provision_2">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. U kunt deze functie op elk moment in- en uitschakelen in de instellingen.</string>
   <string name="find_device_dspt_provision_4">Als u van SIM kaart verwisselt, zal er automatisch een SMS bericht verzonden worden om deze functie te activeren.</string>
   <string name="find_device_enabling">Inschakelen…</string>
@@ -99,7 +97,6 @@ Laatst geback-upt op %2$s"</string>
   <string name="find_device_error_server">Fout op onze servers.</string>
   <string name="find_device_error_unknown">Onbekende fout.</string>
   <string name="find_device_notice_p1">Ga naar</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">om je telefoon te lokaliseren, vergrendelen of te herstellen.</string>
   <string name="find_device_operation_failure_rpc">Kon deze actie niet uitvoeren door een RPC error.</string>
   <string name="find_device_pref_alert_content">"Vind apparaat is gekoppeld aan uw Mi Account. Je moet een wachtwoord instellen of het wachtwoord invoeren dat u hebt ingesteld. Zorg ervoor dat u uw Mi Account ID en wachtwoord niet vergeet. Een uitgaande SMS zou verzonden kunnen worden om deze service te activeren. Uw provider zal kosten in rekening brengen voor deze SMS. Wanneer je van SIM kaart wisselt zal er automatisch een bericht worden verzonden om het te heractiveren."</string>
@@ -265,8 +262,6 @@ of apparaat te wissen."</string>
   <string name="micloud_find_device_open_fail">Kon apparaat vinden niet inschakelen</string>
   <string name="micloud_find_device_opened">Apparaat vinden ingeschakeld</string>
   <string name="micloud_find_device_opened_content">Vind uw apparaat op %s</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Apparaat vinden heractiveren</string>
   <string name="micloud_find_device_verify_close">Apparaat vinden uitschakelen</string>
   <string name="micloud_find_device_verify_fail">Kon apparaat vinden niet heractiveren</string>

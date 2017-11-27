@@ -103,10 +103,6 @@
   <string name="keyguard_charging_info_tip_text4">Gebruik uw apparaat niet teveel wanneer deze aan het opladen is om overhitting te voorkomen.</string>
   <string name="keyguard_charging_info_tip_text5">Batterijen doen er langer over om op te laden als ze warm zijn.</string>
   <string name="keyguard_charging_info_tip_text6">Schakel het scherm uit en leg uw apparaat weg om deze af te laten koelen.</string>
-  <string name="keyguard_left_bankcard">Rekenmachine</string>
-  <string name="keyguard_left_buscard">Notities</string>
-  <string name="keyguard_left_remotecentral">Kalender</string>
-  <string name="keyguard_left_smarthome">Contacten</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
   <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>

@@ -536,7 +536,6 @@ Controleer het trackingnummer."</string>
   <string name="hour24_format_en">HH:mm</string>
   <string name="http_stock_error">Kon info niet laden</string>
   <string name="immediate_recommendation">Aanbevelingen</string>
-  <string name="info_divider">|</string>
   <string name="item_type_custom">Personaliseren</string>
   <string name="item_type_suggestion">Suggesties</string>
   <string name="just_now">Zojuist</string>
@@ -761,7 +760,6 @@ Controleer het trackingnummer."</string>
   <string name="payment_upload_data_success">Gegevens geupload</string>
   <string name="payment_user_notice_bar_text">Over \"Mijn betalingen\"</string>
   <string name="personalAssistant_mainpage">Startpagina</string>
-  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="pie_chart_label_atm">Opnames bij geldautomaat:</string>
   <string name="pie_chart_label_catering">Eten:</string>
   <string name="pie_chart_label_education">Onderwijs:</string>
