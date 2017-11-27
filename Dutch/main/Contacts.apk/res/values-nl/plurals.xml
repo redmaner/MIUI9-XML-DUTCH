@@ -75,10 +75,6 @@
         <item quantity="other">%1$d nummers</item>
         <item quantity="one">%1$d nummer</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">Found %1$d items</item>
-        <item quantity="one">Found %1$d item</item>
-    </plurals>
 	<plurals name="hint_account_contacts">
         <item quantity="other">%1$d items gevonden</item>
         <item quantity="one">1 item gevonden</item>
