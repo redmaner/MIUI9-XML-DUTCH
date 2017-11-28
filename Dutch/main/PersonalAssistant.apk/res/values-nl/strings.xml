@@ -665,8 +665,8 @@ Controleer het trackingnummer."</string>
   <string name="not_install_c3">Downloaden</string>
   <string name="not_install_c4">Nee bedankt</string>
   <string name="not_installed">Niet geinstalleerd</string>
-  <string name="note_name">Maak een notitie</string>
-  <string name="note_parent">Een korte notitie</string>
+  <string name="note_name">Aanmaken</string>
+  <string name="note_parent">Notities</string>
   <string name="notification_content_fail_not_support">Kon betalingsinfo niet verkrijgen, voeg handmatig toe</string>
   <string name="notification_content_fail_stay_longer">Blijf op de betalingspagina voor minimaal een seconde</string>
   <string name="notification_content_success">%2$s CNY betaling over %1$s</string>

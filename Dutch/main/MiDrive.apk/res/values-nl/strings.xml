@@ -26,6 +26,10 @@
   <string name="downloading">Bezig met downloaden</string>
   <string name="downloading_in_3g">Bezig met downloaden op 3G…</string>
   <string name="downloading_in_wifi">Bezig met downloaden…</string>
+  <string name="drive_low_memory_description_content">Mobile phone storage space is insufficient, please go to the phone garbage clean up to release more storage space?</string>
+  <string name="drive_low_memory_description_title">Low memory Warning</string>
+  <string name="drive_low_memory_description_toast">Mobile phone storage space is insufficient, please clean up after the use of MiDrive</string>
+  <string name="drive_low_memory_positive_content">Clean Up</string>
   <string name="empty_file_download">Lege bestanden worden niet ondersteunt</string>
   <string name="empty_file_upload">Lege bestanden worden niet ondersteunt</string>
   <string name="file_already_downlaoded">Bestand opslaan naar \"%1$s\"</string>
@@ -107,6 +111,7 @@
   <string name="sd_full">Uw SD kaart is vol.</string>
   <string name="sd_invalid">Uw SD kaart is beschadigd.</string>
   <string name="send_to_midrive_failed">Dit type bestand wordt niet ondersteund</string>
+  <string name="source_file_missing">File is missing.</string>
   <string name="space_full">Niet genoeg ruimte op de cloud.</string>
   <string name="start_use_xiaomi_account">Start met het gebruiken van Mi Drive</string>
   <string name="system_alert">Internetverbinding</string>
