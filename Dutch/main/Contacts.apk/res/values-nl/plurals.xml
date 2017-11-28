@@ -1,115 +1,111 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Delete %1$d contacts from SIM card?</item>
-        <item quantity="one">Delete %1$d contact from SIM card?</item>
+        <item quantity="other">%1$d contacten van SIM kaart verwijderen?</item>
+        <item quantity="one">%1$d contact van SIM kaart verwijderen?</item>
 	</plurals>	
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM card can store %1$d contacts.</item>
-        <item quantity="one">SIM card can store %1$d contact.</item>
+        <item quantity="other">SIM kaart kan %1$d contacten bewaren.</item>
+        <item quantity="one">SIM kaart kan %1$d contact bewaren.</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Half uur geleden</item>
     </plurals>
      <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Over 1 uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">Over half uur</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Direct</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %1$d mins</item>
-        <item quantity="one">in %1$d min</item>
+        <item quantity="other">over %1$d minuten</item>
+        <item quantity="one">over %1$d minuut</item>
     </plurals>
 	<plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Zojuist</item>
     </plurals>
     
     <plurals name="batch_delete_msg">
-        <item quantity="other">Delete %1$d contacts?</item>
-        <item quantity="one">Delete %1$d contact?</item>
+        <item quantity="other">%1$d contacten verwijderen?</item>
+        <item quantity="one">%1$d contact verwijderen?</item>
     </plurals>
 	<plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Delete %1$d contacts</item>
-        <item quantity="one">Delete %1$d contact</item>
+        <item quantity="other">%1$d contacten verwijderen</item>
+        <item quantity="one">%1$d contact verwijderen</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Rang %1$d times</item>
-        <item quantity="one">Rang %1$d time</item>
+        <item quantity="other">Ging %1$d keer over</item>
+        <item quantity="one">Ging %1$d keer over</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$d contacts or photos haven't been synced"</item>
-        <item quantity="one">"%1$d contact or photo hasn't been synced"</item>
+        <item quantity="other">%1$d contacten of foto\'s zijn niet gesynchroniseerd</item>
+        <item quantity="one">%1$d contact of foto zijn niet gesynchroniseerd</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d contacten</item>
         <item quantity="one">%1$d contact</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">%1$d contacts imported</item>
-        <item quantity="one">%1$d contact imported</item>
+        <item quantity="other">%1$d contacten geimporteerd</item>
+        <item quantity="one">%1$d contact geimporteerd</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Block %1$d phone numbers?</item>
-        <item quantity="one">Block %1$d phone number?</item>
+        <item quantity="other">%1$d telefoonnummers blokkeren?</item>
+        <item quantity="one">%1$d telefoonnummer blokkeren?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Unblock %1$d phone numbers?</item>
-        <item quantity="one">Unblock %1$d phone number?</item>
+        <item quantity="other">%1$d telefoonnummers deblokkeren?</item>
+        <item quantity="one">%1$d telefoonnummer deblokkeren?</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">%1$d contacts added</item>
-        <item quantity="one">%1$d contact added</item>
+        <item quantity="other">%1$d contacten toegevoegd</item>
+        <item quantity="one">%1$d contact toegevoegd</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d personen</item>
+        <item quantity="one">%1$d persoon</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d nummers</item>
         <item quantity="one">%1$d nummer</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">Found %1$d items</item>
-        <item quantity="one">Found %1$d item</item>
     </plurals>
 	<plurals name="hint_account_contacts">
         <item quantity="other">%1$d items gevonden</item>
         <item quantity="one">1 item gevonden</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">%1$d contacts</item>
+        <item quantity="other">%1$d contacten</item>
         <item quantity="one">%1$d contact</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d emails</item>
-        <item quantity="one">%1$d email</item>
+        <item quantity="other">%1$d e-mails</item>
+        <item quantity="one">%1$d e-mail</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
+        <item quantity="other">%1$d nummers</item>
+        <item quantity="one">%1$d nummer</item>
     </plurals>
 	<plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d contacten gevonden</item>
+        <item quantity="one">1 contact gevonden</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contacts</item>
+        <item quantity="other">%d contacten</item>
         <item quantity="one">1 contact</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">%d contacten met telefoonnummers</item>
+        <item quantity="one">1 contact met telefoonnummer</item>
     </plurals>
 	<plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">samengevoegd van %0$d bronnen</item>
+        <item quantity="one">niet samengevoegd</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d voicemails</item>
@@ -121,43 +117,43 @@
         <item quantity="one">%1$d geselecteerd</item>
     </plurals>
 	<plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d person from %2$s</item>
+        <item quantity="other">%1$d personen van %2$s</item>
+        <item quantity="one">%1$d persoon van %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d groepen</item>
+        <item quantity="one">1 groep</item>
     </plurals>
 	<plurals name="number_of_items_available">
-        <item quantity="other">%1$d items remaining</item>
-        <item quantity="one">%1$d item remaining</item>
+        <item quantity="other">%1$d items resterend</item>
+        <item quantity="one">%1$d item resterend</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d items geselecteerd</item>
+        <item quantity="one">%1$d item geselecteerd</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d favorieten</item>
+        <item quantity="one">%1$d favoriet</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d favorieten</item>
+        <item quantity="one">%1$d favoriet</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">%1$d recent contacts</item>
+        <item quantity="other">%1$d recente contacten</item>
         <item quantity="one">%1$d recent contact</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d recent contacts</item>
+        <item quantity="other">%1$d recente contacten</item>
         <item quantity="one">%1$d recent contact</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d contacten gevonden</item>
+        <item quantity="one">1 contact gevonden</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d personen</item>
+        <item quantity="one">%1$d persoon</item>
     </plurals>
 </resources>

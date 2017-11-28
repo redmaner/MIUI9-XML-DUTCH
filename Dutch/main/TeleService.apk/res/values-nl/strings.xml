@@ -960,7 +960,7 @@ Dit kan tot 5 minuten duren."</string>
   <string name="ota_touch_activate">"U moet een speciale oproep uitvoeren om uw telefoonservice te activeren. Nadat u op 'Activeren' heeft gedrukt, luistert u naar de instructies om uw telefoon te activeren."</string>
   <string name="ota_try_again">Opnieuw proberen</string>
   <string name="ota_unsuccessful">Uw telefoon is niet geactiveerd. Zoek een plek waar u betere dekking heeft (in de buurt van een raam of buiten). Probeer het opnieuw of bel de klantenservice voor meer opties.</string>
-  <string name="other_available_phone_accounts">Other available accounts</string>
+  <string name="other_available_phone_accounts">Andere beschikbare accounts</string>
   <string name="other_settings">Andere oproepinstellingen</string>
   <string name="other_settings_category">Overige</string>
   <string name="overlay_display_devices_title">Secundaire displays simuleren</string>
@@ -1009,7 +1009,7 @@ Dit kan tot 5 minuten duren."</string>
   <string name="payphone">Payphone</string>
   <string name="phoneAppLabel">Telefoondiensten</string>
   <string name="phoneIconLabel">Telefoon</string>
-  <string name="phone_account_settings">Calling accounts</string>
+  <string name="phone_account_settings">Oproepaccounts</string>
   <string name="phone_accounts">Oproepaccounts</string>
   <string name="phone_accounts_add_sip_account">SIP account toevoegen</string>
   <string name="phone_accounts_all_calling_accounts">Alle oproepaccounts</string>
@@ -1126,7 +1126,7 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_type_pref_entries_only_2g">Alleen 2G netwerk (bespaart batterij)</string>
   <string name="preferred_network_type_pref_entries_only_3g">Alleen 3G netwerk</string>
   <string name="preferred_network_type_title">Selectie netwerktype</string>
-  <string name="preferred_phone_account">Preferred calling account</string>
+  <string name="preferred_phone_account">Voorkeursoproepaccount</string>
   <string name="private_num">Privénummer</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
@@ -1164,9 +1164,9 @@ U hebt nog %d pogingen over."</string>
   <string name="registration_status_server_unreachable">Accountregistratie mislukt: Controleer de servernaam.</string>
   <string name="registration_status_still_trying">Nog bezig met proberen…</string>
   <string name="reject_via_sms">Snel antwoord</string>
-  <string name="reject_via_sms_summary">Show buttons for ending call and sending SMS</string>
+  <string name="reject_via_sms_summary">Knop weergeven om oproepen te beëindigen en SMS te verzenden</string>
   <string name="reject_via_sms_title">Snelle antwoorden</string>
-  <string name="remaining_length_format">%1$s left</string>
+  <string name="remaining_length_format">%1$s resterend</string>
   <string name="remove">Verwijderen</string>
   <string name="remove_sip_account">Account verwijderen</string>
   <string name="removing_account">Dit account verwijderen…</string>
@@ -1473,7 +1473,7 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="voicemail_number_not_set">Niet ingesteld</string>
   <string name="voicemail_provider">Dienst</string>
   <string name="voicemail_provider_summary">Kies voicemailservice</string>
-  <string name="voicemail_set_pin_dialog_title">Set PIN</string>
+  <string name="voicemail_set_pin_dialog_title">PIN instellen</string>
   <string name="voicemail_settings">Instellingen voicemail</string>
   <string name="voicemail_settings_number_hint">Voer voicemailnummer in</string>
   <string name="voicemail_settings_number_label">Voicemailnummer</string>
@@ -1485,8 +1485,8 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="volte_provision_text">VoLTE oproepen zijn van betere kwaliteit dan normale oproepen. SMS versturen om te activeren?</string>
   <string name="volte_provision_title">VoLTE oproepen activeren</string>
   <string name="volte_switch_not_support_summary">Volte oproepen worden niet ondersteund voor de mobiele data SIM kaart.</string>
-    <string name="volte_switch_not_support_summary2">"VoLTE calls aren't supported by the carrier."</string>
-  <string name="volte_switch_summary">Gebruik VoLTE om de kwaliteit van stem- en video-oproepen te verbeteren</string>
+    <string name="volte_switch_not_support_summary2">VoLTE oproepen worden niet ondersteund door de provider.</string>
+  <string name="volte_switch_summary">Gebruik VoLTE om de kwaliteit van spraak- en video-oproepen te verbeteren</string>
   <string name="volte_switch_title">VoLTE ingeschakeld</string>
   <string name="vpn_settings_not_available">VPN instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="vvm_unsupported_message_format">Niet ondersteunde bericht type, bel %s om te luisteren.</string>

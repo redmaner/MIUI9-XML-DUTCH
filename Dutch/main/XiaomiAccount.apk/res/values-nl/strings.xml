@@ -15,7 +15,7 @@
   <string name="account_error_longer_user_name">Naam mag niet langer zijn dan 20 tekens</string>
   <string name="account_error_shorter_user_name">Naam moet langer zijn dan 2 tekens</string>
   <string name="account_error_user_birthday">De ingevoerde verjaardag is ongeldig</string>
-  <string name="account_global_region">Overseas</string>
+  <string name="account_global_region">Buitenland</string>
   <string name="account_has_been_set">Wijzigen</string>
   <string name="account_limit_update_birthday">Kan verjaardagen momenteel niet updaten</string>
   <string name="account_mipay_info">Mi Pay</string>
