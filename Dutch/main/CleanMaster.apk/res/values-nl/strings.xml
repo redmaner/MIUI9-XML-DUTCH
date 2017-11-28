@@ -301,8 +301,8 @@
   <string name="no_network">Kon niet verbinden met netwerk, probeer later opnieuw</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="notification_summary_after_auto_cleanup">%s opgeruimd.</string>
-  <string name="notification_summary_of_garbage_cleanup">Tap to free up space.</string>
-  <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
+  <string name="notification_summary_of_garbage_cleanup">Tik om ruimte vrij te maken.</string>
+  <string name="notification_title_of_garbage_cleanup">%s aan afval</string>
   <string name="notify_when">Een melding krijgen wanneer de afval 100MB heeft bereikt</string>
   <string name="ok">Ok</string>
   <string name="open">Inschakelen</string>
@@ -448,7 +448,7 @@
   <string name="total_clean">Totaal opgeruimd: %s</string>
   <string name="total_clean_text">Opruimen</string>
   <string name="update_date_format">dd-MM-yyyy</string>
-  <string name="virus_scan">Security scan</string>
+  <string name="virus_scan">Veiligheidsscan</string>
   <string name="vungle_ad_name">Vungle advertentie</string>
   <string name="wechat_cache_files">WeChat cache</string>
   <string name="wechat_chat_clean_done">Alles ziet er goed uit</string>

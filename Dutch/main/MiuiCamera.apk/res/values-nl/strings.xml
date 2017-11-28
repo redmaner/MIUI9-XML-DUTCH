@@ -7,8 +7,8 @@
   <string name="accessibility_effect_mode_button">Effectknop</string>
   <string name="accessibility_flash_mode_button">Flitsknop</string>
   <string name="accessibility_hdr">HDR wisselknop</string>
-  <string name="accessibility_intent_done_apply">Klaar</string>
-  <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
+  <string name="accessibility_intent_done_apply">Gereed</string>
+  <string name="accessibility_mode_dismiss_button">Modusselectieknop sluiten</string>
   <string name="accessibility_peak">Focus Peak knop</string>
   <string name="accessibility_portrait_button">Portretmodus</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
@@ -16,7 +16,7 @@
   <string name="accessibility_setting_button">Extra instellingen knop</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
   <string name="accessibility_skin_beautify_button">HuidVerfraaiKnop</string>
-  <string name="accessibility_stereo_button">Dual Camera Modus</string>
+  <string name="accessibility_stereo_button">Dual Cameramodus</string>
   <string name="accessibility_video_capture_button">VideoOpnameKnop</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauzeKnop</string>
