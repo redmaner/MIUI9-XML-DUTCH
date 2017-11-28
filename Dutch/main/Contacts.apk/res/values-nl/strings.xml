@@ -42,7 +42,7 @@
   <string name="audio_chat">Voicechat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="back_description">Back</string>
+  <string name="back_description">Terug</string>
   <string name="back_view_description">Tik om terug te keren</string>
   <string name="batch_delete">Meerdere contacten verwijderen</string>
   <string name="blacklist">Blokkeren</string>
@@ -96,8 +96,8 @@
   <string name="call_work">Werk bellen</string>
   <string name="call_work_mobile">Mobiel nummer werk bellen</string>
   <string name="call_work_pager">Pager werk bellen</string>
-  <string name="calllog_call_note_menu">Call notes</string>
-  <string name="calllog_call_record_menu">Recorded calls</string>
+  <string name="calllog_call_note_menu">Belnotities</string>
+  <string name="calllog_call_record_menu">Opgenomen gesprekken</string>
   <string name="calllog_menu_blacklist">Blokkeren</string>
   <string name="calllog_menu_edit_before_call">Bewerken</string>
   <string name="calllog_menu_send_sms">Een bericht sturen</string>
@@ -204,7 +204,7 @@
   <string name="contactSavedErrorToast">Kan wijzigingen in contactpersoon niet opslaan</string>
   <string name="contactSavedToast">Contactpersoon opgeslagen</string>
   <string name="contact_clear_search_history">Geschiedenis wissen</string>
-  <string name="contact_delete_toast">Deleted contact successfully</string>
+  <string name="contact_delete_toast">Contact verwijderd</string>
   <string name="contact_detail_action_item_calllog">Gespreksgeschiedenis</string>
   <string name="contact_detail_action_item_nocalllog">Geen geschiedenis</string>
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
@@ -246,7 +246,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contact_editor_prompt_zero_accounts">Er wordt geen back-up van uw nieuwe contactpersoon gemaakt. Een account toevoegen waarmee online een back-up van contacten wordt gemaakt?</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
-  <string name="contact_import_methods_dialog_title">Select import method</string>
+  <string name="contact_import_methods_dialog_title">Selecteer importeermethode</string>
   <string name="contact_is_readOnly">Kan alleen lezen contacten niet bewerken</string>
   <string name="contact_list_loading">Laden…</string>
   <string name="contact_pick_photo">Foto</string>
@@ -265,8 +265,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="contacts_unavailable_add_account">Inloggen bij een account</string>
   <string name="contacts_unavailable_create_contact">Een nieuw contact maken</string>
   <string name="contacts_unavailable_import_contacts">Importeren vanuit een bestand</string>
-  <string name="contacts_unavailable_import_from_old_device">Import from an older device</string>
-  <string name="contacts_unavailable_import_sim_contacts">Import SIM contacts</string>
+  <string name="contacts_unavailable_import_from_old_device">Importeren van ouder apparaat</string>
+  <string name="contacts_unavailable_import_sim_contacts">SIM contacten importeren</string>
   <string name="convenient_service">Services</string>
   <string name="copy_number">Kopiëren</string>
   <string name="copy_text">Kopiëren naar klembord</string>
@@ -541,7 +541,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="import_one_vcard_string">1 vCard bestand importeren</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importeer geselecteerde contacten</string>
-  <string name="import_sim_contacts_hint_title">Import SIM contacts</string>
+  <string name="import_sim_contacts_hint_title">SIM contacten importeren</string>
   <string name="import_sim_entries_finish">Contacten geïmporteerd van SIM kaart</string>
   <string name="import_sim_entry_miui">Importeren</string>
   <string name="import_to_xiaomi_account_confirm">Importeren</string>

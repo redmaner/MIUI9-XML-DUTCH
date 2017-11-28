@@ -48,7 +48,6 @@
   <string name="dialog_confirm_abort">Wijzigingen ongedaan maken?</string>
   <string name="done">Gereed</string>
   <string name="edit_systemtime">Systeemtijd bewerken</string>
-  <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Elke dag</string>
   <string name="force_touch_add_alarm">Alarm toevoegen</string>
   <string name="force_touch_enter_stopwatch">Stopwatch</string>
@@ -60,7 +59,7 @@
   <string name="hours">%d uur</string>
   <string name="install_weather_app_error">Kon app niet laden</string>
   <string name="install_weather_app_loading">Een momentje…</string>
-  <string name="invalid_time">Invalid time: %3$s %1$d: %2$d</string>
+  <string name="invalid_time">Ongeldige tijd: %3$s %1$d: %2$d</string>
   <string name="keep_screen_on">Scherm aanlaten</string>
   <string name="label">Label instellen</string>
   <string name="label_pref_summary">Label</string>
