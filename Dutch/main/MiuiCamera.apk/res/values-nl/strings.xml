@@ -7,6 +7,7 @@
   <string name="accessibility_effect_mode_button">Effectknop</string>
   <string name="accessibility_flash_mode_button">Flitsknop</string>
   <string name="accessibility_hdr">HDR wisselknop</string>
+  <string name="accessibility_intent_done_apply">Klaar</string>
   <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
   <string name="accessibility_peak">Focus Peak knop</string>
   <string name="accessibility_portrait_button">Portretmodus</string>
