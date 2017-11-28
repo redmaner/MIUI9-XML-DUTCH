@@ -1766,6 +1766,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="incoming_call_breathing_light_color_title">Kleur bij oproepen</string>
   <string name="incoming_call_breathing_light_freq_title">Knipperfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
+  <string name="infinity_display_settings">Full screen display</string>
+  <string name="infinity_display_slogan">Continued growth in unexplored technology</string>
+  <string name="infinity_display_title">Full screen display</string>
   <string name="information_dialog_button_text">Verstaan</string>
   <string name="input_method">Toetsenbord</string>
   <string name="input_method_selector">Invoermethode kiezer</string>
@@ -2354,6 +2357,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="mock_location_app_set">Neplocatie-app: %1$s</string>
   <string name="mode_disable">Uit</string>
   <string name="mode_enable">Aan</string>
+  <string name="model_name">Model name</string>
   <string name="model_number">Modelnummer</string>
   <string name="modify_instruction_password_settings">Wachtwoord instellen</string>
   <string name="modify_privacy_password">Wachtwoord wijzigen</string>
@@ -2416,6 +2420,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dirac_mode_piston_color">Kleur Editie</string>
   <string name="music_dirac_mode_piston_standard">Standaard Editie</string>
   <string name="music_dirac_mode_piston_youth">Jeugd Editie</string>
+  <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
@@ -3785,7 +3790,6 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_key_position_custom">Knoppositie wijzigen</string>
   <string name="status_bar_screen_button_force_immersive_desc">Veeg omhoog vanaf de onderkant van het scherm om knoppen weer te geven</string>
-  <string name="status_bar_screen_button_key">Schermknoppen</string>
   <string name="status_bar_screen_button_key_force_immersive">Schermknoppen verbergen</string>
   <string name="status_bar_screen_key_back">Terugknop</string>
   <string name="status_bar_screen_key_home">Homeknop</string>
