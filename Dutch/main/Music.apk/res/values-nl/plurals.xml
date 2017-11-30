@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d nummers&lt;/font> gedownload</item>
-        <item quantity="one">&lt;font color==\"red\">%d nummer&lt;/font> gedownload</item>
+        <item quantity="other">%d nummers gedownload</item>
+        <item quantity="one">%d nummer gedownload</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d nummers&lt;/font> bezig met downloaden</item>
-        <item quantity="one">&lt;font color==\"red\">%d nummer&lt;/font> bezig met downloaden</item>
+        <item quantity="other">%d nummers bezig met downloaden</item>
+        <item quantity="one">%d nummer bezig met downloaden</item>
     </plurals>
   <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">%d items verwijderen?</item>
@@ -96,8 +96,8 @@
         <item quantity="one">%d volger</item>
     </plurals>
 	<plurals name="songs_count">
-        <item quantity="other">%dsongs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">%d nummer</item>
     </plurals>
 	<plurals name="Nunbackup_audios">
         <item quantity="other">"%1$d nummers zijn niet geback-upt (%2$.1fMB)"</item>
@@ -130,11 +130,11 @@
         <item quantity="one">%d nummer overgeslagen. Schakel online services in in instellingen om ernaar te luisteren.</item>
     </plurals>
 	<plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d songs?</item>
-        <item quantity="one">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d song?</item>
+        <item quantity="other">Optimalisatie van album en songteksten uitgeschakeld. Wil je geoptimaliseerde info, album en songteksten van %d nummers terugzetten?</item>
+        <item quantity="one">Optimalisatie van album en songteksten uitgeschakeld. Wil je geoptimaliseerde info, album en songtekst van %d nummer terugzetten?</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">Matching album and lyric (%1$d/%2$d songs)</item>
-        <item quantity="one">Matching album and lyric (%1$d/%2$d song)</item>
+        <item quantity="other">Album en songteksten matchen (%1$d/%2$d nummers)</item>
+        <item quantity="one">Album en songtekst matchen (%1$d/%2$d nummer)</item>
     </plurals>
 </resources>

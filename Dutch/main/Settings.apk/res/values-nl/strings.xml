@@ -1766,9 +1766,9 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="incoming_call_breathing_light_color_title">Kleur bij oproepen</string>
   <string name="incoming_call_breathing_light_freq_title">Knipperfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
-  <string name="infinity_display_settings">Full screen display</string>
-  <string name="infinity_display_slogan">Continued growth in unexplored technology</string>
-  <string name="infinity_display_title">Full screen display</string>
+  <string name="infinity_display_settings">Fullscreen display</string>
+  <string name="infinity_display_slogan">Voortgaande groei in onontdekte technologie</string>
+  <string name="infinity_display_title">Fullscreen display</string>
   <string name="information_dialog_button_text">Verstaan</string>
   <string name="input_method">Toetsenbord</string>
   <string name="input_method_selector">Invoermethode kiezer</string>
@@ -2357,7 +2357,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="mock_location_app_set">Neplocatie-app: %1$s</string>
   <string name="mode_disable">Uit</string>
   <string name="mode_enable">Aan</string>
-  <string name="model_name">Model name</string>
+  <string name="model_name">Modelnaam</string>
   <string name="model_number">Modelnummer</string>
   <string name="modify_instruction_password_settings">Wachtwoord instellen</string>
   <string name="modify_privacy_password">Wachtwoord wijzigen</string>
@@ -2400,8 +2400,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_audio_effect_optimize_summary">Dirac, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD geluid, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, koptelefoon en andere audio instellingen</string>
-  <string name="music_audio_effect_settings">Audio effect instellingen</string>
-  <string name="music_dirac_control">Optimaliseer audiokwaliteit</string>
+  <string name="music_audio_effect_settings">Audio-effectinstellingen</string>
+  <string name="music_dirac_control">Audiokwaliteit optimaliseren</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi oordopjes</string>
   <string name="music_dirac_mode_general">Algemene</string>
@@ -2416,11 +2416,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dirac_mode_piston_1">Mi Piston 1</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
-  <string name="music_dirac_mode_piston_basic">Basis Editie</string>
-  <string name="music_dirac_mode_piston_color">Kleur Editie</string>
-  <string name="music_dirac_mode_piston_standard">Standaard Editie</string>
-  <string name="music_dirac_mode_piston_youth">Jeugd Editie</string>
-  <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
+  <string name="music_dirac_mode_reduction_noise">Geluid TypeC verminderen</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
