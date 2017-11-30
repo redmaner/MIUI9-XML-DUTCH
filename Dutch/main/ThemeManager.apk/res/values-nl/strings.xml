@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Dit geschenk verzenden?</string>
   <string name="gift_use_fail_dlg_title">Er ging iets fout</string>
   <string name="gift_used">Verzenden</string>
-  <string name="hide_free">Gratis thema\'s verbergen</string>
-  <string name="hide_incompatible">Thema\'s die niet ondersteund worden verbergen</string>
+  <string name="hide_free">Hide free %1$s</string>
+  <string name="hide_incompatible">Hide incompatible %1$s</string>
   <string name="home_apply_failured">Kan achtergrond niet toepassen op het startscherm</string>
   <string name="home_apply_success">Achtergrond toegepast op het startscherm</string>
   <string name="in_the_end">Geen items meer om te tonen</string>

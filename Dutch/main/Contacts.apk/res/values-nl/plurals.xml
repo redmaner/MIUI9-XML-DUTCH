@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">%1$d contacten van SIM kaart verwijderen?</item>
-        <item quantity="one">%1$d contact van SIM kaart verwijderen?</item>
-	</plurals>	
-    <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM kaart kan %1$d contacten bewaren.</item>
-        <item quantity="one">SIM kaart kan %1$d contact bewaren.</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1 uur geleden</item>
     </plurals>
@@ -47,6 +39,10 @@
         <item quantity="other">%1$d contacten of foto\'s zijn niet gesynchroniseerd</item>
         <item quantity="one">%1$d contact of foto zijn niet gesynchroniseerd</item>
     </plurals>
+	    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">%1$d contacten van SIM kaart verwijderen?</item>
+        <item quantity="one">%1$d contact van SIM kaart verwijderen?</item>
+	</plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d contacten</item>
         <item quantity="one">%1$d contact</item>
@@ -62,6 +58,10 @@
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">%1$d telefoonnummers deblokkeren?</item>
         <item quantity="one">%1$d telefoonnummer deblokkeren?</item>
+    </plurals>
+	    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM kaart kan %1$d contacten bewaren.</item>
+        <item quantity="one">SIM kaart kan %1$d contact bewaren.</item>
     </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d contacten toegevoegd</item>

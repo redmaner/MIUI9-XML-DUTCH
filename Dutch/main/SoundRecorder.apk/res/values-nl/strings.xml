@@ -13,6 +13,7 @@
   <string name="clear_records">Gesynchroniseerde opnames verwijderen</string>
   <string name="cloud_record_open">Synchroniseer opnames</string>
   <string name="cloud_record_tip">Synchroniseer opnames met Mi Cloud.</string>
+  <string name="cloud_service_state_open_reminder">Turn on sync with Mi Cloud to sync recording files.</string>
   <string name="cloud_status_full_dialog_cancel">Nu niet</string>
   <string name="cloud_status_full_dialog_msg">Uw cloudopslag is vol, kan opnames niet synchroniseren. Upgrade uw account om meer opslagruimte te verkrijgen.</string>
   <string name="cloud_status_full_dialog_ok">Upgraden</string>

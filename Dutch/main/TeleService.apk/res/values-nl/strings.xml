@@ -822,6 +822,7 @@
   <string name="missed_call_notify_times_summary">Kies hoe vaak u aan een gemiste oproep herinnert wilt worden (herinneringen komen iedere 5 minuten)</string>
   <string name="missed_call_notify_times_title">Herinnering aan gemiste oproep</string>
   <string name="missed_call_notify_twice">2 keer</string>
+    <string name="miui_notification_network_selection_text" formatted="false">SIM %s Selected network (%s) unavailable</string>
   <string name="mmiCancelled">MMI code geannuleerd</string>
   <string name="mmiStarted">MMI code gestart</string>
   <string name="mobile_data_always_on">Mobiele data altijd actief</string>
