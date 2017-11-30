@@ -8,6 +8,7 @@
   <string name="ble_device_rename">Naam wijzigen</string>
   <string name="bluetooth_connected">Gekoppeld</string>
   <string name="bluetooth_connecting">Koppelen…</string>
+  <string name="bluetooth_device_context_unpair">Koppeling verbreken</string>
   <string name="bluetooth_disconnected">Koppeling verbreken</string>
   <string name="bluetooth_disconnecting">Koppeling verbreken…</string>
   <string name="bluetooth_preference_connected_devices">Gekoppelde apparaten</string>
