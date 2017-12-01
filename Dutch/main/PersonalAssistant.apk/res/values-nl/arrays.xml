@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="day_time_space">
-        <item>Night</item>
-        <item>Early morning</item>
-        <item>Morning</item>
-        <item>Midday</item>
-        <item>Afternoon</item>
-        <item>Late afternoon</item>
-        <item>Evening</item>
+        <item>Nacht</item>
+        <item>Vroeg in de ochtend</item>
+        <item>Ochtend</item>
+        <item>Middag</item>
+        <item>Middag</item>
+        <item>Laat in de middag</item>
+        <item>Avond</item>
     </string-array>
     <string-array name="express_status_detail">
-        <item>On the way</item>
-        <item>Dispatching</item>
+        <item>Onderweg</item>
+        <item>Uitleveren</item>
     </string-array>
     <string-array name="express_status_all">
-        <item>On the way</item>
-        <item>Dispatching</item>
-        <item>Delivered</item>
-        <item>Unknown</item>
-        <item>Recevied</item>
-        <item>Rejected</item>
-        <item>Return</item>
-        <item>Unknown</item>
+        <item>Onderweg</item>
+        <item>Uitleveren</item>
+        <item>Bezorgd</item>
+        <item>Onbekend</item>
+        <item>Ontvangen</item>
+        <item>Geweigerd</item>
+        <item>Op de weg terug</item>
+        <item>Onbekend</item>
     </string-array>
 </resources>
