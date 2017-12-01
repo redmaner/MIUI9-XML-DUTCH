@@ -507,15 +507,15 @@ Controleer het trackingnummer."</string>
   <string name="go_to_school">Naar en van werk of school</string>
   <string name="greeting_alarm_desc">Wekker zal morgen afgaan om %1$s.</string>
   <string name="greeting_alarm_desc_with_duration">Wekker zal morgen afgaan om %1$s, ga nu naar bed om %2$s slaap te pakken.</string>
-  <string name="greeting_birth_desc">"Vandaag is %1$s's verjaardag."</string>
+  <string name="greeting_birth_desc">Vandaag is %1$s\'s verjaardag.</string>
   <string name="greeting_news_morning">Wat is er gebeurd in uw slaap?</string>
   <string name="greeting_news_night">Vandaag was een drukke dag.</string>
   <string name="greeting_no_alarm">Geen wekkers gezet, slaap lekker!</string>
-  <string name="greeting_no_schedule">Geen gebeurtenissen vandaag</string>
+  <string name="greeting_no_schedule">Geen gebeurtenissen vandaag.</string>
   <string name="greeting_open">Schakel dagelijkse begroetingen in</string>
   <string name="greeting_schedule_desc">Geplande gebeurtenissen vandaag: %1$d</string>
   <string name="greeting_setting_brief">Ontvang weerinformatie en herinneringen over geplande geberutenissen, wekkers en verjaardagen elke ochtend en avond</string>
-  <string name="greeting_setting_brief_notice">Je kan de stad verander in de weerapp</string>
+  <string name="greeting_setting_brief_notice">Je kan de stad veranderen in de weerapp</string>
   <string name="greeting_title_morning">Goeiemorgen!</string>
   <string name="greeting_title_night">Goeieavond!</string>
   <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
@@ -907,7 +907,7 @@ Controleer het trackingnummer."</string>
   <string name="sms_hour_suffix">uur resterend</string>
   <string name="sms_minute_suffix">minuten resterend</string>
   <string name="sms_passenger">Passagier</string>
-  <string name="sms_phone">Phone</string>
+  <string name="sms_phone">Telefoon</string>
   <string name="sms_platform">Platform</string>
   <string name="sms_session">Tijd</string>
   <string name="sms_start_date">Datum</string>
