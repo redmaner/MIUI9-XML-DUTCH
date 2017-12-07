@@ -520,6 +520,7 @@ Deze pagina verlaten?"</string>
   <string name="miuishare_account_need_activate">Weibo account moet gekoppeld zijn me uw Mi Account. Aanmelden met uw Account?</string>
   <string name="miuishare_account_need_login">Weibo account moet gekoppeld zijn me uw huidige Mi Account. Aanmelden om te delen?</string>
   <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_dialog_cancel">Annuleren</string>
   <string name="miuishare_no_network">Kon niet verbinden met netwerk</string>
   <string name="miuishare_publish">Verzenden</string>
   <string name="miuishare_share_done">Gedeeld</string>

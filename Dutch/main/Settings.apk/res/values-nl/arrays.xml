@@ -164,8 +164,8 @@
         <item>Gescheiden</item>
     </string-array>
 	<string-array name="status_bar_show_carrier_entries">
-        <item>Alleen weergeven op vergrendelscherm en meldingsscherm</item>
-        <item>Providernaam altijd weergeven</item>
+        <item>Alleen weergeven op vergrendelscherm</item>
+        <item>Alleen weergeven in statusbalk</item>
         <item>Providernaam nooit weergeven</item>
     </string-array>
 	<string-array name="check_importance_entries">

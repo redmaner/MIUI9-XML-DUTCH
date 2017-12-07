@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="__leak_canary_analysis_failed">Lekanalyse is mislukt</string>
-  <string name="__leak_canary_class_has_leaked">%s is gelekt</string>
-  <string name="__leak_canary_delete">Verwijderen</string>
-  <string name="__leak_canary_delete_all">Alle verwijderen</string>
-  <string name="__leak_canary_display_activity_label">Lekken</string>
-  <string name="__leak_canary_failure_report">"Meld dit gebrek aan http://github.com/square/leakcanary
-"</string>
-  <string name="__leak_canary_leak_list_title">Lekken in %s</string>
-  <string name="__leak_canary_notification_message">Klik voor meer details</string>
-  <string name="__leak_canary_share_heap_dump">Heap dump delen</string>
-  <string name="__leak_canary_share_leak">Info delen</string>
-  <string name="__leak_canary_share_with">Delen met…</string>
-  <string name="__leak_canary_toast_heap_dump">Geheugen dumpen, app zal bevriezen. Brrrr.</string>
   <string name="accept">Accepteren</string>
   <string name="accept_or_deny">%1$s heeft album %2$s met u gedeeld.</string>
   <string name="add_automatically_alert_msg">Foto\'s van \"%1$s\" automatisch toevoegen aan dit album?</string>
@@ -95,6 +82,7 @@
   <string name="apply">Toepassen</string>
   <string name="associate_face_album">Kies een album</string>
   <string name="auto_backup_introduce">Automatisch foto\'s en videos\'s back-uppen (Mi account is vereist)</string>
+  <string name="auto_download_media_title">Download automatisch foto\'s van Mi Cloud</string>
   <string name="auto_update_face">Foto\'s automatisch toevoegen</string>
   <string name="auto_update_face_summary">Automatisch foto\'s vergelijken en toevoegen aan het babyalbum</string>
   <string name="auto_update_off">Uit</string>
@@ -186,6 +174,7 @@
   <string name="camera_needs_auto_backup_tip">Camera-album moet worden geback-upt</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Overschakelen naar standaard achtergrond vergrendelscherm?</string>
+  <string name="cancel_download_btn_text">Stoppen</string>
   <string name="cancel_hint">Handeling geannuleerd</string>
   <string name="cannot_remove_creator">Kan de maker niet verwijderen</string>
   <string name="cannot_send_message">"Het bericht kan niet worden verzonden"</string>
@@ -301,13 +290,22 @@
   <string name="double_tap_to_higher_definition">Dubbeltik om een voorbeeld te zien</string>
   <string name="download_canceled">Download geannuleerd</string>
   <string name="download_error_format">Kon %s niet downloaden</string>
+  <string name="download_error_tip">. Downloads zijn onderbroken.</string>
+  <string name="download_origin_dialog_message">"Originele afbeeldingen worden gedownload van Mi Cloud. Lokale foto\'s worden niet geoptimaliseerd."</string>
   <string name="download_retry_message">Kon bestanden niet downloaden, controleer netwerkverbinding en probeer opnieuw.</string>
   <string name="download_retry_text">Opnieuw proberen</string>
   <string name="download_retry_title">Kon bestanden niet downloaden</string>
   <string name="download_tip">Downloaden</string>
   <string name="download_title">Bestanden voorbereiden…</string>
+  <string name="download_type_origin">Originele bestanden</string>
+  <string name="download_type_origin_desc">Originele bestanden</string>
+  <string name="download_type_thumbnail">Hoge kwaliteit</string>
+  <string name="download_type_thumbnail_desc">Hoge kwaliteit</string>
+  <string name="download_type_title">Downloadkwaliteit</string>
   <string name="download_without_wifi_msg">"Het gebruik van uw mobiele dataverbinding om bestanden te downloaden zal uw dataverbruik verhogen. Als je de datalimiet overschrijdt, kan uw provider extra kosten in rekening brengen."</string>
   <string name="download_without_wifi_title">Waarschuwing dataverbruik</string>
+  <string name="downloading_dialog_message">Je kan de kwaliteit van de gedownloade afbeeldingen instellen of automatische downloads uitschakelen in instellingen.</string>
+  <string name="downloading_title">Foto\'s downloaden van Mi Cloud</string>
   <string name="edit_baby_info">Babyinfo weergeven</string>
   <string name="email_picker_title">Gedeelde e-mail toevoegen</string>
   <string name="empty_query_text_msg">Weet niet waarnaar te zoeken…</string>
@@ -471,7 +469,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="hidden_album_display_name">Verborgen album</string>
   <string name="home_menu_cleaner">Maak ruimte vrij</string>
   <string name="home_menu_collage">Collage</string>
-  <string name="home_menu_photo_movie">Terugkijken</string>
+  <string name="home_menu_photo_movie">Clip</string>
   <string name="home_menu_print">Foto\'s afdrukken</string>
   <string name="home_page_empty_action">Neem een foto</string>
   <string name="home_page_label">Foto\'s</string>
@@ -686,6 +684,26 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_print_menu_loading">Plug-in laden…</string>
   <string name="photo_print_package_finish">Laden succesvol</string>
   <string name="photo_print_package_installing">Plug-in laden…</string>
+  <string name="photomovie_audio_custom">Lokaal</string>
+  <string name="photomovie_audio_none">Geen</string>
+  <string name="photomovie_audio_unsupport">Dit audiotype wordt niet ondersteund</string>
+  <string name="photomovie_cancel_download">Downloaden annuleren</string>
+  <string name="photomovie_delete_disable">Je hebt tenimste 3 foto\'s nodig om een clip te maken.</string>
+  <string name="photomovie_download">Downloaden</string>
+  <string name="photomovie_download_failed">Kon niet downloaden</string>
+  <string name="photomovie_download_failed_for_notwork">Kon niet downloaden. Controleer de netwerkverbinding.</string>
+  <string name="photomovie_download_without_wifi_msg">Mobiel internet gebruiken om bestanden te downloaden zal het dataverbruik verhogen. Als je je datalimiet overschrijdt zal je provider extra kosten in rekening brengen.</string>
+  <string name="photomovie_download_without_wifi_title">Waarschuwing dataverbruik</string>
+  <string name="photomovie_item_name">Clip</string>
+  <string name="photomovie_return">Terug</string>
+  <string name="photomovie_save">Opslaan</string>
+  <string name="photomovie_save_failed">Kon niet opslaan</string>
+  <string name="photomovie_save_successfully">Opgeslagen</string>
+  <string name="photomovie_saving">Clip maken…</string>
+  <string name="photomovie_tab_edit">Bewerken</string>
+  <string name="photomovie_tab_music">Muziek</string>
+  <string name="photomovie_tab_template">Template</string>
+  <string name="photomovie_template_default">Langzaam</string>
   <string name="pick_from_contact">Kies uit contacten</string>
   <string name="pick_too_many_recipients">Te veel ontvangers</string>
   <string name="picker_cancel_download">Downloaden annuleren</string>
@@ -868,6 +886,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="slideshow_interval_value">%1$d seconden</string>
   <string name="slim_after_backuped_summary">Vervang volle-resolutie foto\'s lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Volle-resolutie foto\'s zijn nog steeds beschikbaar in Mi Cloud. Dit kan heel wat lokale opslag besparen.</string>
   <string name="slim_after_backuped_title">Lokale opslag optimaliseren na back-ups</string>
+  <string name="slim_dialog_message">Geoptimaliseerde HD foto\'s zullen worden gedownload van Mi Cloud in plaats van originele bestanden.</string>
   <string name="slim_introduce">Vervang volle-resolutie foto\'s met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Volle-resolutie items zullen nog steeds beschikbaar zijn in Mi Cloud.</string>
   <string name="slim_introduce_with_specific_size">Vervang volle-resolutie bestanden lokaal met geoptimaliseerde versies nadat ze zijn geback-upt naar Mi Cloud. Volle-resolutie foto\'s zijn nog steeds beschikbaar in Mi Cloud. Dit kan tot %1$s lokale opslag besparen(Mi account is vereist).</string>
   <string name="slim_now">Nu optimaliseren</string>

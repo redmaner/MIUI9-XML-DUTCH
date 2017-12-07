@@ -1767,8 +1767,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="incoming_call_breathing_light_color_title">Kleur bij oproepen</string>
   <string name="incoming_call_breathing_light_freq_title">Knipperfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
-  <string name="infinity_display_settings">Fullscreen display</string>
-  <string name="infinity_display_slogan">Voortgaande groei in onontdekte technologie</string>
+  <string name="infinity_display_settings">Full screen</string>
+  <string name="infinity_display_slogan">Innovatie op full screen</string>
   <string name="infinity_display_title">Fullscreen display</string>
   <string name="information_dialog_button_text">Verstaan</string>
   <string name="input_method">Toetsenbord</string>
@@ -2044,8 +2044,8 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
   <string name="lock_screen_signature_summary">Dit bericht zal worden weergegeven op het vergrendelscherm</string>
   <string name="lock_screen_signature_title">Eigenaarsinfo vergrendelscherm</string>
-  <string name="lock_screen_unlock_show">Scherm vegen overslaan</string>
-  <string name="lock_screen_unlock_show_summary">Ga direct naar het startscherm of wachtwoord invoeren na het ontwaken</string>
+  <string name="lock_screen_unlock_show">Vergrendelscherm overslaan</string>
+  <string name="lock_screen_unlock_show_summary">Startscherm direct openen of wachtwoord invoeren</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tik om te wijzigen</string>
   <string name="lock_settings">Vergrendelscherm en wachtwoord</string>
   <string name="lock_settings_common_title">Vergrendelinstellingen</string>
@@ -3732,7 +3732,7 @@ PIN code mogelijk onjuist.</string>
   <string name="single_key_use_summary">Gebruik de homeknop voor de functies die uitgevoerd worden door de 2 andere knoppen</string>
   <string name="skip_anyway_button_label">Toch overslaan</string>
   <string name="skip_label">Overslaan</string>
-  <string name="skip_lock_screen_confirm_msg">De volgende functies worden uitgeschakeld voor het vergrendelscherm: meldingen, muziekspeler controles, veeg naar links om toegang te krijgen tot de camera en veeg naar rechts om toegang te krijgen tot Telefoon.</string>
+  <string name="skip_lock_screen_confirm_msg">Meldingen, bediening van muziekapp en snelkoppelingen worden niet weergegeven op het vergrendelscherm.</string>
   <string name="skip_step">Overslaan</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI informatie</string>
