@@ -306,10 +306,11 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="application_permission_manager">Apptoestemmingen</string>
   <string name="application_permissions">Apptoestemmingen</string>
   <string name="application_restrictions">Apps en inhoud toestaan</string>
-  <string name="applications_settings_header">Geïnstalleerde apps</string>
-  <string name="applications_settings_summary">Apps beheren, sneltoetsen voor snelstarten instellen</string>
+  <string name="applications_settings">Geïnstalleerde apps</string>
+  <string name="applications_settings_header">Appinstellingen</string>
+  <string name="applications_settings_summary">Apps beheren, snelkoppelingen voor snelstarten instellen</string>
   <string name="apply_fingerprint_to_category_title">Vingerafdruk toepassen naar…</string>
-  <string name="apply_now_button_text">Update</string>
+  <string name="apply_now_button_text">Updaten</string>
   <string name="apply_password_to_category_title">Ontgrendeling nodig</string>
   <string name="apply_update_fail">Kon niet updaten</string>
   <string name="approve_title">Verificatie</string>
@@ -3309,7 +3310,7 @@ Om schermpinning te gebruiken:
   <string name="search_app_switch_key">Recente;Recent;Menu;Knopmenu;Taakbeheerder</string>
   <string name="search_application_lock_name">Appvergrendeling</string>
   <string name="search_applications_settings">Geïnstalleerde apps</string>
-  <string name="search_back_key">Terug;Terug knop;Terug knop</string>
+  <string name="search_back_key">Terug;Terug knop;Terugknop</string>
   <string name="search_battery_indicator">Batterij indicatie</string>
   <string name="search_bluetooth_device_searchable">Zichtbaar;Zichtbaar;;Bluetooth naam</string>
   <string name="search_bluetooth_enable">Bluetooth;Bluetooth inschakelen;Bluetooth ingeschakeld</string>
