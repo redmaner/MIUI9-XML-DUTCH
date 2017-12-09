@@ -2958,7 +2958,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="proxy_settings_label">Proxy instellingen</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_warning_limited_support">De HTTP proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
-  <string name="query_hint_text">Zoekinstellingen</string>
+  <string name="query_hint_text">Zoeken in instellingen</string>
   <string name="quiet">Niet storen</string>
   <string name="quiet_group">Niet storen</string>
   <string name="quiet_important_interruptions_mode">Alleen uitzonderingen toestaan</string>
@@ -3328,8 +3328,8 @@ Om schermpinning te gebruiken:
   <string name="search_copyright_title">Copyright</string>
   <string name="search_credentials_install">Installeren vanuit opslag;Direkt installeren;APK installeren</string>
   <string name="search_date_and_time_settings_title">Datum &amp; tijd;Datum en tijd;Datum;Tijd</string>
-  <string name="search_description">Zoekinstellingen</string>
-  <string name="search_development_settings_title">Ontwikkelaarsopties;Hulp</string>
+  <string name="search_description">Zoeken in instellingen</string>
+  <string name="search_development_settings_title">Ontwikkelaaropties;Hulp</string>
   <string name="search_device_name">Apparaatnaam</string>
   <string name="search_device_status">Status</string>
   <string name="search_display_settings">Weergave;Scherm;Ambient licht;Broekzak;Broekzakgesprekken</string>
@@ -3350,9 +3350,9 @@ Om schermpinning te gebruiken:
   <string name="search_gesture_wakeup_title">Dubbeltikken om scherm te ontwaken;Dubbeltikken om te ontwaken;Scherm ontwaken;dubbel tikken op scherm;Dubbel tikken</string>
   <string name="search_gps">GPS;Locatietoegang;Locatiediensten</string>
   <string name="search_handy_mode">Eén-hand modus;Eén-hand modus;Eén-hand modus;Eén hand</string>
-  <string name="search_hint">Zoekinstellingen</string>
+  <string name="search_hint">Zoeken in instellingen</string>
   <string name="search_home_key">Home;Homeknop:Homeknop</string>
-  <string name="search_input_hint">Zoekinstellingen</string>
+  <string name="search_input_hint">Zoeken in instellingen</string>
   <string name="search_key_settings_title">Knoppen;Sleutels</string>
   <string name="search_lab_functions_title">Betafuncties;Lab functie</string>
   <string name="search_label">Instellingen</string>
@@ -3368,7 +3368,7 @@ Om schermpinning te gebruiken:
   <string name="search_manage_notification_access_title">Meldingstoegang;Meldingen;Meldingstoestemmingen</string>
   <string name="search_master_clear_title">Terug naar fabrieksinstellingen</string>
   <string name="search_menu">Zoekinstellingen</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">Zoeken</string>
   <string name="search_micloud">Sync;Mi Clound;Cloud sync.;Sync. met Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Audio instellingen;geluidsinstellingen</string>
   <string name="search_music_equalizer">Equalizer</string>
