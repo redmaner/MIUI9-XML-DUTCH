@@ -50,19 +50,21 @@
         <item>Vergrendelen na het afsluiten van de app</item>
         <item>Vergrendelen 1 minuut na het afsluiten van de app</item>
     </string-array>
-	    <string-array name="sort_type">
+	<string-array name="sort_type">
         <item>Status</item>
         <item>Appnaam</item>
-        <item>gebruiksfrequentie</item>
+        <item>Gebruiksfrequentie</item>
         <item>Gebruikte opslag</item>
         <item>Installatietijd</item>
+        <item>Je kan deze app verwijderen</item>
     </string-array>
     <string-array name="sort_title">
         <item>Sorteren op status</item>
-        <item>Sorteren op appnaaam</item>
+        <item>Sorteren op appnaam</item>
         <item>Sorteren op gebruiksfrequentie</item>
         <item>Sorteren op gebruikte opslag</item>
-		<item>Soreren op installatietijd</item>
+        <item>Sorteren op installatietijd</item>
+        <item>Apps die kunnen worden verwijderd eerst weergeven</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Installatiebron</item>

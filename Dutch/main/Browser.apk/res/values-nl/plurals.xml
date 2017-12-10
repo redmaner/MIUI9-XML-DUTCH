@@ -16,6 +16,10 @@
         <item quantity="other">%1$d van %2$d</item>
         <item quantity="one">1 overeenkomst</item>
     </plurals>
+	<plurals name="nav_screen_incognito_time">
+        <item quantity="other">Na %d seconden wordt er automatisch een nieuwe pagina geopend</item>
+        <item quantity="one">Na %d seconde wordt er automatisch een nieuwe pagina geopend</item>
+    </plurals>
 	<plurals name="transfer_prompt">
         <item quantity="other">Video afspelen over %1$d seconden</item>
         <item quantity="one">Video afspelen over %1$d seconde</item>
@@ -43,9 +47,5 @@
 	<plurals name="video_subtitle_last_message">
         <item quantity="other">%d minuten over</item>
         <item quantity="one">%d minuut over</item>
-    </plurals>
-	<plurals name="nav_screen_incognito_time">
-        <item quantity="other">Na %d seconden wordt er automatisch een nieuwe pagina geopend</item>
-        <item quantity="one">Na %d seconde wordt er automatisch een nieuwe pagina geopend</item>
     </plurals>
 </resources>

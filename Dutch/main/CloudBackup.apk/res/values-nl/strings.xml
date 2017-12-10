@@ -74,7 +74,6 @@
   <string name="cloud_backup_in_cancel">Annuleren</string>
   <string name="cloud_backup_in_process">Back-up…</string>
   <string name="cloud_backup_select_recover">Kies back-up van Mi Cloud</string>
-  <string name="cloud_backup_title">Mi Cloud back-ups</string>
   <string name="cloud_restore_from_other_device">Stop met het herstellen van %s en deze back-up verwijderen? Je kan deze actie niet ongedaan maken.</string>
   <string name="cloud_restore_task">Herstellen…</string>
   <string name="cloud_task_in_process">Stop %s en deze back-up verwijderen? Je kan deze actie niet ongedaan maken.</string>
@@ -125,7 +124,6 @@
   <string name="open_wifi_description">Verbind met Wi-Fi netwerk om te herstellen</string>
   <string name="open_wifi_setting">Wi-Fi instellingen</string>
   <string name="process_whole_recovery">Herstellen van \"%s\"</string>
-  <string name="query_restore_back_view">Mi Cloud back-up</string>
   <string name="query_restore_description">Herstel startscherm apps en instellingen met behulp van deze back-up. Dit zal de app gegevens overschrijven van dubbele apps die al op het apparaat zijn geïnstalleerd. Apps die niet in de back-up staan zullen worden verplaatst naar het laatste startscherm.</string>
   <string name="query_restore_summary">Vond een Mi Cloud back-up voor dit apparaat. Herstel startscherm apps en instellingen of gebruik het als een nieuw apparaat en wis van vorige Mi Cloud backups?</string>
   <string name="recover_from_micloud">Herstellen van Mi Cloud back-up</string>

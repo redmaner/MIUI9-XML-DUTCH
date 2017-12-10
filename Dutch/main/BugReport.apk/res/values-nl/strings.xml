@@ -3,7 +3,7 @@
   <string name="action_cancel">Annuleren</string>
   <string name="action_submit">Verzenden</string>
   <string name="announcement">Opgelet</string>
-  <string name="app_empty">U heeft nog geen apps gedownload</string>
+  <string name="app_empty">Kon apps niet vinden.</string>
   <string name="app_label">Feedback</string>
   <string name="app_name">Feedback</string>
   <string name="btn_send">Verzenden</string>
