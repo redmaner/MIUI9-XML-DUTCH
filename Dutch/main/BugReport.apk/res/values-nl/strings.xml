@@ -6,6 +6,7 @@
   <string name="app_empty">Kon apps niet vinden.</string>
   <string name="app_label">Feedback</string>
   <string name="app_name">Feedback</string>
+  <string name="app_search">Apps zoeken</string>
   <string name="btn_send">Verzenden</string>
   <string name="bugreport_dialog_not_show_again">Niet meer tonen</string>
   <string name="bugreport_dialog_submit_content">Uw feedback kan personlijke info bevatten.</string>

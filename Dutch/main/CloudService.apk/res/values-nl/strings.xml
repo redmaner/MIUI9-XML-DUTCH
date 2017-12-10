@@ -71,15 +71,15 @@ Laatst geback-upt op %2$s"</string>
   <string name="enable_cloud_service_notification">Mi Cloud is niet ingeschakeld </string>
   <string name="enable_find_device_error">Kan apparaat vinden niet inschakelen. %1$s</string>
   <string name="enable_find_device_success">Apparaat vinden ingeschakeld.</string>
-  <string name="enable_micloud">Aanmelden of een account aanmaken</string>
-  <string name="enable_sync">Sync.</string>
-  <string name="enable_sync_dspt">Niet sync.</string>
+  <string name="enable_micloud">Log in om Mi Cloud te gebruiken</string>
+  <string name="enable_sync">Synchroniseren</string>
+  <string name="enable_sync_dspt">Niet synchroniseren</string>
   <string name="error_data_in_transfer">Synchronisatie binnen de %s uren.</string>
   <string name="error_data_in_transfer_title">Mi Cloud niet beschikbaar</string>
   <string name="error_forbidden">Synchronisatie is uitgeschakeld als gevolg van problemen met uw Mi account.</string>
   <string name="error_network">Kan geen verbinding maken met netwerk</string>
   <string name="error_not_acceptable">Synchronisatie is uitgeschakeld.</string>
-  <string name="error_server">Server fout</string>
+  <string name="error_server">Serverfout</string>
   <string name="error_title">Kan niet synchroniseren</string>
   <string name="error_unauthorized">Synchronisatie is uitgeschakeld als gevolg van te veel inlog pogingen.</string>
   <string name="error_unknown">Kan niet inloggen</string>
@@ -528,6 +528,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sync_sub_dspt">Uw provider kan u kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
   <string name="sync_sub_dspt_provision">"Synchroniseer foto's, contacten, muziek, apps en meer op al uw apparaten"</string>
   <string name="sync_sub_int_dspt">Uw provider kan u kosten aanrekenen voor een internationale SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
+  <string name="title_back">Terug</string>
   <string name="title_reg">Maak Mi Account aan</string>
   <string name="total_space_upgraded_to">Totale ruimte:%s</string>
   <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
@@ -554,4 +555,5 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
   <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
+  <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op een plek</string>
 </resources>
