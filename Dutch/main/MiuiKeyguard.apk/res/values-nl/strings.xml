@@ -105,7 +105,7 @@
   <string name="keyguard_charging_info_tip_text6">Schakel het scherm uit en leg uw apparaat weg om deze af te laten koelen.</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
-  <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
+  <string name="keyguard_torch_cover_text">Druk op de aan/uitnop om de zaklamp aan te houden</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lock_screen_no_sim_card">Geen SIM kaart</string>
