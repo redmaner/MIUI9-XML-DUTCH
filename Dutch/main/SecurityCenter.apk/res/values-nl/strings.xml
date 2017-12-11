@@ -1840,7 +1840,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
   <string name="tether_custom_dialog_title">Mobiel datalimiet</string>
   <string name="tether_limit_dialog_title">Mobiel datalimiet</string>
-  <string name="tether_limit_value_custom">Aangepast</string>
   <string name="tether_over_limit_dialog_cancle_btn">Hotspot resetten</string>
   <string name="tether_over_limit_dialog_message">Je hebt het datalimiet van de draagbare hotspot bereikt.</string>
   <string name="tether_over_limit_dialog_title">Waarschuwing dataverbruik</string>
