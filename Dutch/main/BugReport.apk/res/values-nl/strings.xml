@@ -122,6 +122,7 @@
   <string name="from">van %1$s</string>
   <string name="goon_feedback_main">Doorgaan</string>
   <string name="hint_feedback_main">Beschrijf het probleem</string>
+  <string name="issue_search">Zoeken</string>
   <string name="loading_apps">Lijst laden…</string>
   <string name="login_system_failed">Kon niet inloggen, probeer opnieuw</string>
   <string name="logo_title">Feedback</string>

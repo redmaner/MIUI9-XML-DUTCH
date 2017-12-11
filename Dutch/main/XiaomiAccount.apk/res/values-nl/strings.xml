@@ -184,7 +184,7 @@
   <string name="oauth_title">Aanmelden met Mi Account</string>
   <string name="other_devices_title">Andere apparaten</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
-  <string name="passport_account_hint_text">E-mailadres, telefoonnummer of Mi Account ID</string>
+  <string name="passport_account_hint_text">E-mailadres/Telefoonnummer/Mi Account ID</string>
   <string name="passport_account_identity_title">Bevestig je identiteit</string>
   <string name="passport_account_label">Mi Account</string>
   <string name="passport_account_name">Account: %1$s</string>
@@ -219,7 +219,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_delete_account">Afmelden</string>
   <string name="passport_downlink_reg">Telefoonnummer</string>
   <string name="passport_email">E-mailadres</string>
-  <string name="passport_email_or_id_hint_text">E-mailadres of Mi account ID</string>
+  <string name="passport_email_or_id_hint_text">E-mailadres/Mi account ID</string>
   <string name="passport_email_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
   <string name="passport_error_auth_fail">Sessie is verlopen, log later opnieuw in</string>
   <string name="passport_error_device_id">Kan apparaat ID niet verkrijgen</string>

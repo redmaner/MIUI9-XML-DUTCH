@@ -567,6 +567,7 @@
   <string name="dtmf_tone_entries_normal">Normaal</string>
   <string name="dtmf_tones_summary">De lengte van DTMF tonen instellen</string>
   <string name="dtmf_tones_title">DTMF tonen</string>
+  <string name="dual_4g_switch_summary">4G verbinding voor beide SIM kaarten toestaan.</string>
   <string name="duration_disable_summary">Schermduratie is UIT</string>
   <string name="duration_enable_summary">Schermduratie is AAN</string>
   <string name="edit_fdn_contact">Vast nummer bewerken</string>
@@ -606,6 +607,7 @@
   <string name="enable_disable_retail_directory">Winkeloverzicht</string>
   <string name="enable_disable_stock_quotes">Aandelenkoersen</string>
   <string name="enable_disable_technology_news">Technologienieuws</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE vereist 4G verbinding voor beide SIM kaarten. Nu wisselen naar Dual 4G?</string>
   <string name="enable_fdn">FDN inschakelen</string>
   <string name="enable_fdn_ok">FDN uitschakelen</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
@@ -1364,13 +1366,13 @@ U hebt nog %d pogingen over."</string>
   <string name="telocation_number_type_tel">Vaste lijn</string>
   <string name="telocation_setting">Locatie instellingen</string>
   <string name="telocation_show_settings">Weergave instellingen</string>
-  <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
+  <string name="tether_settings_title_all">Tethering &amp; draagbare hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-  <string name="tether_settings_title_wifi">Portable hotspot</string>
+  <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_settings_not_available">Tethering instellingen zijn niet beschikbaar voor deze gebruiker</string>
-  <string name="third_party_account_summary">Dit account wordt momenteel gebruikt door %s deze app.</string>
+  <string name="third_party_account_summary">Dit account wordt momenteel gebruikt door de %s app.</string>
   <string name="throttle_current_usage">Gegevensgebruik in huidige periode</string>
   <string name="throttle_data_rate_reduced_subtext">"%1$s maximum overschreden
 Datasnelheid velaagt tot %2$d Kb/s"</string>
@@ -1428,6 +1430,8 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">TTY modus veranderen is niet toegestaan tijdens een video-oproep</string>
   <string name="tty_mode_option_summary">TTY modus instellen</string>
   <string name="tty_mode_option_title">TTY modus</string>
+  <string name="turn_off_dual_4g_failed">Kon Dual 4G niet uitschakelen.</string>
+  <string name="turn_on_dual_4g_failed">Kon Dual 4G niet inschakelen.</string>
   <string name="turnover_mute_summary">Draai het apparaat horizontaal om de beltoon te dempen.</string>
   <string name="turnover_mute_title">Beltoon dempen bij omkeren</string>
   <string name="undefined">Geen</string>

@@ -1770,12 +1770,12 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="incoming_call_breathing_light_color_title">Kleur bij oproepen</string>
   <string name="incoming_call_breathing_light_freq_title">Knipperfrequentie gesprekken</string>
   <string name="incoming_call_volume_title">Beltoon</string>
-  <string name="infinity_display_settings">Full screen</string>
+  <string name="infinity_display_settings">Volledig scherm</string>
   <string name="infinity_display_slogan">Innovatie op full screen</string>
-  <string name="infinity_display_title">Fullscreen display</string>
+  <string name="infinity_display_title">Weergeven op volledig scherm</string>
   <string name="information_dialog_button_text">Verstaan</string>
   <string name="input_method">Toetsenbord</string>
-  <string name="input_method_selector">Invoermethode kiezer</string>
+  <string name="input_method_selector">Invoermethode kiezen</string>
   <string name="input_method_selector_always_hide_title">Altijd verbergen</string>
   <string name="input_method_selector_always_show_title">Altijd weergeven</string>
   <string name="input_method_selector_show_automatically_title">Automatisch</string>
@@ -4069,6 +4069,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="testing_usage_stats">Gebruiksstatistieken</string>
   <string name="testing_wifi_info">Wi-Fi informatie</string>
   <string name="tether_and_hotspot_title">Tethering en hotspot</string>
+  <string name="tether_data_usage_limit">Eenmalige datalimiet</string>
+  <string name="tether_data_usage_limit_summary">Datalimiet wordt toegepast de volgende keer dat je de hotspot inschakelt</string>
   <string name="tether_devices_management_title">Apparaten beheren</string>
   <string name="tether_devices_max_number">Limiet van aangesloten apparaten</string>
   <string name="tether_settings_disabled">Draagbare hotspot is uitgeschakeld</string>

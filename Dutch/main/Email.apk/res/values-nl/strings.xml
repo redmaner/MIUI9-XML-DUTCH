@@ -355,7 +355,7 @@ Nu bijwerken?"</string>
   <string name="del_account_questionnair_hint">Kan je ons vertellen waarom u dit account verwijderd?</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_message_flow">Automatisch verwijderen</string>
-  <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
+  <string name="delete_message_flow_keywords">berichten verwijderen;verwijderen verwijzen</string>
   <string name="deleted">Verwijderd</string>
   <string name="device_activity_btn_str">Ga terug om te activeren</string>
   <string name="device_activity_lint_str">Mail service uitschakelen om verder te updaten en de veiligheid te activeren</string>
@@ -365,7 +365,6 @@ Nu bijwerken?"</string>
   <string name="device_not_activiey_lint2">Mail service werkt niet goed wisselen</string>
   <string name="dialog_account_auto_sync_setting_no_open">Kan geen nieuwe berichten automatisch ontvangen. Sync. is uitgeschakeld.</string>
   <string name="dialog_change_sync_lookback">E-mails die %s geleden zijn ontvangen worden automatisch verwijderd. Tik om te wijzigen.</string>
-  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server fout.</string>
   <string name="dialog_insufficient_space_on_external">Kan bijlage niet downloaden. Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_insufficient_space_on_internal">Niet genoeg ruimte op interne opslag.</string>
   <string name="dialog_system_auto_sync_account_no_open">Schakel accountsynchronisatie in om e-mails automatisch te ontvangen</string>
