@@ -38,12 +38,12 @@
   <string name="next_fingerprint">Volgende</string>
   <string name="other_settings">Extra instellingen</string>
   <string name="other_settings_auto_update">Automatisch updaten</string>
-  <string name="other_settings_auto_update_summary">MIUI zal de tijd die u niet actief bent selecteren om te downloaden en de updates te installeren.</string>
+  <string name="other_settings_auto_update_summary">MIUI zal op een moment dat u niet bezig bent updates downloaden en installeren.</string>
   <string name="other_settings_location">Locatie</string>
   <string name="other_settings_location_summary">Apps toegang tot uw locatie geven.</string>
-  <string name="other_settings_upload_debug_log_summary">De gegevens die wij verzamelen zullen worden gebruikt voor het vinden en analyseren van problemen in het systeem en zal nooit worden gebruikt om u persoonlijk te identificeren.</string>
+  <string name="other_settings_upload_debug_log_summary">De gegevens die wij verzamelen zullen worden gebruikt voor het vinden en analyseren van problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
   <string name="other_settings_upload_debug_log_title">Diagnostische data automatisch verzenden</string>
-  <string name="other_settings_user_experience">Gebruikerservaringsprogramma</string>
+  <string name="other_settings_user_experience">Gebruikerservaring</string>
   <string name="other_settings_user_experience_summary">Help onze producten te verbeteren door het versturen van anonieme gebruiksgegevens.</string>
   <string name="pref_title_data_slot">Voorkeur voor data SIM kaart</string>
   <string name="pref_title_voice_slot">Voorkeur voor gesprek SIM kaart</string>

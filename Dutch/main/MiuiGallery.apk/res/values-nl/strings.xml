@@ -312,7 +312,7 @@
   <string name="empty_recommend_back">Terug</string>
   <string name="empty_recommend_face_page_view">Geen aanbevelingen meer</string>
   <string name="empty_relation">Groepnaam kan niet leeg zijn</string>
-  <string name="empty_title_no_photos">No photos or videos</string>
+  <string name="empty_title_no_photos">Geen foto\'s of video\'s</string>
   <string name="enable_auto_upload_tip">Synchronisatie met Mi Cloud voor dit album inschakelen?</string>
   <string name="enable_auto_upload_title">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="enable_cloud_for_sharing">Schakel Mi Cloud albums in om gedeelde foto\'s te bekijken.</string>

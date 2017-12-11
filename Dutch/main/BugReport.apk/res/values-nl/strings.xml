@@ -104,7 +104,7 @@
   <string name="feedback_submit_failed_notification_desc">Bekijk details</string>
   <string name="feedback_submit_failed_notification_retry">Verstuur opnieuw</string>
   <string name="feedback_submit_failed_notification_title">Kon rapport niet verzenden</string>
-  <string name="feedback_submit_hint">Bugs elke keer melden als je problemen hebt om ons die sneller te helpen oplossen.</string>
+  <string name="feedback_submit_hint">Rapporteer bugs elke keer dat je ze tegenkomt om ons te helpen het probleem op te lossen.</string>
   <string name="feedback_submit_hint1">We houden je op de hoogte over de voortgang van je rapport</string>
   <string name="feedback_submit_hint2">Ga naar \"Mijn rapporten\" om details te bekijken</string>
   <string name="feedback_submit_hint_gone">Gesloten bericht</string>

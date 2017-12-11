@@ -274,4 +274,5 @@
   <string name="widget_favorite_contacts_style">Grootte veranderen</string>
   <string name="widget_gadget_player">Muziek</string>
   <string name="widget_global_search">Zoeken</string>
+  <string name="widget_quick_function">Snelkoppelingen</string>
 </resources>

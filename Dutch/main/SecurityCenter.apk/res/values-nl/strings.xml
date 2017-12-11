@@ -143,7 +143,7 @@
   <string name="app_manager_appupdate_remind">Melden wanneer er updates zijn</string>
   <string name="app_manager_as_dlg_msg">Toestaan dat apps automatisch mogen opstarten kan voor extra RAM- en batterijgebruik zorgen. Toch toestaan?</string>
   <string name="app_manager_as_dlg_title">Opgelet</string>
-  <string name="app_manager_bipartition">Dubbele apps</string>
+  <string name="app_manager_bipartition">Gedupliceerde apps</string>
   <string name="app_manager_card_permission_title">Toestemmingen</string>
   <string name="app_manager_clear_all_data">Alle gegevens wissen</string>
   <string name="app_manager_clear_cache">Cache wissen</string>
@@ -230,7 +230,7 @@
   <string name="app_manager_start_count_over">100000+ keer</string>
   <string name="app_manager_stop_wakepath_dialog_summary">%s verwijderen om kettingstart te beperken?</string>
   <string name="app_manager_stop_wakepath_dialog_title">Kettingstart beperken</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Deze app verwijderen zal kettingstarten beperken. Gerelateerde dubbele apps zullen ook verwijderd worden. %s verwijderen?</string>
+  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Deze app verwijderen zal kettingstarten beperken. Gerelateerde gedupliceerde apps zullen ook verwijderd worden. %s verwijderen?</string>
   <string name="app_manager_stop_wakepath_success">Beperkt</string>
   <string name="app_manager_stop_wp_dialog_cancel">Annuleren</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Verwijderen</string>
@@ -240,7 +240,7 @@
   <string name="app_manager_total_size">Totaal</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Systeemapps verwijderen kan ervoor zorgen dat sommige MIUI componenten niet meer goed werken. Toch verwijderen?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Systeemapps verwijderen</string>
-  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Dubbele apps zullen worden verwijderd samen met de appgegevens.</string>
+  <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Gedupliceerde apps zullen worden verwijderd samen met de appgegevens.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Dubbele app verwijderen zal alle appgegevens wissen.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Dubbele app verwijderen?</string>
   <string name="app_manager_unstall_application">Verwijderen</string>
@@ -1267,7 +1267,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pm_auto_start_by_other_app">Laat de app toe om te worden gestart door andere apps</string>
   <string name="pm_auto_start_by_system">Start apps</string>
   <string name="pm_auto_start_by_system_event">Laat de app toe om automatisch te starten</string>
-  <string name="pm_auto_start_proc_is_running">Bezig</string>
+  <string name="pm_auto_start_proc_is_running">Actief</string>
   <string name="pm_remember_choice">Mijn keuze herinneren</string>
   <string name="pm_root_success_notification_infomation">Maak u bewust van de risico\'s van roottoegang</string>
   <string name="pm_root_success_notification_title">Maak u bewust van de risico\'s van roottoegang</string>
@@ -1287,7 +1287,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_center_state_on">Aan</string>
   <string name="power_center_time_to_boot">Opstarten op een tijdstip</string>
   <string name="power_center_time_to_shutdown">Uitschakelen op een tijdstip</string>
-  <string name="power_center_title">Vermogen</string>
+  <string name="power_center_title">Statistieken</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_consume_other">Overige</string>
   <string name="power_consume_rank_hardware">Hardware</string>
