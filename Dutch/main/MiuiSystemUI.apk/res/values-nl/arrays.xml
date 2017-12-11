@@ -131,7 +131,7 @@
         <item>Maximaal 4 processen</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>opladen</item>
+        <item>Opladen</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
@@ -175,15 +175,15 @@
         <item>Regen en sneeuw</item>
         <item>Sneeuwstorm</item>
         <item>Sneeuw</item>
-        <item>Hevige sneeuw</item>
-        <item>Matige sneeuw</item>
-        <item>Lichte sneeuw</item>
+        <item>Hevige sneeuwval</item>
+        <item>Matige sneeuwval</item>
+        <item>Lichte sneeuwval</item>
         <item>Sterke zandstorm</item>
         <item>Zandstorm</item>
         <item>Zand</item>
         <item>Winderig</item>
         <item>Hagel</item>
-        <item>Stof</item>
+        <item>Smog</item>
         <item>Mist</item>
         <item>Ijskoude regen</item>
         <item></item>

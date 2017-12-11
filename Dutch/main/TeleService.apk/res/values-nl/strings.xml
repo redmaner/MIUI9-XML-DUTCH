@@ -855,7 +855,7 @@
   <string name="msim_set_icc_card_error">ICC kaart fout</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Kan niet tijdens een gesprek ingesteld worden</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM kaartfout</string>
-  <string name="msim_setting_categery_title">SIM kaartinfo</string>
+  <string name="msim_setting_categery_title">Informatie over SIM kaart</string>
   <string name="msim_setting_no_sim_indicator">Geen SIM kaart</string>
   <string name="msim_setting_operator_network_title">Mobiel netwerk</string>
   <string name="msim_setting_screen_title">SIM kaarten en mobiele netwerken</string>

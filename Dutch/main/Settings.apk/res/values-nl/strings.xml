@@ -2454,7 +2454,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="mvno_match_data">MVNO waarde</string>
   <string name="mvno_type">MVNO type</string>
   <string name="my_device">Mijn apparaat</string>
-  <string name="my_device_disclaimer">Opmerking: Hardware informatie, inclusief CPU, batterijcapacitiet, schermgrootte en resolutie en camera wordt verschaft door Xiaomi labs, designers en leveranciers.</string>
+  <string name="my_device_disclaimer">Opmerking: Hardware informatie, inclusief CPU, batterijcapacitiet, schermgrootte, resolutie en camera wordt verschaft door Xiaomi labs, designers en leveranciers.</string>
   <string name="n_cacrts">%d CA certificaten</string>
   <string name="nearby_wifi">Beschikbare netwerken</string>
   <string name="need_reboot_now">Herstarten om update te installeren</string>
