@@ -405,9 +405,9 @@ met %s"</string>
   <string name="imei">IMEI</string>
   <string name="immersive_cling_description">Om af te sluiten, veeg naar beneden vanaf de bovenkant.</string>
   <string name="immersive_cling_positive">Begrepen</string>
-  <string name="immersive_cling_title">Vol scherm aan het bekijken</string>
-  <string name="importance_from_person">This is important because of the people involved.</string>
-  <string name="importance_from_user">You set the importance of these notifications.</string>
+  <string name="immersive_cling_title">Op volledig scherm aan het bekijken</string>
+  <string name="importance_from_person">Dit is belangrijk door de betrokken personen.</string>
+  <string name="importance_from_user">Jij stelt in hoe belangrijk de meldingen zijn.</string>
   <string name="inputMethod">Invoermethode</string>
   <string name="input_method_binding_label">Invoermethode</string>
   <string name="invalidPin">Voer een PIN code van 4 tot 8 cijfers in.</string>
@@ -918,7 +918,7 @@ voor account %s."</string>
   <string name="permlab_writeSettings">systeeminstellingen aanpassen</string>
   <string name="permlab_writeSyncSettings">synchronisatie in- en uitschakelen</string>
   <string name="perms_description_app">Geleverd door %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NIEUW: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">NIEUW:</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Assistent</string>
   <string name="phoneTypeCallback">Terugbelnummer</string>
@@ -978,10 +978,9 @@ voor account %s."</string>
   <string name="preposition_for_year">in %s</string>
   <string name="print_service_installed_message">Tik om in te schakelen</string>
   <string name="print_service_installed_title">%s service geïnstalleerd</string>
-  <string name="profile_encrypted_detail">Work profile locked</string>
-  <string name="profile_encrypted_message">Tap to unlock work profile</string>
-  <string name="progress_erasing">Bezig met USB opslag te wissen…</string>
-  <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
+  <string name="profile_encrypted_detail">Werkprofiel vergrendeld</string>
+  <string name="profile_encrypted_message">Tik om werkprofiel te ontgrendelen</string>
+  <string name="progress_erasing">Bezig met USB opslag wissen…</string>
   <string name="quick_contacts_not_available">Er is geen app gevonden om dit contact te bekijken.</string>
   <string name="reason_service_unavailable">Afdrukservice niet ingeschakeld</string>
   <string name="reason_unknown">Onbekend</string>
@@ -1189,7 +1188,7 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="storage_usb_drive">USB opslag</string>
   <string name="storage_usb_drive_label">%s USB opslag</string>
   <string name="submit">Verzenden</string>
-  <string name="suspended_widget_accessibility">Disabled %1$s</string>
+  <string name="suspended_widget_accessibility">%1$s uitgeschakeld</string>
   <string name="sync_binding_label">Synchroniseren</string>
   <string name="sync_do_nothing">Nu niets doen.</string>
   <string name="sync_really_delete">De items verwijderen.</string>
@@ -1217,11 +1216,11 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="turn_off_radio">Draadloos uitschakelen</string>
   <string name="turn_on_radio">Draadloos inschakelen</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Raak twee keer aan voor zoomregeling</string>
-  <string name="undo">Undo</string>
+  <string name="undo">Herhalen</string>
   <string name="unknownName">(Onbekend)</string>
   <string name="unpin_target">Unpin</string>
   <string name="unsupported_display_size_message">%1$s does not support the current Display size setting and may behave unexpectedly.</string>
-  <string name="unsupported_display_size_show">Always show</string>
+  <string name="unsupported_display_size_show">Altijd tonen</string>
   <string name="untitled">&lt;Zonder titel&gt;</string>
   <string name="upload_file">Bestand kiezen</string>
   <string name="usb_accessory_notification_title">Aangesloten op een USB accessoire</string>

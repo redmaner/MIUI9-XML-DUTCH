@@ -36,8 +36,8 @@
   <string name="album_jump_failed">Wacht tot albums zijn gesynchroniseerd met Mi Cloud ​​en probeer opnieuw</string>
   <string name="album_member">Albumleden %s</string>
   <string name="album_name">Albumnaam</string>
-  <string name="album_name_locations">Locations</string>
-  <string name="album_name_people">People</string>
+  <string name="album_name_locations">Locaties</string>
+  <string name="album_name_people">Personen</string>
   <string name="album_name_recent_discovery">Recent</string>
   <string name="album_name_tags">Tags</string>
   <string name="album_others_share_baby_info_format">Babyalbum van %s</string>
@@ -61,13 +61,13 @@
   <string name="album_share_title_new_album">Nieuw album delen</string>
   <string name="album_show_local_only">Alleen lokale albums weergeven</string>
   <string name="album_show_local_only_summary">Inschakelen om foto\'s te bekijken of te verwijderen op uw apparaat</string>
-  <string name="album_type_baby">Baby album</string>
+  <string name="album_type_baby">Babyalbum</string>
   <string name="album_type_share">Gedeelde albums</string>
   <string name="album_type_system">Systeemalbums</string>
   <string name="album_videos_name">Video\'s</string>
   <string name="alert_secret_album_enter">Begrepen</string>
-  <string name="alert_secret_album_message">Veeg omlaag vanaf de bodem van uw albums om het verborgen album te bekijken. Om het te beschermen moet u een patroon instellen.</string>
-  <string name="alert_secret_album_message_lower_case"> veeg omlaag terwijl u in de Albums tikt om verborgen album te bekijken.</string>
+  <string name="alert_secret_album_message">Veeg omlaag op het albumtabblad om verborgen album te bekijken.</string>
+  <string name="alert_secret_album_message_lower_case"> veeg omlaag in albums om te bekijken.</string>
   <string name="alert_secret_album_title">Toegevoegd aan verborgen album</string>
   <string name="all_faces">Alle foto\'s met personen erop</string>
   <string name="all_items_synced">Alle albums zijn geback-upt naar Mi Cloud</string>
@@ -96,7 +96,7 @@
   <string name="baby_album_change_background">Achtergrondfoto wijzigen</string>
   <string name="baby_album_needs_auto_backup_tip">Kan automatische back-up voor babyalbum niet uitschakelen</string>
   <string name="baby_album_new_photo_remind">Er zijn nieuwe foto\'s in het babyalbum.</string>
-  <string name="baby_album_setting_title">Baby info</string>
+  <string name="baby_album_setting_title">Babyinfo</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s gedeelde %5$s's album met jou"</string>
   <string name="baby_album_sharer_recommand_face">"Bestaande foto's van %1$s toevoegen?"</string>
@@ -147,7 +147,7 @@
   <string name="backup_pending">Zal automatisch worden geback-upt</string>
   <string name="backup_stop">Back-up stoppen</string>
   <string name="backup_sync_dialog_confirm">Inschakelen</string>
-  <string name="backup_sync_dialog_tips">Sync met Mi Cloud inschakelen om de instellingen voor backups te wijzigen.</string>
+  <string name="backup_sync_dialog_tips">Schakel synchronisatie met Mi Cloud in om de instellingen voor back-ups te wijzigen.</string>
   <string name="backup_sync_dialog_title">Synchronisatie is uitgeschakeld</string>
   <string name="backup_sync_error_btn_text">Probeer opnieuw</string>
   <string name="backup_sync_error_desc">Kan niet verbinden met Mi Cloud</string>
@@ -164,7 +164,6 @@
   <string name="backuping_title_normal">Back-up maken…</string>
   <string name="begin_share">Baby-album \"%s\" aanmaken. U kan die nu delen</string>
   <string name="begin_share_toast">Een apart album voor dit kind aanmaken voordat u die deelt?</string>
-  <string name="blank_app_name"/>
   <string name="browse_category_title">Bladeren</string>
   <string name="buy_member_tip">Word lid</string>
   <string name="by_email">E-mail</string>
@@ -206,7 +205,7 @@
   <string name="cloud_storage_video_title">Video\'s</string>
   <string name="cloud_storage_warn_desc">Cloud VIP aanschaffen voor extra ruimte</string>
   <string name="cloud_storage_warn_title">Niet genoeg ruimte op Mi Cloud</string>
-  <string name="cloud_sync_card_description">Synchroniseer uw foto\'s en video\'s naar Mi Cloud om ze op meerdere apparaten te openen</string>
+  <string name="cloud_sync_card_description">Synchroniseer uw foto\'s en video\'s met Mi Cloud om ze op meerdere apparaten te openen</string>
   <string name="cloud_sync_card_title">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="cloudfolder_cannot_start_with">"De naam van een album kan niet beginnen met '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"De naam van een album kan geen '%s' bevatten"</string>
@@ -229,7 +228,7 @@
   <string name="confirm">Ok</string>
   <string name="confirm_download_video_message">U moet de download van de video voltooien voordat u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
   <string name="confirm_download_video_title">Video downloaden</string>
-  <string name="confirm_face">Passen</string>
+  <string name="confirm_face">Gelijk</string>
   <string name="confirm_hidden_recommend_group">Ok</string>
   <string name="confirm_hidden_recommend_group_message">Wanneer aanbevelingen uitgeschakeld zijn, kan je nog steeds \"Meer mensen die op elkaar lijken\" optie gebruiken</string>
   <string name="confirm_hidden_recommend_group_title">Aanbevelingen niet weergeven</string>
@@ -312,7 +311,7 @@
   <string name="empty_recommend_back">Terug</string>
   <string name="empty_recommend_face_page_view">Geen aanbevelingen meer</string>
   <string name="empty_relation">Groepnaam kan niet leeg zijn</string>
-  <string name="empty_title_no_photos">No photos or videos</string>
+  <string name="empty_title_no_photos">Geen foto\'s of video\'s</string>
   <string name="enable_auto_upload_tip">Synchronisatie met Mi Cloud voor dit album inschakelen?</string>
   <string name="enable_auto_upload_title">Synchronisatie met Mi Cloud inschakelen</string>
   <string name="enable_cloud_for_sharing">Schakel Mi Cloud albums in om gedeelde foto\'s te bekijken.</string>
@@ -719,9 +718,9 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="picker_title_format">Geselecteerde  foto\'s: %d</string>
   <string name="picker_title_selection_format">Geselecteerde foto\'s: %d</string>
   <string name="picker_title_specify_format">Selecteer %d foto\'s</string>
-  <string name="picker_title_specify_format_one">Selecteer %d foto</string>
+  <string name="picker_title_specify_format_one">Selecteer een foto</string>
   <string name="picker_title_unlimit">Selecteer foto\'s</string>
-  <string name="places_album_empty_title">Photos can be sorted by location</string>
+  <string name="places_album_empty_title">Foto\'s kunnen worden gesorteerd op locatie</string>
   <string name="preparing_data">Een momentje…</string>
   <string name="projection_checkbox_text">Herinner deze weergave</string>
   <string name="projection_device_connection_failed">Kon niet verbinden met projector</string>
@@ -736,9 +735,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="publish_failed">Publiceren mislukt</string>
   <string name="publish_succeeded">Album gepubliceerd</string>
   <string name="publishing">Publiceren…</string>
-  <string name="quotation">\"%s\"</string>
-  <string name="recent_album_empty_title">"Haven't added new photos recently"</string>
-  <string name="recipient_editor_count_format">%d</string>
+  <string name="recent_album_empty_title">Er zijn recent geen nieuwe foto\'s toegevoegd</string>
   <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevelingen</string>
   <string name="recommanded_face_added_tip">Toegevoegd aan \"%s\"</string>
   <string name="recovery_merge">Samenvoegen</string>
@@ -834,7 +831,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_title_others">Alle resultaten</string>
   <string name="search_title_people">Personen</string>
   <string name="search_title_recommend">Aanbevolen</string>
-  <string name="search_title_suggestion">Suggestions</string>
+  <string name="search_title_suggestion">Suggesties</string>
   <string name="search_title_tag">Objecten</string>
   <string name="secret_album_card_description">De beste plek voor al je kleine geheimen</string>
   <string name="secret_album_card_title">Probeer verborgen album</string>
@@ -848,14 +845,14 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="secret_album_set_pc_password_dialog_msg">Privacy wachtwoordbeveiliging zal gebruikt worden. Het werkt voor foto\'s, notities, verborgen mappen, enz.</string>
   <string name="secret_album_set_pc_password_dialog_ok">Nieuw wachtwoord instellen</string>
   <string name="secret_album_set_pc_password_dialog_title">Wachtwoord instellen</string>
-  <string name="secret_reason_space_full">Cloud albums zijn vol</string>
+  <string name="secret_reason_space_full">Cloudalbums zijn vol</string>
   <string name="secret_reason_too_large">Bestand is te groot</string>
   <string name="secret_reason_type_not_support">Dit bestandstype wordt niet ondersteund</string>
   <string name="secret_reason_unknow_reasons">Onbekende fout</string>
   <string name="see_ignore_faces">Bekijk personen die je hebt genegeerd</string>
   <string name="select_item_face">"Is dit '%s'?"</string>
   <string name="select_origin_tip">Origineel bestand (%s)</string>
-  <string name="send_multiple_files_hint_format">Verzend (%s)</string>
+  <string name="send_multiple_files_hint_format">Verzenden (%s)</string>
   <string name="send_public_url">Verzend album URL</string>
   <string name="send_too_many_files_error">Kan %d items per keer versturen</string>
   <string name="set_as_baby_lock_wallpaper">Instellen als achtergrond vergrendelscherm</string>

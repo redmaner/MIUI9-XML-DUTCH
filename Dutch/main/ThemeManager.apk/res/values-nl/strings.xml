@@ -440,7 +440,7 @@
   <string name="uid_change_dialog_message">U hebt de updates verwijderd. Herstart het apparaat om deze thema\'s te kunnen gebruiken.</string>
   <string name="uid_change_dialog_ok">Begrepen</string>
   <string name="uid_change_dialog_title">Apparaat herstarten</string>
-  <string name="wallpaper_apply">Apply</string>
+  <string name="wallpaper_apply">Toepassen</string>
   <string name="wallpaper_crop">Bijsnijden</string>
   <string name="wallpaper_decoded_error">Kan achtergrond niet instellen</string>
   <string name="wallpaper_scroll_type_tips">Achtergrondscroll</string>

@@ -1,31 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="transformation_entries">
-        <item>Diavoorstelling</item>
-        <item>Wegdraaien</item>
-        <item>Tuimelen</item>
-        <item>Pagina</item>
-        <item>Waterval</item>
-        <item>Roteren</item>
-        <item>Kubus</item>
+    <string-array name="editing_mode_entries">
+        <item>Achtergrond</item>
+        <item>Widgets</item>
+		<item>Instellingen</item>
     </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Door thema</item>
-        <item>Midden</item>
-        <item>Links</item>
-        <item>Rechts</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Standaard</item>
-        <item>Klassiek</item>
-    </string-array>
-    <string-array name="gadget_weather_image">
+	<string-array name="gadget_weather_image">
         <item>Helder</item>
         <item>Bewolkt</item>
         <item>Nevelig</item>
         <item>Mistig</item>
-        <item>Ernstige regenbuien</item>
-        <item>Regenbuien</item>
+        <item>Ernstige regenbui</item>
+        <item>Regenbui</item>
         <item>Zeer zware regenval</item>
         <item>Onweersbui</item>
         <item>Regenbui</item>
@@ -35,7 +21,7 @@
         <item>Ijzel</item>
         <item>Sneeuwstorm</item>
         <item>Plaatselijke sneeuwval</item>
-        <item>Zware sneeuwval</item>
+        <item>Hevige sneeuwval</item>
         <item>Sneeuwval</item>
         <item>Lichte sneeuwval</item>
         <item>Sterke zandstorm</item>
@@ -46,9 +32,23 @@
         <item>Zwevend stof</item>
         <item>Nevel</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Achtergrond</item>
-        <item>Widgets</item>
-		<item>Instellingen</item>
+	<string-array name="gadget_weather_theme_type_entries">
+        <item>Standaard</item>
+        <item>Klassiek</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Vegen</item>
+        <item>Draaien</item>
+        <item>Tuimelen</item>
+        <item>Pagina</item>
+        <item>Waterval</item>
+        <item>Roteren</item>
+        <item>Kubus</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Themastandaard</item>
+        <item>Midden</item>
+        <item>Links</item>
+        <item>Rechts</item>
     </string-array>
 </resources>

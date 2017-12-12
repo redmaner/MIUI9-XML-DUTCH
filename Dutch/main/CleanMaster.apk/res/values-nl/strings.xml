@@ -359,6 +359,7 @@
   <string name="privacy_search_type">Google Search</string>
   <string name="promotion">Advertenties</string>
   <string name="qq_clean_exit_confirm_msg">Stoppen met scannen en afsluiten?</string>
+  <string name="qq_clean_finish_summary">Geselecteerde bestanden zijn verwijderd</string>
   <string name="qq_data_type_cache_desc">Je kan deze bestanden herstellen nadat je bent verbonden met internet.</string>
   <string name="qq_data_type_chat">Chatgeschiedenis</string>
   <string name="qq_data_type_chat_desc">Je kan de chatgeschiedenis niet herstellen</string>
@@ -439,7 +440,7 @@
   <string name="toast_network_eror">Kan geen verbinding maken met netwerk</string>
   <string name="toast_network_switch">Deze app kan verbinding maken met internet</string>
   <string name="toast_removed_from_white_list">Met succes verwijderd uit uitzonderingen</string>
-  <string name="toast_resolve_apk_error">Oplossen apk fout</string>
+  <string name="toast_resolve_apk_error">Oplossen APK fout</string>
   <string name="toast_scaning_similar_image">Foto\'s controleren…</string>
   <string name="toast_select_image_need_delete">Foto\'s kiezen om te verwijderen</string>
   <string name="toast_select_white_need_remove">Kies de items die je wilt verwijderen</string>
@@ -447,11 +448,11 @@
   <string name="toast_uninstall_success">Verwijderen voltooid</string>
   <string name="total_clean">Totaal opgeruimd: %s</string>
   <string name="total_clean_text">Opruimen</string>
+  <string name="unlike">Nee bedankt</string>
   <string name="update_date_format">dd-MM-yyyy</string>
   <string name="virus_scan">Veiligheidsscan</string>
   <string name="vungle_ad_name">Vungle advertentie</string>
   <string name="wechat_cache_files">WeChat cache</string>
-  <string name="wechat_chat_clean_done">Alles ziet er goed uit</string>
   <string name="wechat_chat_data_type_cache">WeChat cache</string>
   <string name="wechat_chat_data_type_cache_desc">U kunt deze bestanden herstellen nadat u verbinding met het internet hebt gemaakt.</string>
   <string name="wechat_chat_data_type_chat">Chatgeschiedenis</string>
@@ -462,8 +463,11 @@
   <string name="wechat_chat_data_type_other">Andere</string>
   <string name="wechat_chat_data_type_other_desc">Wees voorzichtig, u kunt deze bestanden misschien niet herstellen nadat u ze hebt verwijderd.</string>
   <string name="wechat_clean">WeChat opruimer</string>
+  <string name="wechat_clean_canceled_empty_summary">Opruimen was nog niet klaar, begin opnieuw.</string>
   <string name="wechat_clean_exit_confirm">Afsluiten?</string>
   <string name="wechat_clean_exit_confirm_msg">Nu stoppen met scannen en afsluiten?</string>
+  <string name="wechat_clean_finish_empty_summary">Alles ziet er goed uit</string>
+  <string name="wechat_clean_finish_summary">Geselecteerde bestanden zijn verwijderd</string>
   <string name="wechat_clean_stop_confirm">Stoppen met scannen?</string>
   <string name="wechat_clean_stop_confirm_msg">Nu stoppen met scannen?</string>
   <string name="wechat_content_bad_pic_file">Dit bestand is beschadigd</string>
@@ -472,11 +476,16 @@
   <string name="wechat_copy_video_failed_dialog_title">Kon niet exporteren</string>
   <string name="wechat_copying_video">Exporteren…</string>
   <string name="wechat_copying_video_dialog_checkbox">Bestanden verwijderen na het exporteren</string>
-  <string name="wechat_copying_video_dialog_msg">Bestanden worden opgeslagen in deze map: /DCIM/WeChat</string>
+  <string name="wechat_copying_video_dialog_msg">Bestanden worden opgeslagen in deze map: %s</string>
   <string name="wechat_copying_video_dialog_title">Exporteren naar galerij</string>
   <string name="wechat_copying_video_empty">Geen video\'s om te exporteren</string>
   <string name="wechat_copying_video_success">Met succes geëxporteerd</string>
+  <string name="wechat_qq_celan_tab_file">Bestand</string>
+  <string name="wechat_qq_celan_tab_image">Afbeelding</string>
+  <string name="wechat_qq_celan_tab_video">Video</string>
+  <string name="wechat_qq_celan_tab_voice">Spraak</string>
   <string name="wechat_qq_chat_files">Chatgeschiedenis</string>
+  <string name="wechat_qq_deep_clean_button_text">Grondig schoonmaken</string>
   <string name="wechat_qq_normal_files">Afval</string>
   <string name="white_list_ad_header">Verouderde bestanden: %d</string>
   <string name="white_list_apk_header">Installatiepakketten: %d</string>
@@ -484,6 +493,15 @@
   <string name="white_list_large_file_header">Grote bestanden en video\'s: %d</string>
   <string name="white_list_residual_header">Restanten: %d</string>
   <string name="white_list_title">Uitzonderingen</string>
+  <string name="wq_deep_clean_filter_all">All</string>
+  <string name="wq_deep_clean_filter_month_ago">Een maand geleden</string>
+  <string name="wq_deep_clean_filter_three_month_ago">Drie maanden geleden</string>
+  <string name="wq_deep_clean_filter_week_ago">Een week geleden</string>
+  <string name="wq_deep_clean_filter_years_ago">Een half jaar geleden</string>
+  <string name="wqfile_group_chat_file">Ander bestand</string>
+  <string name="wqfile_group_chat_pic">Chatafbeelding</string>
+  <string name="wqfile_group_chat_video">Chatvideo</string>
+  <string name="wqfile_group_chat_voice">Chatspraakbericht</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Gisteren</string>
 </resources>

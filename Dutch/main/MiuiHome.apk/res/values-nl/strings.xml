@@ -58,7 +58,7 @@
   <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Games</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
-  <string name="default_folder_title_recommend">Meer Apps</string>
+  <string name="default_folder_title_recommend">Meer apps</string>
   <string name="default_folder_title_security">Systeem</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
@@ -70,6 +70,11 @@
   <string name="disable_wallpaper_scroll">Opzij scrollen uitschakelen</string>
   <string name="download_action">Downloaden</string>
   <string name="edit_folder_title">Mapnaam bewerken</string>
+  <string name="edit_mode_group">Groep</string>
+  <string name="edit_mode_group_error_full">Niet genoeg ruimte</string>
+  <string name="edit_mode_group_error_in_folder">Sluit de map voordat je iconen groepeert</string>
+  <string name="edit_mode_group_error_one_folder">Kan een map niet dupliceren met geselecteerde iconen</string>
+  <string name="edit_mode_uninstall">Verwijderen</string>
   <string name="editing_add_widget_tips">Widgets bewerken</string>
   <string name="editing_mode_enter_tip_text">Knijpen om startscherm te bewerken</string>
   <string name="editing_mode_title_empty">0 geselecteerd</string>
@@ -155,10 +160,12 @@
   <string name="lock_screen_failed_message">Kan vergrendelschermachtergrond niet toepassen</string>
   <string name="lock_screen_success_message">Toegepast op vergrendelscherm</string>
   <string name="lock_screen_wallpaper">Vergrendelschermachtergrond</string>
+  <string name="memory_clear_nothing_result">Niks om te wissen in cache</string>
+  <string name="memory_clear_result">%1$sB gewist</string>
   <string name="menu_add">Toevoegen</string>
   <string name="menu_auto_fill">Lege cellen vullen</string>
   <string name="menu_back_desktop">Terug naar startscherm</string>
-  <string name="menu_cell_setting">Startscherm layout</string>
+  <string name="menu_cell_setting">Startschermlayout</string>
   <string name="menu_customize">Instellingen</string>
   <string name="menu_default_screen_preview">Startscherm instellen</string>
   <string name="menu_edit">Widgets toevoegen</string>
@@ -274,4 +281,5 @@
   <string name="widget_favorite_contacts_style">Grootte veranderen</string>
   <string name="widget_gadget_player">Muziek</string>
   <string name="widget_global_search">Zoeken</string>
+  <string name="widget_quick_function">Snelkoppelingen</string>
 </resources>

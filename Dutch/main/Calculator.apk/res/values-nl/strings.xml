@@ -121,8 +121,8 @@
   <string name="preference_follow_web_summary">www.miui.com</string>
   <string name="preference_follow_web_title">Officiële website</string>
   <string name="preference_settings">Instellingen</string>
-  <string name="preference_use_degress_summary">Plaatsvervanger radialen met hoeken in trigonometrische functies</string>
-  <string name="preference_use_degress_title">Gebruik hoeken</string>
+  <string name="preference_use_degress_summary">Vervang radialen met hoeken in trigonometrische functies</string>
+  <string name="preference_use_degress_title">Hoeken gebruiken</string>
   <string name="rate_data_provider">Rentetarieven worden geleverd door hexun.com</string>
   <string name="rightParenDesc">rechterhaakje</string>
   <string name="settingsDesc">instellingen</string>

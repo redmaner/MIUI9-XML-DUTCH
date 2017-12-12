@@ -432,11 +432,25 @@
         <item>Locatie</item>
         <item>Gebruiksstatistieken verkrijgen</item>
         <item>Microfoon inschakelen of dempen</item>
+        <item>Toast weergeven</item>
         <item>Media projecteren</item>
-		<item>VPN activeren</item>
-        <item>Schrijf achtergrond</item>
-        <item>Hulp structuur</item>
-        <item>Hulp schermafdruk</item>
+        <item>VPN activeren</item>
+        <item>Achtergrond wijzigen</item>
+        <item>Assist structuur</item>
+        <item>Assist schermafdruk</item>
+        <item>Telefoonstatus lezen</item>
+        <item>Voicemail toevoegen</item>
+        <item>Sip gebruiken</item>
+        <item>Uitgaande oproepen bijhouden</item>
+        <item>Vingerafdruk</item>
+        <item>Lichaamssensors</item>
+        <item>Cell broadcasts lezen</item>
+        <item>Neplocatie geven</item>
+        <item>Opslag lezen</item>
+        <item>Opslag schrijven</item>
+        <item>Scherm inschakelen</item>
+        <item>Accountsinformatie verkrijgen</item>
+        <item>In achtergrond lopen</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kort</item>
@@ -559,12 +573,12 @@
     <string-array name="haptic_feedback_level_texts">
         <item>Uit</item>
         <item>Licht</item>
-        <item>Medium</item>
+        <item>Gemiddeld</item>
         <item>Sterk</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Sterk</item>
-        <item>Medium</item>
+        <item>Gemiddeld</item>
         <item>Licht</item>
     </string-array>
 	    <string-array name="battery_indicator_style_entries">
@@ -769,7 +783,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <string-array name="whetstone_level_entries">
         <item>Uit</item>
         <item>Laag</item>
-        <item>Medium</item>
+        <item>Gemiddeld</item>
         <item>Hoog</item>
     </string-array>
     <string-array name="agps_network_entries">
@@ -1148,6 +1162,14 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Dagelijks</item>
         <item>Weekdagen</item>
         <item>Aangepast</item>
+    </string-array>
+	<string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Batterijcapaciteit</item>
+        <item>Camera</item>
+        <item>Schermgrootte</item>
+        <item>Schermresolutie</item>
+        <item>Android versie</item>
     </string-array>
 	<string-array name="privacy_password_function_specfication_names">
         <item>Berichten</item>

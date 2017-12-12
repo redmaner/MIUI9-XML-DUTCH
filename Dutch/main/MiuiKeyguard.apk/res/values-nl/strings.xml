@@ -65,7 +65,7 @@
   <string name="incorrect_pincode_remaining_attempts">Foute PIN code, %d pogingen resterend</string>
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Foute PUK code, %d pogingen resterend</string>
-  <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
+  <string name="input_password_after_boot_msg">Voer uw wachtwoord in om apparaat te ontgrendelen</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet betreden vanaf vergrendelscherm. Betreed vanuit eerste ruimte.</string>
@@ -105,7 +105,7 @@
   <string name="keyguard_charging_info_tip_text6">Schakel het scherm uit en leg uw apparaat weg om deze af te laten koelen.</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
-  <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
+  <string name="keyguard_torch_cover_text">Druk op de aan/uitnop om de zaklamp aan te houden</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lock_screen_no_sim_card">Geen SIM kaart</string>

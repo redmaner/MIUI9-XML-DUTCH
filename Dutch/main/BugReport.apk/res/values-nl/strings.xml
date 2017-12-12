@@ -6,6 +6,7 @@
   <string name="app_empty">Kon apps niet vinden.</string>
   <string name="app_label">Feedback</string>
   <string name="app_name">Feedback</string>
+  <string name="app_search">Apps zoeken</string>
   <string name="btn_send">Verzenden</string>
   <string name="bugreport_dialog_not_show_again">Niet meer tonen</string>
   <string name="bugreport_dialog_submit_content">Uw feedback kan personlijke info bevatten.</string>
@@ -103,7 +104,7 @@
   <string name="feedback_submit_failed_notification_desc">Bekijk details</string>
   <string name="feedback_submit_failed_notification_retry">Verstuur opnieuw</string>
   <string name="feedback_submit_failed_notification_title">Kon rapport niet verzenden</string>
-  <string name="feedback_submit_hint">Bugs elke keer melden als je problemen hebt om ons die sneller te helpen oplossen.</string>
+  <string name="feedback_submit_hint">Rapporteer bugs elke keer dat je ze tegenkomt om ons te helpen het probleem op te lossen.</string>
   <string name="feedback_submit_hint1">We houden je op de hoogte over de voortgang van je rapport</string>
   <string name="feedback_submit_hint2">Ga naar \"Mijn rapporten\" om details te bekijken</string>
   <string name="feedback_submit_hint_gone">Gesloten bericht</string>
@@ -121,6 +122,7 @@
   <string name="from">van %1$s</string>
   <string name="goon_feedback_main">Doorgaan</string>
   <string name="hint_feedback_main">Beschrijf het probleem</string>
+  <string name="issue_search">Zoeken</string>
   <string name="loading_apps">Lijst laden…</string>
   <string name="login_system_failed">Kon niet inloggen, probeer opnieuw</string>
   <string name="logo_title">Feedback</string>

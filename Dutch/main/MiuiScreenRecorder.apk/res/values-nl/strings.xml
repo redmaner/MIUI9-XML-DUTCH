@@ -15,6 +15,8 @@
   <string name="cancel_edit">Annuleren</string>
   <string name="cannot_change_parames">Kan parameters niet wijzigen tijdens opnemen</string>
   <string name="cannot_record">Kon niet opnemen, probeer later opnieuw</string>
+  <string name="description_content">Met schermrecorder kan je op systeemniveau opnemen. Deze actie zorgt ervoor dat je de schermrecorderfunctie uitschakelt. Verdergaan?</string>
+  <string name="description_title">Over schermrecorder</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
   <string name="frames">Framerate</string>

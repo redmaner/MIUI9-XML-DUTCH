@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_null">'Geen data'</string>
-    <string name="weather_type_0">Helder</string>
+    <string name="date_time">EEEE, d MMMM</string>
+    <string name="date_time_12">EEEE, d MMMM</string>
+    <string name="desc_date_format">EEEE, d MMMM</string>
+    <string name="desc_date_format_12">EEEE, d MMMM</string>
+	<string name="weather_type_0">Helder</string>
     <string name="weather_type_1">Bewolkt</string>
     <string name="weather_type_2">Nevelig</string>
     <string name="weather_type_3">Mistig</string>
     <string name="weather_type_4">Hevige regenstorm</string>
     <string name="weather_type_5">Regenstorm</string>
     <string name="weather_type_6">Zeer hevige regenval</string>
-    <string name="weather_type_7">Onweersbui</string>
+    <string name="weather_type_7">Donderstorm</string>
     <string name="weather_type_8">Regenbui</string>
     <string name="weather_type_9">Hevige regenval</string>
     <string name="weather_type_10">Regen</string>

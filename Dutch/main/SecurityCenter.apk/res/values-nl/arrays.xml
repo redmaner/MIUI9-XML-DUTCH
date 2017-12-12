@@ -1,81 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<string-array name="date_of_traffic_cmcc">
-        <item>"Deze week "</item>
-        <item>"Vandaag "</item>
-        <item>"Deze maand "</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-        <item>"Gisteren "</item>
-        <item>"Vandaag "</item>
-        <item>"Deze maand "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"Deze week: "</item>
-        <item>"Vandaag: "</item>
-        <item>"Deze maand: "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
-        <item>"Gisteren: "</item>
-        <item>"Vandaag: "</item>
-        <item>"Deze maand: "</item>
-    </string-array>
-    <string-array name="date_of_app_all">
-        <item>Mobiele data gisteren</item>
-        <item>Mobiele data vandaag</item>
-        <item>Mobiele data deze maand</item>
-        <item>Wi-Fi gisteren</item>
-        <item>Wi-Fi vandaag</item>
-        <item>Wi-Fi deze maand</item>
-    </string-array>
-    <string-array name="traffic_type">
-        <item>"Mobiel verbruik "</item>
-        <item>"Wi-Fi verbruik "</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
-        <item>"Mobiel verbruik "</item>
-        <item>"Wi-Fi verbruik "</item>
-    </string-array>
-    <string-array name="over_limit_traffic_waring_style">
-        <item>Waarschuwing weergeven</item>
-        <item>Waarschuwen en mobiele data uitschakelen</item>
-    </string-array>
-	<string-array name="roaming_network_type">
-        <item>Altijd</item>
-        <item>Alleen voor uitzonderingen</item>
-        <item>Nooit</item>
-    </string-array>
-	 <string-array name="lock_mode">
-        <item>Vergrendelen wanneer apparaat vergrendeld is</item>
-        <item>Vergrendelen na het afsluiten van de app</item>
-        <item>Vergrendelen 1 minuut na het afsluiten van de app</item>
-    </string-array>
-	<string-array name="sort_type">
-        <item>Status</item>
-        <item>Appnaam</item>
-        <item>Gebruiksfrequentie</item>
-        <item>Gebruikte opslag</item>
-        <item>Installatietijd</item>
-        <item>Je kan deze app verwijderen</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Sorteren op status</item>
-        <item>Sorteren op appnaam</item>
-        <item>Sorteren op gebruiksfrequentie</item>
-        <item>Sorteren op gebruikte opslag</item>
-        <item>Sorteren op installatietijd</item>
-        <item>Apps die kunnen worden verwijderd eerst weergeven</item>
-    </string-array>
-    <string-array name="title_app_info">
-        <item>Installatiebron</item>
-        <item>Installatietijd</item>
-        <item>Laatste updatebron</item>
-        <item>Laatste updatetijd</item>
-    </string-array>
-    <string-array name="sms_report_type">
-        <item>Datagebruik</item>
-        <item>Belminuten</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>
@@ -88,5 +12,85 @@
         <item>Dagelijks</item>
         <item>Weekdagen</item>
         <item>Aangepast</item>
+    </string-array>
+	<string-array name="date_of_app_all">
+        <item>Mobiele data gisteren</item>
+        <item>Mobiele data vandaag</item>
+        <item>Mobiele data deze maand</item>
+        <item>Wi-Fi gisteren</item>
+        <item>Wi-Fi vandaag</item>
+        <item>Wi-Fi deze maand</item>
+    </string-array>
+	<string-array name="date_of_traffic">
+        <item>"Gisteren "</item>
+        <item>"Vandaag "</item>
+        <item>"Deze maand "</item>
+    </string-array>
+	<string-array name="date_of_traffic_cmcc">
+        <item>"Deze week "</item>
+        <item>"Vandaag "</item>
+        <item>"Deze maand "</item>
+    </string-array>
+	<string-array name="date_of_traffic_prefix">
+        <item>"Gisteren: "</item>
+        <item>"Vandaag: "</item>
+        <item>"Deze maand: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Deze week: "</item>
+        <item>"Vandaag: "</item>
+        <item>"Deze maand: "</item>
+    </string-array>
+	<string-array name="lock_mode">
+        <item>Vergrendelen wanneer apparaat vergrendeld is</item>
+        <item>Vergrendelen na het afsluiten van de app</item>
+        <item>Vergrendelen 1 minuut na het afsluiten van de app</item>
+    </string-array>
+	<string-array name="mi_service_traffic_type">
+        <item>"Mobiel verbruik "</item>
+        <item>"Wi-Fi verbruik "</item>
+    </string-array>
+	<string-array name="over_limit_traffic_waring_style">
+        <item>Waarschuwing weergeven</item>
+        <item>Waarschuwen en mobiele data uitschakelen</item>
+    </string-array>
+	<string-array name="roaming_network_type">
+        <item>Altijd</item>
+        <item>Alleen voor uitzonderingen</item>
+        <item>Nooit</item>
+    </string-array>
+	<string-array name="sms_report_type">
+        <item>Datagebruik</item>
+        <item>Belminuten</item>
+    </string-array>
+	<string-array name="sort_title">
+        <item>Sorteren op status</item>
+        <item>Sorteren op appnaam</item>
+        <item>Sorteren op gebruiksfrequentie</item>
+        <item>Sorteren op gebruikte opslag</item>
+        <item>Sorteren op installatietijd</item>
+        <item>Apps die kunnen worden verwijderd eerst weergeven</item>
+    </string-array>
+	<string-array name="sort_type">
+        <item>Status</item>
+        <item>Appnaam</item>
+        <item>Gebruiksfrequentie</item>
+        <item>Gebruikte opslag</item>
+        <item>Installatietijd</item>
+        <item>Je kan deze app verwijderen</item>
+    </string-array>
+	<string-array name="tether_limit_warn_type">
+        <item>Uitschakelen en melden</item>
+        <item>Alleen melden</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Installatiebron</item>
+        <item>Installatietijd</item>
+        <item>Laatste updatebron</item>
+        <item>Laatste updatetijd</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobiel verbruik "</item>
+        <item>"Wi-Fi verbruik "</item>
     </string-array>
 </resources>
