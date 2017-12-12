@@ -51,6 +51,9 @@
   <string name="action_menu_toolbox">Tools</string>
   <string name="action_menu_useful_page">Snelkoppeling toevoegen</string>
   <string name="action_menu_useful_page_added">Toegevoegd aan startpagina</string>
+  <string name="action_menu_user_center">User center</string>
+  <string name="action_modify_bookmark">Modify bookmark</string>
+  <string name="action_put_in_search_box">Put %s in the search box</string>
   <string name="actionbar_share">Delen</string>
   <string name="actionbar_textselection_title">Tekstselectie</string>
   <string name="actionbar_web_search">Voer URL in of zoeken op het web</string>
@@ -504,7 +507,7 @@ Deze pagina verlaten?"</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cache en cookies wissen (%s1Instellingen%s2 - Gegevens wissen, accountgegevens kunnen verloren gaan).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Cache en cookies wissen (accountgegevens kunnen verloren gaan).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Cache wissen.</string>
-  <string name="miuichromium_error_page_suggestion_connect_and_retry">Verbind opnieuw nadat er verbinding is gemaakt</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Verbind opnieuw nadat er verbinding is gemaakt.</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Neem contact op met uw systeembeheerder.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">Controleer het adres dat u heeft ingevoerd en zorg ervoor dat de URL juist is.</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Verbind opnieuw nadat je de browser toegang hebt gegeven om te verbinden met internet.</string>
@@ -562,7 +565,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="ok">OK</string>
   <string name="older">Ouder</string>
   <string name="open_app_confirm_message">Deze pagina toestaan om %s te openen?</string>
-  <string name="open_file_explorer_failed">Kan File Explorer niet openen</string>
+  <string name="open_file_explorer_failed">Kan File Explorer niet openen.</string>
   <string name="open_voice_permission">Spraak netwerktoestemming openen</string>
   <string name="opening_file_error">Kon geselecteerde bestand niet openen</string>
   <string name="page_info">Pagina-informatie</string>
