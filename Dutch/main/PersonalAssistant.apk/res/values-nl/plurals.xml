@@ -58,9 +58,9 @@
         <item quantity="other">%1$d dagen geleden</item>
     </plurals>
     <plurals name="steps">
-        <item quantity="other">%d stappen</item>
-        <item quantity="zero">%d stappen</item>
-        <item quantity="one">%d stap</item>
+        <item quantity="other">%d|stappen</item>
+        <item quantity="zero">%d|stappen</item>
+        <item quantity="one">%d|stap</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">Over %d dagen</item>
