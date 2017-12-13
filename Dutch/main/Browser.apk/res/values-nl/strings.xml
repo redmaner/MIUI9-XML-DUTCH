@@ -51,9 +51,9 @@
   <string name="action_menu_toolbox">Tools</string>
   <string name="action_menu_useful_page">Snelkoppeling toevoegen</string>
   <string name="action_menu_useful_page_added">Toegevoegd aan startpagina</string>
-  <string name="action_menu_user_center">User center</string>
-  <string name="action_modify_bookmark">Modify bookmark</string>
-  <string name="action_put_in_search_box">Put %s in the search box</string>
+  <string name="action_menu_user_center">Gebruikerscentrum</string>
+  <string name="action_modify_bookmark">Bladwijzer bewerken</string>
+  <string name="action_put_in_search_box">Zet %s in de zoekbalk</string>
   <string name="actionbar_share">Delen</string>
   <string name="actionbar_textselection_title">Tekstselectie</string>
   <string name="actionbar_web_search">Voer URL in of zoeken op het web</string>
