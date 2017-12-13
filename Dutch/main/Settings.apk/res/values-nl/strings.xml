@@ -761,7 +761,6 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="bootloader_status_unlocked">Ontgrendeld</string>
   <string name="bootloader_status_unlocked_info">Dit apparaat is ontgrendeld</string>
   <string name="bootloader_summary">Flash uw apparaat via USB</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Kleur licht</string>
   <string name="breathing_light_color_summary">Kleur licht bij een nieuwe melding</string>
   <string name="breathing_light_freq_summary">Knipperen bij nieuwe meldingen</string>

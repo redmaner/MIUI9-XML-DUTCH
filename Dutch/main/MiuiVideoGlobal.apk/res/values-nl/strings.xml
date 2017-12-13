@@ -24,11 +24,9 @@
   <string name="airkan_playing">Casting on %s</string>
   <string name="airkan_tips">Tap to cast</string>
   <string name="app_name">Mi Video</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="audio_changed">New audio track</string>
   <string name="audio_title">Audio track</string>
   <string name="audio_track">Audio track</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="do_not_show_this_again">"Don't show again"</string>
   <string name="lp_advance_sound">Sound enhancement</string>
@@ -102,10 +100,6 @@
   <string name="t_password_null">"Password can't be empty"</string>
   <string name="t_password_wrong">Password is incorrect. Try again.</string>
   <string name="t_search_null">Enter keywords to search</string>
-  <string name="tag_index">tag_index</string>
-  <string name="tag_key">tag_key</string>
-  <string name="tag_object">tag_object</string>
-  <string name="theme_id">com_7idear.framework.theme</string>
   <string name="v_agree">Agree</string>
   <string name="v_app_check_failed">"Couldn't verify app"</string>
   <string name="v_app_click_to_install">Tap to install.</string>
