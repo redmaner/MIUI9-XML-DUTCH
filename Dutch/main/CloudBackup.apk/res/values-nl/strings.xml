@@ -91,6 +91,7 @@
   <string name="desktop_installing">Installeren</string>
   <string name="desktop_wait_wifi">Wachten</string>
   <string name="desktop_waiting">Wachten</string>
+  <string name="device_corrupt">Mi Phone (Data corrupt)</string>
   <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
   <string name="device_xiaomi">Mi Telefoon</string>
   <string name="dialog_cancel_backup_cancel">Annuleren</string>
@@ -146,10 +147,10 @@
   <string name="restore_task_cancelling">Annuleren…</string>
   <string name="restore_task_in_process">Herstellen…</string>
   <string name="restore_unfinished">Herstellen, probeer later opnieuw</string>
-  <string name="restoring_file_tile">%d bestanden herstellen</string>
   <string name="retry">Probeer opnieuw</string>
   <string name="self_phone">Deze telefoon</string>
   <string name="settings_backup">Systeeminstellingen</string>
+  <string name="size_unknown">Size unknown</string>
   <string name="start_backup_to_micloud">Back-up apps naar Mi Cloud</string>
   <string name="start_recover">Herstel %s</string>
   <string name="success_open_cloudbackup">Back-ups voor startschermapps is ingeschakeld</string>
