@@ -480,10 +480,10 @@
   <string name="wechat_copying_video_dialog_title">Exporteren naar galerij</string>
   <string name="wechat_copying_video_empty">Geen video\'s om te exporteren</string>
   <string name="wechat_copying_video_success">Met succes geëxporteerd</string>
-  <string name="wechat_qq_celan_tab_file">Bestand</string>
-  <string name="wechat_qq_celan_tab_image">Afbeelding</string>
-  <string name="wechat_qq_celan_tab_video">Video</string>
-  <string name="wechat_qq_celan_tab_voice">Spraak</string>
+  <string name="wechat_qq_celan_tab_file">Bestanden</string>
+  <string name="wechat_qq_celan_tab_image">Afbeeldingen</string>
+  <string name="wechat_qq_celan_tab_video">Video\'s</string>
+  <string name="wechat_qq_celan_tab_voice">Spraakberichten</string>
   <string name="wechat_qq_chat_files">Chatgeschiedenis</string>
   <string name="wechat_qq_deep_clean_button_text">Grondig schoonmaken</string>
   <string name="wechat_qq_normal_files">Afval</string>
@@ -494,14 +494,14 @@
   <string name="white_list_residual_header">Restanten: %d</string>
   <string name="white_list_title">Uitzonderingen</string>
   <string name="wq_deep_clean_filter_all">All</string>
-  <string name="wq_deep_clean_filter_month_ago">Een maand geleden</string>
-  <string name="wq_deep_clean_filter_three_month_ago">Drie maanden geleden</string>
-  <string name="wq_deep_clean_filter_week_ago">Een week geleden</string>
-  <string name="wq_deep_clean_filter_years_ago">Een half jaar geleden</string>
-  <string name="wqfile_group_chat_file">Ander bestand</string>
-  <string name="wqfile_group_chat_pic">Chatafbeelding</string>
-  <string name="wqfile_group_chat_video">Chatvideo</string>
-  <string name="wqfile_group_chat_voice">Chatspraakbericht</string>
+  <string name="wq_deep_clean_filter_month_ago">1 maand geleden</string>
+  <string name="wq_deep_clean_filter_three_month_ago">3 maanden geleden</string>
+  <string name="wq_deep_clean_filter_week_ago">1 week geleden</string>
+  <string name="wq_deep_clean_filter_years_ago">6 maanden geleden</string>
+  <string name="wqfile_group_chat_file">Bestanden verzonden in messengers</string>
+  <string name="wqfile_group_chat_pic">Afbeeldingen verzonden in messengers</string>
+  <string name="wqfile_group_chat_video">Video\'s verzonden in messengers</string>
+  <string name="wqfile_group_chat_voice">Spraakberichten</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Gisteren</string>
 </resources>

@@ -130,11 +130,11 @@
         <item quantity="one">%d nummer overgeslagen. Schakel online services in in instellingen om ernaar te luisteren.</item>
     </plurals>
 	<plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Optimalisatie van album en songteksten uitgeschakeld. Wil je geoptimaliseerde info, album en songteksten van %d nummers terugzetten?</item>
-        <item quantity="one">Optimalisatie van album en songteksten uitgeschakeld. Wil je geoptimaliseerde info, album en songtekst van %d nummer terugzetten?</item>
+        <item quantity="other">Optimalisatie van album en songteksten uitgeschakeld. Wil je info van %d nummers verwijderen?</item>
+        <item quantity="one">Optimalisatie van album en songteksten uitgeschakeld. Wil je info van %d nummer verwijderen?</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">Album en songteksten matchen (%1$d/%2$d nummers)</item>
-        <item quantity="one">Album en songtekst matchen (%1$d/%2$d nummer)</item>
+        <item quantity="other">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
+        <item quantity="one">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
     </plurals>
 </resources>

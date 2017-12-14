@@ -357,8 +357,8 @@
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Melding</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Beltoon</string>
-  <string name="theme_apply_failured">Kan vergrendelscherm achtergrond niet toepassen</string>
-  <string name="theme_apply_success">Vergrendelscherm toegepast</string>
+  <string name="theme_apply_failured">Kon niet toepassen</string>
+  <string name="theme_apply_success">Toegepast</string>
   <string name="theme_applying">Bezig met toepassen…</string>
   <string name="theme_batch_update_all">Alles bijwerken</string>
   <string name="theme_batch_update_dlg_content">"%1$s en %2$d andere thema's nu bijwerken?"</string>
