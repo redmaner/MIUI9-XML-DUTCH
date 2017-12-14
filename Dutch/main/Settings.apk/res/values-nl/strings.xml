@@ -2419,7 +2419,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dirac_mode_piston_1">Mi Piston 1</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
-  <string name="music_dirac_mode_reduction_noise">Geluid TypeC verminderen</string>
+  <string name="music_dirac_mode_reduction_noise">Ruis verminderen (USB-C)</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
@@ -4245,6 +4245,9 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
 
 Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw profiel niet ontgrendelen, aankopen autoriseren of u aanmelden bij apps."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">De beveiligingsfuncties voor profielen werken niet zonder uw pincode.</string>
+  <string name="unlock_disable_frp_warning_content_profile">"De beveiligingsfuncties voor profielen werken niet zonder uw wahtwoord.
+
+Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw profiel niet ontgrendelen, aankopen autoriseren of u aanmelden bij apps."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Apparaatveiligheidsfucnties zullen niet werken zonder uw schermvergrendeling.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw schermvergrendeling.
 
@@ -4277,6 +4280,7 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_unlock_none_summary">Geen beveiliging</string>
   <string name="unlock_set_unlock_none_title">Geen</string>
   <string name="unlock_set_unlock_off_title">Geen</string>
+  <string name="unlock_set_unlock_password_none">Geen</string>
   <string name="unlock_set_unlock_password_summary">Voer tenminste 4 letters of cijfers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_password_title">Wachtwoord</string>
   <string name="unlock_set_unlock_pattern_summary">Teken een simpel patroon om apparaat te ontgrendelen</string>

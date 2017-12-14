@@ -6,6 +6,8 @@
   <string name="custom_lock_wallpaper_enter">Invoeren</string>
   <string name="default_lockscreen_unlock_hint_text">Veeg omhoog om te ontgrendelen</string>
   <string name="delete">Verwijderen</string>
+  <string name="do_disclosure_generic">Dit apparaat wordt beheerd door uw bedrijf</string>
+  <string name="do_disclosure_with_name">Dit apparaat wordt beheerd door %s</string>
   <string name="emergency_call_string">Noodoproep</string>
   <string name="face_data_input_camera_fail">Kon camera niet laden</string>
   <string name="face_data_input_camera_ok">Camera laden…</string>
