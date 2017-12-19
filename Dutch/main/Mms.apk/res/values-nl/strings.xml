@@ -67,14 +67,13 @@
   <string name="cloud_state_disabled">Schakel synchronisatie met Mi Cloud in om berichten te synchroniseren</string>
   <string name="cloud_state_sync_finished">Gesynchroniseerd met Mi Cloud</string>
   <string name="cloud_state_syncing">Synchroniseren met Mi Cloud…</string>
-  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="compressing">Afbeelding is te groot. Comprimeren…</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_add_blacklist_dialog_dspt">Nummer toevoegen aan zwarte lijst?</string>
   <string name="confirm_delete_SIM_message">Dit bericht op de SIM kaart wordt verwijderd?</string>
   <string name="confirm_delete_all_SIM_messages">Alle berichten van de SIM kaart verwijderen?</string>
   <string name="confirm_delete_all_conversations">Alle berichten verwijderen?</string>
-  <string name="confirm_delete_conversation">Delete this conversation?</string>
+  <string name="confirm_delete_conversation">Deze conversatie verwijderen?</string>
   <string name="confirm_delete_group_message">Groepsberichten verwijderen?</string>
   <string name="confirm_delete_locked_message">Dit vergrendeld bericht verwijderen?</string>
   <string name="confirm_delete_message">Dit bericht verwijderen?</string>
@@ -85,8 +84,8 @@
   <string name="confirm_export_dialog_description">Alle gesprekken met dit nummer worden niet langer verborgen.</string>
   <string name="confirm_export_dialog_title">Verwijderen uit privé contacten</string>
   <string name="confirm_no_block_positive">Niet blokkeren en herstellen</string>
-  <string name="confirm_no_block_title">"Unblock this number and restore all messages sent from this number? 
-(The number will be added to message whitelist)"</string>
+  <string name="confirm_no_block_title">"Dit nummer deblokkeren en alle berichten verstuurd door dit nummer herstellen?
+  (Het nummer wordt toegevoegd aan de witte lijst voor berichten)"</string>
   <string name="confirm_rate_limit">Er wordt een groot aantal multimediaberichten verzonden.</string>
   <string name="confirm_restore_all_title">Alle berichten herstellen van dit nummer?</string>
   <string name="confirm_restore_checkbox">Geblokkeerde berichten herstellen</string>

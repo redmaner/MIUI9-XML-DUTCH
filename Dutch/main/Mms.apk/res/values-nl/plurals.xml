@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Deze %1$s geselecteerde gesprekken verwijderen?</item>
+        <item quantity="other">%1$s geselecteerde gesprekken verwijderen?</item>
         <item quantity="one">Dit gesprek verwijderen?</item>
     </plurals>
     <plurals name="slide_duration">

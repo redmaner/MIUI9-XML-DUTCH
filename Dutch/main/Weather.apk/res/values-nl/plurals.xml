@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="activity_main_update_time_in_one_day">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
-    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">%d minuut geleden</item>
@@ -17,35 +13,26 @@
         <item quantity="one">%d dag geleden</item>
 	</plurals>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">%1$s-day forecast</item>
-        <item quantity="one">%1$s-day forecast</item>
+        <item quantity="other">Weersvoorspelling voor %1$s dagen</item>
+        <item quantity="one">Weersvoorspelling voor %1$s dag</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s seconds after the feedback</item>
-        <item quantity="one">%1$s second after the feedback</item>
+	<plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s seconden na feedback</item>
+        <item quantity="one">%1$s seconde na feedback</item>
     </plurals>
-    <plurals name="no_vote_num">
-        <item quantity="other">%1$s people | </item>
-        <item quantity="one">%1$s person | </item>
+	<plurals name="no_vote_num">
+        <item quantity="other">%1$s personen| </item>
+        <item quantity="one">%1$s persoon | </item>
     </plurals>
 	<plurals name="total_voted_num_text">
         <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> personen hebben gestemd"</item>
         <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> persoon heeft gestemd"</item>
     </plurals>
-	<plurals name="view_realtime_clear">
-        <item quantity="other">Clear</item>
-        <item quantity="one">Clear</item>
-    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Helder</item>
+        <item quantity="one">Helder</item>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s personen</item>
         <item quantity="one"> | %1$s persoon</item>
-    </plurals>
-    <plurals name="no_vote_num">
-        <item quantity="other">%1$s personen| </item>
-        <item quantity="one">%1$s persoon | </item>
-    </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s seconden na feedback</item>
-        <item quantity="one">%1$s seconde na feedback</item>
     </plurals>
 </resources>

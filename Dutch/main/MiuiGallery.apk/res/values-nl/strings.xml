@@ -685,12 +685,12 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_print_package_installing">Plug-in laden…</string>
   <string name="photomovie_audio_custom">Lokaal</string>
   <string name="photomovie_audio_none">Geen</string>
-  <string name="photomovie_audio_unsupport">"This audio isn't supported."</string>
+  <string name="photomovie_audio_unsupport">Dit audiotype wordt niet ondersteund.</string>
   <string name="photomovie_cancel_download">Annuleren</string>
   <string name="photomovie_delete_disable">Je hebt tenimste 3 foto\'s nodig om een clip te maken.</string>
   <string name="photomovie_download">Downloaden</string>
   <string name="photomovie_download_failed">Kon niet downloaden</string>
-  <string name="photomovie_download_failed_for_notwork">Kon niet downloaden. Connect to the network and try again.</string>
+  <string name="photomovie_download_failed_for_notwork">Kon niet downloaden. Verbind met internet en probeer opnieuw.</string>
   <string name="photomovie_download_without_wifi_msg">Mobiel internet gebruiken om bestanden te downloaden zal het dataverbruik verhogen. Als je je datalimiet overschrijdt zal je provider extra kosten in rekening brengen.</string>
   <string name="photomovie_download_without_wifi_title">Waarschuwing dataverbruik</string>
   <string name="photomovie_item_name">Clip</string>
