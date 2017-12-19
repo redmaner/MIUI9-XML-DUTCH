@@ -38,7 +38,6 @@
   <string name="accessibility_desc_recent_apps">Overzicht</string>
   <string name="accessibility_desc_select_block_notification">Selecteer meldingen om te verbergen</string>
   <string name="accessibility_desc_uncheck_block_notification">Deselecteer %1$s meldingen</string>
-  <string name="accessibility_desc_weather_temperature">Weer %1s graden</string>
   <string name="accessibility_desc_work_lock">Werkvergrendelscherm</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beïnvloeden.</string>
   <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>

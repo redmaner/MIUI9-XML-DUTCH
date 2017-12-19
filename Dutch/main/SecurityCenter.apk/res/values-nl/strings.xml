@@ -127,7 +127,6 @@
   <string name="app_install_intercept">Installatie blokkeren</string>
   <string name="app_install_tips_go_to">Open</string>
   <string name="app_install_tips_install_success">%1$s is met succes geïnstalleerd</string>
-  <string name="app_maanger_app_uninstalled_toast">Deze app is verwijderd</string>
   <string name="app_manager_advanced_setting">Geavanceerde instellingen</string>
   <string name="app_manager_allow">Ja</string>
   <string name="app_manager_app_ifno_version">Appversie</string>
@@ -186,8 +185,6 @@
   <string name="app_manager_have_not_consume">Geen</string>
   <string name="app_manager_hide_system_server">Systeemdiensten verbergen</string>
   <string name="app_manager_install_other_app">Apps van onbekende bronnen installeren</string>
-  <string name="app_manager_instruction">Instructie</string>
-  <string name="app_manager_loading_data">Gegevens laden…</string>
   <string name="app_manager_manage_space">Ruimte beheren</string>
   <string name="app_manager_menu_clear_data">Gegevens wissen</string>
   <string name="app_manager_net_control_title">Dataverbruik beperken</string>
@@ -209,10 +206,6 @@
   <string name="app_manager_powerkeeper_no_restrict">Geen beperkingen</string>
   <string name="app_manager_powerkeeper_restrict_bg">Apps op de achtergrond beperken</string>
   <string name="app_manager_pref_ads">Aanbevelingen</string>
-  <string name="app_manager_rebide_wakepath">Beperken</string>
-  <string name="app_manager_reduce_wakepath_dialog">Kettingstart beperken</string>
-  <string name="app_manager_reduce_wakepath_summary">Automatisch starten beperken zal kettingstarten minimaliseren. Automatisch starten beperken voor %s?</string>
-  <string name="app_manager_reject_count_over">100000+ keer geblokkeerd</string>
   <string name="app_manager_reset_app_preferences">Appvoorkeuren herstellen</string>
   <string name="app_manager_reset_app_preferences_button">Apps resetten</string>
   <string name="app_manager_reset_app_preferences_desc">"Dit zal alle voorkeuren resetten van:
@@ -227,13 +220,6 @@
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_start_by">Gestart door %s</string>
-  <string name="app_manager_start_count_over">100000+ keer</string>
-  <string name="app_manager_stop_wakepath_dialog_summary">%s verwijderen om kettingstart te beperken?</string>
-  <string name="app_manager_stop_wakepath_dialog_title">Kettingstart beperken</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Deze app verwijderen zal kettingstarten beperken. Gerelateerde gedupliceerde apps zullen ook verwijderd worden. %s verwijderen?</string>
-  <string name="app_manager_stop_wakepath_success">Beperkt</string>
-  <string name="app_manager_stop_wp_dialog_cancel">Annuleren</string>
-  <string name="app_manager_stop_wp_dialog_uninstall">Verwijderen</string>
   <string name="app_manager_support_uninstall">Je kan deze apps verwijderen</string>
   <string name="app_manager_system_mobile_disable">Data uitschakelen</string>
   <string name="app_manager_title">Apps beheren</string>
@@ -244,10 +230,6 @@
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Dubbele app verwijderen zal alle appgegevens wissen.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Dubbele app verwijderen?</string>
   <string name="app_manager_unstall_application">Verwijderen</string>
-  <string name="app_manager_wake_path_card_title">Geschiedenis van kettingstarten (2 dagen)</string>
-  <string name="app_manager_wakepath_dialog_buttontext">Begrepen</string>
-  <string name="app_manager_wakepath_dialog_summary">Kettingstarten gebeurt wanneer een app een andere app opstart in de achtergrond. Het kan de batterij leegtrekken en de systeemprestaties verslechteren. MIUI zal normaal gesproken kettingstarten blokkeren.</string>
-  <string name="app_manager_wakepath_dialog_title">Over kettingstarten</string>
   <string name="app_managere_not_have_app">Leeg</string>
   <string name="app_mobile">Mobiel</string>
   <string name="app_name">Appvergrendeling</string>

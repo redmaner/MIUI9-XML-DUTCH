@@ -259,10 +259,6 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">%d keer</item>
         <item quantity="one">%d keer</item>
     </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">%d keer geblokkeerd</item>
-        <item quantity="one">%d keer geblokkeerd</item>
-    </plurals>
 	<plurals name="app_usage_day">
         <item quantity="other">Niet gebruikt voor %d dagen</item>
         <item quantity="one">Niet gebruikt voor %d dag</item>

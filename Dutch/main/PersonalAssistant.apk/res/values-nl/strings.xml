@@ -88,7 +88,7 @@
   <string name="book_assistant">Boek een reis</string>
   <string name="book_assistant_empty">Nog geen boekingen.</string>
   <string name="book_assistant_go">Vertrekken</string>
-  <string name="book_assistant_todaybook">Reizen van vandaag</string>
+  <string name="book_assistant_todaybook">Reizen van vandaag.</string>
   <string name="book_assistant_train_start">Vertrektijd</string>
   <string name="book_assistant_train_started">Station verlaten</string>
   <string name="book_store">Boeken bekijken</string>
@@ -455,6 +455,11 @@ Controleer het trackingnummer."</string>
   <string name="fav_support_more">Alle ondersteunde apps</string>
   <string name="fav_support_not_title">Favorieten zullen niet worden weergegeven in de lijst</string>
   <string name="fav_support_title">Favorieten zullen worden weergegeven in de lijst</string>
+  <string name="fav_tab_all">All</string>
+  <string name="fav_tab_article">Articles</string>
+  <string name="fav_tab_new">New</string>
+  <string name="fav_tab_shopping">Products</string>
+  <string name="fav_tab_video">Videos</string>
   <string name="favorite">Favorieten</string>
   <string name="favorite_add_home">Toevoegen aan startscherm</string>
   <string name="favorite_add_home_add">Toevoegen</string>
@@ -470,7 +475,7 @@ Controleer het trackingnummer."</string>
   <string name="favorite_main">Geschiedenis</string>
   <string name="favorite_mark_important">Gemarkeerd als belangrijk</string>
   <string name="flow_open">Mobiele datakaart weergeven</string>
-  <string name="flow_setting_brief">Bekijk informatie over uw datagebruik (voeg je databundel toe in Veiligheid &gt; Datagebruik).</string>
+  <string name="flow_setting_brief">View data usage info (Add your data plan in Security &gt; Data usage).</string>
   <string name="focus">Volg status</string>
   <string name="focus_stocks">Mijn bedrijven</string>
   <string name="function_aiqiyi_record">Recente video\'s</string>

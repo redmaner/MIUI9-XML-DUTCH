@@ -74,7 +74,7 @@
   <string name="confirm_delete_SIM_message">Dit bericht op de SIM kaart wordt verwijderd?</string>
   <string name="confirm_delete_all_SIM_messages">Alle berichten van de SIM kaart verwijderen?</string>
   <string name="confirm_delete_all_conversations">Alle berichten verwijderen?</string>
-  <string name="confirm_delete_conversation">Alle threads verwijderen?</string>
+  <string name="confirm_delete_conversation">Delete this conversation?</string>
   <string name="confirm_delete_group_message">Groepsberichten verwijderen?</string>
   <string name="confirm_delete_locked_message">Dit vergrendeld bericht verwijderen?</string>
   <string name="confirm_delete_message">Dit bericht verwijderen?</string>

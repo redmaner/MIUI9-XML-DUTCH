@@ -25,6 +25,8 @@
   <string name="audio_changed">Nieuw nummer</string>
   <string name="audio_title">Nummer</string>
   <string name="audio_track">Nummer</string>
+  <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
+  <string name="com_permission_title">Permissions required</string>
   <string name="do_not_show_this_again">Niet opnieuw weergeven</string>
   <string name="lp_advance_sound">Geluid verbeteren</string>
   <string name="lp_brightness">Helderheid</string>
