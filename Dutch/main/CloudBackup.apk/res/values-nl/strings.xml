@@ -20,11 +20,7 @@
   <string name="backup_to_cloud">App back-uppen</string>
   <string name="btn_back">Terug</string>
   <string name="btn_continue">Doorgaan</string>
-<<<<<<< HEAD
   <string name="btn_retry">Opnieuw controleren</string>
-=======
-  <string name="btn_retry">Check again</string>
->>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="btn_skip">Deze stap overslaan</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_delete">Verwijderen</string>
@@ -130,13 +126,8 @@
   <string name="open_wifi_description">Verbind met Wi-Fi netwerk om te herstellen</string>
   <string name="open_wifi_setting">Wi-Fi instellingen</string>
   <string name="process_whole_recovery">Herstellen van \"%s\"</string>
-<<<<<<< HEAD
   <string name="provision_error_connect_msg">Controleer verbinding en probeer opnieuw. De back-upfunctie zal niet beschikbaar zijn zonder een werkende internetverbinding.</string>
   <string name="provision_error_connect_title">Kan niet verbinden</string>
-=======
-  <string name="provision_error_connect_msg">You can test the network and try again. The backup function will not be available without a valid network.</string>
-  <string name="provision_error_connect_title">Can not connect</string>
->>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="query_restore_description">Herstel startscherm apps en instellingen met behulp van deze back-up. Dit zal de app gegevens overschrijven van dubbele apps die al op het apparaat zijn geïnstalleerd. Apps die niet in de back-up staan zullen worden verplaatst naar het laatste startscherm.</string>
   <string name="query_restore_summary">Vond een Mi Cloud back-up voor dit apparaat. Herstel startscherm apps en instellingen of gebruik het als een nieuw apparaat en wis van vorige Mi Cloud backups?</string>
   <string name="recover_from_micloud">Herstellen van Mi Cloud back-up</string>

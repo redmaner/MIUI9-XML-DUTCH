@@ -25,13 +25,8 @@
   <string name="audio_changed">Nieuw nummer</string>
   <string name="audio_title">Nummer</string>
   <string name="audio_track">Nummer</string>
-<<<<<<< HEAD
   <string name="com_permission_desc">Mi Video heeft geen toegang tot video\'s op het apparaat. Geef toestemming in de instellingen.</string>
   <string name="com_permission_title">Toestemmingen vereist</string>
-=======
-  <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
-  <string name="com_permission_title">Permissions required</string>
->>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="do_not_show_this_again">Niet opnieuw weergeven</string>
   <string name="lp_advance_sound">Geluid verbeteren</string>
   <string name="lp_brightness">Helderheid</string>

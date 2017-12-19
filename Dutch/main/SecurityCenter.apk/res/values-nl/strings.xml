@@ -602,13 +602,8 @@ in het geval je hem vergeten bent"</string>
   <string name="dlg_import_whitelist">Toevoegen…</string>
   <string name="dlg_keyword_ok">Opslaan</string>
   <string name="dlg_message_not_open_stranger_identify">Om deze functie in te schakelen, ga naar instellingen &gt; telefoon.</string>
-<<<<<<< HEAD
   <string name="dlg_no_block">"Dit nummer deblokkeren en oproepen van dit nummer herstellen naar oproepgeschiedenis?
   (Het nummer wordt toegevoegd aan de witte lijst voor oproepen)"</string>
-=======
-  <string name="dlg_no_block">"Unblock this number and restore calls from this number to call history?
-(The number will be added to call whitelist)"</string>
->>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="dlg_no_block_ok">Deblokkeren</string>
   <string name="dlg_remove_address_blacklist">Deze locatie verwijderen uit zwarte lijst?</string>
   <string name="dlg_remove_address_whitelist">Deze locatie verwijderen uit uitzonderingen?</string>
@@ -1634,11 +1629,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_filter_keywords_setting_summary1">Berichten van onbekende nummers die de woorden in deze lijst bevatten worden geblokkeerd.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Gebruik een komma om meerdere trefwoorden van elkaar te scheiden)"</string>
-<<<<<<< HEAD
   <string name="st_filter_keywords_setting_summary3">Berichten van onbekende nummers die woorden uit deze lijst bevatten worden toegestaan.</string>
-=======
-  <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
->>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="st_group_list_management">Zwarte lijst beheren</string>
   <string name="st_hint_add_head_number">Voorvoegsel invoeren</string>
   <string name="st_hint_add_phonenumber">Telefoonnummer invoeren</string>
@@ -1647,15 +1638,9 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_message_phone_AntiSpam">Oproepen blokkeren</string>
   <string name="st_message_phonepass">Oproepen toestaan</string>
   <string name="st_msg_intercept_contacts">Berichten van contacten blokkeren</string>
-<<<<<<< HEAD
   <string name="st_msg_keyword_black">Trefwoord zwarte lijst</string>
   <string name="st_msg_keyword_group">Trefwoorden</string>
   <string name="st_msg_keyword_white">Trefwoord uitzonderingen</string>
-=======
-  <string name="st_msg_keyword_black">Keyword Blocklist</string>
-  <string name="st_msg_keyword_group">Keywords</string>
-  <string name="st_msg_keyword_white">Keyword Exceptions</string>
->>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="st_msg_other_group">Andere</string>
   <string name="st_msg_settings">SMS zwarte lijst</string>
   <string name="st_msg_stranger_group">SMS van vreemden blokkeren</string>
@@ -1687,13 +1672,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_title_call_wait_setting">Oproep in de wacht</string>
   <string name="st_title_editblacklist">Zwarte lijst bewerken</string>
   <string name="st_title_editwhitelist">Uitzonderingen bewerken</string>
-<<<<<<< HEAD
   <string name="st_title_keywords_blacklist">Trefwoord zwarte lijst</string>
   <string name="st_title_keywords_whitelist">Trefwoord witte lijst</string>
-=======
-  <string name="st_title_keywords_blacklist">Keyword blacklist</string>
-  <string name="st_title_keywords_whitelist">Keyword whitelist</string>
->>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="st_title_man_addblacklist">Nummer toevoegen aan zwarte lijst</string>
   <string name="st_title_man_addwhitelist">Nummer toevoegen aan uitzonderingen</string>
   <string name="st_title_man_editblacklist">Kies een gebiedscode om toe te voegen aan zwarte lijst</string>
