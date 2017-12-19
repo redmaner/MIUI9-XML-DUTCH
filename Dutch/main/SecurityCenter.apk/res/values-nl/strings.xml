@@ -127,7 +127,6 @@
   <string name="app_install_intercept">Installatie blokkeren</string>
   <string name="app_install_tips_go_to">Open</string>
   <string name="app_install_tips_install_success">%1$s is met succes geïnstalleerd</string>
-  <string name="app_maanger_app_uninstalled_toast">Deze app is verwijderd</string>
   <string name="app_manager_advanced_setting">Geavanceerde instellingen</string>
   <string name="app_manager_allow">Ja</string>
   <string name="app_manager_app_ifno_version">Appversie</string>
@@ -186,8 +185,6 @@
   <string name="app_manager_have_not_consume">Geen</string>
   <string name="app_manager_hide_system_server">Systeemdiensten verbergen</string>
   <string name="app_manager_install_other_app">Apps van onbekende bronnen installeren</string>
-  <string name="app_manager_instruction">Instructie</string>
-  <string name="app_manager_loading_data">Gegevens laden…</string>
   <string name="app_manager_manage_space">Ruimte beheren</string>
   <string name="app_manager_menu_clear_data">Gegevens wissen</string>
   <string name="app_manager_net_control_title">Dataverbruik beperken</string>
@@ -209,10 +206,6 @@
   <string name="app_manager_powerkeeper_no_restrict">Geen beperkingen</string>
   <string name="app_manager_powerkeeper_restrict_bg">Apps op de achtergrond beperken</string>
   <string name="app_manager_pref_ads">Aanbevelingen</string>
-  <string name="app_manager_rebide_wakepath">Beperken</string>
-  <string name="app_manager_reduce_wakepath_dialog">Kettingstart beperken</string>
-  <string name="app_manager_reduce_wakepath_summary">Automatisch starten beperken zal kettingstarten minimaliseren. Automatisch starten beperken voor %s?</string>
-  <string name="app_manager_reject_count_over">100000+ keer geblokkeerd</string>
   <string name="app_manager_reset_app_preferences">Appvoorkeuren herstellen</string>
   <string name="app_manager_reset_app_preferences_button">Apps resetten</string>
   <string name="app_manager_reset_app_preferences_desc">"Dit zal alle voorkeuren resetten van:
@@ -227,13 +220,6 @@
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_start_by">Gestart door %s</string>
-  <string name="app_manager_start_count_over">100000+ keer</string>
-  <string name="app_manager_stop_wakepath_dialog_summary">%s verwijderen om kettingstart te beperken?</string>
-  <string name="app_manager_stop_wakepath_dialog_title">Kettingstart beperken</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Deze app verwijderen zal kettingstarten beperken. Gerelateerde gedupliceerde apps zullen ook verwijderd worden. %s verwijderen?</string>
-  <string name="app_manager_stop_wakepath_success">Beperkt</string>
-  <string name="app_manager_stop_wp_dialog_cancel">Annuleren</string>
-  <string name="app_manager_stop_wp_dialog_uninstall">Verwijderen</string>
   <string name="app_manager_support_uninstall">Je kan deze apps verwijderen</string>
   <string name="app_manager_system_mobile_disable">Data uitschakelen</string>
   <string name="app_manager_title">Apps beheren</string>
@@ -244,10 +230,6 @@
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Dubbele app verwijderen zal alle appgegevens wissen.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Dubbele app verwijderen?</string>
   <string name="app_manager_unstall_application">Verwijderen</string>
-  <string name="app_manager_wake_path_card_title">Geschiedenis van kettingstarten (2 dagen)</string>
-  <string name="app_manager_wakepath_dialog_buttontext">Begrepen</string>
-  <string name="app_manager_wakepath_dialog_summary">Kettingstarten gebeurt wanneer een app een andere app opstart in de achtergrond. Het kan de batterij leegtrekken en de systeemprestaties verslechteren. MIUI zal normaal gesproken kettingstarten blokkeren.</string>
-  <string name="app_manager_wakepath_dialog_title">Over kettingstarten</string>
   <string name="app_managere_not_have_app">Leeg</string>
   <string name="app_mobile">Mobiel</string>
   <string name="app_name">Appvergrendeling</string>
@@ -620,7 +602,13 @@ in het geval je hem vergeten bent"</string>
   <string name="dlg_import_whitelist">Toevoegen…</string>
   <string name="dlg_keyword_ok">Opslaan</string>
   <string name="dlg_message_not_open_stranger_identify">Om deze functie in te schakelen, ga naar instellingen &gt; telefoon.</string>
-  <string name="dlg_no_block">Dit nummer deblokkeren en oproepen herstellen naar oproepgeschiedenis?</string>
+<<<<<<< HEAD
+  <string name="dlg_no_block">"Dit nummer deblokkeren en oproepen van dit nummer herstellen naar oproepgeschiedenis?
+  (Het nummer wordt toegevoegd aan de witte lijst voor oproepen)"</string>
+=======
+  <string name="dlg_no_block">"Unblock this number and restore calls from this number to call history?
+(The number will be added to call whitelist)"</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="dlg_no_block_ok">Deblokkeren</string>
   <string name="dlg_remove_address_blacklist">Deze locatie verwijderen uit zwarte lijst?</string>
   <string name="dlg_remove_address_whitelist">Deze locatie verwijderen uit uitzonderingen?</string>
@@ -1646,6 +1634,11 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_filter_keywords_setting_summary1">Berichten van onbekende nummers die de woorden in deze lijst bevatten worden geblokkeerd.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Gebruik een komma om meerdere trefwoorden van elkaar te scheiden)"</string>
+<<<<<<< HEAD
+  <string name="st_filter_keywords_setting_summary3">Berichten van onbekende nummers die woorden uit deze lijst bevatten worden toegestaan.</string>
+=======
+  <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="st_group_list_management">Zwarte lijst beheren</string>
   <string name="st_hint_add_head_number">Voorvoegsel invoeren</string>
   <string name="st_hint_add_phonenumber">Telefoonnummer invoeren</string>
@@ -1654,7 +1647,15 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_message_phone_AntiSpam">Oproepen blokkeren</string>
   <string name="st_message_phonepass">Oproepen toestaan</string>
   <string name="st_msg_intercept_contacts">Berichten van contacten blokkeren</string>
-  <string name="st_msg_keyword_group">Trefwoord zwarte lijst</string>
+<<<<<<< HEAD
+  <string name="st_msg_keyword_black">Trefwoord zwarte lijst</string>
+  <string name="st_msg_keyword_group">Trefwoorden</string>
+  <string name="st_msg_keyword_white">Trefwoord uitzonderingen</string>
+=======
+  <string name="st_msg_keyword_black">Keyword Blocklist</string>
+  <string name="st_msg_keyword_group">Keywords</string>
+  <string name="st_msg_keyword_white">Keyword Exceptions</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="st_msg_other_group">Andere</string>
   <string name="st_msg_settings">SMS zwarte lijst</string>
   <string name="st_msg_stranger_group">SMS van vreemden blokkeren</string>
@@ -1686,7 +1687,13 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_title_call_wait_setting">Oproep in de wacht</string>
   <string name="st_title_editblacklist">Zwarte lijst bewerken</string>
   <string name="st_title_editwhitelist">Uitzonderingen bewerken</string>
-  <string name="st_title_keywords_blacklist">Trefwoordfilter</string>
+<<<<<<< HEAD
+  <string name="st_title_keywords_blacklist">Trefwoord zwarte lijst</string>
+  <string name="st_title_keywords_whitelist">Trefwoord witte lijst</string>
+=======
+  <string name="st_title_keywords_blacklist">Keyword blacklist</string>
+  <string name="st_title_keywords_whitelist">Keyword whitelist</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="st_title_man_addblacklist">Nummer toevoegen aan zwarte lijst</string>
   <string name="st_title_man_addwhitelist">Nummer toevoegen aan uitzonderingen</string>
   <string name="st_title_man_editblacklist">Kies een gebiedscode om toe te voegen aan zwarte lijst</string>
@@ -2024,8 +2031,6 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="virus_auto_update_engine">Automatische updates: %s</string>
   <string name="virus_update_tips_title">Waarschuwing</string>
   <string name="virus_wait_network_dialog_message">Je telefoon is niet verbonden met Wi-Fi. Mobiel internet gebruiken?</string>
-  <string name="vpn_disabled_by_user">Dataverbinding is uitgeschakeld</string>
-  <string name="vpn_unbale_get_phonenum">Kan geen telefoonnummers verkrijgen met aangewezen databundels</string>
   <string name="wakepath_confirm_start_activity">%1$s toestaan om %2$s te openen?</string>
   <string name="whitelist_prefix_add_hint">Alle nummers met voorvoegsel toevoegen aan uitzonderingen</string>
   <string name="wifi_exception_summary">Beschikbare Wi-Fi netwerken testen</string>

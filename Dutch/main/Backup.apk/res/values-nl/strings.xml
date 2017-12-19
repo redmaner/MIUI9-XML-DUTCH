@@ -174,6 +174,7 @@ moet je eerst een iCloud back-up maken."</string>
   <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
   <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor back-up van contacten op andere apparaten.</string>
   <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kan je alleen contacten en foto\'s overzetten van iOS apparaten. Zorg ervoor dat je eerst een iCloud back-up maakt voordat je begint met de overdracht.</string>
+  <string name="list_footer_tip_title">Tips:</string>
   <string name="loading_data">Gegevens laden</string>
   <string name="local_app_name">Back-up</string>
   <string name="local_backup_window_title">Lokale back-up gegevens</string>
@@ -349,10 +350,46 @@ Maak tenminste %s vrij."</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
   <string name="trans_connecting_toast">Verbinden…</string>
   <string name="trans_connection_failed">Verbinding is verbroken</string>
+  <string name="trans_detail_app_apk_list_title">Geinstalleerde apps</string>
+  <string name="trans_detail_app_apk_page_title">Selecteer apps</string>
+  <string name="trans_detail_app_data_list_title">Appgegevens</string>
+  <string name="trans_detail_app_data_page_title">Selecteer appgegevens</string>
+  <string name="trans_detail_app_data_useless_tip">Je kan deze van de app herstellen, het is niet nodig om ze over te zetten.</string>
+  <string name="trans_detail_audio_video_doc_list_title">Audio, video en bestanden</string>
+  <string name="trans_detail_audio_video_doc_page_title">Selecteer audio, video en bestanden</string>
   <string name="trans_detail_category_account">Accounts en contacten</string>
+  <string name="trans_detail_category_audio_video_doc">Audio, video en bestanden</string>
   <string name="trans_detail_category_files">Bestanden</string>
-  <string name="trans_detail_category_sysdata">Systeemdata</string>
+  <string name="trans_detail_category_sysdata">Systeemdata (inclusief berichten, contacten en oproepgeschiedenis)</string>
+  <string name="trans_detail_category_user_app_data">Appgegevens</string></string>
   <string name="trans_detail_category_userdata">Apps</string>
+  <string name="trans_detail_category_wechat_qq">WeChat en QQ data (inclusief chatgeschiedenis)</string>
+  <string name="trans_detail_item_app_data_selected_tip">Bijbehorende apps zijn ook geselecteerd.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Het lijkt erop dat het bestand te groot is om over te zetten.</string>
+  <string name="trans_detail_list_footer">Opmerking: Je kan ervoor kiezen om apps afzonderlijk over te zetten. Maar als je appgegevens selecteert zullen de bijbehorende apps ook worden overgezet.</string>
+  <string name="trans_detail_page_tip">Hoe meer items je selecteert hoe langer het overzetten duurt.</string>
+  <string name="trans_detail_qq_data">QQ data (inclusief chatgeschiedenis)</string>
+  <string name="trans_detail_sys_data_list_title">Systeemapps</string>
+  <string name="trans_detail_sys_data_page_title">Selecteer systeemapps</string>
+  <string name="trans_detail_wechat_data">WeChat data (inclusief chatgeschiedenis)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat en QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">Selecteer WeChat, QQ en appgegevens</string>
+=======
+  <string name="trans_detail_category_sysdata">System data (including messages, contacts, and call history)</string>
+  <string name="trans_detail_category_user_app_data">App data</string>
+  <string name="trans_detail_category_userdata">Apps</string>
+  <string name="trans_detail_category_wechat_qq">WeChat and QQ data (including chat history)</string>
+  <string name="trans_detail_item_app_data_selected_tip">Selected corresponding apps as well.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Looks like the item is too big to transfer.</string>
+  <string name="trans_detail_list_footer">Note: You can choose to transfer apps separately. However, if you select app data, corresponding apps will be transfered as well.</string>
+  <string name="trans_detail_page_tip">The more items you select the longer the transfer will last.</string>
+  <string name="trans_detail_qq_data">QQ data (including chat history)</string>
+  <string name="trans_detail_sys_data_list_title">System apps</string>
+  <string name="trans_detail_sys_data_page_title">Select system apps</string>
+  <string name="trans_detail_wechat_data">WeChat data (including chat history)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat and QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">Select WeChat, QQ, and app data</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="trans_device_auto_reconnecting">Verbinding met apparaat verboken. Automatisch verbinding herstellen…</string>
   <string name="trans_device_disconnected">Verbinding is verbroken</string>
   <string name="trans_device_wait_for_reconnecting">Verbinding is verbroken. Verbind opnieuw om verder te gaan.</string>
@@ -407,6 +444,11 @@ Transfereren app op uw oude apparaat
 Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
   <string name="trans_operate_reconnect_old_tips">"Wacht tot de oude telefoon \"verbinding verbroken\" weergeeft.
 Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
+<<<<<<< HEAD
+  <string name="trans_pausing">Pauzeren…</string>
+=======
+  <string name="trans_pausing">Pausing…</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="trans_please_waiting">Een momentje…</string>
   <string name="trans_progress_subdescript_br_receiver">%1$s aan het herstellen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_br_sender">%1$s aan het back-uppen, %2$s voltooid</string>

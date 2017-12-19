@@ -434,7 +434,6 @@ verzorgd door Ultimate Inc.</string>
   <string name="ktv_playlist">KTV afspeellijst</string>
   <string name="latest_song">Afspeelgeschiedenis (%d)</string>
   <string name="like">Leuk</string>
-  <string name="list_detail_title">Details</string>
   <string name="list_item_play_FM_radio">Raak aan om de FM radio af te spelen</string>
   <string name="list_item_play_all_tracks">Alles afspelen</string>
   <string name="load_shuffle">Laden…</string>
@@ -827,10 +826,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="tab_album_list">Album</string>
   <string name="tab_artist">Artiesten</string>
   <string name="tab_artist_list">Artiesten</string>
-  <string name="tab_chinese">Chinese</string>
-  <string name="tab_europa_america">Westerse</string>
   <string name="tab_folder">Mappen</string>
-  <string name="tab_japanese_korean">J-Pop/K-Pop</string>
   <string name="tab_local_folder_list">Map</string>
   <string name="tab_local_track_list">Nummers</string>
   <string name="tab_track">Nummers</string>

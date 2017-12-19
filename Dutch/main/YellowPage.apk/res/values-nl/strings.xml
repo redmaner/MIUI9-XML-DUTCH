@@ -55,15 +55,25 @@
   <string name="do_not_remind_me">Niet meer weergeven</string>
   <string name="dont_enable">Uitschakelen</string>
   <string name="download_completed">Download opgeslagen naar %s</string>
-  <string name="download_failed">Download mislukt</string>
+<<<<<<< HEAD
+  <string name="download_failed">Kon niet downloaden</string>
+=======
+  <string name="download_failed">"Couldn't download"</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="download_failed_blocked">Download mislukt, kan niet verbinden met netwerk</string>
   <string name="download_failed_cannot_resume">Download mislukt, probeer het later opnieuw</string>
   <string name="download_failed_file_exists">Bestand bestaat al</string>
   <string name="download_failed_gone">Bestand bestaat niet</string>
   <string name="download_failed_network">Kan geen verbinding maken met netwerk.</string>
-  <string name="download_failed_server">Download mislukt, probeer het later opnieuw</string>
+<<<<<<< HEAD
+  <string name="download_failed_server">Kon niet downloaden</string>
   <string name="download_failed_space">Download mislukt, niet voldoende ruimte</string>
-  <string name="download_failed_storage">Download mislukt, controleer uw SD-kaart.</string>
+  <string name="download_failed_storage">Kon niet downloaden, controleer uw SD-kaart.</string>
+=======
+  <string name="download_failed_server">"Couldn't download"</string>
+  <string name="download_failed_space">Download mislukt, niet voldoende ruimte</string>
+  <string name="download_failed_storage">"Couldn't download. Check your SD card."</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="downloading">Downloaden…</string>
   <string name="enable_now">Inschakelen</string>
   <string name="follow_label">Volg %1$s</string>
@@ -241,7 +251,11 @@ Totaalbedrag: RMB %3$s"</string>
   <string name="remind_user_suspect_number_title">Kijk uit voor verdachte oproepen</string>
   <string name="scan">Scannen</string>
   <string name="select_package_before_buy">Selecteer pakket</string>
-  <string name="send_shortcut_already_exists">Startscherm bestaat al</string>
+<<<<<<< HEAD
+  <string name="send_shortcut_already_exists">Startschermsnelkoppeling bestaat al</string>
+=======
+  <string name="send_shortcut_already_exists">Home screen shortcut already exists</string>
+>>>>>>> e733e43b48e12475c68e1cf889bd9edb4a624982
   <string name="send_shortcut_failed">Kon niet verzenden</string>
   <string name="send_shortcut_success">Op startscherm geplaatst</string>
   <string name="sending_shortcut">Verzenden…</string>
