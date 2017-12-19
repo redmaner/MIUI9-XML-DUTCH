@@ -16,7 +16,7 @@
     <string-array name="express_status_all">
         <item>Onderweg</item>
         <item>Uitleveren</item>
-        <item>Bezorgd</item>
+        <item>Verzonden</item>
         <item>Onbekend</item>
         <item>Ontvangen</item>
         <item>Geweigerd</item>

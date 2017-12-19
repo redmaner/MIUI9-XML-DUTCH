@@ -174,7 +174,7 @@
   <string name="cloud_antispam_marked">Aangegeven</string>
   <string name="cloud_antispam_title">Beller ID</string>
   <string name="cloud_recommend_msg">Tik om contacten te sync. met Mi Cloud.</string>
-  <string name="cloud_state_disabled">Mi Cloud inschakelen</string>
+  <string name="cloud_state_disabled">Sync contacts with Mi Cloud</string>
   <string name="cloud_state_loading">Een momentje…</string>
   <string name="cloud_state_sync_finished">Sync. met Mi Cloud</string>
   <string name="cloud_state_syncing">Gesynchroniseerd met Mi Cloud</string>
@@ -1118,8 +1118,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="type_voicemail">Voicemail</string>
   <string name="unable_get_device_id">Kan geen IMEI verkrijgen</string>
   <string name="unfold_all">Alles weergeven</string>
-  <string name="unknow_phone_number_call_failed">Kan onbekend nummer niet bellen</string>
-  <string name="unknow_phone_number_mms_failed">Kan onbekend nummer geen bericht zenden</string>
+  <string name="unknow_phone_number_call_failed">Kan onbekende nummers niet bellen</string>
+  <string name="unknow_phone_number_mms_failed">Kan onbekende nummers geen bericht zenden</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_contact_name">Onbekend contact</string>
   <string name="unknown_details_add_to_contact">Bestaand</string>
