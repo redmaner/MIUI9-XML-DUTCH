@@ -85,7 +85,8 @@
   <string name="confirm_export_dialog_description">Alle gesprekken met dit nummer worden niet langer verborgen.</string>
   <string name="confirm_export_dialog_title">Verwijderen uit privé contacten</string>
   <string name="confirm_no_block_positive">Niet blokkeren en herstellen</string>
-  <string name="confirm_no_block_title">Nummer niet blokkeren en alle berichten herstellen?</string>
+  <string name="confirm_no_block_title">"Unblock this number and restore all messages sent from this number? 
+(The number will be added to message whitelist)"</string>
   <string name="confirm_rate_limit">Er wordt een groot aantal multimediaberichten verzonden.</string>
   <string name="confirm_restore_all_title">Alle berichten herstellen van dit nummer?</string>
   <string name="confirm_restore_checkbox">Geblokkeerde berichten herstellen</string>
