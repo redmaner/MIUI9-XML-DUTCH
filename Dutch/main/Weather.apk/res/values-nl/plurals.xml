@@ -28,9 +28,6 @@
         <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> personen hebben gestemd"</item>
         <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> persoon heeft gestemd"</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Helder</item>
-        <item quantity="one">Helder</item>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s personen</item>
         <item quantity="one"> | %1$s persoon</item>
