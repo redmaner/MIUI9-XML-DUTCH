@@ -17,8 +17,6 @@
         <item>Ernstig</item>
         <item>Zeer ernstig</item>
     </string-array>
-	<string-array name="breeze">
-        <item>&lt;Kracht 2</item>
     <string-array name="hot_city">
         <item>Peking</item>
         <item>Shanghai</item>
