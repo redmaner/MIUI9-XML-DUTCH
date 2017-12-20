@@ -372,6 +372,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="average_used">Gemiddeld gebruikt (%)</string>
   <string name="avoid_ui">UI vermijden</string>
   <string name="awake">Stand-bytijd apparaat</string>
+  <string name="back_button">Terug</string>
   <string name="back_key">Terug</string>
   <string name="background_check_pref">Achtergrondcontrole</string>
   <string name="background_check_title">Volledige achtergrondtoegang</string>
