@@ -458,7 +458,7 @@ Selecteer de bestanden opnieuw of maak %s ruimte vrij op nieuw apparaat"</string
   <string name="trans_select_data_tips">"Selecteer bestanden om te transfereren
 Gelijkaardige bestanden op het nieuwe apparaat zullen overschreven worden"</string>
   <string name="trans_select_data_too_large">"U hebt te veel items geselecteerd om te transfereren.
-Selecteer enkel de belangerijke items om de transfeer rapper te laten gaan."</string>
+Selecteer enkel de belangrijke items om de transfer sneller te laten gaan."</string>
   <string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
   <string name="trans_select_device_send">Selecteer een apparaat om data naar te transfereren.</string>
   <string name="trans_sender">Ik ben een verzender</string>
