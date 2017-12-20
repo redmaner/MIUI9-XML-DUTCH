@@ -361,7 +361,7 @@ Maak tenminste %s vrij."</string>
   <string name="trans_detail_category_audio_video_doc">Audio, video en bestanden</string>
   <string name="trans_detail_category_files">Bestanden</string>
   <string name="trans_detail_category_sysdata">Systeemdata (inclusief berichten, contacten en oproepgeschiedenis)</string>
-  <string name="trans_detail_category_user_app_data">Appgegevens</string></string>
+  <string name="trans_detail_category_user_app_data">Appgegevens</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_detail_category_wechat_qq">WeChat en QQ data (inclusief chatgeschiedenis)</string>
   <string name="trans_detail_item_app_data_selected_tip">Bijbehorende apps zijn ook geselecteerd.</string>
