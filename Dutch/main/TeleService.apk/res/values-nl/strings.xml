@@ -545,7 +545,9 @@
   <string name="dial_related_setting_catory">Kiezer</string>
   <string name="dialerKeyboardHintText">Toetsenbord gebruiken om te bellen</string>
   <string name="dialog_alert_title">Waarschuwing</string>
+  <string name="dialog_cancel">Annuleren</string>
   <string name="dialog_network_priority_title">Prioriteitsnetwerk</string>
+  <string name="dialog_report">Rapporteren</string>
   <string name="disable">Uitschakelen</string>
   <string name="disable_all_cf">Schakel alle doorschakelfuncties uit</string>
   <string name="disable_cfb_forbidden">Uw provider ondersteunt doorschakelen van gesprekken niet wanneer uw telefoon bezet is.</string>
@@ -836,6 +838,8 @@
   <string name="mock_location_app">Neplocatie app selecteren</string>
   <string name="mock_location_app_not_set">Geen neplocatie app ingesteld</string>
   <string name="mock_location_app_set">Neplocatie app: %1$s</string>
+  <string name="modem_dialog_body">Mobiele netwerk is onstabiel, wat voor onderbrekingen of netwerkproblemen zorgt. Wil je een bugrapport versturen naar Xiaomi ter analyse? Dit rapport kan persoonlijke informatie bevatten. Je rapport zal gebruikt worden op deze bug op te lossen en zal nooit worden gedeeld in een commerciele context.</string>
+  <string name="modem_dialog_title">Mobiele netwerk is onstabiel</string>
   <string name="msim_apn_not_set">Niet ingesteld</string>
   <string name="msim_default_setting">Standaard instellingen</string>
   <string name="msim_disable_sim_card_btn_text">Ok</string>
