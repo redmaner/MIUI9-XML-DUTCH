@@ -69,8 +69,8 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">%d app gevonden</item>
     </plurals>
 	<plurals name="network_restrict_count">
-        <item quantity="other">Netwerktoegang is beperkt voor &lt;font color='#ff0000'>%d:&lt;/font> apps</item>
-        <item quantity="one">Netwerktoegang is beperkt voor &lt;font color='#ff0000'>%d&lt;/font> app</item>
+        <item quantity="other">Netwerktoegang is beperkt voor %d apps</item>
+        <item quantity="one">Netwerktoegang is beperkt voor %d app</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d apps werken niet goed en vreten batterij"</item>
