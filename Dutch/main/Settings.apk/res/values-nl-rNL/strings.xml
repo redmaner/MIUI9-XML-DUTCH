@@ -899,6 +899,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="clear_uri_btn_text">Toegang wissen</string>
   <string name="clear_user_data_text">Gegevens wissen</string>
   <string name="close_app">Huidige app sluiten</string>
+  <string name="close_demo_mode">Annuleren</string>
   <string name="close_gesture">Sluiten door middel van gebaar</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
   <string name="close_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
@@ -2634,6 +2635,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="online_resource_entry">Online bronnen</string>
   <string name="only_one_home_message">Startpagina instellingen worden verborgen totdat u een andere startpagina app installeert.</string>
   <string name="onscreen_keyboard_settings_summary">Instellingen voor schermtoetsenbord</string>
+  <string name="open_demo_mode">Openen</string>
+  <string name="open_demo_mode_warning_message">Wanneer demomodus is ingeschakeld stopt de klok in de statusbalk en worden de batterij- en signaalicoontjes weergegeven als vol. Je kan demomodus uitschakelen of het apparaat opnieuw opstarten om het te beëindigen.</string>
   <string name="open_miui_optimization_title">MIUI optimalisatie inschakelen</string>
   <string name="open_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Annuleren</string>

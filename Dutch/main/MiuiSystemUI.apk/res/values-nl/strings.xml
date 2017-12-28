@@ -456,8 +456,6 @@
   <string name="oem_unlock_enable_summary">Toestaan dat de bootloader wordt ontgrendeld</string>
   <string name="oldman_airplane_mode_text">Vliegmodus</string>
   <string name="oldman_incall_text">Thuisontvangst</string>
-  <string name="oldman_status_bar_time_format_12">h:mm</string>
-  <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="overlay_display_devices_title">Secundaire schermen simuleren</string>
   <string name="picture_color_mode">Beeld kleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>

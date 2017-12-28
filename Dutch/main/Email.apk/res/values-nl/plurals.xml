@@ -131,4 +131,36 @@
         <item quantity="few">%1$d oudere berichten</item>
         <item quantity="many">%1$d oudere berichten</item>
     </plurals>
+	<plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ ongelezen</item>
+        <item quantity="one">%1$d+ ongelezen</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">%1$d bijlagen verwijderen</item>
+        <item quantity="one">%1$d bijlage verwijderen</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s resultaten in gesynchroniseerde berichten</item>
+        <item quantity="one">%s resultaat in gesynchroniseerde berichten</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d resterend</item>
+        <item quantity="one">%1$d resterend</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d nieuwe berichten</item>
+        <item quantity="one">%1$d nieuw bericht</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">%1$d personen beantwoorden</item>
+        <item quantity="one">%1$d persoon beantwoorden</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s resultaten op server</item>
+        <item quantity="one">%s resultaat op server</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s niet verzonden in %2$s</item>
+        <item quantity="one">%1$s niet verzonden in %2$s</item>
+    </plurals>
 </resources>
