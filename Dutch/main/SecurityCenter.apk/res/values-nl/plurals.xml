@@ -32,6 +32,14 @@
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
+	<plurals name="bg_network_allow_count">
+        <item quantity="other">%d apps kunnen niet met het netwerk verbinden op de achtergrond</item>
+        <item quantity="one">%d app kan niet met het netwerk verbinden op de achtergrond</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d apps kunnen niet met het netwerk verbinden op de achtergrond</item>
+        <item quantity="one">%d app kan niet met het netwerk verbinden op de achtergrond</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Je hebt al %s dagelijkse datalimieten gebruikt.</item>
         <item quantity="one">Je hebt al %s dagelijks datalimiet gebruikt.</item>
@@ -59,6 +67,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d apps gevonden</item>
         <item quantity="one">%d app gevonden</item>
+    </plurals>
+	<plurals name="network_restrict_count">
+        <item quantity="other">Netwerktoegang is beperkt voor &lt;font color='#ff0000'>%d:&lt;/font> apps</item>
+        <item quantity="one">Netwerktoegang is beperkt voor &lt;font color='#ff0000'>%d&lt;/font> app</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d apps werken niet goed en vreten batterij"</item>

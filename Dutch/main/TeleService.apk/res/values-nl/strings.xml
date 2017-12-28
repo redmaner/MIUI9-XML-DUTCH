@@ -253,8 +253,13 @@
   <string name="callFailed_data_limit_reached_description">Oproep is beeindigd omdat datalimiet is bereikt.</string>
   <string name="callFailed_destination_out_of_order">Bestemming buiten werking</string>
   <string name="callFailed_dialToDial">BEL verzoek aangepast om BELLEN met een ander nummer.</string>
+  <string name="callFailed_dialToDialVideo">BEL verzoek aangepast naar video BELLEN.</string>
   <string name="callFailed_dialToSs">BEL verzoek aangepast aan SS verzoek.</string>
   <string name="callFailed_dialToUssd">BEL verzoek aangepast aan USSD verzoek.</string>
+  <string name="callFailed_dialVideoToDial">Video BEL verzoek aangepast naar BELLEN.</string>
+  <string name="callFailed_dialVideoToDialVideo">Video BEL verzoek aangepast naar video BELLEN met ander nummer.</string>
+  <string name="callFailed_dialVideoToSs">Video BEL verzoek aangepast naar SS verzoek.</string>
+  <string name="callFailed_dialVideoToUssd">Video BEL verzoek aangepast naar USSD verzoek.</string>
   <string name="callFailed_dsac_restricted">Oproepen beperkt door toegangsbeheer.</string>
   <string name="callFailed_dsac_restricted_emergency">Noodoproepen beperkt door toegangsbeheer.</string>
   <string name="callFailed_dsac_restricted_normal">Normale oproepen beperkt door toegangsbeheer.</string>

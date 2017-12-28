@@ -2452,6 +2452,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">USB headsets worden niet ondersteund</string>
   <string name="musicfx_title">Muziekeffecten</string>
+  <string name="mute_music_stream">Muziekstream dempen</string>
   <string name="mvno_match_data">MVNO waarde</string>
   <string name="mvno_type">MVNO type</string>
   <string name="my_device">Mijn apparaat</string>
