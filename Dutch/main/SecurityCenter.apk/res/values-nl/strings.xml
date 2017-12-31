@@ -120,6 +120,7 @@
   <string name="antivirus_update_btn_update">Updaten</string>
   <string name="apn_exception_summary">Test toegangspunt naamconfiguraties van provider</string>
   <string name="apn_exception_title">Controleer APN configuraties</string>
+  <string name="app_bg_restrict_dialog_message">Netwerktoegang op de achtergrond beperken kan er voor zorgen dat de app zich abnormaal gedraagt. Het kan bijvoorbeeld niet langer meer berichten ontvangen of content updaten. Toch beperken?</string>
   <string name="app_check_no_issue">Er zijn geen batterijproblemen. Goed!</string>
   <string name="app_detail">Details</string>
   <string name="app_error_tip_for_launcher">De hardwarecomponenten van uw apparaat of de Android systeemversie kunnen problemen veroorzaken op het gebied van compatibiliteit en sommige apps zich misdragen, bevriezen of gedwongen gestopt worden. Als u dergelijke problemen ondervindt, deel uw feedback met de appontwikkelaars.</string>
@@ -195,6 +196,7 @@
   <string name="app_manager_notify_bar">Badges</string>
   <string name="app_manager_notify_floating">Zwevende meldingen</string>
   <string name="app_manager_notify_keyguard">Vergrendelscherm</string>
+  <string name="app_manager_open_show_all_apps_immediate">Alle resultaten weergeven</string>
   <string name="app_manager_perm">Toestemmingen</string>
   <string name="app_manager_permission_manager_title">Toestemmingen</string>
   <string name="app_manager_permission_notify_title">Meldingen</string>
@@ -217,6 +219,7 @@
 
  Er zullen geen appgegevens verloren gaan."</string>
   <string name="app_manager_reset_app_preferences_title">Appvoorkeuren herstellen?</string>
+  <string name="app_manager_search_prompt">Kon je geen resultaten vinden? Probeer resultaten van alle apps weer te geven.</string>
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_start_by">Gestart door %s</string>
@@ -272,6 +275,8 @@ in het geval je hem vergeten bent"</string>
   <string name="apps_list_header_title_sms_access">Toegang tot verificatiecodes beperken</string>
   <string name="auto_atsk_condition_battery_level_text_down">Wanneer de batterij %s bereikt</string>
   <string name="auto_atsk_condition_battery_level_text_up">Wanneer de batterij opgeladen wordt tot %s</string>
+  <string name="auto_back_booster">Versnellen stoppen</string>
+  <string name="auto_booster_suc">Succesvol versneld</string>
   <string name="auto_clean_close">Automatische opruimen is uitgeschakeld</string>
   <string name="auto_handle_title">ALGEMEEN</string>
   <string name="auto_import_games">Plaats al uw games op één plaats</string>
@@ -337,6 +342,10 @@ in het geval je hem vergeten bent"</string>
   <string name="back_app_name">Terug naar appvergrendeling</string>
   <string name="back_description_securitycenter">Terug</string>
   <string name="back_modifypassword">Terug naar wachtwoord wijzigen</string>
+  <string name="back_sound_data">Mobiel netwerk vereist, probeer opnieuw!</string>
+  <string name="back_sound_fail">Mislukt</string>
+  <string name="back_sound_success">Gelukt</string>
+  <string name="back_sound_support">De huidige netwerkoperator ondersteunt dit niet</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="backsound_set_hint">Uw bericht intellen op %s?</string>
   <string name="battery_capacity_title">Batterijcapaciteit</string>
@@ -372,6 +381,7 @@ in het geval je hem vergeten bent"</string>
   <string name="battery_temperature_title">Temperatuur</string>
   <string name="begin_date">Resetdatum</string>
   <string name="best_booster_status">Gamesnelheid is de best beschikbare.</string>
+  <string name="bg_network_exception_title">Verbinding op de achtergrond beperkt</string>
   <string name="bind_xiaomi_account_cancel">Annuleren</string>
   <string name="bind_xiaomi_account_confirm">Toevoegen</string>
   <string name="bind_xiaomi_account_dialog_summery">"U staat op het punt om Mi Account %s toe te voegen. Als u uw wachtwoord vergeet, kan u dit account gebruiken om het te resetten. Het account zal automatisch verwijderd worden wanneer u afmeld."</string>
@@ -531,7 +541,7 @@ in het geval je hem vergeten bent"</string>
   <string name="current_network_state_not_need_diagnose">Normale internetverbinding</string>
   <string name="customize_limit_pkg">%s (aangepast)</string>
   <string name="customizer_mode_user_define_name">Mijn regels</string>
-  <string name="daily_limit_and_lock_screen">Datalimiet &amp; meldingen</string>
+  <string name="daily_limit_and_lock_screen">Waarschuwing dataverbruik</string>
   <string name="daily_limit_network_available_body">Tik om gebruiksgegevensstatistieken te bekijken.</string>
   <string name="daily_limit_over_message">Je hebt de dagelijkse datalimiet overschreden.</string>
   <string name="daily_pkg_traffic">Piek datalimiet</string>
@@ -583,6 +593,7 @@ in het geval je hem vergeten bent"</string>
   <string name="dlg_add_blacklist">Dit nummer blokkeren?</string>
   <string name="dlg_add_blacklist_title">Toevoegen aan zwarte lijst</string>
   <string name="dlg_add_keyword">Trefwoorden toevoegen</string>
+  <string name="dlg_add_white">Nieuwe oproepen en berichten van de nummers toegevoegd aan uitzonderingen worden weergegeven in de oproepgeschiedenis en de berichtenapp. Maar in het verleden geblokkeerde items worden niet weergegeven. Geselecteerde nummers toevoegen aan uitzonderingen?</string>
   <string name="dlg_antispam_mode_delete_message">Je kan regels niet herstellen nadat ze zijn gewist</string>
   <string name="dlg_antispam_mode_delete_title">Regels wissen?</string>
   <string name="dlg_antispam_using_mode_delete_message">Verwijder de regels die u momenteel gebruikt en schakel terug naar de standaardregels van zwarte lijst?</string>
@@ -602,9 +613,12 @@ in het geval je hem vergeten bent"</string>
   <string name="dlg_import_whitelist">Toevoegen…</string>
   <string name="dlg_keyword_ok">Opslaan</string>
   <string name="dlg_message_not_open_stranger_identify">Om deze functie in te schakelen, ga naar instellingen &gt; telefoon.</string>
-  <string name="dlg_no_block">"Dit nummer deblokkeren en oproepen van dit nummer herstellen naar oproepgeschiedenis?
-  (Het nummer wordt toegevoegd aan de witte lijst voor oproepen)"</string>
+  <string name="dlg_move_to_white">Toevoegen aan uitzonderingen</string>
+  <string name="dlg_no_block">"Dit telefoonnummer deblokkeren?
+Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items worden niet weergegeven in de oproepgeschiedenis."</string>
   <string name="dlg_no_block_ok">Deblokkeren</string>
+  <string name="dlg_not_block_call">Geselecteerde nummers deblokkeren? Ze worden toegevoegd aan uitzonderen maar in het verleden geblokkeerde items worden niet weergegeven in de oproepgeschiedenis.</string>
+  <string name="dlg_not_block_sms">Geselecteerde nummers deblokkeren? Ze worden toegevoegd aan uitzonderen maar in het verleden geblokkeerde items worden niet weergegeven in de berichtenapp.</string>
   <string name="dlg_remove_address_blacklist">Deze locatie verwijderen uit zwarte lijst?</string>
   <string name="dlg_remove_address_whitelist">Deze locatie verwijderen uit uitzonderingen?</string>
   <string name="dlg_remove_blacklist">Deze nummers verwijderen uit zwarte lijst?</string>
@@ -725,7 +739,11 @@ in het geval je hem vergeten bent"</string>
   <string name="gateway_exception_summary">Controleer je router en probeer opnieuw.</string>
   <string name="gateway_exception_summary2">Kan niet verbinden met server</string>
   <string name="gateway_exception_title">Router testen</string>
+  <string name="gb_description_image_button_answer">Opnemen</string>
+  <string name="gb_description_image_button_reject">Weigeren</string>
+  <string name="gb_description_image_button_video_answer">Video-oproep</string>
   <string name="get_sys_info">Info verkrijgen…</string>
+  <string name="gmscore_support_remind">Schakel deze functie in als je problemen ervaart met Gmail, Google Maps en andere Google apps. Het zal de accuduur iets verminderen.</string>
   <string name="go_to">Doorgaan</string>
   <string name="go_to_setting_fingerprint">Instellingen</string>
   <string name="google_base_app_install_choice">\"%s\" vereist Google Services Framework om normaal te werken. Downloaden en installeren?</string>
@@ -733,6 +751,9 @@ in het geval je hem vergeten bent"</string>
   <string name="gs_app_back_self_start">Batterijbesparder</string>
   <string name="gs_auto_clean_memory">Cache wissen</string>
   <string name="gs_auto_clean_memory_detail">Cache automatisch wissen om gaming te optimaliseren</string>
+  <string name="gs_autobooster">Automatisch versnellen</string>
+  <string name="gs_autobooster_detail">Snelheid automatisch opvoeren voor geselecteerde games</string>
+  <string name="gs_autobooster_dialog_message">Als je Xunyou snelheidsopvoering gebruikt, open games dan op de daarvoor bestemde pagina.</string>
   <string name="gs_call_handsfree">Oproepen handsfree beantwoorden</string>
   <string name="gs_call_handsfree_mute">Stille modus</string>
   <string name="gs_dialog_confirm_close_msg">De snelkoppeling wordt verwijderd uit uw startscherm. Ga naar Beveiliging &gt; Instellingen om het te herstellen.</string>
@@ -747,7 +768,7 @@ in het geval je hem vergeten bent"</string>
   <string name="gs_only_self_start_for_list">Beperk achtergrondprocessen om batterij te sparen voor gaming</string>
   <string name="gs_open_game_booster">Snelheid opvoeren</string>
   <string name="gs_performance_mode">Prestatiemodus</string>
-  <string name="gs_performance_mode_detail">Verhoging van CPU gebruik om naadloze prestaties te garanderen</string>
+  <string name="gs_performance_mode_detail">Verhoging van CPU frequentie om naadloze prestaties te garanderen</string>
   <string name="guide_get_operator_error">Verkeerde provider?</string>
   <string name="guide_operator_text">"Je huidige provider: "</string>
   <string name="guide_quck_open">Inschakelen</string>
@@ -1235,8 +1256,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="permission_action_reject">Weigeren</string>
   <string name="permission_close_permission_control_dialog_msg">Wanneer toestemmingsbeheer is uitgeschakeld, zullen apps niet uw toestemming vragen voor het lezen van uw contacten, het bekijken van uw bellijst, systeeminstellingen wijzigen, of de toegang tot de camera en andere hulpmiddelen krijgen.</string>
   <string name="permission_close_permission_control_dialog_title">Toestemmingsbeheer uitschakelen?</string>
-  <string name="permission_exception_summary">Sommige apps hebben geen toestemmig om te verbinden met internet</string>
-  <string name="permission_exception_title">Bekijk netwerktoestemmingen</string>
+  <string name="permission_exception_title">Beperkte verbinding voor apps</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">Apps zullen uw toestemming niet vragen voor het lezen van contacten, bekijken van bellijst, systeeminstellingen wijzigen, of de toegang tot de camera en andere hulpmiddelen. U kunt deze functie inschakelen in Toestemmings instellingen.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Toestemmingsbeheer</string>
   <string name="permission_with_SMS_and_MMS">Toestemmingen in verband met SMS en MMS</string>
@@ -1326,6 +1346,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_auto_adjust_traffic">Automatisch dataverbruikstatistieken aanpassen</string>
   <string name="pref_automatic_adjust">Sync dataverbruik van provider</string>
   <string name="pref_avaible_traffic">Databundel</string>
+  <string name="pref_bg_network_title">Verbinding op de achtergrond</string>
   <string name="pref_category_daily_package_tile">Dagelijkse databundel</string>
   <string name="pref_category_extra_package_tile">Pakket aanvullen</string>
   <string name="pref_category_half_year_package_tile">Halfjaar datapakket</string>
@@ -1357,11 +1378,11 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_mi_sim_settings">Mi SIM instellingen</string>
   <string name="pref_more_settings">Extra instellingen</string>
   <string name="pref_new_installed_preconfig_title">Standaard instellingen voor nieuwe apps</string>
-  <string name="pref_normal_traffic_limit">Wanneer dagelijkse databundel is overschreden</string>
+  <string name="pref_normal_traffic_limit">Wanneer databundel is overschreden</string>
   <string name="pref_open_adjust_traffic">Werk uw dagelijkse dataverbruik bij met statistieken van uw provider</string>
   <string name="pref_operator_not_set">Provider is niet ingesteld</string>
   <string name="pref_over_traffic_limit">Wanneer u uw datalimiet overschrijdt</string>
-  <string name="pref_package_traffic_settings">Mobiel datalimiet</string>
+  <string name="pref_package_traffic_settings">Databundel</string>
   <string name="pref_pkg_begin_date">Resetdatum verbruik</string>
   <string name="pref_roaming_daily_limit_setting">Dagelijks dataroaminglimiet</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dagelijks datalimiet</string>

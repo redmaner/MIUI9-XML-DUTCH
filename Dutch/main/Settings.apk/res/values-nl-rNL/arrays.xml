@@ -1155,12 +1155,14 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
  	<string-array name="alarm_repeat_type">
         <item>Dagelijks</item>
-        <item>Weekdagen</item>
+        <item>Weeknachten</item>
+		<item>Weekend</item>
         <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Dagelijks</item>
-        <item>Weekdagen</item>
+        <item>Weeknachten</item>
+		<item>Weekend</item>
         <item>Aangepast</item>
     </string-array>
 	<string-array name="standard_configuration_version_description_primary">

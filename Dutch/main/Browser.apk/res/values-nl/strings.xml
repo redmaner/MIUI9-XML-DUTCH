@@ -389,7 +389,7 @@ Deze pagina verlaten?"</string>
   <string name="loading_tips">Naar beneden trekken om te vernieuwen</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Kon niet inloggen, vernieuw en probeer opnieuw</string>
-   <string name="low_memory_error">Kon vorige handeling niet afronden vanwege te weinig geheugen.</string>
+  <string name="low_memory_error">Kon vorige handeling niet afronden vanwege te weinig geheugen.</string>
   <string name="low_memory_toast">Kan browser niet gebruiken vanwege te weinig geheugen</string>
   <string name="max_tabs_warning">Geen tabbladen meer beschikbaar</string>
   <string name="maximum_input_alert">Maximaal 2048 tekens invoeren</string>
@@ -565,6 +565,8 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="ok">OK</string>
   <string name="older">Ouder</string>
   <string name="open_app_confirm_message">Deze pagina toestaan om %s te openen?</string>
+  <string name="open_cloud_sync">Cloudsynchronisatie openen</string>
+  <string name="open_cloud_sync_desc">Bladwijzer toegevoegd. Schakel cloudsynchronisatie in om bladwijzers toegevoegd op andere apparaten te synchroniseren met dit apparaat. Wilt u inloggen en het nu openen?</string>
   <string name="open_file_explorer_failed">Kan File Explorer niet openen.</string>
   <string name="open_voice_permission">Spraak netwerktoestemming openen</string>
   <string name="opening_file_error">Kon geselecteerde bestand niet openen</string>
@@ -813,6 +815,7 @@ We gebruiken de gegevens die we verzamelen voor:
 2. Inhoud: Je gegevens helpen ons om relevante gelokaliseerde nieuwsinhoud te tonen.
 Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoord gaan met de %2$s en %1$s om de broswer te kunnen gebruiken.​"</string>
   <string name="show_security_tip_dialog_title">Privacybeleid</string>
+  <string name="sign_and_open">Inloggen en openen</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
@@ -859,11 +862,14 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="switchText">JA</string>
   <string name="switch_proxy_dialog_msg">Netwerkkaping gedetecteerd. Gebruik MIUI\'s ingebouwde beveiliging app of meld dit bij uw mobiele provider.</string>
   <string name="switch_proxy_dialog_title">Netwerkkaping</string>
+  <string name="sync_and_backup_bookmark">Synchroniseer en back-up bladwijzers</string>
+  <string name="sync_and_backup_history">Synchroniseer en back-up geschiedenis</string>
   <string name="sync_cloud_tabs">Synchroniseren</string>
   <string name="tab_hotpage">Nieuwsoverzicht</string>
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
+  <string name="temp_refuse">Weigeren</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_pm">PM</string>
   <string name="time_picker_dialog_title">Tijd instellen</string>
