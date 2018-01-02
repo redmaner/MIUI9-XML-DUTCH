@@ -161,9 +161,9 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_bluetooth_scanning_bluetooth_error">Er is een fout opgetreden tijdens het zoeken naar Bluetooth apparaten.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth apparaat openen…</string>
   <string name="cit_build_finger_failed">opbouwen van vingerafdruk MISLUKT</string>
-  <string name="cit_build_finger_passed">opbouwen van vingerafdruk GELIKT</string>
-  <string name="cit_button_light_off">Licht van knoppen uit</string>
-  <string name="cit_button_light_on">Licht van knoppen aan</string>
+  <string name="cit_build_finger_passed">opbouwen van vingerafdruk GELUKT</string>
+  <string name="cit_button_light_off">Knopverlichting uit</string>
+  <string name="cit_button_light_on">Knopverlichting aan</string>
   <string name="cit_calibration_fail">Kalibratie mislukt</string>
   <string name="cit_calibration_pass">Kalibratie gelukt</string>
   <string name="cit_camera_calibration_summary">"Testinstructies:

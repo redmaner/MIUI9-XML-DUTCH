@@ -33,7 +33,7 @@ Gegevens zullen niet worden gewist."</string>
   <string name="menu_title_recovery">Herstarten in recoverymodus</string>
   <string name="message_checkbox">Berichten van het Xiaomi.eu team niet meer weergeven</string>
   <string name="message_title">LET OP!</string>
-  <string name="new_version">Nieuwe versie gevonden!</string>
+  <string name="new_version">Nieuwe update gevonden!</string>
   <string name="no_info">Geen informatie beschikbaar.</string>
   <string name="no_network">Geen netwerktoegang.</string>
   <string name="no_update">Je hebt alle updates al geinstalleerd!</string>
@@ -42,7 +42,7 @@ Updates zijn niet beschikbaar voor jou!"</string>
   <string name="notif_cancel">Annuleren</string>
   <string name="notif_install">Installeren</string>
   <string name="notif_new_summary">Tik om details te bekijken</string>
-  <string name="notif_new_title">Nieuwe versie beschikbaar!</string>
+  <string name="notif_new_title">Nieuwe update beschikbaar!</string>
   <string name="notifications_switch">Meldingen weergeven</string>
   <string name="permdesc_cache_filesystem">Staat app toe om bestanden te schrijven naar /cache.</string>
   <string name="permdesc_reboot">Staat app toe om het apparaat opnieuw op te starten.</string>

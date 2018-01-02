@@ -5,7 +5,7 @@
   <string name="activate_auto_sms_notification_desc_1_card">SMS verzonden om \"Apparaat vinden\" te activeren</string>
   <string name="activate_auto_sms_notification_desc_2_cards">SMS verzonden van SIM kaart %s \"Apparaat vinden\" te activeren</string>
   <string name="activate_auto_sms_notification_title">SIM kaart activatie</string>
-  <string name="activate_feature_call_log_sync">Sync. belgeschiedenis</string>
+  <string name="activate_feature_call_log_sync">Oproepgeschiedenis synchroniseren</string>
   <string name="activate_feature_default_name">Mi services</string>
   <string name="activate_feature_find_device">Vind apparaat</string>
   <string name="activate_feature_live_talk">Herlaadpakket</string>
@@ -49,11 +49,11 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="activate_popup_desc_failed_send_sms">Kan activeringsbericht niet verzenden. Zorg ervoor dat de SIM kaart geactiveerd is.</string>
   <string name="activate_popup_desc_failed_server">Controleer netwerkverbinding en probeer het opnieuw.</string>
   <string name="activate_popup_desc_find_device_postfix">Er zal een activatie SMS verzonden worden nadat u van SIM kaart verwisseld.</string>
-  <string name="activate_popup_desc_intl_sim_card">Er zal een internationale SMS verzonden worden om %s te activeren. Deze zal worden aangerekend door uw provider.</string>
+  <string name="activate_popup_desc_intl_sim_card">Er zal een SMS verzonden worden om %s te activeren. Deze zal worden aangerekend door uw provider.</string>
   <string name="activate_popup_desc_mixed_sim_cards">Er zullen 2 tekst berichten (nationale en internationale) verzonden worden om %s te activeren. Deze zullen worden aangerekend door uw provider.</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Het lijkt er op dat u van SIM kaart hebt gewisseld. Er zullen 2 internationale tekst berichten verzonden worden om %s te activeren. Deze zullen worden aangerekend door uw provider.</string>
   <string name="activate_popup_desc_new_2_sim_cards">Het lijkt er op dat u van SIM kaart hebt gewisseld. Er zullen 2 nationale tekst berichten verzonden worden om %s te activeren. Deze zullen worden aangerekend door uw provider.</string>
-  <string name="activate_popup_desc_new_intl_sim_card">Het lijkt er op dat u van SIM kaart hebt gewisseld. Er zal een internationale SMS verzonden worden om %s te activeren. Deze zal worden aangerekend door uw provider.</string>
+  <string name="activate_popup_desc_new_intl_sim_card">Het lijkt er op dat u van SIM kaart hebt gewisseld. Er zal een SMS verzonden worden om %s te activeren. Deze zal worden aangerekend door uw provider.</string>
   <string name="activate_popup_desc_new_mixed_sim_cards">Het lijkt er op dat u van SIM kaart hebt gewisseld. Er zullen 2 tekst berichten (nationale en internationale) verzonden worden om %s te activeren. Deze zullen worden aangerekend door uw provider.</string>
   <string name="activate_popup_desc_new_sim_card">Het lijkt er op dat u van SIM kaart hebt gewisseld. Er zal een nationale SMS verzonden worden om %s te activeren. Deze zal worden aangerekend door uw provider.</string>
   <string name="activate_popup_desc_new_sim_card_downlink">Het lijkt er op dat u van SIM kaart hebt gewisseld. Voer uw huidige telefoonnr. in om %s te activeren.</string>

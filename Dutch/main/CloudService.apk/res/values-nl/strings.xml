@@ -312,7 +312,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_suggest_sync">Sommige items zijn niet gesynchroniseerd met Mi Cloud</string>
   <string name="micloud_main_sync_exception">Synchronisatiefout</string>
   <string name="micloud_main_sync_init">Info verkrijgen</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Laad te telefoon op en schakel het scherm uit</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Laad de telefoon op en schakel het scherm uit</string>
   <string name="micloud_main_sync_now">Nu synchroniseren</string>
   <string name="micloud_main_sync_on">Synchronisatie inschakelen</string>
   <string name="micloud_main_sync_on_wifi">Wachten op Wi-Fi</string>
@@ -322,10 +322,10 @@ of apparaat te wissen."</string>
   <string name="micloud_main_sync_stop">Synchronisatie gestopt</string>
   <string name="micloud_main_synced_data_count">%d items gesynchroniseerd</string>
   <string name="micloud_main_syncing">Synchroniseren…</string>
-  <string name="micloud_main_title_master_sync_off">Auto-sync. is uitgeschakeld</string>
+  <string name="micloud_main_title_master_sync_off">Automatische synchronisatie is uitgeschakeld</string>
   <string name="micloud_main_title_not_synced">Niet gesynchroniseerd</string>
   <string name="micloud_main_title_sync_fail">Kan niet synchroniseren</string>
-  <string name="micloud_main_title_sync_off">Synchronisatie uit</string>
+  <string name="micloud_main_title_sync_off">Synchronisatie is uitgeschakeld</string>
   <string name="micloud_main_title_sync_on_wifi">Wachten op Wi-Fi</string>
   <string name="micloud_main_update_space">Opslagruimte vergroten</string>
   <string name="micloud_main_wait_charge">Laad uw telefoon op om verder te gaan met synchronisatie</string>
@@ -333,7 +333,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_wait_wlan">Wachten op Wi-Fi</string>
   <string name="micloud_main_wait_wlan_charge">Verbind met Wi-Fi en laad uw telefoon op om verder te gaan met synchronisatie</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Verbind met Wi-Fi, zet het scherm uit en laad de telefoon op om verder te gaan met synchronisatie</string>
-  <string name="micloud_main_wlan_sync_data_count">Items wachten om te sync.: %d</string>
+  <string name="micloud_main_wlan_sync_data_count">Items wachten om te synchroniseren: %d</string>
   <string name="micloud_manage_space_data">Mi Cloud gegevens beheren</string>
   <string name="micloud_member">Mi Cloud lidmaatschap</string>
   <string name="micloud_member_advantage">Verkrijg meer opslagruimte.</string>
@@ -374,7 +374,7 @@ of apparaat te wissen."</string>
   <string name="micloud_other_product_price">Vergelijk prijzen</string>
   <string name="micloud_proceed">Doorgaan</string>
   <string name="micloud_request_permission_confirm">Begrepen</string>
-  <string name="micloud_request_permission_content">Mi Cloud heeft toestemmingen nodig om gegevens te synchroniseren. Mi Cloud toestaan om toegang te krijgen tot Kalender, Contacten, Mi Account, SIM kaartstatus, gespreksgeschiedenis en berichten.</string>
+  <string name="micloud_request_permission_content">Mi Cloud heeft toestemmingen nodig om gegevens te synchroniseren. Geef Mi Cloud toegang tot kalender, contacten, Mi Account, SIM kaartstatus, gespreksgeschiedenis en berichten.</string>
   <string name="micloud_request_permission_title">Mi Cloud heeft toestemmingen nodig</string>
   <string name="micloud_sec_dspt">en dingen delen met vrienden.</string>
   <string name="micloud_setting_antispam_summary">Uitzonderingen en geblokkeerde telefoonnummers.</string>
@@ -518,9 +518,9 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sync_dspt_provision3">U kunt deze functie op elk moment in- en uitschakelen in Instellingen."</string>
   <string name="sync_dspt_provision_header">Synchroniseren</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
-  <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle gesprekken op deze telefoon</string>
-  <string name="sync_item_calllog_title">Gespreksgeschiedenis sync.</string>
-  <string name="sync_item_sms_summary">Alle SMSen synchroniseren van de telefoon</string>
+  <string name="sync_item_calllog_summary">Alle gesprekken op deze telefoon synchroniseren</string>
+  <string name="sync_item_calllog_title">Oproepgeschiedenis synchroniseren</string>
+  <string name="sync_item_sms_summary">Alle SMS op de telefoon synchroniseren</string>
   <string name="sync_item_sms_title">Berichten synchroniseren</string>
   <string name="sync_item_title">Gesynchroniseerde items</string>
   <string name="sync_off">Uit</string>
@@ -554,8 +554,8 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="verify">Bevestigen</string>
   <string name="view_storage_title">Opslagruimte</string>
   <string name="virtual_sim_desc">Schakel Mi SIM in om apparaat te lokaliseren zonder SIM kaart</string>
-  <string name="voip_choose_sim">Kies telefoonnr. om Mi Voice te activeren</string>
-  <string name="wipe_data_dialog_button_check_sync">Controleren al ze gesync. zijn</string>
+  <string name="voip_choose_sim">Kies telefoonnummer om Mi Voice te activeren</string>
+  <string name="wipe_data_dialog_button_check_sync">Controleren of gesynchroniseerd</string>
   <string name="wipe_data_dialog_msg">%s zijn niet gesynchroniseerd en blijven op je telefoon staan.</string>
   <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>

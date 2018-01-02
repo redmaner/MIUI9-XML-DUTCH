@@ -351,14 +351,14 @@ verzorgd door Ultimate Inc.</string>
   <string name="filter_by_duration_max">%d min</string>
   <string name="filter_by_duration_min">%d sec</string>
   <string name="filter_by_duration_prefix">"Verberg audiobestanden korter dan "</string>
-  <string name="filter_by_duration_summary">Verberg korte audiobestanden</string>
+  <string name="filter_by_duration_summary">Korte audiobestanden verbergen</string>
   <string name="filter_by_folder">Op mappen</string>
   <string name="filter_by_folder_summary">Mappen kiezen om weer te geven</string>
   <string name="filter_by_size">Op grootte</string>
   <string name="filter_by_size_max">%dMB</string>
   <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Verberg bestanden kleiner dan "</string>
-  <string name="filter_by_size_summary">Verberg kleine audiobestanden</string>
+  <string name="filter_by_size_summary">Kleine audiobestanden verbergen</string>
   <string name="find_music">Nummers ontdekken</string>
   <string name="follow">Volgen</string>
   <string name="followed">Volgend</string>
@@ -795,7 +795,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="similar_songs">Vergelijkbare nummers</string>
   <string name="sleep_mode">Slaaptimer</string>
   <string name="sleep_mode_canceled">Slaapmodus geannuleerd</string>
-  <string name="sleep_mode_summary">Stop speler na een bepaalde tijd</string>
+  <string name="sleep_mode_summary">Speler stoppen na een bepaalde tijd</string>
   <string name="sleep_mode_title">Slaaptimer</string>
   <string name="song_exist_in_playlist">Dit nummer staat al in de afspeellijst</string>
   <string name="song_is_empty">Titel kan niet leeg zijn.</string>

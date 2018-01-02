@@ -153,7 +153,7 @@
   <string name="backup_sync_error_desc">Kan niet verbinden met Mi Cloud</string>
   <string name="backup_sync_error_title">Kon items niet synchroniseren</string>
   <string name="backup_sync_off_btn_text">Inschakelen</string>
-  <string name="backup_sync_off_desc">Schakel synchroniseren met Mi Cloud in om back-up te maken van foto\'s en video\'s.</string>
+  <string name="backup_sync_off_desc">Schakel synchronisatie met Mi Cloud in om back-ups te maken van foto\'s en video\'s.</string>
   <string name="backup_sync_off_title">Synchroniseren met Mi Cloud is uitgeschakeld</string>
   <string name="backup_with_gprs_dialog_btn">Back-up</string>
   <string name="backup_with_gprs_dialog_message">%s aan data is nodig om items te back-uppen. Nu back-uppen?</string>
@@ -783,7 +783,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="scan_barcode_guide">Om een QR code van het album te krijgen, tik op het deel icoon.</string>
   <string name="scan_barcode_to_join">Scan QR code om een album toe te voegen</string>
   <string name="scan_qr_code_buttom_text">Scan QR code om dit album te bekijken</string>
-  <string name="search_backup_full_screen">Schakel synchroniseren met Mi Cloud in om meer objecten en mensen te vinden</string>
+  <string name="search_backup_full_screen">Schakel synchronisatie met Mi Cloud in om meer objecten en mensen te vinden</string>
   <string name="search_backup_now">Inschakelen</string>
   <string name="search_backup_sub_title">Inschakelen om meer afbeeldingen te vinden</string>
   <string name="search_backup_title">Synchroniseren met Mi Cloud</string>
@@ -921,7 +921,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="sync_diabled_toast">Synchronisatie is uitgeschakeld</string>
   <string name="sync_metatata_wait_title">Wachten om Mi Cloud gegevens te synchroniseren</string>
   <string name="sync_not_allow_cta_title">"Geen toegang tot netwerk"</string>
-  <string name="sync_off_title">Schakel synchroniseren met Mi Cloud in om foto\'s en video\'s automatisch te back-uppen</string>
+  <string name="sync_off_title">Schakel synchronisatie met Mi Cloud in om foto\'s en video\'s automatisch te back-uppen</string>
   <string name="sync_pending_title">Zal automatisch worden gesynchroniseerd</string>
   <string name="sync_state_unknow">Gegevens verkrijgen</string>
   <string name="synced_title">Back-up van foto\'s en video\'s voltooid</string>

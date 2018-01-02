@@ -74,8 +74,8 @@
   <string name="accessibility_wifi_signal_full">Wi-Fi volledig signaal.</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi drie balkjes.</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi twee balkjes.</string>
-  <string name="adb_keys_warning_message">Herroep toegang tot USB debugging van alle computers die u eerder hebt geautoriseerd?</string>
-  <string name="adb_warning_message">USB debugging is uitsluitend bedoeld voor ontwikkelingsdoeleinden. Gebruik het om gegevens tussen uw computer en uw apparaat te kopiëren, apps te installeren op uw apparaat zonder kennisgeving en lees loggegevens.</string>
+  <string name="adb_keys_warning_message">Toegang tot USB debugging van alle computers die u eerder hebt geautoriseerd herroepen?</string>
+  <string name="adb_warning_message">USB debugging is uitsluitend bedoeld voor ontwikkelingsdoeleinden. Gebruik het om gegevens tussen uw computer en uw apparaat te kopiëren, apps te installeren op uw apparaat zonder kennisgeving en loggegevens te lezen.</string>
   <string name="adb_warning_title">USB debugging toestaan?</string>
   <string name="add">Toevoegen</string>
   <string name="add_fdn_contact">Vast nummer toevoegen</string>
@@ -931,7 +931,7 @@ Voorkeursnetwerk wordt gebruikt."</string>
   <string name="notification_voicemail_title_count">Nieuwe voicemail (%d)</string>
   <string name="number">Nummer</string>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
-  <string name="oem_unlock_enable_summary">Bootloader toestaan om ontgrendeld te worden</string>
+  <string name="oem_unlock_enable_summary">Toestaan dat bootloader ontgrendeld kan worden</string>
   <string name="ok">OK</string>
   <string name="oldPin2Label">Oude PIN2</string>
   <string name="oldPinLabel">Oude PIN</string>
