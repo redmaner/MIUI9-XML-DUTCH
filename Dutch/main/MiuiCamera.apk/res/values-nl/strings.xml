@@ -116,9 +116,9 @@ met duidelijker hoofdbeeld en mooier portret"</string>
   <string name="pref_camera_auto_capture_when_stable_title">Object vastleggen wanneer het stilstaat</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flitser</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centrumgericht</string>
-  <string name="pref_camera_autoexposure_entry_frameaverage">Frame gemiddelde</string>
+  <string name="pref_camera_autoexposure_entry_frameaverage">Framegemiddelde</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Spotmeting</string>
-  <string name="pref_camera_autoexposure_title">Auto belichting instellingen</string>
+  <string name="pref_camera_autoexposure_title">Automatische belichting</string>
   <string name="pref_camera_beautify_entry_auto">Uit</string>
   <string name="pref_camera_beautify_entry_close">Uit</string>
   <string name="pref_camera_beautify_entry_high">Hoog</string>
@@ -176,8 +176,8 @@ met duidelijker hoofdbeeld en mooier portret"</string>
   <string name="pref_camera_jpegquality_entry_normal">Standaard</string>
   <string name="pref_camera_jpegquality_title">Fotokwaliteit</string>
   <string name="pref_camera_long_press_shutter_feature_title">Sluiterknop ingedrukt houden</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Burst shoot</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Burstshoot</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focussen</string>
   <string name="pref_camera_long_pressing_shutter_title">Druk &amp; houd de sluiterknop ingedrukt om AE/AF/AWB te vergrendelen</string>
   <string name="pref_camera_magic_mirror_title">Magische spiegel</string>
   <string name="pref_camera_manual_mode_title">Handmatig</string>
@@ -257,9 +257,9 @@ met duidelijker hoofdbeeld en mooier portret"</string>
   <string name="pref_camera_video_duration_entry_30">30 minuten</string>
   <string name="pref_camera_video_duration_entry_mms">30 seconden (MMS)</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Belichting</string>
-  <string name="pref_camera_volumekey_function_entry_shutter">Shutter</string>
-  <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
-  <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
+  <string name="pref_camera_volumekey_function_entry_shutter">Sluiterknop</string>
+  <string name="pref_camera_volumekey_function_entry_volume">Volume aanpassen</string>
+  <string name="pref_camera_volumekey_function_entry_zoom">In- en uitzoomen</string>
   <string name="pref_camera_volumekey_function_title">Functie volumeknoppen</string>
   <string name="pref_camera_watermark_title">Watermerk toevoegen aan foto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>

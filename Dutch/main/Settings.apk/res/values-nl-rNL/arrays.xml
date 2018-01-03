@@ -839,7 +839,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>
-		<item>Privacy wachtwoord</item>
+		<item>Privacywachtwoord</item>
         <item>Kindermodus</item>
         <item>File Explorer</item>
         <item>Appvergrendeling</item>

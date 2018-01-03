@@ -187,8 +187,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="dialog_file_missing_body">Het gedownloade bestand kan niet gevonden worden.</string>
   <string name="dialog_file_missing_title">Kan bestand niet openen</string>
   <string name="dialog_hint_music_error">Geen nummers gevonden</string>
-  <string name="dialog_insufficient_space_on_cache">Er is niet genoeg ruimte op de interne downloadopslag.</string>
-  <string name="dialog_insufficient_space_on_external">Er is niet genoeg ruimte op de externe opslag.</string>
+  <string name="dialog_insufficient_space_on_cache">Niet genoeg ruimte op interne opslag.</string>
+  <string name="dialog_insufficient_space_on_external">Niet genoeg ruimte op externe opslag.</string>
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
   <string name="dialog_not_show_again">Niet meer tonen</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
@@ -243,7 +243,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="download_confirm_button_text">Installeren</string>
   <string name="download_confirm_text">Mi Music zal %s downloaden en installeren</string>
   <string name="download_done_btn">Downloaden</string>
-  <string name="download_error">Unsuccessful</string>
+  <string name="download_error">Mislukt</string>
   <string name="download_error_insufficient_space">Niet genoeg ruimte</string>
   <string name="download_fail_to_fetch_info">Kon niet downloaden. Probeer opnieuw.</string>
   <string name="download_filesize_unknown">Onbekend</string>
@@ -351,14 +351,14 @@ verzorgd door Ultimate Inc.</string>
   <string name="filter_by_duration_max">%d min</string>
   <string name="filter_by_duration_min">%d sec</string>
   <string name="filter_by_duration_prefix">"Verberg audiobestanden korter dan "</string>
-  <string name="filter_by_duration_summary">Verberg korte audiobestanden</string>
+  <string name="filter_by_duration_summary">Korte audiobestanden verbergen</string>
   <string name="filter_by_folder">Op mappen</string>
   <string name="filter_by_folder_summary">Mappen kiezen om weer te geven</string>
   <string name="filter_by_size">Op grootte</string>
   <string name="filter_by_size_max">%dMB</string>
   <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Verberg bestanden kleiner dan "</string>
-  <string name="filter_by_size_summary">Verberg kleine audiobestanden</string>
+  <string name="filter_by_size_summary">Kleine audiobestanden verbergen</string>
   <string name="find_music">Nummers ontdekken</string>
   <string name="follow">Volgen</string>
   <string name="followed">Volgend</string>
@@ -795,7 +795,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="similar_songs">Vergelijkbare nummers</string>
   <string name="sleep_mode">Slaaptimer</string>
   <string name="sleep_mode_canceled">Slaapmodus geannuleerd</string>
-  <string name="sleep_mode_summary">Stop speler na een bepaalde tijd</string>
+  <string name="sleep_mode_summary">Speler stoppen na een bepaalde tijd</string>
   <string name="sleep_mode_title">Slaaptimer</string>
   <string name="song_exist_in_playlist">Dit nummer staat al in de afspeellijst</string>
   <string name="song_is_empty">Titel kan niet leeg zijn.</string>

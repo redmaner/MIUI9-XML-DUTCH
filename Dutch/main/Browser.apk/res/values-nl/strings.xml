@@ -216,9 +216,9 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefoon</string>
-  <string name="data_traffic_prompt_change">Mobiel internet gebruik om video\'s te bekijken zal je datagebruik verhogen. Als je je limiet overschrijdt kan je provider extra kosten in rekening brengen.</string>
-  <string name="data_traffic_prompt_message">Mobiel internet gebruik om video\'s te bekijken zal je datagebruik verhogen. Als je je limiet overschrijdt kan je provider extra kosten in rekening brengen.</string>
-  <string name="data_traffic_prompt_message_short">Mobiel internet gebruik om video\'s te streamen kan ervoor zorgen dat je je limiet overschrijdt.</string>
+  <string name="data_traffic_prompt_change">Mobiel internet gebruiken om video\'s te bekijken zal voor veel datagebruik zorgen. Als je je limiet overschrijdt kan je provider extra kosten in rekening brengen.</string>
+  <string name="data_traffic_prompt_message">Mobiel internet gebruiken om video\'s te bekijken zal voor veel datagebruik zorgen. Als je je limiet overschrijdt kan je provider extra kosten in rekening brengen.</string>
+  <string name="data_traffic_prompt_message_short">Mobiel internet gebruiken om video\'s te streamen kan ervoor zorgen dat je je limiet overschrijdt.</string>
   <string name="data_traffic_prompt_title">Waarschuwing datagebruik</string>
   <string name="date_picker_dialog_clear">Verwijderen</string>
   <string name="date_picker_dialog_other_button_label">Andere</string>

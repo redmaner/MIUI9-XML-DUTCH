@@ -62,7 +62,7 @@
   <string name="button_ok">OK</string>
   <string name="button_return">Terug</string>
   <string name="button_send">Verzenden</string>
-  <string name="call_title">Belgeschiedenis</string>
+  <string name="call_title">Oproepgeschiedenis</string>
   <string name="camera_summary">"Camera instellingen (foto's niet inbegrepen)"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_backup">Back-up annuleren</string>

@@ -85,9 +85,9 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_services_title">Diensten</string>
   <string name="accessibility_settings">Toegankelijkheid</string>
   <string name="accessibility_settings_title">Instellingen voor toegankelijkheid</string>
-  <string name="accessibility_sync_disabled">Sync. uitgeschakeld</string>
-  <string name="accessibility_sync_enabled">Sync. is ingeschakeld</string>
-  <string name="accessibility_sync_error">Sync. fout.</string>
+  <string name="accessibility_sync_disabled">Synchronisatie is uitgeschakeld</string>
+  <string name="accessibility_sync_enabled">Synchronisatie is ingeschakeld</string>
+  <string name="accessibility_sync_error">Synchronisatiefout</string>
   <string name="accessibility_sync_in_progress">Nu synchroniseren</string>
   <string name="accessibility_system_title">Systeem</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Hoge contrast tekst</string>
@@ -108,11 +108,11 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="account_list">Andere accounts</string>
   <string name="account_other">Andere</string>
   <string name="account_settings">Accounts</string>
-  <string name="account_settings_menu_auto_sync">Auto-sync data</string>
-  <string name="account_settings_menu_auto_sync_personal">Auto-sync privédata</string>
-  <string name="account_settings_menu_auto_sync_work">Auto-sync werkdata</string>
+  <string name="account_settings_menu_auto_sync">Gegevens automatisch synchroniseren</string>
+  <string name="account_settings_menu_auto_sync_personal">Privégegevens automatisch synchroniseren</string>
+  <string name="account_settings_menu_auto_sync_work">Werkgegevens automatisch synchroniseren</string>
   <string name="account_settings_title">Accounts</string>
-  <string name="account_sync_settings_title">Sync.</string>
+  <string name="account_sync_settings_title">Synchronisatie</string>
   <string name="action_drag_label_move_bottom">Naar onderkant verplaatsen</string>
   <string name="action_drag_label_move_down">Omlaag verplaatsen</string>
   <string name="action_drag_label_move_top">Naar bovenkant verplaatsen</string>
@@ -310,7 +310,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="applications_settings">Geïnstalleerde apps</string>
   <string name="applications_settings_header">Appinstellingen</string>
   <string name="applications_settings_summary">Apps beheren, snelkoppelingen voor snelstarten instellen</string>
-  <string name="apply_fingerprint_to_category_title">Vingerafdruk toepassen naar…</string>
+  <string name="apply_fingerprint_to_category_title">Vingerafdruk toepassen op</string>
   <string name="apply_now_button_text">Updaten</string>
   <string name="apply_password_to_category_title">Ontgrendeling nodig</string>
   <string name="apply_update_fail">Kon niet updaten</string>
@@ -379,7 +379,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="background_data">Achtergrondgegevens</string>
   <string name="background_data_dialog_message">Als u achtergrondgegevens uitschakelt, bespaart u batterij en wordt het gegevensverbruik verlaagd. Sommige apps maken mogelijk nog steeds gebruik van de verbinding voor achtergrondgegevens.</string>
   <string name="background_data_dialog_title">Achtergrondgegevens uitschakelen?</string>
-  <string name="background_data_summary">Onbeperkt gegevens sync., verzenden en ontvangen</string>
+  <string name="background_data_summary">Onbeperkt gegevens synchroniseren, verzenden en ontvangen</string>
   <string name="background_process_stop_description">Dit is een oud appproces dat nog actief is voor het geval het opnieuw nodig is. Er is meestal geen reden om dit te stoppen.</string>
   <string name="backtouch_enable_title">Volume aanpassen op de achterkant</string>
   <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-up gegevens</string>
@@ -1094,11 +1094,11 @@ U kunt meer geschikte besturingselementen voor gegevensgebruik vinden in de inst
   <string name="data_usage_app_settings">Appinstellingen</string>
   <string name="data_usage_app_summary_title">App dataverbruik</string>
   <string name="data_usage_auto_sync_off_dialog">Dit zal mobiele data en batterij sparen, maar u moet elk account handmatig sync. om de recente informatie te verzamelen. U zal ook geen meldingen ontvangen wanneer er updates zijn.</string>
-  <string name="data_usage_auto_sync_off_dialog_title">Auto-sync gegevens uitschakelen?</string>
+  <string name="data_usage_auto_sync_off_dialog_title">Automatische synchronisatie van gegevens uitschakelen?</string>
   <string name="data_usage_auto_sync_on_dialog">"Wijzigingen die u aanbrengt in uw accounts op internet worden automatisch naar uw apparaat gekopieerd.
 
 Sommige accounts kunnen ook automatisch alle wijzigingen die u op de telefoon maakt naar het web kopiëren. Een Google account werkt op deze manier."</string>
-  <string name="data_usage_auto_sync_on_dialog_title">Auto sync gegevens inschakelen?</string>
+  <string name="data_usage_auto_sync_on_dialog_title">Automatische synchronisatie van gegevens inschakelen?</string>
   <string name="data_usage_background_label">Achtergrond:</string>
   <string name="data_usage_cellular_data">Mobiele data</string>
   <string name="data_usage_cellular_data_summary">Gepauzeerd op limiet</string>
@@ -1129,7 +1129,7 @@ Aangezien dit gegevensverbruik wordt gemeten door uw apparaat en uw provider tot
   <string name="data_usage_list_mobile">Mobiel</string>
   <string name="data_usage_list_none">Geen</string>
   <string name="data_usage_menu_allow_background">Data op achtergrond toestaan</string>
-  <string name="data_usage_menu_auto_sync">Gegevens automatisch sync.</string>
+  <string name="data_usage_menu_auto_sync">Gegevens automatisch synchroniseren</string>
   <string name="data_usage_menu_cellular_networks">Mobiele netwerken</string>
   <string name="data_usage_menu_hide_ethernet">Ethernetverbruik verbergen</string>
   <string name="data_usage_menu_hide_wifi">Wi-Fi verbergen</string>
@@ -1226,7 +1226,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="default_usb_mode">USB verbinding</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_fingerprint_confirm_msg">Vingerafdruk verwijderen?</string>
-  <string name="delete_fingerprint_text">Verwijder vingerafdruk</string>
+  <string name="delete_fingerprint_text">Vingerafdruk verwijderen</string>
   <string name="delete_legacy_fingerprint">Verwijderen</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Deze vingerafdruk verwijderen?</string>
   <string name="delete_rule">Regels verwijderen</string>
@@ -1718,7 +1718,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="hdmi_color_calibration_none">Origineel</string>
   <string name="header_account_settings">Accountinstellingen</string>
   <string name="header_add_an_account">Een account toevoegen</string>
-  <string name="header_application_sync_settings">Sync. instellingen van de app</string>
+  <string name="header_application_sync_settings">Synchronisatie-instellingen van de app</string>
   <string name="header_category_access">Toegang</string>
   <string name="header_category_accounts">Accounts</string>
   <string name="header_category_connections">Verbindingen</string>
@@ -1726,7 +1726,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="header_category_personal">Privé</string>
   <string name="header_category_system">Systeem</string>
   <string name="header_category_wireless_networks">Netwerk</string>
-  <string name="header_data_and_synchronization">Gegevens en sync.</string>
+  <string name="header_data_and_synchronization">Gegevens en synchronisatie</string>
   <string name="heavy_weight_stop_description">Deze app kan niet veilig worden gestopt. Als je het stopt, kan u een deel van uw huidige werk verliezen.</string>
   <string name="help_feedback_label">Help &amp; feedback</string>
   <string name="help_label">Help &amp; feedback</string>
@@ -1905,7 +1905,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="language_picker_title">Taal</string>
   <string name="language_settings">Taal en invoer</string>
   <string name="large_font">Groot</string>
-  <string name="last_synced">Laatst gesync.: %1$s</string>
+  <string name="last_synced">Laatst gesynchroniseerd: %1$s</string>
   <string name="last_time_used_label">Laatste keer gebruikt</string>
   <string name="later">LATER</string>
   <string name="lattice_smartcover_title">Hoesje met gaatjes</string>
@@ -4039,7 +4039,7 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="switch_screen_button_order_desc">De terug en menu knoppen wisselen</string>
   <string name="symbols_not_allowed_for_password">Wachtwoord mag geen symbolen bevatten</string>
   <string name="sync_active">Synchronisatie actief</string>
-  <string name="sync_automatically">Appgegevens automatisch sync.</string>
+  <string name="sync_automatically">Appgegevens automatisch synchroniseren</string>
   <string name="sync_calendar">Agenda</string>
   <string name="sync_contacts">Contacten</string>
   <string name="sync_disabled">Synchronisatie UIT</string>
@@ -4050,7 +4050,7 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synchroniseren…</string>
   <string name="sync_is_failing">Er zijn momenteel problemen met synchroniseren. Synchronisatie wordt snel opnieuw uitgevoerd.</string>
-  <string name="sync_menu_sync_cancel">Sync. annuleren</string>
+  <string name="sync_menu_sync_cancel">Synchronisatie annuleren</string>
   <string name="sync_menu_sync_now">Nu synchroniseren</string>
   <string name="sync_now">Synchroniseren</string>
   <string name="sync_one_time_sync">"Aanraken om nu te synchroniseren
@@ -4979,7 +4979,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_share_other_network">Andere Wi-Fi netwerken</string>
   <string name="wifi_share_qrcode_finish">OK</string>
   <string name="wifi_share_qrcode_summary">Gebruik de camera om de QR code te scannen</string>
-  <string name="wifi_share_qrcode_title">Deel Wi-Fi</string>
+  <string name="wifi_share_qrcode_title">Wi-Fi delen</string>
   <string name="wifi_share_show_network">Netwerken weergeven</string>
   <string name="wifi_share_summary1">MIUI gebruikers kunnen openbare Wi-Fi netwerken (cafes, restaurants, hotels, etc.) met elkaar delen.</string>
   <string name="wifi_share_summary2">Als een MIUI gebruiker een netwerk deelt heeft u geen wachtwoord nodig.</string>
