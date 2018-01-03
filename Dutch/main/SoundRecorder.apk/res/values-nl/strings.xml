@@ -47,6 +47,7 @@
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Batterij laag</string>
   <string name="mark_point_list_title">Markeringen</string>
+  <string name="menu">Menu</string>
   <string name="message_file_size_error">Opname heeft de maximale opnametijd van %s bereikt</string>
   <string name="network_tip_dialog_cancel">Annuleren</string>
   <string name="network_tip_dialog_content">Recorder heeft verbinding met internet nodig en moet uw contacten lezen om normaal te werken. Toestaan?</string>

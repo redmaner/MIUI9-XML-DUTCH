@@ -166,11 +166,7 @@
   <string name="cta_desc">Het is ideaal voor snelkoppelingen, informatie en je favoriete functies.</string>
   <string name="cta_dialog_negative">Afsluiten</string>
   <string name="cta_dialog_positive">Toestaan</string>
-  <string name="cta_dialog_text1">Om App vault te gebruiken moet je akkoord gaan met de</string>
-  <string name="cta_dialog_text2">\"Gebruikersovereenkomst\"</string>
-  <string name="cta_dialog_text3">en het</string>
-  <string name="cta_dialog_text4">\"Privacybeleid\".</string>
-  <string name="cta_dialog_text5">Deze dienst heeft ook internetverbinding en toegang tot je locatie nodig. Toestaan?</string>
+  <string name="cta_dialog_text_all">To use App vault, you should read and agree with %1$s\"User Agreement\" %2$s and %3$s \"Privacy Policy\" %4$s. The service also requires internet connection and access to the location services. The content catcher used by some services also requires internet connection. Agree?</string>
   <string name="cta_dialog_title">Algemene voorwaarden</string>
   <string name="cta_negative">Sluiten</string>
   <string name="cta_positive">Details</string>
