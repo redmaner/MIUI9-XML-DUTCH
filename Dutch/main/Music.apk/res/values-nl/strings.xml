@@ -187,8 +187,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="dialog_file_missing_body">Het gedownloade bestand kan niet gevonden worden.</string>
   <string name="dialog_file_missing_title">Kan bestand niet openen</string>
   <string name="dialog_hint_music_error">Geen nummers gevonden</string>
-  <string name="dialog_insufficient_space_on_cache">Er is niet genoeg ruimte op de interne downloadopslag.</string>
-  <string name="dialog_insufficient_space_on_external">Er is niet genoeg ruimte op de externe opslag.</string>
+  <string name="dialog_insufficient_space_on_cache">Niet genoeg ruimte op interne opslag.</string>
+  <string name="dialog_insufficient_space_on_external">Niet genoeg ruimte op externe opslag.</string>
   <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
   <string name="dialog_not_show_again">Niet meer tonen</string>
   <string name="dialog_queued_body">Dit bestand staat in de wachtrij voor een toekomstige download.</string>
@@ -243,7 +243,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="download_confirm_button_text">Installeren</string>
   <string name="download_confirm_text">Mi Music zal %s downloaden en installeren</string>
   <string name="download_done_btn">Downloaden</string>
-  <string name="download_error">Unsuccessful</string>
+  <string name="download_error">Mislukt</string>
   <string name="download_error_insufficient_space">Niet genoeg ruimte</string>
   <string name="download_fail_to_fetch_info">Kon niet downloaden. Probeer opnieuw.</string>
   <string name="download_filesize_unknown">Onbekend</string>

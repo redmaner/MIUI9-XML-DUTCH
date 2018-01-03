@@ -62,9 +62,7 @@
   <string name="cloud_backup">Mi Cloud back-ups</string>
   <string name="cloud_backup_derail_size_summary">Grootte: %s</string>
   <string name="cloud_backup_detail_frequence">Back-upschema</string>
-  <string name="cloud_backup_detail_frequence_day">Elke %1$s back-uppen</string>
   <string name="cloud_backup_detail_manage">Back-ups beheren</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s back-ups, grootte: %2$s</string>
   <string name="cloud_backup_detail_state">Automatische back-ups</string>
   <string name="cloud_backup_detail_state_summary">Automatisch Mi Cloud back-ups maken bij verbinding met Wi-Fi.</string>
   <string name="cloud_backup_detail_time">Laatste back-up: %1$s</string>
@@ -90,7 +88,7 @@
   <string name="desktop_installing">Installeren</string>
   <string name="desktop_wait_wifi">Wachten</string>
   <string name="desktop_waiting">Wachten</string>
-  <string name="device_corrupt">Mi telefoon (Gegevens corrupt)</string>
+  <string name="device_corrupt">Mi telefoon (Gegevens zijn corrupt)</string>
   <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
   <string name="device_xiaomi">Mi Telefoon</string>
   <string name="dialog_cancel_backup_cancel">Annuleren</string>
@@ -124,7 +122,7 @@
   <string name="open_wifi_description">Verbind met Wi-Fi netwerk om te herstellen</string>
   <string name="open_wifi_setting">Wi-Fi instellingen</string>
   <string name="process_whole_recovery">Herstellen van \"%s\"</string>
-  <string name="provision_error_connect_msg">"Test network and try again. Backups aren't available when your device is offline."</string>
+  <string name="provision_error_connect_msg">Test netwerk en probeer opnieuw. Back-ups zijn niet beschikbaar wanneer je apparaat offline is.</string>
   <string name="provision_error_connect_title">Kan niet verbinden</string>
   <string name="query_restore_description">Herstel startscherm apps en instellingen met behulp van deze back-up. Dit zal de app gegevens overschrijven van dubbele apps die al op het apparaat zijn geïnstalleerd. Apps die niet in de back-up staan zullen worden verplaatst naar het laatste startscherm.</string>
   <string name="query_restore_summary">Vond een Mi Cloud back-up voor dit apparaat. Herstel startscherm apps en instellingen of gebruik het als een nieuw apparaat en wis van vorige Mi Cloud backups?</string>
