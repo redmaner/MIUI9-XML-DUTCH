@@ -9,14 +9,6 @@
         <item quantity="zero">Total %d song</item>
         <item quantity="one">Total %d song</item>
     </plurals>
-    <plurals name="download_finished">
-        <item quantity="other">%d nummers gedownload</item>
-        <item quantity="one">%d nummer gedownload</item>
-    </plurals>
-    <plurals name="download_running">
-        <item quantity="other">%d nummers bezig met downloaden</item>
-        <item quantity="one">%d nummer bezig met downloaden</item>
-    </plurals>
     <plurals name="Nartists_count">
         <item quantity="other">%d artists</item>
         <item quantity="one">%d artist</item>
