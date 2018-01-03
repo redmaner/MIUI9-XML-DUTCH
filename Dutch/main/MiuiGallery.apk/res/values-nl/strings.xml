@@ -12,15 +12,18 @@
   <string name="add_to_album_failed">Kon niet toevoegen aan album</string>
   <string name="add_to_album_success">Toegevoegd aan album</string>
   <string name="add_to_album_tip">Cloudfoto\'s</string>
+  <string name="add_to_favorites_failed">"Couldn't add to favorites"</string>
   <string name="add_to_secret_exist">Foto bevindt zich al in verborgen album</string>
   <string name="add_to_secret_fail">Kon niet toevoegen aan verborgen album</string>
   <string name="add_to_secret_failed_with_reason">"Kan niet toegevoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items kunnen niet toegevoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_successful">Toegevoegd aan verborgen album</string>
   <string name="add_to_share_album_not_delete">Kan foto niet verwijderen van gedeeld album</string>
+  <string name="added_to_favorites_tip">Added to \"Favorites\" album</string>
   <string name="adding">Toevoegen…</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="adding_to_album">Foto\'s toevoegen…</string>
+  <string name="adding_to_favorites">Adding to favorites…</string>
   <string name="adjust_brightness">Helderheid</string>
   <string name="adjust_contrast">Contrast</string>
   <string name="adjust_saturation">Verzadiging</string>
@@ -29,12 +32,17 @@
   <string name="album_already_exists_check">Bekijken</string>
   <string name="album_already_exists_msg">Album \"%s\" bestaat al</string>
   <string name="album_already_forced_top">Reeds bovenop</string>
+  <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">Camera</string>
+  <string name="album_creative">My edited photos</string>
   <string name="album_detail_page_empty">Geen foto\'s of video\'s</string>
+  <string name="album_download">Downloads</string>
   <string name="album_faces_name">Personen</string>
-  <string name="album_from_format">%s</string>
+  <string name="album_favorites_name">Favorites</string>
+  <string name="album_from_format">Van %s</string>
   <string name="album_jump_failed">Wacht tot albums zijn gesynchroniseerd met Mi Cloud ​​en probeer opnieuw</string>
   <string name="album_member">Albumleden %s</string>
+  <string name="album_midrop">Mi Drop</string>
   <string name="album_name">Albumnaam</string>
   <string name="album_name_locations">Locaties</string>
   <string name="album_name_people">Personen</string>
@@ -47,6 +55,8 @@
   <string name="album_page_label">Albums</string>
   <string name="album_pano_name">Panorama\'s</string>
   <string name="album_quota_fulfiled">Kan het album niet aanmaken: het albumlimiet is overschreden</string>
+  <string name="album_scanner">Scanner</string>
+  <string name="album_screen_recorder">Screen recorder</string>
   <string name="album_screenshot_name">Schermafdrukken</string>
   <string name="album_share_exit_confirm">Het album verlaten?</string>
   <string name="album_share_kicked">%1$s is gesloten</string>
@@ -65,6 +75,7 @@
   <string name="album_type_share">Gedeelde albums</string>
   <string name="album_type_system">Systeemalbums</string>
   <string name="album_videos_name">Video\'s</string>
+  <string name="album_wallpaper">Wallpapers</string>
   <string name="alert_secret_album_enter">Begrepen</string>
   <string name="alert_secret_album_message">Veeg omlaag op het albumtabblad om verborgen album te bekijken.</string>
   <string name="alert_secret_album_message_lower_case"> veeg omlaag in albums om te bekijken.</string>
@@ -142,6 +153,7 @@
   <string name="backup_no_wifi_title">Druk om te verbinden met Wi-Fi</string>
   <string name="backup_only_in_wifi">Alleen Wi-Fi gebruiken om foto\'s en video\'s te back-uppen</string>
   <string name="backup_only_in_wifi_summary">Nooit mobiele data gebruiken om foto\'s en video\'s te back-uppen</string>
+  <string name="backup_only_wifi_dialog_message">Use mobile data to back up photos and videos?</string>
   <string name="backup_pause">Back-up pauzeren</string>
   <string name="backup_pause_title">Back-up maken over %s</string>
   <string name="backup_pending">Zal automatisch worden geback-upt</string>
@@ -178,6 +190,8 @@
   <string name="cannot_remove_creator">Kan de maker niet verwijderen</string>
   <string name="cannot_send_message">"Het bericht kan niet worden verzonden"</string>
   <string name="cannot_send_message_reason">Geen geldige ontvangers</string>
+  <string name="cast_devices_unavailable_desc">Make sure both this device and the projector are connected to the same Wi-Fi network</string>
+  <string name="cast_devices_unavailable_title">"Couldn't find projector"</string>
   <string name="change_to_face_mode">Allen gezicht weergeven</string>
   <string name="change_to_photo_mode">Volledige voorbeelden weergeven</string>
   <string name="change_to_visible">Deze persoon herstellen?</string>
@@ -594,6 +608,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="operation_add_picture">Items toevoegen</string>
   <string name="operation_add_secret">Verbergen</string>
   <string name="operation_back">Terug</string>
+  <string name="operation_cast_connected_format">Cast - %s</string>
+  <string name="operation_cast_connecting_format">Connecting to %s</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Synchronisatie met Mi Cloud uitschakelen</string>
@@ -658,11 +674,13 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="photo_editor_miui_beauty_menu_eye_large">Grote ogen</string>
   <string name="photo_editor_miui_beauty_menu_face_thin">Slank</string>
   <string name="photo_editor_miui_beauty_menu_lip_beauty">Lippen</string>
+  <string name="photo_editor_miui_beauty_menu_nose_thin">Nose contouring</string>
   <string name="photo_editor_miui_beauty_menu_relighting">Licht vullen</string>
   <string name="photo_editor_miui_beauty_menu_skin_ruddy">Blozen</string>
   <string name="photo_editor_miui_beauty_menu_skin_white">Tint</string>
   <string name="photo_editor_miui_beauty_menu_smart_beauty">Slim</string>
   <string name="photo_editor_miui_beauty_menu_smooth">Glad</string>
+  <string name="photo_editor_miui_beauty_no_face">"Can't detect face"</string>
   <string name="photo_editor_mosaic">Mozaïek</string>
   <string name="photo_editor_navigator_cancel">Annuleren</string>
   <string name="photo_editor_navigator_download_network_metered_msg">%s downloaden vereist ongeveer 4MB aan mobiele data. Nu downloaden?</string>
@@ -722,6 +740,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="picker_title_unlimit">Selecteer foto\'s</string>
   <string name="places_album_empty_title">Foto\'s kunnen worden gesorteerd op locatie</string>
   <string name="preparing_data">Een momentje…</string>
+  <string name="projection_cancel">Cancel</string>
   <string name="projection_checkbox_text">Herinner deze weergave</string>
   <string name="projection_device_connection_failed">Kon niet verbinden met projector</string>
   <string name="projection_local_mobile">Deze telefoon</string>
@@ -730,6 +749,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="projection_slide_exit">Diavoorstelling stoppen</string>
   <string name="projection_slide_fail_cause_loading">Herstart de diavoorstelling nadat de foto is geladen</string>
   <string name="projection_slide_playing">Diavoorstelling is aan het afspelen op %s</string>
+  <string name="projection_stop">Stop casting</string>
+  <string name="projection_switch_title">Switch to</string>
   <string name="projection_video_quit">Tik om af te sluiten</string>
   <string name="public_url_descript">Iedereen kan uw album bezoeken met deze URL</string>
   <string name="publish_failed">Publiceren mislukt</string>
@@ -755,6 +776,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="remove_from_album_message">Deze foto wordt hier niet langer weergegeven</string>
   <string name="remove_from_album_title">Verwijderen uit dit album</string>
   <string name="remove_from_current_album">Verwijderen uit dit album</string>
+  <string name="remove_from_favorites_failed">"Couldn't remove from favorites"</string>
   <string name="remove_from_other_albums_tip">Dit album verwijderen uit andere albums?</string>
   <string name="remove_from_secret_fail">Kon niet verwijderen uit verborgen album</string>
   <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderen uit verborgen album. %1$s."</string>
@@ -766,6 +788,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="remover_edit_type_line">Lijnen</string>
   <string name="remover_erase_aera_too_big">Het te wissen gebied is te groot</string>
   <string name="remover_menu_processing">Verwerken</string>
+  <string name="removing_from_favorites">Removing from favorites…</string>
   <string name="rename_album">Album hernoemen</string>
   <string name="rename_album_failed">Kon niet hernoemen</string>
   <string name="rename_album_succeeded">Hernoemen succesvol</string>
@@ -805,7 +828,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_feedback_task_request_award_failed">Kon beloning niet ontvangen. Probeer later opnieuw.</string>
   <string name="search_feedback_task_requesting_award">Beloning ontvangen​…</string>
   <string name="search_feedback_user_notice">Ik heb %s gelezen en ga ermee akkoord.</string>
-  <string name="search_hint">Afbeeldingen zoeken​</string>
+  <string name="search_hint">Tap to search​</string>
   <string name="search_image_result_title">Zoekresultaten</string>
   <string name="search_login_now">Aanmelden</string>
   <string name="search_login_sub_title">Meld aan om meer foto\'s te vinden</string>
@@ -833,6 +856,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="search_title_recommend">Aanbevolen</string>
   <string name="search_title_suggestion">Suggesties</string>
   <string name="search_title_tag">Objecten</string>
+  <string name="searching_cast_devices">Looking for projector…</string>
   <string name="secret_album_card_description">De beste plek voor al je kleine geheimen</string>
   <string name="secret_album_card_title">Probeer verborgen album</string>
   <string name="secret_album_display_name">Verborgen album</string>

@@ -13,7 +13,6 @@
   <string name="backup_fail">Kon niet back-uppen, Wi-Fi nodig.</string>
   <string name="backup_finished_notification_content">Back-up gemaakt van apps van startscherm, systeeminstelllingen, enz.</string>
   <string name="backup_now">Nu back-uppen</string>
-  <string name="backup_size">Grootte: %s</string>
   <string name="backup_size_summary">Grootte: %1$s</string>
   <string name="backup_success">Back-up gelukt</string>
   <string name="backup_successfully">Back-up gelukt</string>
@@ -53,8 +52,6 @@
   <string name="cloud_back_up_frequence_choice_title">Back-upschema</string>
   <string name="cloud_back_up_frequence_long">Elke 7 dagen</string>
   <string name="cloud_back_up_frequence_short">dag</string>
-  <string name="cloud_back_up_interval_long">7 dagen</string>
-  <string name="cloud_back_up_interval_short">Elke dag</string>
   <string name="cloud_back_up_no_network_warn">Kan niet verbinden met Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Een momentje…</string>
@@ -63,6 +60,7 @@
   <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
   <string name="cloud_back_up_task">Bezig met back-up…</string>
   <string name="cloud_backup">Mi Cloud back-ups</string>
+  <string name="cloud_backup_derail_size_summary">Grootte: %s</string>
   <string name="cloud_backup_detail_frequence">Back-upschema</string>
   <string name="cloud_backup_detail_frequence_day">Elke %1$s back-uppen</string>
   <string name="cloud_backup_detail_manage">Back-ups beheren</string>
@@ -126,7 +124,8 @@
   <string name="open_wifi_description">Verbind met Wi-Fi netwerk om te herstellen</string>
   <string name="open_wifi_setting">Wi-Fi instellingen</string>
   <string name="process_whole_recovery">Herstellen van \"%s\"</string>
-  <string name="provision_error_connect_msg">Controleer verbinding en probeer opnieuw. De back-upfunctie zal niet beschikbaar zijn zonder een werkende internetverbinding.</string>
+  <string name="provision_error_connect_msg">"Test network and try again. Backups aren't available when your device is offline."</string>
+  <string name="provision_error_connect_title">"Can't connect"</string>
   <string name="provision_error_connect_title">Kan niet verbinden</string>
   <string name="query_restore_description">Herstel startscherm apps en instellingen met behulp van deze back-up. Dit zal de app gegevens overschrijven van dubbele apps die al op het apparaat zijn geïnstalleerd. Apps die niet in de back-up staan zullen worden verplaatst naar het laatste startscherm.</string>
   <string name="query_restore_summary">Vond een Mi Cloud back-up voor dit apparaat. Herstel startscherm apps en instellingen of gebruik het als een nieuw apparaat en wis van vorige Mi Cloud backups?</string>
