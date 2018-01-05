@@ -1513,6 +1513,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sc_allow_network_dialog_message">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
   <string name="sc_allow_network_dialog_tiltle">Kan deze functie niet gebruiken</string>
   <string name="sc_system_risk_fix_info_xspace">Kan het niet oplossen in tweede ruimte. Probeer het in de eerste ruimte.</string>
+  <string name="sc_warning_updater_not_found">Updater application not found. Unable to update !</string>
   <string name="scan_installed_games">Geïnstalleerde games controleren…</string>
   <string name="scan_status_risk">Risicovol</string>
   <string name="scan_status_safe">Veilig</string>
