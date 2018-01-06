@@ -416,6 +416,32 @@
   <string name="mock_location_app">Neplocatie-apps selecteren</string>
   <string name="mock_location_app_not_set">Geen neplocatie-app ingesteld</string>
   <string name="mock_location_app_set">Neplocatie-app: %1$s</string>
+  <string name="monitoring_button_view_policies">Voorwaarden bekijken</string>
+  <string name="monitoring_description_ca_certificate">Er is een certificaatauthoriteit geïnstalleerd op dit apparaat. Je veilige netwerkverkeer kan worden bekeken of worden aangepast.</string>
+  <string name="monitoring_description_managed_profile_ca_certificate">Uw organisatie heeft een certificaatauthoriteit geïnstalleerd op uw werkprofiel. Je veilige netwerkverkeer kan worden bekeken of worden aangepast.</string>
+  <string name="monitoring_description_managed_profile_named_vpn">Uw werkprofiel is verbonden met %1$s, welke uw netwerkactiviteit kan bijhouden, inclusief e-mails, apps en websites.</string>
+  <string name="monitoring_description_management">"Uw apparaat wordt beheerd door uw organisatie.
+
+Uw beheerder kan het volgende inzien en aanpassen: instellingen, apps, gegevens geassocieerd met uw apparaat en de locatie van uw apparaat.
+
+Neem contact op met uw beheerder voor meer informatie."</string>
+  <string name="monitoring_description_management_ca_certificate">Uw organisatie heeft een certificaatauthoriteit geïnstalleerd op dit apparaat. Je veilige netwerkverkeer kan worden bekeken of worden aangepast.</string>
+  <string name="monitoring_description_management_network_logging">Uw beheerder heeft netwerklogging ingeschakeld, welke netwerkverkeer op uw apparaat bijhoudt.</string>
+  <string name="monitoring_description_named_management">"Uw apparaat wordt beheerd door %1$s.
+
+Uw beheerder kan het volgende inzien en aanpassen: instellingen, apps, gegevens geassocieerd met uw apparaat en de locatie van uw apparaat.
+
+Neem contact op met uw beheerder voor meer informatie."</string>
+  <string name="monitoring_description_named_vpn">"U bent verbonden met %1$s, welke uw netwerkactiviteit kan bijhouden, inclusief e-mails, apps en websites."</string>
+  <string name="monitoring_description_personal_profile_named_vpn">Uw persoonlijke profiel is verbonden met %1$s, welke uw netwerkactiviteit kan bijhouden, inclusief e-mails, apps en websites.</string>
+  <string name="monitoring_description_two_named_vpns">"U bent verbonden met %1$s en %2$s, welke uw netwerkactiviteit kan bijhouden, inclusief e-mails, apps en websites."</string>
+  <string name="monitoring_description_vpn_settings">VPN instellingen openen</string>
+  <string name="monitoring_description_vpn_settings_separator">" "</string>
+  <string name="monitoring_subtitle_ca_certificate">CA certificaten</string>
+  <string name="monitoring_subtitle_network_logging">Netwerklogging</string>
+  <string name="monitoring_subtitle_vpn">VPN</string>
+  <string name="monitoring_title">Netwerkmonitoring</string>
+  <string name="monitoring_title_device_owned">Apparaatbeheer</string>
   <string name="mount_storage">Ja</string>
   <string name="nav_guide_cancel">Afwijzen</string>
   <string name="nav_guide_message">Gebaren gebruiken om de schermknop te verbergen/weer te geven.</string>
@@ -473,21 +499,21 @@
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Verbonden</string>
   <string name="quick_settings_connecting">Verbinden</string>
-  <string name="quick_settings_disclosure_managed_profile_monitoring">Your organization may monitor network traffic in your work profile</string>
-  <string name="quick_settings_disclosure_managed_profile_named_vpn">Work profile connected to %1$s</string>
-  <string name="quick_settings_disclosure_management">Device is managed by your organization</string>
-  <string name="quick_settings_disclosure_management_monitoring">Your organization manages this device and may monitor network traffic</string>
-  <string name="quick_settings_disclosure_management_named_vpn">Device is managed by your organization and connected to %1$s</string>
-  <string name="quick_settings_disclosure_management_vpns">Device is managed by your organization and connected to VPNs</string>
-  <string name="quick_settings_disclosure_monitoring">Network may be monitored</string>
-  <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s may monitor network traffic in your work profile</string>
-  <string name="quick_settings_disclosure_named_management">Device is managed by %1$s</string>
-  <string name="quick_settings_disclosure_named_management_monitoring">%1$s manages this device and may monitor network traffic</string>
-  <string name="quick_settings_disclosure_named_management_named_vpn">Device is managed by %1$s and connected to %2$s</string>
-  <string name="quick_settings_disclosure_named_management_vpns">Device is managed by %1$s and connected to VPNs</string>
-  <string name="quick_settings_disclosure_named_vpn">Device connected to %1$s</string>
-  <string name="quick_settings_disclosure_personal_profile_named_vpn">Personal profile connected to %1$s</string>
-  <string name="quick_settings_disclosure_vpns">Device connected to VPNs</string>
+  <string name="quick_settings_disclosure_managed_profile_monitoring">Uw organisatie zou netwerkverkeer in uw werkprofiel kunnen bijhouden</string>
+  <string name="quick_settings_disclosure_managed_profile_named_vpn">Werkprofiel verbonden met %1$s</string>
+  <string name="quick_settings_disclosure_management">Apparaat wordt beheerd door uw organisatie</string>
+  <string name="quick_settings_disclosure_management_monitoring">Uw organisatie beheerd dit apparaat en kan uw netwerkverkeer bijhouden</string>
+  <string name="quick_settings_disclosure_management_named_vpn">Apparaat wordt beheerd door uw organisatie en verbonden met %1$s</string>
+  <string name="quick_settings_disclosure_management_vpns">Apparaat wordt beheerd door uw organisatie en verbonden met VPNs</string>
+  <string name="quick_settings_disclosure_monitoring">Netwerkverkeer kan worden bijgehouden</string>
+  <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s kan netwerkverkeer in uw werkprofiel bijhouden</string>
+  <string name="quick_settings_disclosure_named_management">Apparaat wordt beheerd door %1$s</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">%1$s beheert dit apparaat en kan uw netwerkverkeer bijhouden</string>
+  <string name="quick_settings_disclosure_named_management_named_vpn">Apparaat wordt beheerd door %1$s en verbonden met %2$s</string>
+  <string name="quick_settings_disclosure_named_management_vpns">Apparaat wordt beheerd door %1$s en verbonden met VPNs</string>
+  <string name="quick_settings_disclosure_named_vpn">Apparaat verbonden met %1$s</string>
+  <string name="quick_settings_disclosure_personal_profile_named_vpn">Persoonlijk profiel verbonden met %1$s</string>
+  <string name="quick_settings_disclosure_vpns">Apparaat verbonden met VPNs</string>
   <string name="quick_settings_done">Gereed</string>
   <string name="quick_settings_more_settings">Meer instellingen</string>
   <string name="quick_settings_tiles_default">Wi-Fi,mobiel,batterij,niet storen,zaklamp,rotatie,bluetooth,vliegtuig,locatie</string>

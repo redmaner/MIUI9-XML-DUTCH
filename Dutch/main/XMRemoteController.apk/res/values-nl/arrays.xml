@@ -26,29 +26,29 @@
         <item>Kan ik Mi 3, Mi 2 en Redmi als IR afstandsbediening gebruiken?</item>
     </string-array>
 	<string-array name="voice_ac_help">
-        <item>Turn on Haier AC in the living room</item>
-        <item>Set the temperature to 25 degrees</item>
-        <item>Set wind direction to \"Up\"</item>
+        <item>Schakel Haier AC in de woonkamer in</item>
+        <item>Stel de temperatuur in op 25 degrees</item>
+        <item>Windrichting instellen op \"omhoog\"</item>
     </string-array>
     <string-array name="voice_fan_help">
-        <item>Turn on Gree AC</item>
-        <item>Switch to swinging mode</item>
-        <item>Make AC blow harder</item>
+        <item>Gree AC inschakelen</item>
+        <item>Wisselen naar draaien</item>
+        <item>AC harder laten draaien</item>
     </string-array>
     <string-array name="voice_stb_help">
-        <item>Turn on set-top box</item>
-        <item>I want to watch Hunan TV</item>
-        <item>Go back to channel 15</item>
+        <item>Set-top box inschakelen</item>
+        <item>Ik wil Hunan TV kijken</item>
+        <item>Terug naar kanaal 15</item>
     </string-array>
     <string-array name="voice_tips">
-        <item>Turn on AC</item>
-        <item>I want to watch Shenzhen TV</item>
-        <item>Go back to channel 12</item>
+        <item>AC inschakelen</item>
+        <item>Ik wil Shenzhen TV kijken</item>
+        <item>Terug naar kanaal 12</item>
     </string-array>
     <string-array name="voice_tv_help">
-        <item>Turn on TV in the bedroom</item>
-        <item>Turn off the TV</item>
-        <item>Turn up the volume on TV</item>
+        <item>TV in de slaapkamer inschakelen</item>
+        <item>TV uitschakelen</item>
+        <item>Volume van de TV harder zetten</item>
     </string-array>
 	<string-array name="assistant_tab">
         <item>Video</item>
@@ -72,10 +72,10 @@
     </string-array>
     <string-array name="epg_channel_tab_v53">
 	    <item>Alles</item>
-        <item>Recent</item>
-        <item>HD</item>
         <item>TV</item>
         <item>CCTV</item>
+		<item>HD</item>
+        <item>Recent</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>
