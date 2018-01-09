@@ -317,7 +317,6 @@
   <string name="fs_gesture_skip">Terug</string>
   <string name="fs_gesture_switch_recents_summary">Veeg vanaf de onderkant en wacht een seconde</string>
   <string name="fsg_demo_go_on">Learn</string>
-  <string name="fsg_demo_go_on">Doorgaan</string>
   <string name="gps_notification_found_text">Locatie bepaald met GPS</string>
   <string name="gps_notification_searching_text">Zoeken naar GPS</string>
   <string name="hdcp_checking_dialog_title">HDCP checking instellen</string>
