@@ -10,13 +10,13 @@
   <string name="add_to_album_bulk_result">%d mislukt</string>
   <string name="add_to_album_exist">Foto bevindt zich al in album</string>
   <string name="add_to_album_failed">Kon niet toevoegen aan album</string>
+  <string name="add_to_album_failed_with_reason">"Can't add to album. %1$s."</string>
   <string name="add_to_album_success">Toegevoegd aan album</string>
   <string name="add_to_album_tip">Cloudfoto\'s</string>
   <string name="add_to_favorites_failed">Kon niet toevoegen aan favorieten</string>
   <string name="add_to_secret_exist">Foto bevindt zich al in verborgen album</string>
   <string name="add_to_secret_fail">Kon niet toevoegen aan verborgen album</string>
   <string name="add_to_secret_failed_with_reason">"Kan niet toegevoegd worden aan verborgen album. %1$s."</string>
-  <string name="add_to_secret_failed_with_reason_and_count">"%2$s items kunnen niet toegevoegd worden aan verborgen album. %1$s."</string>
   <string name="add_to_secret_successful">Toegevoegd aan verborgen album</string>
   <string name="add_to_share_album_not_delete">Kan foto niet verwijderen van gedeeld album</string>
   <string name="added_to_favorites_tip">Toegevoegd aan album \"Favorieten\"</string>
@@ -548,6 +548,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="loading_image">Afbeelding laden…</string>
   <string name="loading_image_thumbnail">Thumbnail downloaden…</string>
   <string name="loading_members">Leden worden geladen s026</string>
+  <string name="loading_processing_tip">Processing photo…</string>
   <string name="loading_suspend">Download gepauzeerd: Wordt hervat bij een Wi-Fi verbinding</string>
   <string name="loading_video">Video downladen…</string>
   <string name="loading_video_fail_sync_without_network">Verbind met het netwerk om metadata te downloaden</string>
@@ -604,6 +605,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="open">Inschakelen</string>
   <string name="open_public_message">URL genereren om te delen met vrienden</string>
   <string name="open_public_title">Delen</string>
+  <string name="operate_processing_file_error">Wait until all photos are processed.</string>
   <string name="operation_add_album">Toevoegen aan album</string>
   <string name="operation_add_picture">Items toevoegen</string>
   <string name="operation_add_secret">Verbergen</string>
@@ -780,7 +782,6 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="remove_from_other_albums_tip">Dit album verwijderen uit andere albums?</string>
   <string name="remove_from_secret_fail">Kon niet verwijderen uit verborgen album</string>
   <string name="remove_from_secret_failed_with_reason">"Kan niet verwijderen uit verborgen album. %1$s."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items kunnen niet verwijderd worden uit verborgen album. %1$s."</string>
   <string name="remove_from_secret_successful">Verwijderd uit verborgen album</string>
   <string name="remove_to_album_title">Samenvoegen met</string>
   <string name="remove_to_other_album">Samenvoegen met een andere persoon</string>

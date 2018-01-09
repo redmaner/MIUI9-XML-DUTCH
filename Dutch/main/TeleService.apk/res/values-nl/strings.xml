@@ -1158,6 +1158,7 @@ U hebt nog %d pogingen over."</string>
   <string name="puk_lock_warning">Uw SIM kaart wordt vergrendelt bij de volgende mislukte poging.</string>
   <string name="puk_requested">Wachtwoord onjuist. PIN code geblokkeerd. PUK code aangevraagd.</string>
   <string name="puk_unlocked">Uw SIM kaart is gedeblokkeerd. Uw telefoon wordt ontgrendeld...</string>
+  <string name="quick_dial_setting_title">Quick dial</string>
   <string name="radio_off_during_emergency_call">Cannot enter airplane mode during an emergency call.</string>
   <string name="radio_off_error">Schakel de radio in voordat u deze instellingen bekijkt.</string>
   <string name="reading_settings">Instellingen lezen…</string>

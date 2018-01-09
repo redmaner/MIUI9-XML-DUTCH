@@ -12,6 +12,14 @@
         <item quantity="other">%d maanden</item>
         <item quantity="one">%d maand</item>
     </plurals>
+	<plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">"%2$d items can't be added to album. %1$s."</item>
+        <item quantity="one">"%2$d item can't be added to album. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d items can't be added to hidden album. %1$s."</item>
+        <item quantity="one">"%2$d item can't be added to hidden album. %1$s."</item>
+    </plurals>
     <plurals name="age_day">
         <item quantity="other">%d dagen</item>
         <item quantity="one">%d dag</item>
@@ -75,6 +83,10 @@
     <plurals name="face_count">
         <item quantity="other">%d foto\'s in totaal</item>
         <item quantity="one">%d foto in totaal</item>
+    </plurals>
+	<plurals name="fail_reason_processing_file">
+        <item quantity="other">Processing photos…</item>
+        <item quantity="one">Processing photo…</item>
     </plurals>
 	<plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d foto\'s die niet konden worden verwerkt zijn overgeslagen.</item>
@@ -204,6 +216,10 @@
         <item quantity="other">%d foto\'s in totaal</item>
         <item quantity="one">%d foto in totaal</item>
     </plurals>
+	<plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d items can't be removed from hidden album. %1$s."</item>
+        <item quantity="one">"%2$d item can't be removed from hidden album. %1$s."</item>
+    </plurals>
 	<plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d foto\'s toegevoegd aan \"%2$s\" en toegevoegd aan de database.</item>
         <item quantity="one">%1$d foto toegevoegd aan \"%2$s\" en toegevoegd aan de database.</item>
@@ -219,6 +235,10 @@
 	<plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">%1$d foto\'s verwijderd van \"%2$s\".</item>
         <item quantity="one">%1$d foto verwijderd van \"%2$s\".</item>
+    </plurals>
+	<plurals name="send_processing_files_error">
+        <item quantity="other">"Couldn't share. Still processing %d photos…"</item>
+        <item quantity="one">"Couldn't share. Still processing %d photo…"</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>

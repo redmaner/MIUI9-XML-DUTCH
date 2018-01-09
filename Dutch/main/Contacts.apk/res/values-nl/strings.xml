@@ -330,6 +330,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_minus_button">Verwijderen</string>
   <string name="description_plus_button">Plus</string>
   <string name="description_quick_contact_for">Snelcontact voor %1$s</string>
+  <string name="description_quick_dial_button">Quick dial</string>
   <string name="description_search_button">Zoeken</string>
   <string name="description_send_message">Bericht verzenden naar %1$s</string>
   <string name="description_send_text_message">Bericht verzenden naar %1$s</string>
@@ -385,6 +386,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialer_empty_text_loading">Een momentje…</string>
   <string name="dialer_empty_text_no_call_log">Geen recente contacten</string>
   <string name="dialer_empty_text_no_search_result">Geen contacten gevonden</string>
+  <string name="dialer_firewall_entry_name">Blocked call logs</string>
   <string name="dialer_menu_description">Menu\'s weergeven</string>
   <string name="dialer_menu_title">Menu opties</string>
   <string name="dialer_returnToInCallScreen">Terugkeren naar huidig gesprek</string>
@@ -793,6 +795,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="path_key_rebuild_t9_index_title">Systeemapps/Contacten/Contacten schikken/Indexdata opnieuw opbouwen</string>
   <string name="path_key_sim_manage">Systeemapps/Contacten/Contacten schikken/SIM kaarten</string>
   <string name="path_preference_contacts_filter">Systeemapps/Contacten/Voorkeursweergave/Contactlijsten configureren</string>
+  <string name="path_quick_dial_setting">System apps/Contacts/Quick dial</string>
   <string name="path_remove_duplicate">Systeemapps/Contacten/Contacten organiseren/Dubbele contacten samenvoegen</string>
   <string name="path_share_visible_contacts">Systeemapps/Contacten/Importeren/Contacten exporteren/Contacten delen</string>
   <string name="path_sim_capacity">Systeemapps/Contacten/SIM kaart opslag</string>
@@ -900,6 +903,12 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen</string>
   <string name="qr_card_card">QR code</string>
   <string name="qrcode_card_title">QR code</string>
+  <string name="quick_dial_setting_delete_dialog_message">Delete assigned quick dial number?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Delete</string>
+  <string name="quick_dial_setting_hint">Tap a button to assign or remove a quick dial number. Press and hold the button with an assigned number to dial.</string>
+  <string name="quick_dial_setting_set_dialog_message">Assign a quick dial number to this button?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Yes</string>
+  <string name="quick_dial_setting_title">Quick dial</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
   <string name="quit_dialog_confirm_message">U hebt geen enkel contact samengevoegd </string>
   <string name="quit_dialog_confirm_title">Samenvoegen contacten annuleren</string>
@@ -969,6 +978,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="search_key_rebuild_t9_index_title">Organiseren;Contacten;t9</string>
   <string name="search_key_sim_manage">Organiseren;Contacten</string>
   <string name="search_preference_contacts_filter">Contacten;Weergave</string>
+  <string name="search_quick_dial_setting">Contacts</string>
   <string name="search_remove_duplicate">Organiseren;Contacten</string>
   <string name="search_results_searching">Zoeken…</string>
   <string name="search_settings_description">Namen van uw contacten</string>

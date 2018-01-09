@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_info">Opnemen, tik om te stoppen</string>
   <string name="app_name">Schermrecorder</string>
+  <string name="app_notification_info">Screen Recorder is working in the background</string>
   <string name="app_notification_title">Schermrecorder</string>
   <string name="auto_stop_title">Video opgeslagen</string>
   <string name="battery_not_allowed" formatted="false">Kan niet opnemen wanneer batterij lager is dan 3%. Zorg ervoor dat de batterij minimaal voor 20% is opgeladen.</string>
@@ -34,8 +34,7 @@
   <string name="low_battery">Laad de telefoon op voordat je begint met opnemen</string>
   <string name="low_battery_title">Batterij laag</string>
   <string name="low_battery_warning">Batterij is bijna leeg. Opname is gestopt en video is opgeslagen.</string>
-  <string name="low_memory">Er is minder dan 200MB ruimte beschikbaar. Je kan tot 5 minuten opnemen.</string>
-  <string name="low_memory_dior">U heeft minder dan 500 MB beschikbare opslagruimte. U kunt nu maximaal 12 minuten opnemen.</string>
+  <string name="low_memory">You have less than 1GB of available storage. You can record up to 20 minutes now.</string>
   <string name="low_memory_title">Niet genoeg opslagruimte</string>
   <string name="low_momery_warning">Niet genoeg opslagruimte. Opname is gestopt en video is opgeslagen.</string>
   <string name="memory_not_allowed">Niet genoeg ruimte. Maak ruimte vrij om op te nemen.</string>
@@ -48,6 +47,7 @@
   <string name="quit_recording">Schermrecorder afsluiten</string>
   <string name="recording_failure">Kon niet opnemen, start een nieuwe schermopname</string>
   <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen omdat het bestand de maximumgrootte heeft bereikt. Als je nog niet klaar was kan je een nieuwe opname starten.</string>
+  <string name="recording_without_mic">Microphone is occupied and microphone sound cannot be recorded</string>
   <string name="resolution">Resolutie</string>
   <string name="resolution_summary">Video\'s met hogere resolutie zien er scherper uit</string>
   <string name="screen_orientation">Oriëntatie</string>
