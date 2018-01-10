@@ -25,7 +25,7 @@
   <string name="add_field">Nog een veld toevoegen</string>
   <string name="add_incall_show_entry">Video toevoegen</string>
   <string name="add_new_account">Nieuw account toevoegen</string>
-  <string name="add_new_entry_for_section">Nieuw toevoegen</string>
+  <string name="add_new_entry_for_section">Nieuwe toevoegen</string>
   <string name="add_organization">Organisatie toevoegen</string>
   <string name="add_to_my_contacts">Toevoegen aan mijn contacten</string>
   <string name="add_wait">Wacht toevoegen</string>
@@ -330,7 +330,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="description_minus_button">Verwijderen</string>
   <string name="description_plus_button">Plus</string>
   <string name="description_quick_contact_for">Snelcontact voor %1$s</string>
-  <string name="description_quick_dial_button">Quick dial</string>
+  <string name="description_quick_dial_button">Snelkeuzenummers</string>
   <string name="description_search_button">Zoeken</string>
   <string name="description_send_message">Bericht verzenden naar %1$s</string>
   <string name="description_send_text_message">Bericht verzenden naar %1$s</string>
@@ -386,9 +386,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialer_empty_text_loading">Een momentje…</string>
   <string name="dialer_empty_text_no_call_log">Geen recente contacten</string>
   <string name="dialer_empty_text_no_search_result">Geen contacten gevonden</string>
-  <string name="dialer_firewall_entry_name">Blocked call logs</string>
+  <string name="dialer_firewall_entry_name">Geblokkeerde oproepen</string>
   <string name="dialer_menu_description">Menu\'s weergeven</string>
-  <string name="dialer_menu_title">Menu opties</string>
+  <string name="dialer_menu_title">Opties</string>
   <string name="dialer_returnToInCallScreen">Terugkeren naar huidig gesprek</string>
   <string name="dialer_useDtmfDialpad">Gebruik toetsenblok</string>
   <string name="dialog_import">Contacten importeren</string>
@@ -400,9 +400,9 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="dialog_voicemail_airplane_mode_message">Om voicemail te gebruiken, moet u Vliegmodus uitzetten.</string>
   <string name="dialog_voicemail_not_ready_message">Om de voicemail in te stellen, ga naar het menu&gt; Instellingen.</string>
   <string name="directory_search_label">Adresboek</string>
-  <string name="disclaimer_text">"De gele gids krijgen de informatie over uw saldo door een sms te sturen. Uw provider kan deze informatie met een vertraging bijwerken, zodat de nummers die u krijgt mogelijk niet correct zijn. Als u een fout ziet, kunt u de aanvraag sms rapporteren om ons te helpen deze dienst te verbeteren. 
+  <string name="disclaimer_text">"De gele gids krijgt de informatie over uw saldo door een sms te sturen. Uw provider kan deze informatie met een vertraging bijwerken, zodat de nummers die u krijgt mogelijk niet correct zijn. Als u een fout ziet, kunt u de aanvraagsms rapporteren om ons te helpen deze dienst te verbeteren. 
 
-Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer per dag."</string>
+Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer per dag."</string>
   <string name="disclaimer_title">Disclaimer</string>
   <string name="display_all_contacts">Alle contacten</string>
   <string name="display_more_groups">Meer groepen…</string>
@@ -795,20 +795,20 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="path_key_rebuild_t9_index_title">Systeemapps/Contacten/Contacten schikken/Indexdata opnieuw opbouwen</string>
   <string name="path_key_sim_manage">Systeemapps/Contacten/Contacten schikken/SIM kaarten</string>
   <string name="path_preference_contacts_filter">Systeemapps/Contacten/Voorkeursweergave/Contactlijsten configureren</string>
-  <string name="path_quick_dial_setting">System apps/Contacts/Quick dial</string>
+  <string name="path_quick_dial_setting">Systeemapps/Contacten/Snelkeuzenummers</string>
   <string name="path_remove_duplicate">Systeemapps/Contacten/Contacten organiseren/Dubbele contacten samenvoegen</string>
   <string name="path_share_visible_contacts">Systeemapps/Contacten/Importeren/Contacten exporteren/Contacten delen</string>
   <string name="path_sim_capacity">Systeemapps/Contacten/SIM kaart opslag</string>
   <string name="path_simple_mode">Systeemapps/Contacten/Foto\'s en info weergeven</string>
   <string name="path_smart_group_title">Systeemapps/Contacten/Voorkeursweergave/Slimme groepen</string>
   <string name="path_wipe_data">Systeemapps/Contacten/Contacten schikken/Data wissen</string>
-  <string name="payphone">Betaal telefoon</string>
+  <string name="payphone">Betaaltelefoon</string>
   <string name="people">Contacten</string>
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Nummer is te lang</string>
   <string name="phone_primary">Primaire</string>
-  <string name="photoPickerNotFoundText">"Er zijn geen foto's beschikbaar op de telefoon."</string>
+  <string name="photoPickerNotFoundText">Er zijn geen foto\'s beschikbaar op de telefoon.</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_load_failed">Kon foto niet laden</string>
   <string name="pick_new_photo">Kies een foto uit %s</string>
@@ -903,12 +903,12 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="pull_to_refresh_release_label">Loslaten om te vernieuwen</string>
   <string name="qr_card_card">QR code</string>
   <string name="qrcode_card_title">QR code</string>
-  <string name="quick_dial_setting_delete_dialog_message">Delete assigned quick dial number?</string>
-  <string name="quick_dial_setting_delete_dialog_option_delete">Delete</string>
-  <string name="quick_dial_setting_hint">Tap a button to assign or remove a quick dial number. Press and hold the button with an assigned number to dial.</string>
-  <string name="quick_dial_setting_set_dialog_message">Assign a quick dial number to this button?</string>
-  <string name="quick_dial_setting_set_dialog_option_set">Yes</string>
-  <string name="quick_dial_setting_title">Quick dial</string>
+  <string name="quick_dial_setting_delete_dialog_message">Toegewezen snelkeuzenummer verwijderen?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Verwijderen</string>
+  <string name="quick_dial_setting_hint">Tik op een knop om snelkeuzenummer toe te wijzen of te verwijderen. Houd de knop ingedrukt om het toegewezen nummer te bellen.</string>
+  <string name="quick_dial_setting_set_dialog_message">Een snelkeuzenummer toewijzen aan deze knop?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Ja</string>
+  <string name="quick_dial_setting_title">Snelkeuzenummer</string>
   <string name="quickcontact_missing_app">Er is geen app gevonden om deze actie uit te voeren.</string>
   <string name="quit_dialog_confirm_message">U hebt geen enkel contact samengevoegd </string>
   <string name="quit_dialog_confirm_title">Samenvoegen contacten annuleren</string>
@@ -978,7 +978,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="search_key_rebuild_t9_index_title">Organiseren;Contacten;t9</string>
   <string name="search_key_sim_manage">Organiseren;Contacten</string>
   <string name="search_preference_contacts_filter">Contacten;Weergave</string>
-  <string name="search_quick_dial_setting">Contacts</string>
+  <string name="search_quick_dial_setting">Contacten</string>
   <string name="search_remove_duplicate">Organiseren;Contacten</string>
   <string name="search_results_searching">Zoeken…</string>
   <string name="search_settings_description">Namen van uw contacten</string>
@@ -989,9 +989,9 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="search_wipe_data">Organiseren;Contacten</string>
   <string name="searching_vcard_message">Zoeken naar vCardgegevens op SD kaart…</string>
   <string name="select_all">Selecteer alles</string>
-  <string name="select_all_exceed">Selecteer er niet meer dan %1$d, kan ze niet allemaal selecteren</string>
+  <string name="select_all_exceed">Teveel items geselecteerd. Selecteer er maximaal %1$d.</string>
   <string name="select_done">Niets meer om te selecteren</string>
-  <string name="select_exceed">Selecteer er niet meer dan %1$d</string>
+  <string name="select_exceed">Je kan maximaal %1$d items selecteren.</string>
   <string name="select_groups">Kies groepen</string>
   <string name="select_none">Niets geselecteerd</string>
   <string name="select_show_contacts">Contactenlijst</string>
@@ -1002,8 +1002,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo informatie een keer p
   <string name="separatorJoinAggregateSuggestions">Mogelijke contacten</string>
   <string name="service_more">Meer</string>
   <string name="service_provider">Adresboek</string>
-  <string name="service_provider_detail">Adresboek details</string>
-  <string name="set_data_package">Stel eerst dataplan in</string>
+  <string name="service_provider_detail">Adresboekdetails</string>
+  <string name="set_data_package">Stel eerst je databundel in</string>
   <string name="set_default">Standaardinstellingen herstellen</string>
   <string name="set_photo_failed_msg">Kon foto niet toewijzen</string>
   <string name="share_error">Dit contact kan niet worden gedeeld</string>

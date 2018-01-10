@@ -1145,8 +1145,8 @@ U hebt nog %d pogingen over."</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
   <string name="proximity_mode_title">Nabijheidssensor inschakelen</string>
-  <string name="proximity_off_summary">Wanneer je een oproep beantwoord, zal het scherm altijd inschakelen.</string>
-  <string name="proximity_on_summary">Wanneer je een oproep beantwoord, zal het scherm uitblijven om batterij te besparen.</string>
+  <string name="proximity_off_summary">Wanneer je een oproep beantwoordt, zal het scherm altijd inschakelen.</string>
+  <string name="proximity_on_summary">Wanneer je een oproep beantwoordt, zal het scherm uitblijven om batterij te besparen.</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adres voor uitgaande proxy</string>
   <string name="pstn_connection_service_label">Ingebouwde SIM kaarten</string>
@@ -1158,8 +1158,8 @@ U hebt nog %d pogingen over."</string>
   <string name="puk_lock_warning">Uw SIM kaart wordt vergrendelt bij de volgende mislukte poging.</string>
   <string name="puk_requested">Wachtwoord onjuist. PIN code geblokkeerd. PUK code aangevraagd.</string>
   <string name="puk_unlocked">Uw SIM kaart is gedeblokkeerd. Uw telefoon wordt ontgrendeld...</string>
-  <string name="quick_dial_setting_title">Quick dial</string>
-  <string name="radio_off_during_emergency_call">Cannot enter airplane mode during an emergency call.</string>
+  <string name="quick_dial_setting_title">Snelkeuzenummers</string>
+  <string name="radio_off_during_emergency_call">Kan vliegmodus niet inschakelen tijdens een noodoproep.</string>
   <string name="radio_off_error">Schakel de radio in voordat u deze instellingen bekijkt.</string>
   <string name="reading_settings">Instellingen lezen…</string>
   <string name="regional_disable">Regionaal nieuws uitgeschakeld</string>

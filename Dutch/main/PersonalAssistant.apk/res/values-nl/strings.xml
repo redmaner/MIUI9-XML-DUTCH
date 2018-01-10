@@ -325,7 +325,7 @@ Controleer het trackingnummer."</string>
   <string name="express_inquiry_status_unknown">Onbekend</string>
   <string name="express_install_cainiao_description">%s vereist dat u de Cainiao app installeert. Nu installeren?</string>
   <string name="express_install_cainiao_hidden">Niet opnieuw weergeven</string>
-  <string name="express_install_cainiao_not_found">Not find Mimarket</string>
+  <string name="express_install_cainiao_not_found">Mimarket niet geinstalleerd</string>
   <string name="express_install_cainiao_ok">Installeren</string>
   <string name="express_install_cainiao_title">Installeer Cainiao</string>
   <string name="express_install_delivery_service">Track je bestellingen, neem contact op met de bezorger en meer.</string>
