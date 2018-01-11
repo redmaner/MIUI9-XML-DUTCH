@@ -12,12 +12,6 @@
         <item>Meest gebruikt</item>
         <item>Grootte</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>Dagelijks</item>
-        <item>Elke 3 dagen</item>
-        <item>Elke 7 dagen</item>
-		<item>Elke 15 dagen</item>
-    </string-array>
     <string-array name="auto_process_mode">
         <item>Alleen melden</item>
         <item>Automatisch wissen</item>
