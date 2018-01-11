@@ -67,11 +67,11 @@
         <item quantity="one">Over %d dag</item>
     </plurals>
 	<plurals name="express_history_dialog_delete_message">
-        <item quantity="other">Delete %s items from express?</item>
-        <item quantity="one">Delete %s item from express?</item>
+        <item quantity="other">%s items verwijderen van express?</item>
+        <item quantity="one">%s item verwijderen van express?</item>
     </plurals>
     <plurals name="express_history_menu_select_num">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">%s items geselecteerd</item>
+        <item quantity="one">%s item geselecteerd</item>
     </plurals>
 </resources>

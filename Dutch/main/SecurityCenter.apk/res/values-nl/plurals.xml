@@ -115,12 +115,12 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">Gedownload door %1$d personen</item>
     </plurals>
 	<plurals name="gb_ad_people_play">
-        <item quantity="other">%1$d people are playing</item>
-        <item quantity="one">%1$d person is playing</item>
+        <item quantity="other">%1$d mensen zijn aan het spelen</item>
+        <item quantity="one">%1$d persoon is aan het spelen</item>
     </plurals>
     <plurals name="gb_ad_ten_thousand_people_play">
-        <item quantity="other">%1$d people are playing</item>
-        <item quantity="one">%1$d person is playing</item>
+        <item quantity="other">%1$d mensen zijn aan het spelen</item>
+        <item quantity="one">%1$d persoon is aan het spelen</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d keer bekeken</item>

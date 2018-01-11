@@ -13,12 +13,12 @@
         <item quantity="one">%d maand</item>
     </plurals>
 	<plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be added to album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be added to album. %1$s."</item>
+        <item quantity="other">"%2$d items kunnen niet worden toegevoegd aan album. %1$s."</item>
+        <item quantity="one">"%2$d item kan niet worden toegevoegd aan album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be added to hidden album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be added to hidden album. %1$s."</item>
+        <item quantity="other">"%2$d items kunnen niet worden toegevoegd aan verborgen album. %1$s."</item>
+        <item quantity="one">"%2$d item kan niet worden toegevoegd aan verborgen album. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d dagen</item>
@@ -85,8 +85,8 @@
         <item quantity="one">%d foto in totaal</item>
     </plurals>
 	<plurals name="fail_reason_processing_file">
-        <item quantity="other">Processing photos…</item>
-        <item quantity="one">Processing photo…</item>
+        <item quantity="other">Foto\'s verwerken…</item>
+        <item quantity="one">Foto verwerken…</item>
     </plurals>
 	<plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d foto\'s die niet konden worden verwerkt zijn overgeslagen.</item>
@@ -217,8 +217,8 @@
         <item quantity="one">%d foto in totaal</item>
     </plurals>
 	<plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be removed from hidden album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be removed from hidden album. %1$s."</item>
+        <item quantity="other">"%2$d items kunnen niet worden verwijderen van verborgen album. %1$s."</item>
+        <item quantity="one">"%2$d item kan niet worden verwijderd van verborgen album. %1$s."</item>
     </plurals>
 	<plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d foto\'s toegevoegd aan \"%2$s\" en toegevoegd aan de database.</item>
@@ -237,8 +237,8 @@
         <item quantity="one">%1$d foto verwijderd van \"%2$s\".</item>
     </plurals>
 	<plurals name="send_processing_files_error">
-        <item quantity="other">"Couldn't share. Still processing %d photos…"</item>
-        <item quantity="one">"Couldn't share. Still processing %d photo…"</item>
+        <item quantity="other">Kon niet delen. Er worden nog %d foto\'s verwerkt…</item>
+        <item quantity="one">Kon niet delen. Er wordt nog %d foto verwerkt…</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>

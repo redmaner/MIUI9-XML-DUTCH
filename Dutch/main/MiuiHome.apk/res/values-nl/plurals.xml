@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="announce_for_drag">
-        <item quantity="other">dragging %1$d items</item>
-        <item quantity="one">dragging</item>
+        <item quantity="other">%1$d items slepen</item>
+        <item quantity="one">1 item slepen</item>
     </plurals>
 	<plurals name="delete_wallpapers_message">
         <item quantity="other">%1$d achtergronden verwijderen?</item>
