@@ -109,7 +109,6 @@
   <string name="cancel">Annuleren</string>
   <string name="category_personal">Privé</string>
   <string name="category_work">Werk</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="charge_length_format">%1$s geleden</string>
   <string name="choose_profile">Kies profiel</string>
   <string name="clear_adb_keys">Trek USB debugging autorisaties in</string>
@@ -370,7 +369,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="select_webview_provider_title">WebView uitvoering</string>
   <string name="select_webview_provider_toast_text">Deze keuze is niet langer geldig. Probeer opnieuw.</string>
   <string name="settings">Instellingen</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Alle ANRs weergeven</string>
   <string name="show_all_anrs_summary">App reageert niet melding voor achtergrondapps weergeven</string>
   <string name="show_cpu_usage">CPU gebruik weergeven</string>

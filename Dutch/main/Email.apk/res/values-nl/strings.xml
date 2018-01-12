@@ -528,7 +528,6 @@ Nu bijwerken?"</string>
   <string name="info_switch_title">Promotie</string>
   <string name="inline_picture_deleted">Downloaden van ontbrekende afbeelding…</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="interact_with_server_error">Kon niet verbinden met de server</string>
   <string name="invalid_recipient">Het adres %s is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers Error</string>

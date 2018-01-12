@@ -287,7 +287,6 @@
   <string name="express_goods_detail">Orderdetails</string>
   <string name="express_icon_tip">Ontvang trackininformatie met je telefoonnummer en orderinformatie.</string>
   <string name="express_icon_tip_link">Veiligheid &amp; privacy</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Koeriersservice</string>
   <string name="express_inquiry">Tracken</string>
   <string name="express_inquiry_and_send">Tracken en versturen</string>
@@ -350,7 +349,6 @@ Controleer het trackingnummer."</string>
   <string name="express_order_failed">Mislukt</string>
   <string name="express_order_ongoing">Bestellen…</string>
   <string name="express_order_result">Resultaat</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Geaccepteerd</string>
   <string name="express_order_state_allograph">Getekend</string>
   <string name="express_order_state_cancelled">Geannuleerd</string>
@@ -765,7 +763,6 @@ Controleer het trackingnummer."</string>
   <string name="pie_chart_label_catering">Eten:</string>
   <string name="pie_chart_label_education">Onderwijs:</string>
   <string name="pie_chart_label_entertainment">Entertainment:</string>
-  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Rekening delen:</string>
   <string name="pie_chart_label_life">Leven:</string>
   <string name="pie_chart_label_medical">Gezondheidszorg:</string>

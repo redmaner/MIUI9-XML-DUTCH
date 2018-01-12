@@ -866,7 +866,6 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="cellular_to_wlan_hint_title">Mobiel-&gt;Wi-Fi hint</string>
   <string name="cellular_to_wlan_hint_toast">Mobiel-&gt;Wi-Fi verbinding kan worden beïnvloed</string>
   <string name="cellular_to_wlan_title">Mobiel-&gt;Wi-Fi</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Wijzigen</string>
   <string name="change_password">Vergrendelmethode</string>
   <string name="change_security_lock">Probeer andere manieren om te ontgrendelen</string>
