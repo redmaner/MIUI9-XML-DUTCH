@@ -47,7 +47,7 @@
   <string name="auto_clean_time_every_day">Dagelijks</string>
   <string name="auto_clean_time_fifteen_day">Elke 15 dagen</string>
   <string name="auto_clean_time_seven_day">Elke 7 dagen</string>
-  <string name="auto_clean_time_three_day">Elke 15 dagen</string>
+  <string name="auto_clean_time_three_day">Elke 3 dagen</string>
   <string name="auto_cleaner_open">Inschakelen</string>
   <string name="back">Terug</string>
   <string name="browser_scan_history_desc">Browsergeschiedenis</string>
