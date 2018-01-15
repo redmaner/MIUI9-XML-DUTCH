@@ -1306,7 +1306,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_btn_analyze">Batterijverbruik analyseren</string>
   <string name="power_cell">Mobiel netwerk</string>
   <string name="power_center_auto_shutdown">Schema voor in-/uitschakelen</string>
-  <string name="power_center_back">Back power</string>
+  <string name="power_center_back">Terug</string>
   <string name="power_center_charge_time">%1$stot volledig opgeladen</string>
   <string name="power_center_ontime_boot">Opstarten op een tijdstip</string>
   <string name="power_center_ontime_shutdown">Uitschakelen op een tijdstip</string>

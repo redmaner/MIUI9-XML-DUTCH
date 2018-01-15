@@ -70,7 +70,7 @@ U moet akkoord gaan met onze Algemene voorwaarden en Privacybeleid voordat u MIU
 U moet akkoord gaan met onze Algemene voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat vinden, startscherm, gamecenter, MiuiDaemon, MAB en MSA systeemcomponenten, webapps, quick cards, statistieken, smart cards, Mi Link, Mi Account componenten en Google Play Services zullen verbinding maken met internet en toegang tot uw locatie krijgen."</string>
   <string name="title_fingerprint">Wachtwoord instellen</string>
   <string name="user_agreement">Algemene voorwaarden</string>
-  <string name="voice_assist_desp">Say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
-  <string name="voice_assist_title">Wake with voice</string>
+  <string name="voice_assist_desp">Zeg \"Mi AI\". Mi AI zal je stem herkennen en vervolgens kan je je apparaat controleren.</string>
+  <string name="voice_assist_title">Ontwaken met je stem</string>
   <string name="welcome">Welkom</string>
 </resources>

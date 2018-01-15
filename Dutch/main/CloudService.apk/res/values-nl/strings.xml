@@ -158,11 +158,11 @@ Laatst geback-upt op %2$s"</string>
   <string name="micloud_all_sub_resend_sms">"Wanneer u 'Apparaat vinden' ingeschakeld hebt zal een activatie SMS verzonden worden nadat u uw SIM kaart hebt verwisseld.</string>
   <string name="micloud_battery_low_notification_message">Verbind oplader om te synchroniseren</string>
   <string name="micloud_battery_low_notification_title">Batterij bijna leeg</string>
-  <string name="micloud_buy_member">Get more Mi Cloud storage</string>
+  <string name="micloud_buy_member">Meer Mi Cloud opslag verkrijgen</string>
   <string name="micloud_buy_member_safe">Mi Cloud opslag uitbreiden</string>
   <string name="micloud_check_sim_notify_text">Je hebt SIM kaarten veranderd. Log in 
 op uw Mi account om je Mi Cloud te heractiveren</string>
-  <string name="micloud_check_sim_notify_title">Heractiveer Mi Cloud</string>
+  <string name="micloud_check_sim_notify_title">Mi Cloud opnieuw activeren</string>
   <string name="micloud_check_sim_title">Je hebt SIM kaarten veranderd. Log in
 op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_confusion_account_hint">"Wijzigingen die u op dit apparaat maakt worden gesync. met al uw apparaten. Om uw account te beschermen, raden wij u af synchroniseren van andere apparaten uit te schakelen wanneer u ze niet gebruikt."</string>
@@ -266,8 +266,8 @@ of apparaat te wissen."</string>
   <string name="micloud_find_device_verify_progress">Apparaat vinden heractiveren…</string>
   <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. Wanneer uw cloud vol is, zullen de oude gegevens niet verwijderd worden. Maar alle nieuwe gegevens die u toevoegt(bijvoorbeeld foto's, video's, notities en apps) worden niet meer geback-upt. Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
-  <string name="micloud_main_battery_low">Batterij te laag om te sync.</string>
-  <string name="micloud_main_battery_message">"Verbind apparaat met oplader om te sync."</string>
+  <string name="micloud_main_battery_low">Batterij te laag om te synchroniseren</string>
+  <string name="micloud_main_battery_message">"Verbind apparaat met oplader om te synchroniseren"</string>
   <string name="micloud_main_button_activate">Activeren</string>
   <string name="micloud_main_button_authorize">Autoriseren</string>
   <string name="micloud_main_button_set_internet">Instellingen</string>
@@ -277,11 +277,11 @@ of apparaat te wissen."</string>
   <string name="micloud_main_error_activated_fail">SIM kaart activeren.</string>
   <string name="micloud_main_error_network_disallowed">Zorg ervoor dat u toegang hebt tot het internet.</string>
   <string name="micloud_main_error_permission_limit">Sta Mi Cloud toe om de opslag te gebruiken.</string>
-  <string name="micloud_main_head_menu_cloud_backup">Home screen backup</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">Restore deleted items</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">Deleted items</string>
-  <string name="micloud_main_head_menu_state_close">Off</string>
-  <string name="micloud_main_head_menu_state_open">On</string>
+  <string name="micloud_main_head_menu_cloud_backup">Startschermback-up</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Verwijderde items herstellen</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Verwijderde items</string>
+  <string name="micloud_main_head_menu_state_close">Uit</string>
+  <string name="micloud_main_head_menu_state_open">Aan</string>
   <string name="micloud_main_head_menu_state_unavailable">Niet beschikbaar</string>
   <string name="micloud_main_last_sync_time">Laatst gesynchroniseerd %s</string>
   <string name="micloud_main_master_sync_on">Synchronisatie aan</string>
