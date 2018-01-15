@@ -5,7 +5,7 @@
         <item quantity="one">%1$d oproep van %2$s</item>
     </plurals>
 	<plurals name="fw_blocked_count_call_one">
-        <item quantity="other">%1$d oproepen van %2$s aen anderen</item>
+        <item quantity="other">%1$d oproepen van %2$s en anderen</item>
         <item quantity="one">%1$d oproep van %2$s</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">

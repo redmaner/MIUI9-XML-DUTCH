@@ -143,7 +143,6 @@
   <string name="continue_backup">Doorgaan</string>
   <string name="cp_info_first">Online muziekstreamingdienst wordt voornamelijk 
 verzorgd door Ultimate Inc.</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">Kon bestellingen niet maken, probeer opnieuw</string>
   <string name="create_playlist">Afspeellijst maken</string>
   <string name="create_playlist_failure">Kon geen afspeellijst maken</string>

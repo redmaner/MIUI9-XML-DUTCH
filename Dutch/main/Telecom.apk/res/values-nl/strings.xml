@@ -283,7 +283,6 @@
   <string name="select_webview_provider_dialog_title">WebView uitvoering selecteren</string>
   <string name="select_webview_provider_title">WebView uitvoering</string>
   <string name="select_webview_provider_toast_text">Deze keuze is niet langer geldig. Probeer opnieuw.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Alle ANRs weergeven</string>
   <string name="show_all_anrs_summary">App reageert niet melding voor achtergrondapps weergeven</string>
   <string name="show_cpu_usage">CPU gebruik weergeven</string>
