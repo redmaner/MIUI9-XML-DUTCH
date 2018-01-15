@@ -158,7 +158,7 @@ Laatst geback-upt op %2$s"</string>
   <string name="micloud_all_sub_resend_sms">"Wanneer u 'Apparaat vinden' ingeschakeld hebt zal een activatie SMS verzonden worden nadat u uw SIM kaart hebt verwisseld.</string>
   <string name="micloud_battery_low_notification_message">Verbind oplader om te synchroniseren</string>
   <string name="micloud_battery_low_notification_title">Batterij bijna leeg</string>
-  <string name="micloud_buy_member">Mi Cloud lidmaatschap kopen</string>
+  <string name="micloud_buy_member">Get more Mi Cloud storage</string>
   <string name="micloud_buy_member_safe">Mi Cloud opslag uitbreiden</string>
   <string name="micloud_check_sim_notify_text">Je hebt SIM kaarten veranderd. Log in 
 op uw Mi account om je Mi Cloud te heractiveren</string>
@@ -277,11 +277,11 @@ of apparaat te wissen."</string>
   <string name="micloud_main_error_activated_fail">SIM kaart activeren.</string>
   <string name="micloud_main_error_network_disallowed">Zorg ervoor dat u toegang hebt tot het internet.</string>
   <string name="micloud_main_error_permission_limit">Sta Mi Cloud toe om de opslag te gebruiken.</string>
-  <string name="micloud_main_head_menu_cloud_backup">Cloud back-up</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">Contacten en foto\'s terugzetten</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">Prullenbak</string>
-  <string name="micloud_main_head_menu_state_close">Gesloten</string>
-  <string name="micloud_main_head_menu_state_open">Geopend</string>
+  <string name="micloud_main_head_menu_cloud_backup">Home screen backup</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Restore deleted items</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Deleted items</string>
+  <string name="micloud_main_head_menu_state_close">Off</string>
+  <string name="micloud_main_head_menu_state_open">On</string>
   <string name="micloud_main_head_menu_state_unavailable">Niet beschikbaar</string>
   <string name="micloud_main_last_sync_time">Laatst gesynchroniseerd %s</string>
   <string name="micloud_main_master_sync_on">Synchronisatie aan</string>
