@@ -51,9 +51,9 @@
   <string name="action_menu_toolbox">Tools</string>
   <string name="action_menu_useful_page">Snelkoppeling toevoegen</string>
   <string name="action_menu_useful_page_added">Toegevoegd aan startpagina</string>
-  <string name="action_menu_user_center">Profile</string>
+  <string name="action_menu_user_center">Profiel</string>
   <string name="action_modify_bookmark">Bladwijzer bewerken</string>
-  <string name="action_put_in_search_box">Zet %s in de zoekbalk</string>
+  <string name="action_put_in_search_box">%s in de zoekbalk zetten</string>
   <string name="actionbar_share">Delen</string>
   <string name="actionbar_textselection_title">Tekstselectie</string>
   <string name="actionbar_web_search">Voer URL in of zoeken op het web</string>
@@ -386,7 +386,7 @@ Deze pagina verlaten?"</string>
   <string name="keep_queued_download">Houden</string>
   <string name="last_month">Laatste maand</string>
   <string name="license_activity_title">Systeem WebView licenties</string>
-  <string name="loading_dialog_title">Moving…</string>
+  <string name="loading_dialog_title">Verplaatsen…</string>
   <string name="loading_tips">Naar beneden trekken om te vernieuwen</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Kon niet inloggen, vernieuw en probeer opnieuw</string>
@@ -566,8 +566,8 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="ok">OK</string>
   <string name="older">Ouder</string>
   <string name="open_app_confirm_message">Deze pagina toestaan om %s te openen?</string>
-  <string name="open_cloud_sync">Turn on sync with Mi Cloud</string>
-  <string name="open_cloud_sync_desc">Added bookmark successfully. Turn on sync with Mi Cloud to sync bookmarks added on other devices. Sign in and turn on?</string>
+  <string name="open_cloud_sync">Synchronisatie met Mi Cloud inschakelen</string>
+  <string name="open_cloud_sync_desc">Bladwijzer toegevoegd. Schakel synchronisatie met Mi Cloud in om bladwijzers toegevoegd op andere apparaten te synchroniseren. Inloggen en inschakelen?</string>
   <string name="open_file_explorer_failed">Kan File Explorer niet openen.</string>
   <string name="open_voice_permission">Spraak netwerktoestemming openen</string>
   <string name="opening_file_error">Kon geselecteerde bestand niet openen</string>
@@ -816,7 +816,7 @@ We gebruiken de gegevens die we verzamelen voor:
 2. Inhoud: Je gegevens helpen ons om relevante gelokaliseerde nieuwsinhoud te tonen.
 Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoord gaan met de %2$s en %1$s om de broswer te kunnen gebruiken.​"</string>
   <string name="show_security_tip_dialog_title">Privacybeleid</string>
-  <string name="sign_and_open">Sign in and turn on</string>
+  <string name="sign_and_open">Inloggen en inschakelen</string>
   <string name="sign_in_to" formatted="false">Aanmelden op %s1 \"%s2\"</string>
   <string name="skip_button_label">Overslaan</string>
   <string name="skip_current_version">Deze versie overslaan</string>
@@ -824,7 +824,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="snapshot_failed">Kon pagina niet opslaan</string>
   <string name="snapshot_successed">Open Bladwijzers &amp; Geschiedenis -&gt; LOKAAL om pagina te bekijken</string>
   <string name="soft_toast_see_view">Bekijken</string>
-  <string name="speech_engine_not_install">Speech engine is not installed</string>
+  <string name="speech_engine_not_install">Spraakengine is niet geinstalleerd</string>
   <string name="ssl_bad_clock_date_settings">Datum instellen</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Een priveverbinding met %s1 kan niet worden opgezet omdat de datum en tijd van uw apparaat (%s2) verkeerd zijn ingesteld."</string>
   <string name="ssl_certificate">Veiligheidscertificaat</string>
@@ -864,14 +864,14 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="switchText">JA</string>
   <string name="switch_proxy_dialog_msg">Netwerkkaping gedetecteerd. Gebruik MIUI\'s ingebouwde beveiliging app of meld dit bij uw mobiele provider.</string>
   <string name="switch_proxy_dialog_title">Netwerkkaping</string>
-  <string name="sync_and_backup_bookmark">Sync and back up bookmarks</string>
-  <string name="sync_and_backup_history">Sync and back up history</string>
+  <string name="sync_and_backup_bookmark">Bladwijzers synchroniseren en back-uppen</string>
+  <string name="sync_and_backup_history">Geschiedenis synchroniseren en back-uppen</string>
   <string name="sync_cloud_tabs">Synchroniseren</string>
   <string name="tab_hotpage">Nieuwsoverzicht</string>
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
-  <string name="temp_refuse">No thanks</string>
+  <string name="temp_refuse">Nee bedankt</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_pm">PM</string>
   <string name="time_picker_dialog_title">Tijd instellen</string>

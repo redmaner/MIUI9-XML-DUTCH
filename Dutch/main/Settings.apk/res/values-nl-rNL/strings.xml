@@ -4136,7 +4136,7 @@ U kan een draagbare Wi-Fi hotspot van uw Android apparaat maken om de internetve
   <string name="title_font_current2">Systeemlettertype</string>
   <string name="title_font_size">Lettergrootte</string>
   <string name="title_hdmi_color_calibration">Kleurcorrectie voorkeuze</string>
-  <string name="title_jeejen">Jeejen Home screen</string>
+  <string name="title_jeejen">Jeejen startscherm</string>
   <string name="title_layout_current">Tekstgrootte</string>
   <string name="title_layout_current2">Tekstgrootte</string>
   <string name="title_local_resource">Lokale bronnen</string>
@@ -4267,7 +4267,7 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
 
 Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw profiel niet ontgrendelen, aankopen autoriseren of u aanmelden bij apps."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">De beveiligingsfuncties voor profielen werken niet zonder uw pincode.</string>
-  <string name="unlock_disable_frp_warning_content_profile">"Profile protection features won't work without your password."</string>
+  <string name="unlock_disable_frp_warning_content_profile">"De beveiligingsfuncties voor profielen werken niet zonder uw wahtwoord."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Apparaatveiligheidsfucnties zullen niet werken zonder uw schermvergrendeling.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw schermvergrendeling.
 

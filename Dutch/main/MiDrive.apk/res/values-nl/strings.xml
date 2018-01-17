@@ -25,10 +25,10 @@
   <string name="downloading">Bezig met downloaden</string>
   <string name="downloading_in_3g">Bezig met downloaden op 3G…</string>
   <string name="downloading_in_wifi">Bezig met downloaden…</string>
-  <string name="drive_low_memory_description_content">"Can't use Mi Drive due to insufficient storage space."</string>
-  <string name="drive_low_memory_description_title">Insufficient storage</string>
-  <string name="drive_low_memory_description_toast">"Can't use Mi Drive due to insufficient storage space. Free up space and try again."</string>
-  <string name="drive_low_memory_positive_content">Free up</string>
+  <string name="drive_low_memory_description_content">Kan Mi Drive niet gebruiken vanwege te weinig opslagruimte.</string>
+  <string name="drive_low_memory_description_title">Niet genoeg opslagruimte</string>
+  <string name="drive_low_memory_description_toast">Kan Mi Drive niet gebruiken vanwege te weinig opslagruimte. Maak wat ruimte vrij en probeer opnieuw.</string>
+  <string name="drive_low_memory_positive_content">Ruimte vrijmaken</string>
   <string name="empty_file_download">Lege bestanden worden niet ondersteund</string>
   <string name="empty_file_upload">Lege bestanden worden niet ondersteund</string>
   <string name="file_already_downlaoded">Bestand opslaan naar \"%1$s\"</string>

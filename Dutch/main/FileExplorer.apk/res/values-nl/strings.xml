@@ -6,7 +6,6 @@
   <string name="activity_parse_video_title">Video link plakken</string>
   <string name="ad_download">Downloaden</string>
   <string name="ad_downloading">Laden…</string>
-  <string name="add_one">+1</string>
   <string name="add_private">Bestanden nu verbergen</string>
   <string name="add_private_files">Bestanden toevoegen</string>
   <string name="album_creator">Gemaakt door %s</string>
@@ -458,7 +457,7 @@
   <string name="phone_storage_image_title">Afbeeldingen: </string>
   <string name="phone_storage_info_str">%1$s van %2$s beschikbaar</string>
   <string name="phone_storage_other_title">Andere: </string>
-  <string name="phone_storage_size_tip">"Mi File Manager's storage accounting may differ from other apps"</string>
+  <string name="phone_storage_size_tip">De opslaggroottes die Mi File Manager toont kunnen verschillen met andere apps</string>
   <string name="phone_storage_video_title">Video\'s: </string>
   <string name="phone_storage_zip_title">Archieven: </string>
   <string name="phone_valid_code_tip">De code is te vaak ingevoerd, probeer een nieuwe te verkrijgen</string>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="actionbar_large_unread_count">
-        <item quantity="other">%1$d+ unread</item>
-        <item quantity="one">%1$d+ unread</item>
+        <item quantity="other">%1$d+ ongelezen</item>
+        <item quantity="one">%1$d+ ongelezen</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d ongelezen berichten</item>
-		<item quantity="one">%1$d unread</item>
+		<item quantity="one">%1$d ongelezen berichten</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d conversaties archiveren?</item>
@@ -85,20 +85,20 @@
         <item quantity="one">%1$d bericht wordt permanent verwijderd.</item>
     </plurals>
 	<plurals name="hide_atts_remaining">
-        <item quantity="other">Hide %1$d attachments</item>
-        <item quantity="one">Hide %1$d attachment</item>
+        <item quantity="other">%1$d bijlagen verbergen</item>
+        <item quantity="one">%1$d bijlage verbergen</item>
     </plurals>
     <plurals name="local_search_result">
-        <item quantity="other">%s results in synced messages</item>
-        <item quantity="one">%s result in synced messages</item>
+        <item quantity="other">%s resultaten in gesynchroniseerde berichten</item>
+        <item quantity="one">%s resultaat in gesynchroniseerde berichten</item>
     </plurals>
 	<plurals name="month">
         <item quantity="other">%d maanden</item>
         <item quantity="one">%d maand</item>
     </plurals>
 	<plurals name="more_atts_remaining">
-        <item quantity="other">%1$d attachments remaining</item>
-        <item quantity="one">%1$d attachment remaining</item>
+        <item quantity="other">%1$d bijlagen resterend</item>
+        <item quantity="one">%1$d bijlage resterend</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">%1$d conversaties verplaatsen</item>
@@ -109,8 +109,8 @@
         <item quantity="one">%1$d nieuw bericht</item>
     </plurals>
 	<plurals name="new_messages">
-        <item quantity="other">%1$d new messages</item>
-        <item quantity="one">%1$d new message</item>
+        <item quantity="other">%1$d nieuwe berichten</item>
+        <item quantity="one">%1$d nieuw bericht</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d items geselecteerd</item>
@@ -121,15 +121,15 @@
         <item quantity="one">%1$d persoon beantwoorden</item>
     </plurals>
     <plurals name="remote_search_result">
-        <item quantity="other">%s results in all accounts</item>
-        <item quantity="one">%s result in all accounts</item>
+        <item quantity="other">%s resultaten in alle accounts</item>
+        <item quantity="one">%s resultaat in alle accounts</item>
     </plurals>
 	<plurals name="show_messages_read">
-        <item quantity="other">%1$d older messages</item>
-        <item quantity="one">%1$d older message</item>
+        <item quantity="other">%1$d oudere berichten</item>
+        <item quantity="one">%1$d ouder bericht</item>
     </plurals>
     <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%1$s unsent messages in %2$s</item>
-        <item quantity="one">%1$s unsent message in %2$s</item>
+        <item quantity="other">%1$s niet verzonden berichten in %2$s</item>
+        <item quantity="one">%1$s niet verzonden bericht in %2$s</item>
     </plurals>
 </resources>

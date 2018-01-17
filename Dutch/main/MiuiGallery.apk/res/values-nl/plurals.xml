@@ -241,16 +241,16 @@
         <item quantity="one">Kon niet delen. Er wordt nog %d foto verwerkt…</item>
     </plurals>
 	<plurals name="slim_complete_photo_count">
-        <item quantity="other">Optimized %d photos</item>
-        <item quantity="one">Optimized %d photo</item>
+        <item quantity="other">%d foto\'s geoptimaliseerd</item>
+        <item quantity="one">%d foto geoptimaliseerd</item>
     </plurals>
     <plurals name="slim_exit_dialog_message">
-        <item quantity="other">"%d photos haven't been optimized. Stop now?"</item>
-        <item quantity="one">"%d photo hasn't been optimized. Stop now?"</item>
+        <item quantity="other">%d foto\'s zijn niet geoptimaliseerd. Nu stoppen?</item>
+        <item quantity="one">%d foto zijn niet geoptimaliseerd. Nu stoppen?</item>
     </plurals>
     <plurals name="slim_remain_photo_count">
-        <item quantity="other">%d photos left</item>
-        <item quantity="one">%d photo left</item>
+        <item quantity="other">%d foto\'s resterend</item>
+        <item quantity="one">%d foto resterend</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">%d foto\'s en video\'s zijn niet geback-upt</item>
