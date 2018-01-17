@@ -345,11 +345,11 @@ in het geval je hem vergeten bent"</string>
   <string name="back_app_name">Terug naar appvergrendeling</string>
   <string name="back_description_securitycenter">Terug</string>
   <string name="back_modifypassword">Terug naar wachtwoord wijzigen</string>
-  <string name="back_sound_data">Turn on mobile data and try again.</string>
-  <string name="back_sound_fail">"Couldn't set. Carrier settings changed. Set the current SIM card as your data card, connect to the network, and try again."</string>
-  <string name="back_sound_success">Set successfully</string>
-  <string name="back_sound_support">"Your carrier's network doesn't support this setting."</string>
-  <string name="background_restrict_app_dialog_message">Restricting background network access for this app might make it impossible for the app to work normally, receive messages, download content, etc. Restrict anyway?</string>
+  <string name="back_sound_data">Schakel mobiel internet in en probeer opnieuw.</string>
+  <string name="back_sound_fail">Kon niet instellen. Providerinstellingen zijn veranderd. Stel de huidige SIM kaart in als data SIM kaart, verbind met het netwerk en probeer opnieuw.</string>
+  <string name="back_sound_success">Instellen gelukt</string>
+  <string name="back_sound_support">Het netwerk van de provider ondersteunt deze instelling niet.</string>
+  <string name="background_restrict_app_dialog_message">Netwerktoegang op de achtergrond beperken voor deze appkan ervoor zorgen dat de app niet meer normaal werkt, geen berichten meer kan ontvangen, niet meer kan downloaden, etc. Toch beperken?</string>
   <string name="background_traffic">Achtergrond %s</string>
   <string name="backsound_set_hint">Uw bericht intellen op %s?</string>
   <string name="battery_capacity_title">Batterijcapaciteit</string>
@@ -1541,7 +1541,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sc_allow_network_dialog_message">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
   <string name="sc_allow_network_dialog_tiltle">Kan deze functie niet gebruiken</string>
   <string name="sc_system_risk_fix_info_xspace">Kan het niet oplossen in tweede ruimte. Probeer het in de eerste ruimte.</string>
-  <string name="sc_warning_updater_not_found">"Couldn't find the Updater app."</string>
+  <string name="sc_warning_updater_not_found">Kon de updater-app niet vinden</string>
   <string name="scan_installed_games">Geïnstalleerde games controleren…</string>
   <string name="scan_status_risk">Risicovol</string>
   <string name="scan_status_safe">Veilig</string>
@@ -1725,8 +1725,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="st_title_call_wait_setting">Oproep in de wacht</string>
   <string name="st_title_editblacklist">Zwarte lijst bewerken</string>
   <string name="st_title_editwhitelist">Uitzonderingen bewerken</string>
-  <string name="st_title_keywords_blacklist">Keyword blocklist</string>
-  <string name="st_title_keywords_whitelist">Keyword exceptions</string>
+  <string name="st_title_keywords_blacklist">Trefwoord zwarte lijst</string>
+  <string name="st_title_keywords_whitelist">Trefwoord uitzonderingen</string>
   <string name="st_title_man_addblacklist">Nummer toevoegen aan zwarte lijst</string>
   <string name="st_title_man_addwhitelist">Nummer toevoegen aan uitzonderingen</string>
   <string name="st_title_man_editblacklist">Kies een gebiedscode om toe te voegen aan zwarte lijst</string>
