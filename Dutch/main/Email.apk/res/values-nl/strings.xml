@@ -215,8 +215,8 @@ Nu bijwerken?"</string>
   <string name="auto_advance_help_title">Na het verwijderen van een bericht, bekijk…</string>
   <string name="auto_advance_label">Actie na verwijderen van bericht</string>
   <string name="auto_advance_summary">Kies welk bericht je wilt zien nadat een bericht is verwijderd</string>
-  <string name="auto_login_fail">Automatisch inloggen mislukt</string>
-  <string name="auto_login_fail_to_retry">Automatisch inloggen mislukt, probeer opnieuw.</string>
+  <string name="auto_login_fail">"Couldn't sign in automatically"</string>
+  <string name="auto_login_fail_to_retry">"Couldn't sign in automatically, try again."</string>
   <string name="auto_mail_describe">139 E-mail service Automatische Configuratie kan u helpen bij het invullen van de inloggegevens naar de mailbox. Wilt u deze functie inschakelen?</string>
   <string name="auto_mail_disable_txt">Uitschakelen</string>
   <string name="auto_mail_enable_txt">Instellingen starten</string>
@@ -815,9 +815,9 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="push_wps_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
   <string name="push_wps_confirm_title">Probeer WPS Office</string>
   <string name="push_wps_no_response_app">Geen app gevonden om deze actie te behandelen</string>
-  <string name="qq_auto_login_failed_cpy_pass_success">Gekopieerd; ga terug naar de loginpagina en plak het wachtwoord</string>
-  <string name="qq_auto_login_failed_dialog_message">Kopieer de code, ga terug naar de loginpagina en tik op \"Gebruikersnaam en wachtwoord invoeren om in te loggen\"; plak het wachtwoord om handmatig in te loggen</string>
-  <string name="qq_auto_login_failed_dialog_positive_label">Kopieer de authorisatiecode</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Copied successfully. Go back to the sign-in page and paste the code into the password form.</string>
+  <string name="qq_auto_login_failed_dialog_message">Copy verification code, tap \"Enter username and password to sign in\" on the sign-in page, and paste the code into the password form.</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Copy code</string>
   <string name="qq_bar_open_imap">Help</string>
   <string name="qq_bar_send_message">SMS verzenden</string>
   <string name="qq_login_basecode">Aanmelden op web QQ Mail. Voer onafhankelijke wachtwoord in.</string>
@@ -918,7 +918,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="request_entity_large">Bestand is te groot</string>
   <string name="request_permission_activity">Toestemmingsaanvraag</string>
   <string name="respond_inline">"   Inline beantwoorden"</string>
-  <string name="retry_login">Log a.u.b. opnieuw in</string>
+  <string name="retry_login">Sign in again</string>>
   <string name="save_action">Opslaan</string>
   <string name="save_attachment">Opslaan</string>
   <string name="save_draft_failed">Concept opslaan mislukt</string>
