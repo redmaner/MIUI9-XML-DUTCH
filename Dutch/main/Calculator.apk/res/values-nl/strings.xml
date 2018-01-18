@@ -1,13 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="angle">deg</string>
   <string name="app_name">Rekenmachine</string>
   <string name="app_name_danfa">Mi Rekenmachine</string>
+  <string name="arccos">arccos</string>
+  <string name="arcsin">arcsin</string>
+  <string name="arctan">arctan</string>
   <string name="cal_convert_to_word_figure">Converteren naar financiële karakters</string>
   <string name="cal_copy">Kopiëren</string>
   <string name="cal_edit_mode">Bewerken</string>
   <string name="cal_paste">Plakken</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Tekst gekopieerd</string>
+  <string name="cancel">Cancel</string>
   <string name="choose_currency">Valuta selecteren</string>
   <string name="choose_unit">Eenheid selecteren</string>
   <string name="city">Stad</string>
@@ -30,6 +35,7 @@
   <string name="currency_update_time_format">Wisselkoersen worden geleverd door Webull (%s)</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">dag</string>
+  <string name="degDesc">Angle</string>
   <string name="deleteDesc">wissen</string>
   <string name="description_content">Naast de basisfuncties kan je de rekenmachine ook gebruiken om eenheden te converteren en hypotheek en belasting te berekenen. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
   <string name="description_title">Over rekenmachine</string>
@@ -47,6 +53,8 @@
   <string name="golbal_search_calculator_setting">Rekenmachine;Rekenmachine-instellingen;Instellingen</string>
   <string name="golbal_search_path_calculator_setting">Systeemapps/Rekenmachine/Instellingen</string>
   <string name="home_title_calculator">Rekenmachine</string>
+  <string name="install">Install</string>
+  <string name="install_scanner_to_continued_use">Scanner is uninstalled. Install again?</string>
   <string name="item_title_aa_payment">De rekening delen</string>
   <string name="item_title_area_conversion">Gebied</string>
   <string name="item_title_calculator">Rekenmachine</string>
@@ -123,12 +131,21 @@
   <string name="preference_settings">Instellingen</string>
   <string name="preference_use_degress_summary">Vervang radialen met hoeken in trigonometrische functies</string>
   <string name="preference_use_degress_title">Hoeken gebruiken</string>
+  <string name="radDesc">Radian</string>
+  <string name="radian">rad</string>
   <string name="rate_data_provider">Rentetarieven worden geleverd door hexun.com</string>
+  <string name="reverceDesc">arc</string>
+  <string name="reciprocalDesc">Reciprocal</string>
   <string name="rightParenDesc">rechterhaakje</string>
+  <string name="scannerDesc">Scanner</string>
+  <string name="scanner_had_been_uninstalled">Scanner is uninstalled</string>
+  <string name="secondFunction">2nd</string>
+  <string name="secondFunctionDesc">Switch to the second function</string>
   <string name="settingsDesc">instellingen</string>
   <string name="sin">sin</string>
   <string name="sinDesc">sinus</string>
   <string name="sqrtDesc">wortel</string>
+  <string name="switchDesc">Switch</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangens</string>
   <string name="tax_accumulation_fund">Accumulatiefonds</string>
