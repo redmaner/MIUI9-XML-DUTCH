@@ -118,16 +118,16 @@
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
 	<plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Downloading %1$d songs</item>
-        <item quantity="one">Downloading %1$d song</item>
+        <item quantity="other">%1$d nummers aan het downloaden</item>
+        <item quantity="one">%1$d nummer aan het downloaden</item>
     </plurals>
     <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d songs"</item>
-        <item quantity="one">"Couldn't download %1$d song"</item>
+        <item quantity="other">Kon %1$d nummers niet downloaden</item>
+        <item quantity="one">Kon %1$d nummer niet downloaden</item>
     </plurals>
     <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d songs</item>
-        <item quantity="one">%1$d song</item>
+        <item quantity="other">%1$d nummers</item>
+        <item quantity="one">%1$d nummer</item>
     </plurals>
 	<plurals name="reader_count">
         <item quantity="other">%d volgers</item>

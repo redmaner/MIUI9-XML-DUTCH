@@ -2462,8 +2462,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="my_device">Mijn apparaat</string>
   <string name="my_device_disclaimer">Opmerking: informatie over de hardware, inclusief CPU, batterijcapacitiet, schermgrootte, resolutie en camera wordt verschaft door Xiaomi labs, designers en leveranciers.</string>
   <string name="n_cacrts">%d CA certificaten</string>
-  <string name="navigation_guide_app_summary">Swipe left or right from the edge of the screen in top area</string>
-  <string name="navigation_guide_app_title">"Trigger app's action"</string>
+  <string name="navigation_guide_app_summary">Veeg naar rechts of links vanaf de rand van het scherm in het bovenste gedeelte</string>
+  <string name="navigation_guide_app_title">Actie van app triggeren</string>
   <string name="navigation_guide_back_anim_summary">Animatie weergeven wanneer je vanaf de rand van het scherm veegt</string>
   <string name="navigation_guide_back_anim_title">Animatie voor het teruggebaar</string>
   <string name="navigation_guide_back_summary">Veeg naar links of rehchts vanaf de zijkant van het scherm</string>

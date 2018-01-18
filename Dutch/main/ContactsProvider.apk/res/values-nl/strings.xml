@@ -23,7 +23,7 @@
   <string name="send_sms">Bericht versturen</string>
   <string name="sharedUserLabel">Kernapps van Android</string>
   <string name="third_party_delete_contact_info">"\"%s\" is uw Xiaomi contacten aan het verwijderen, gebruik uw systeem Contacten voor een betere beveiliging van uw contacten."</string>
-  <string name="update_accounts_changed">Accounts changed</string>
+  <string name="update_accounts_changed">Accounts gewisseld</string>
   <string name="upgrade_msg">Contactendatabase updaten.</string>
   <string name="upgrade_out_of_memory_notification_text">Aanraken om de update te voltooien.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Voor het bijwerken van contacten is meer geheugen nodig.</string>
