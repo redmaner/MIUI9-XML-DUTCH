@@ -42,6 +42,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beïnvloeden.</string>
   <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
   <string name="accessibility_divider">Splitscreen verdeling</string>
+  <string name="accessibility_drag_hint_message">Drag items to top of the screen</string>
   <string name="accessibility_home">Startpagina</string>
   <string name="accessibility_ime_switch_button">Wissel van invoermethode.</string>
   <string name="accessibility_managed_profile">Werkprofiel</string>
@@ -58,8 +59,10 @@
   <string name="accessibility_recent">Recente apps</string>
   <string name="accessibility_recent_task_exit">Recent gesloten</string>
   <string name="accessibility_recent_task_locked">Vergrendeld, omlaag vegen om te ontgrendelen.</string>
+  <string name="accessibility_recent_task_locked_state">Locked</string>
   <string name="accessibility_recent_task_memory_info">Totaal RAM: %2$s | Beschikbare RAM: %1$s. Dubbeltikken om te wissen.</string>
   <string name="accessibility_recent_task_unlocked">Ontgrendeld</string>
+  <string name="accessibility_recent_task_unlocked_state">Unlocked</string>
   <string name="accessibility_recents_all_items_dismissed">Alle recente apps zijn gewist.</string>
   <string name="accessibility_recents_item_dismissed">%s gewist.</string>
   <string name="accessibility_recents_item_launched">%s starten…</string>

@@ -355,7 +355,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_skip_setup_account_msg">Je kan later een Mi account aanmaken in Instellingen.</string>
   <string name="passport_skip_setup_account_title">Installatie overslaan</string>
   <string name="passport_sms_send_success">Verzonden</string>
-  <string name="passport_sms_verification_code_login">SMS verificatiecode login</string>
+  <string name="passport_sms_verification_code_login">Sign in using SMS</string>
   <string name="passport_sync_account_data">Accountinfo synchroniseren…</string>
   <string name="passport_sync_account_data_failed_warning">Uw accountinfo wordt nu gesynchroniseerd. U kan inloggen door middel van uw Mi Account ID. Als je wilt inloggen met je telefoonnummer of email wacht je tot de info compleet is gesynchroniseerd.</string>
   <string name="passport_title_reg">Een account aanmaken</string>

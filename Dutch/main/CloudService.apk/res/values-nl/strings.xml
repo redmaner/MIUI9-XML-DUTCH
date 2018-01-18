@@ -405,7 +405,7 @@ of apparaat te wissen."</string>
   <string name="micloud_sync_alert_dialog_title">Gebruik Mi Cloud</string>
   <string name="micloud_sync_off">Synchronisatie met Mi Cloud is uitgeschakeld</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Alleen contacten, kalender en notities worden gesynchroniseerd. Om meer items te synchroniseren ga je naar de Mi Cloud instellingen.</string>
-  <string name="micloud_title_dspt" formatted="false">"%s totaal %s gebruikt | %s resterend"</string>
+  <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s,</string>
   <string name="micloud_title_dspt_remain">%s resterend</string>
   <string name="micloud_title_full_dspt">Je opslagruimte limiet is bereikt</string>
   <string name="micloud_unlogin_for_time_summary"/>
@@ -507,7 +507,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sub_sync_item_sms_title_wifi_only">Enkel Wi-Fi gebruiken om MMS te synchroniseren</string>
   <string name="success_upgraded_space">%s toegevoegd</string>
   <string name="sync_dspt">Synchroniseren</string>
-  <string name="sync_dspt_entrance_provision">Mi Cloud helpt u om foto\'s, contacten en meer te synchroniseren tussen apparaten. Je hebt toegang tot gesynchroniseerde items op %s.</string>
+  <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, call history, and messages across all your devices. Access the things you sync from any browser at %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Meer informatie</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Niet gebruiken</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's ingebouwde apps hebben Mi Cloud nodig om een back-up te maken van uw foto's, contacten, notities en nog meer. Mi Cloud is gratis."</string>
@@ -557,10 +557,10 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="virtual_sim_desc">Schakel Mi SIM in om apparaat te lokaliseren zonder SIM kaart</string>
   <string name="voip_choose_sim">Kies telefoonnummer om Mi Voice te activeren</string>
   <string name="wipe_data_dialog_button_check_sync">Controleren of gesynchroniseerd</string>
-  <string name="wipe_data_dialog_msg">%s zijn niet gesynchroniseerd en blijven op je telefoon staan.</string>
+  <string name="wipe_data_dialog_msg">"Some items %s aren't synced. They will be saved on your device and won't be deleted."</string>
   <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Sommige items zijn niet gesynchroniseerd</string>
+  <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
   <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
   <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op een plek</string>
 </resources>

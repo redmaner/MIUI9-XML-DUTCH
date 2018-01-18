@@ -2410,6 +2410,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_settings">Audio-effectinstellingen</string>
   <string name="music_dirac_control">Audiokwaliteit optimaliseren</string>
+  <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5mm)</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi oordopjes</string>
   <string name="music_dirac_mode_general">Algemene</string>
@@ -2424,7 +2425,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dirac_mode_piston_1">Mi Piston 1</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
-  <string name="music_dirac_mode_reduction_noise">Ruis verminderen (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (TypeC)</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
@@ -2461,6 +2462,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="my_device">Mijn apparaat</string>
   <string name="my_device_disclaimer">Opmerking: informatie over de hardware, inclusief CPU, batterijcapacitiet, schermgrootte, resolutie en camera wordt verschaft door Xiaomi labs, designers en leveranciers.</string>
   <string name="n_cacrts">%d CA certificaten</string>
+  <string name="navigation_guide_app_summary">Swipe left or right from the edge of the screen in top area</string>
+  <string name="navigation_guide_app_title">"Trigger app's action"</string>
   <string name="navigation_guide_back_anim_summary">Animatie weergeven wanneer je vanaf de rand van het scherm veegt</string>
   <string name="navigation_guide_back_anim_title">Animatie voor het teruggebaar</string>
   <string name="navigation_guide_back_summary">Veeg naar links of rehchts vanaf de zijkant van het scherm</string>
@@ -4736,7 +4739,7 @@ WLAN assistent"</string>
   <string name="wifi_calling_suggestion_title">Bellen over Wi-Fi inschakelen</string>
   <string name="wifi_cancel">Annuleren</string>
   <string name="wifi_certificate">Certificaat</string>
-  <string name="wifi_click_login_wlan">Requires login/authorisation</string>
+  <string name="wifi_click_login_wlan">Connected. Verification is required.</string>
   <string name="wifi_click_share_wlan">Tik om wachtwoord te delen</string>
   <string name="wifi_config_info">Wi-Fi configureren</string>
   <string name="wifi_configure_titlebar">Wi-Fi configureren</string>

@@ -463,7 +463,7 @@ in het geval je hem vergeten bent"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_button">Annuleren</string>
   <string name="card_main_applock_action">Inschakelen</string>
-  <string name="card_main_applock_summary">Privé-items beschermen met appvergrendeling</string>
+  <string name="card_main_applock_summary">Protect selected apps with a password. Hide messages, photos, notes, and more.</string>
   <string name="card_main_applock_title">Appvergrendeling</string>
   <string name="card_main_deepclean_action">Wissen</string>
   <string name="card_main_deepclean_summary">Onnodige bestanden verwijderen</string>
@@ -1029,6 +1029,7 @@ om te reageren"</string>
   <string name="menu_text_power_manager">Batterijgebruik</string>
   <string name="menu_text_power_percent_title">Batterij %s</string>
   <string name="menu_text_power_percent_title_default">Batterij</string>
+  <string name="menu_white">Except</string>
   <string name="menu_wh_remove">Verwijderen van uitzonderingen</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_traffic_detail">Framework details</string>
