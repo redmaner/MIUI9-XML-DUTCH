@@ -757,7 +757,7 @@ Controleer het trackingnummer."</string>
   <string name="payment_upload_data_fail">Gegevens uploaden mislukt</string>
   <string name="payment_upload_data_no_data">Geen gegevens om te uploaden</string>
   <string name="payment_upload_data_success">Gegevens geupload</string>
-  <string name="payment_user_notice_bar_text">Over \"Mijn betalingen\"</string>
+  <string name="payment_user_notice_bar_text">Over \"Automatische betalingen\"</string>
   <string name="personalAssistant_mainpage">Startpagina</string>
   <string name="pie_chart_label_atm">Opnames bij geldautomaat:</string>
   <string name="pie_chart_label_catering">Eten:</string>

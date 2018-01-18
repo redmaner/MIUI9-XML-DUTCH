@@ -832,8 +832,8 @@
   <string name="missed_call_notify_times_title">Herinnering aan gemiste oproep</string>
   <string name="missed_call_notify_twice">2 keer</string>
   <string name="miui_network_selection_reset_text">Resetten</string>
-  <string name="miui_notification_network_selection_title">Geen service</string>
-  <string name="miui_notification_network_selection_title_by_sim">Geen service voor SIM %s</string>
+  <string name="miui_notification_network_selection_title">SIM: No service</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: No service</string>
   <string name="mmiCancelled">MMI code geannuleerd</string>
   <string name="mmiStarted">MMI code gestart</string>
   <string name="mobile_data_always_on">Mobiele data altijd actief</string>
@@ -843,7 +843,7 @@
   <string name="mock_location_app">Neplocatie app selecteren</string>
   <string name="mock_location_app_not_set">Geen neplocatie app ingesteld</string>
   <string name="mock_location_app_set">Neplocatie app: %1$s</string>
-  <string name="modem_dialog_body">Mobiele netwerk is onstabiel, wat voor onderbrekingen of netwerkproblemen zorgt. Wil je een bugrapport versturen naar Xiaomi ter analyse? Dit rapport kan persoonlijke informatie bevatten. Je rapport zal gebruikt worden op deze bug op te lossen en zal nooit worden gedeeld in een commerciele context.</string>
+  <string name="modem_dialog_body">Mobile network is unstable which results in interruptions and network problems. Send feedback to Mi for analysis? This report may contain personally identifiable information. Your report will be used to help us fix this bug and will never be shared in any commercial context.</string>
   <string name="modem_dialog_title">Mobiele netwerk is onstabiel</string>
   <string name="msim_apn_not_set">Niet ingesteld</string>
   <string name="msim_default_setting">Standaard instellingen</string>
