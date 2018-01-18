@@ -1,32 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="event_name_translate">
-        <item>App loopt in de voorgrond</item>
-        <item>Scherm aan</item>
-        <item>Scherm uit</item>
-        <item>Scherm uit in 10 minuten</item>
-        <item>Ga naar volledig scherm</item>
-        <item>Volledig scherm afsluiten</item>
-        <item>App loopt in achtergrond</item>
-        <item>Telefoon is aan het opladen</item>
-        <item>Telefoon is niet aan het opladen</item>
-        <item>Telefoon is inactief</item>
-    </string-array>
     <string-array name="hmode_app_groups">
         <item>Aangepast</item>
         <item>Batterijbespaarder</item>
-	</string-array>	
-	<string-array name="invisible_app_groups">
-        <item>Geselecteerd</item>
-        <item>Gedeselecteerd</item>
-    </string-array>
+	</string-array>
     <string-array name="thermal_entries">
         <item>Standaard temperatuurcontrole modus</item>
         <item>Prestatiemodus</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>De huidige temperatuurregelmodus</item>
-        <item>De huidige prestatiemodus</item>
+        <item>Huidige temperatuurregelmodus</item>
+        <item>Huidige prestatiemodus</item>
     </string-array>
 	<string-array name="power_mode_entries">
         <item>Prestatiemodus</item>

@@ -1614,10 +1614,10 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="force_allow_on_external_summary">Staat toe dat elke app kan installeren op externe opslag, ongeacht manifestwaardes</string>
   <string name="force_hw_ui">GPU rendering afdwingen</string>
   <string name="force_hw_ui_summary">Gebruik van GPU voor 2D tekening forceren</string>
-  <string name="force_immersive_compatibility_dont_hide">"Don't hide"</string>
-  <string name="force_immersive_compatibility_hide">Hide</string>
-  <string name="force_immersive_compatibility_hint_message">Some apps might not work properly if you choose to hide screen buttons.</string>
-  <string name="force_immersive_compatibility_hint_title">Compatibility issues</string>
+  <string name="force_immersive_compatibility_dont_hide">Niet verbergen</string>
+  <string name="force_immersive_compatibility_hide">Verbergen</string>
+  <string name="force_immersive_compatibility_hint_message">Sommige apps kunnen mogelijk niet goed werken als je schermknoppen verbergt.</string>
+  <string name="force_immersive_compatibility_hint_title">Compatibiliteitsproblemen</string>
   <string name="force_msaa">4x MSAA forceren</string>
   <string name="force_msaa_summary">4x MSAA inschakelen in OpenGL ES 2.0 apps</string>
   <string name="force_resizable_activities">Forceer activiteiten om in grootte gewijzigd te kunnen worden</string>
@@ -3818,7 +3818,7 @@ Een vertrouwde referentie die is geïnstalleerd op uw apparaat, maakt dit mogeli
   <string name="status_bar_app_enable_keyguard">Vergrendelscherm</string>
   <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_key_position_custom">Knoppositie wijzigen</string>
-  <string name="status_bar_screen_button_force_immersive_desc">Veeg omhoog vanaf de onderkant van het scherm om knoppen weer te geven</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Veeg omhoog vanaf de onderkant van het scherm om schermknoppen weer te geven</string>
   <string name="status_bar_screen_button_key_force_immersive">Schermknoppen verbergen</string>
   <string name="status_bar_screen_key_back">Terugknop</string>
   <string name="status_bar_screen_key_home">Homeknop</string>
@@ -4739,7 +4739,7 @@ WLAN assistent"</string>
   <string name="wifi_calling_suggestion_title">Bellen over Wi-Fi inschakelen</string>
   <string name="wifi_cancel">Annuleren</string>
   <string name="wifi_certificate">Certificaat</string>
-  <string name="wifi_click_login_wlan">Connected. Verification is required.</string>
+  <string name="wifi_click_login_wlan">Verbonden. Verificatie is vereist.</string>
   <string name="wifi_click_share_wlan">Tik om wachtwoord te delen</string>
   <string name="wifi_config_info">Wi-Fi configureren</string>
   <string name="wifi_configure_titlebar">Wi-Fi configureren</string>

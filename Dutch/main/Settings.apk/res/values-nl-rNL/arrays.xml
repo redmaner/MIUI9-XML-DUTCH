@@ -581,6 +581,10 @@
         <item>Gemiddeld</item>
         <item>Licht</item>
     </string-array>
+	<string-array name="ap_identify">
+        <item>Standaard</item>
+        <item>iPhone</item>
+    </string-array>
 	    <string-array name="battery_indicator_style_entries">
         <item>Pictogram</item>
         <item>Percentage</item>

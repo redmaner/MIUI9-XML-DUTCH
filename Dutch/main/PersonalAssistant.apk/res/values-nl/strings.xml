@@ -699,14 +699,6 @@ Controleer het trackingnummer."</string>
   <string name="payment_clear_records_failed">Kon betalingsgeschiedenis niet verwijderen</string>
   <string name="payment_clear_records_success">Betalingsgeschiedenis verwijderd</string>
   <string name="payment_date_time_picker_dialog_title">Datum en tijd instellen</string>
-  <string name="payment_dialog_chooser_cancel">Annuleren</string>
-  <string name="payment_dialog_chooser_message_footer">Opmerking: Alle informatie over betalingen wordt veilig opgeslagen op de telefoon. Het wordt niet gesynchroniseerd met Mi Cloud of gebruikt op een andere manier.</string>
-  <string name="payment_dialog_chooser_message_header">Selecteer bronnen voor \"Mijn betalingen\"</string>
-  <string name="payment_dialog_chooser_ok">Inschakelen</string>
-  <string name="payment_dialog_chooser_title">Mijn betalingen</string>
-  <string name="payment_dialog_chooser_toast">Selecteer tenminste 1 bron</string>
-  <string name="payment_dialog_notice_ok">Begrepen</string>
-  <string name="payment_dialog_notice_title">Waarschuwing</string>
   <string name="payment_guide_hint">Verzamel betalingsinfo uit berichten en andere apps.</string>
   <string name="payment_guide_hint_link">Veiligheid &amp; privacy</string>
   <string name="payment_method_alipay">Alipay</string>

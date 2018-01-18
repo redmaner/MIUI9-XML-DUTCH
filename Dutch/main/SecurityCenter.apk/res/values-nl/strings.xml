@@ -771,7 +771,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gs_game_net_priority">Verbindingsprioriteit</string>
   <string name="gs_game_net_priority_detail">Beperk download snelheid om voldoende bandbreedte te hebben voor gaming</string>
   <string name="gs_game_performance">Prestaties</string>
-  <string name="gs_game_shortcut">Improve your gaming experience</string>
+  <string name="gs_game_shortcut">Verbeter uw game-ervaring</string>
   <string name="gs_only_self_start_for_list">Beperk achtergrondprocessen om batterij te sparen voor gaming</string>
   <string name="gs_open_game_booster">Snelheid opvoeren</string>
   <string name="gs_performance_mode">Prestatiemodus</string>
@@ -1308,7 +1308,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_btn_analyze">Batterijverbruik analyseren</string>
   <string name="power_cell">Mobiel netwerk</string>
   <string name="power_center_auto_shutdown">Schema voor in-/uitschakelen</string>
-  <string name="power_center_back">Back to Power</string>
+  <string name="power_center_back">Terug</string>
   <string name="power_center_charge_time">%1$stot volledig opgeladen</string>
   <string name="power_center_ontime_boot">Opstarten op een tijdstip</string>
   <string name="power_center_ontime_shutdown">Uitschakelen op een tijdstip</string>
