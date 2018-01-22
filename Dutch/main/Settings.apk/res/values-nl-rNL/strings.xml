@@ -906,7 +906,7 @@ Broadcasting gebruikt laag stroomverbruik Bluetooth signalen."</string>
   <string name="close_sdcard_optimization_warning_message">Het apparaat zal opnieuw opstarten om de wijziging toe te passen.</string>
   <string name="cloud_backup_section_title">Mi Cloud backup</string>
   <string name="cloud_backup_settings_section_title">Back-upinstellingen</string>
-  <string name="cloud_restore_section_summary">Apps, startschermlayout en systeeminstellingen herstellen</string>
+  <string name="cloud_restore_section_summary">Systeeminstellingen, startschermlayout en apps herstellen</string>
   <string name="cloud_restore_section_title">Herstellen vanaf Mi Cloud</string>
   <string name="cmcc_hardware_version">Hardwareversie</string>
   <string name="collect_diagnostics_summary">Verzamel diagnostische gegevens voor het oplossen van problemen</string>

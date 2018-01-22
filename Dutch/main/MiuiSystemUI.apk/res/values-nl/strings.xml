@@ -486,6 +486,7 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="overlay_display_devices_title">Secundaire schermen simuleren</string>
   <string name="picture_color_mode">Beeld kleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
+  <string name="please_slide_agian">Veeg opnieuw</string>
   <string name="pointer_location">Aanwijzerlocatie</string>
   <string name="pointer_location_summary">Schermoverlay toont huidige aanraakgegevens</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>

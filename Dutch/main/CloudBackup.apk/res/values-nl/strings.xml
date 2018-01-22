@@ -44,11 +44,11 @@
   <string name="cloud_app_restore_wifi_prompt">Herstellen van een Mi Cloud back-up</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Deze items zullen worden geback-upt naar Mi Cloud als je apparaat is verbonden met Wi-Fi: 
-*\u0009\u0009\u0009\u0009Apps, startschermlayout en achtergronden 
-*\u0009\u0009\u0009\u0009Alarm, klok en tijdinstellingen
-*\u0009\u0009\u0009\u0009Meldingsinstellingen
-*\u0009\u0009\u0009\u0009MIUI en systeeminstellingen
- Notitie: Gegevens van apps die je hebt geïnstalleerd zullen niet worden geback-upt naar Mi Cloud."</string>
+*Apps, startschermlayout en achtergronden 
+*Alarm, klok en tijdinstellingen
+*Meldingsinstellingen
+*MIUI en systeeminstellingen
+ Let op: Gegevens van apps die je hebt geïnstalleerd zullen niet worden geback-upt naar Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Back-upschema</string>
   <string name="cloud_back_up_frequence_long">Elke 7 dagen</string>
   <string name="cloud_back_up_frequence_short">dag</string>
@@ -88,13 +88,17 @@
   <string name="desktop_installing">Installeren</string>
   <string name="desktop_wait_wifi">Wachten</string>
   <string name="desktop_waiting">Wachten</string>
-  <string name="device_corrupt">Mi telefoon (Gegevens zijn corrupt)</string>
+  <string name="device_corrupt">Mi telefoon (gegevens zijn corrupt)</string>
   <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
   <string name="device_xiaomi">Mi Telefoon</string>
+  <string name="dialog_btn_next">Volgende</string>
+  <string name="dialog_btn_restore_skip">Later herstellen</string>
   <string name="dialog_cancel_backup_cancel">Annuleren</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Als u op de schakelaar drukt zullen lopende back-ups worden gestopt.</string>
   <string name="dialog_cancel_backup_title">De lopende back-up stoppen?</string>
+  <string name="dialog_msg_restore_require_wlan">Wi-fi is vereist om een back-up te herstellen.</string>
+  <string name="dialog_title_require_wlan">Wi-Fi vereist</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">Startscherm en instellingen herstellen…</string>
   <string name="done_remove">Verwijderd</string>
