@@ -889,6 +889,8 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel mislukte pogingen!</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Click OK</string>
+  <string name="lockpattern_tutorial_continue_label_next">Click next</string>
   <string name="lockscreen_access_pattern_cell_added">Telefoon toegevoegd</string>
   <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>

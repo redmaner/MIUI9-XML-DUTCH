@@ -138,6 +138,7 @@
   <string name="gadget_clock_12_label">Klok 2x1</string>
   <string name="gadget_clock_14_label">Klok 4x1</string>
   <string name="gadget_clock_24_label">Klok 4x2</string>
+  <string name="gadget_clock_34_label">Klok 4x3</string>
   <string name="gadget_clock_label">Klok</string>
   <string name="gadget_error_text">Probleem bij het laden van widget</string>
   <string name="gadget_google_search_label">Google Zoeken</string>
