@@ -120,7 +120,7 @@
   <string name="recover_notes_hint">Er is een fout opgetreden, ga naar i.mi.com om notities te herstellen</string>
   <string name="redo">Opnieuw</string>
   <string name="refuse_to_share_as_pic_because_of_content">Deze notitie is te groot om te delen.</string>
-  <string name="refuse_to_share_as_pic_because_of_loading">Wacht tot de notitie is geladen en probeer opnieuw.</string>
+  <string name="refuse_to_open_as_pic_because_of_loading">Wacht tot de notitie is geladen en probeer opnieuw.</string>
   <string name="rename_folder_dialog_tile">Map hernoemen</string>
   <string name="root_folder_name">Snelle notities</string>
   <string name="search">Notities</string>
@@ -171,6 +171,7 @@
   <string name="theme_title_yellow">Geel</string>
   <string name="theme_white_description">Wit</string>
   <string name="theme_yellow_description">Geel</string>
+  <string name="toast_cancel_to_insert_image">Cancel to insert images.</string>
   <string name="toast_message_add_image_fail">Afbeelding invoegen mislukt!</string>
   <string name="toast_notes_delete_success">Met succes verwijderd</string>
   <string name="toast_notes_hidden">Met succes verborgen</string>
