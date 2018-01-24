@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="mortgage_repayment">
+        <item>Gelijke termijnen</item>
+        <item>Afnemende termijnen</item>
+    </string-array>
     <string-array name="operatorDescs">
         <item>linkerhaakje</item>
         <item>rechterhaakje</item>

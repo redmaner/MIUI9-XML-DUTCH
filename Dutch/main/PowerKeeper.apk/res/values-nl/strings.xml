@@ -58,7 +58,7 @@
   <string name="power_config_apps">Batterijbespaarder</string>
   <string name="power_config_event_delete">Verwijderen</string>
   <string name="power_config_select_apps_title">Apps</string>
-  <string name="power_hide_mode_app_list_summary">Appinstellingen</string>
+  <string name="power_hide_mode_app_list_summary">Bespaart batterij op de achtergrond</string>
   <string name="power_hide_mode_title">Batterij &amp; prestaties</string>
   <string name="power_mode">Batterij-instellingen</string>
   <string name="power_usage">Batterijgebruik</string>

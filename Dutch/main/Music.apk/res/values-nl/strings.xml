@@ -401,7 +401,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">Ok</string>
   <string name="i_know_it">Ok</string>
-  <string name="impunity_declaration_content1">"Door te tikken gaat u akkoord met de voorwaarden vermeld in onze "</string>
+  <string name="impunity_declaration_content1">"Door op \"Akkoord\" te tikken gaat u akkoord met de voorwaarden vermeld in onze "</string>
   <string name="impunity_declaration_content2">Gebruikersovereenkomst</string>
   <string name="impunity_declaration_content3">" en "</string>
   <string name="impunity_declaration_content4">Privacybeleid</string>
@@ -409,8 +409,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="impunity_declaration_ignore">Niet opnieuw weergeven</string>
   <string name="impunity_declaration_negative_text">Verlaten</string>
   <string name="impunity_declaration_positive_text">Akkoord</string>
-  <string name="impunity_declaration_settings">Toon Gebruiksvoorwaarden</string>
-  <string name="impunity_declaration_summary">Toon Gebruiksvoorwaarden popup voor Baidu Online Music Service elke keer als de muziek app opent</string>
+  <string name="impunity_declaration_settings">Gebruiksvoorwaarden tonen</string>
+  <string name="impunity_declaration_summary">Gebruiksvoorwaarden tonen elke keer als de muziekapp opent</string>
   <string name="impunity_declaration_title">Algemene voorwaarden</string>
   <string name="in_searching_please_wait">Zoeken…</string>
   <string name="individuation_recommend_message">Schakel aanbevelingen in om gepersonaliseerde suggesties te ontvangen gebaseerd op je voorkeuren.</string>
@@ -442,7 +442,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Lokale afspeellijst is leeg</string>
   <string name="local_music_empty_goto_online">Geen nummers gevonden</string>
-  <string name="local_music_is_not_available">"You don't have songs on your device."</string>
+  <string name="local_music_is_not_available">Je hebt geen muziek op je apparaat staan</string>
   <string name="local_page_album_more">Alles bekijken</string>
   <string name="local_page_artist">Gevolgde artiesten</string>
   <string name="local_page_artist_more">Meer nummers van %s</string>
@@ -611,8 +611,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="open_download">Openen</string>
   <string name="open_online_service">Je moet online muziekdiensten inschakelen om deze functie te gebruiken. Nu inschakelen?</string>
   <string name="open_service">Inschakelen</string>
-  <string name="optimize_all_until_optimized">Applying new cover and lyrics…</string>
-  <string name="optimize_all_until_scanned">Wait until Music finishes checking storage for songs.</string>
+  <string name="optimize_all_until_optimized">Nieuwe cover en songteksten toepassen…</string>
+  <string name="optimize_all_until_scanned">Wacht tot het scannen naar muziek is voltooid.</string>
   <string name="order_pending">Bevestiging afwachten</string>
   <string name="order_process_fail">Kon je account niet verifiëren. Probeer het later opnieuw.</string>
   <string name="other_filter">Andere</string>
@@ -628,7 +628,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="paused_waiting_to_retry">Wachten om opnieuw te proberen</string>
   <string name="pay">Betaal:</string>
   <string name="pay_now">Huidige dienst</string>
-  <string name="payment_fail">"Couldn't complete payment"</string>
+  <string name="payment_fail">Kon betaling niet afronden</string>
   <string name="payment_success">Betaling geslaagd</string>
   <string name="pending_apk">Bezig…</string>
   <string name="permission_declaration_message">Sta toegang tot opslag toe in Beveiliging &gt; Toestemmingen &gt; Toestemmingen &gt; Opslag &gt; Muziek om Muziek normaal te kunnen gebruiken.</string>
@@ -647,7 +647,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Mijn afspeellijsten</string>
   <string name="playlist_type_recommend">Aanbevolen afspeellijsten</string>
-  <string name="playlist_unavailable">De afspeellijst is niet beschikbaar. Om hem te verwijderen, houd ingedrukt en kies vervolgens verwijderen.</string>
+  <string name="playlist_unavailable">De afspeellijst is niet beschikbaar. Om hem te verwijderen, houd ingedrukt en kies vervolgens \"Verwijderen\".</string>
   <string name="please_download_first">Download eerst.</string>
   <string name="please_search_or_select">Zoek of selecteer een veld</string>
   <string name="please_select_song">Een nummer kiezen</string>
@@ -748,7 +748,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="selected_count">%1$d geselecteerd uit %2$d</string>
   <string name="send_to">Delen</string>
   <string name="send_to_title">Verzenden naar (%1$s)</string>
-  <string name="server_error">An error occurred, wait a minute or two and try again.</string>
+  <string name="server_error">Er is een fout opgetreden, waacht een minuut en probeer opnieuw.</string>
   <string name="service_and_settings">Service en instellingen</string>
   <string name="service_stop">Service stopgezet</string>
   <string name="set_as_ring">Instellen als beltoon</string>
@@ -816,8 +816,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="stream_quality">Streamingkwaliteit</string>
   <string name="streamloadingtext">Verbinding maken met %s…</string>
   <string name="suggest_text">Mensen die dit ook leuk vonden</string>
-  <string name="sync_only_in_wifi">Allen sync. met Wi-Fi</string>
-  <string name="sync_only_in_wifi_summary">Sync. uw muziek op al uw apparaten met Mi Cloud. Het gebruik van uw mobiele dataverbinding om muziek te sync. zal uw dataverbruik verhogen. Bij overschrijden van uw datalimiet, kan uw provider extra kosten aanrekenen.</string>
+  <string name="sync_only_in_wifi">Alleen synchroniseren met Wi-Fi</string>
+  <string name="sync_only_in_wifi_summary">Synchroniseer uw muziek op al uw apparaten met Mi Cloud. Het gebruik van uw mobiele dataverbinding om muziek te sync. zal uw dataverbruik verhogen. Bij overschrijden van uw datalimiet, kan uw provider extra kosten aanrekenen.</string>
   <string name="tab_album">Albums</string>
   <string name="tab_album_list">Album</string>
   <string name="tab_artist">Artiesten</string>
@@ -833,11 +833,11 @@ verzorgd door Ultimate Inc.</string>
   <string name="talkback_device">Afspelen op andere apparaten</string>
   <string name="talkback_download">Download</string>
   <string name="talkback_favorite">Dit nummer leuk vinden</string>
-  <string name="talkback_follow">Follow</string>
-  <string name="talkback_followed">Unfollow</string>
-  <string name="talkback_header_search">"Search "</string>
+  <string name="talkback_follow">Volgen</string>
+  <string name="talkback_followed">Niet meer volgen</string>
+  <string name="talkback_header_search">"Zoek "</string>
   <string name="talkback_karaoke">Karaoke openen</string>
-  <string name="talkback_like">Like</string>
+  <string name="talkback_like">Liken</string>
   <string name="talkback_mode">Herhalen</string>
   <string name="talkback_mode_repeat_all">Herhaalmodus</string>
   <string name="talkback_mode_repeat_current">Herhaalmodus</string>
@@ -852,7 +852,7 @@ verzorgd door Ultimate Inc.</string>
   <string name="talkback_radar">Muziekherkenning</string>
   <string name="talkback_search">Zoeken</string>
   <string name="talkback_share">Delen</string>
-  <string name="talkback_unlike">Unlike</string>
+  <string name="talkback_unlike">Niet meer liken</string>
   <string name="task_already_exist">Taak bestaat reeds</string>
   <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
   <string name="ticket_title">Tickets weergeven</string>
@@ -926,8 +926,8 @@ verzorgd door Ultimate Inc.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Dataverbruik waarschuwing</string>
   <string name="welcome_to_new_music">Welkom bij de nieuwe versie van Mi Muziek</string>
-  <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download.
+  <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze %s download te voltooien.
 
-Raak %s aan om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
-  <string name="wifi_required_title">Download te groot voor providernetwerk</string>
+Tik op %s om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
+  <string name="wifi_required_title">Download te groot voor mobiel internet</string>
 </resources>

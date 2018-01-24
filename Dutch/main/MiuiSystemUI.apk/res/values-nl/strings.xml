@@ -42,7 +42,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beïnvloeden.</string>
   <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
   <string name="accessibility_divider">Splitscreen verdeling</string>
-  <string name="accessibility_drag_hint_message">Drag items to top of the screen</string>
+  <string name="accessibility_drag_hint_message">Sleep items naar de bovenkant van het scherm</string>
   <string name="accessibility_home">Startpagina</string>
   <string name="accessibility_ime_switch_button">Wissel van invoermethode.</string>
   <string name="accessibility_managed_profile">Werkprofiel</string>
@@ -58,11 +58,11 @@
   <string name="accessibility_phone_two_bars">Telefoon: twee streepjes.</string>
   <string name="accessibility_recent">Recente apps</string>
   <string name="accessibility_recent_task_exit">Recent gesloten</string>
-  <string name="accessibility_recent_task_locked">Vergrendeld, omlaag vegen om te ontgrendelen.</string>
-  <string name="accessibility_recent_task_locked_state">Locked</string>
+  <string name="accessibility_recent_task_locked">Vergrendeld, veeg omlaag om te ontgrendelen.</string>
+  <string name="accessibility_recent_task_locked_state">Vergrendeld</string>
   <string name="accessibility_recent_task_memory_info">Totaal RAM: %2$s | Beschikbare RAM: %1$s. Dubbeltikken om te wissen.</string>
   <string name="accessibility_recent_task_unlocked">Ontgrendeld</string>
-  <string name="accessibility_recent_task_unlocked_state">Unlocked</string>
+  <string name="accessibility_recent_task_unlocked_state">Ontgrendeld</string>
   <string name="accessibility_recents_all_items_dismissed">Alle recente apps zijn gewist.</string>
   <string name="accessibility_recents_item_dismissed">%s gewist.</string>
   <string name="accessibility_recents_item_launched">%s starten…</string>
@@ -446,7 +446,7 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="monitoring_title_device_owned">Apparaatbeheer</string>
   <string name="mount_storage">Ja</string>
   <string name="nav_guide_cancel">Afwijzen</string>
-  <string name="nav_guide_message">Gebaren gebruiken om de schermknop te verbergen/weer te geven.</string>
+  <string name="nav_guide_message">Gebaren gebruiken om schermknoppen te verbergen/weer te geven.</string>
   <string name="nav_guide_ok">Instellingen</string>
   <string name="nav_guide_title">Schermknoppen verbergen</string>
   <string name="no_application">Niks</string>
@@ -486,6 +486,7 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="overlay_display_devices_title">Secundaire schermen simuleren</string>
   <string name="picture_color_mode">Beeld kleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
+  <string name="please_slide_agian">Veeg opnieuw</string>
   <string name="pointer_location">Aanwijzerlocatie</string>
   <string name="pointer_location_summary">Schermoverlay toont huidige aanraakgegevens</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>

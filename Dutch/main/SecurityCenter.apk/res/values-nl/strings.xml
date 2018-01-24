@@ -463,11 +463,11 @@ in het geval je hem vergeten bent"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_button">Annuleren</string>
   <string name="card_main_applock_action">Inschakelen</string>
-  <string name="card_main_applock_summary">Protect selected apps with a password. Hide messages, photos, notes, and more.</string>
+  <string name="card_main_applock_summary">Beveilig geselecteerde apps met een wachtwoord. Verberg berichten, foto\'s, notities en meer.</string>
   <string name="card_main_applock_title">Appvergrendeling</string>
   <string name="card_main_deepclean_action">Wissen</string>
   <string name="card_main_deepclean_summary">Onnodige bestanden verwijderen</string>
-  <string name="card_main_deepclean_title">Diepe schoonmaak</string>
+  <string name="card_main_deepclean_title">Grondige schoonmaak</string>
   <string name="card_main_deepclean_wechat_action">Wissen</string>
   <string name="card_main_deepclean_wechat_summary">WeChat cache wissen om ruimte vrij te maken</string>
   <string name="card_main_deepclean_wechat_title">WeChat cache</string>
@@ -475,7 +475,7 @@ in het geval je hem vergeten bent"</string>
   <string name="card_main_hbassistant_summary">Gebruik dit gereedschap om de enveloppen sneller te grijpen</string>
   <string name="card_main_hbassistant_title">Rode envelop assistent</string>
   <string name="card_main_monthreport_action">Bekijken</string>
-  <string name="card_main_netcheck_action">Test</string>
+  <string name="card_main_netcheck_action">Testen</string>
   <string name="card_main_netcheck_summary">Verbinding testen op netwerkproblemen</string>
   <string name="card_main_netcheck_title">Netwerk testen</string>
   <string name="card_main_optimize_manage_action">Nu opvoeren</string>
@@ -771,7 +771,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gs_game_net_priority">Verbindingsprioriteit</string>
   <string name="gs_game_net_priority_detail">Beperk download snelheid om voldoende bandbreedte te hebben voor gaming</string>
   <string name="gs_game_performance">Prestaties</string>
-  <string name="gs_game_shortcut">Improve your gaming experience</string>
+  <string name="gs_game_shortcut">Verbeter uw game-ervaring</string>
   <string name="gs_only_self_start_for_list">Beperk achtergrondprocessen om batterij te sparen voor gaming</string>
   <string name="gs_open_game_booster">Snelheid opvoeren</string>
   <string name="gs_performance_mode">Prestatiemodus</string>
@@ -1023,13 +1023,13 @@ om te reageren"</string>
   <string name="menu_text_garbage_cleanup_danger">%s resterend</string>
   <string name="menu_text_license_manager">Toestemmingen</string>
   <string name="menu_text_networkassistants">Datagebruik</string>
-  <string name="menu_text_networkassistants_danger">%s over</string>
-  <string name="menu_text_networkassistants_remain">%s over</string>
+  <string name="menu_text_networkassistants_danger">%s resterend</string>
+  <string name="menu_text_networkassistants_remain">%s resterend</string>
   <string name="menu_text_optimize_manage">Snelheid opvoeren</string>
   <string name="menu_text_power_manager">Batterijgebruik</string>
   <string name="menu_text_power_percent_title">Batterij %s</string>
   <string name="menu_text_power_percent_title_default">Batterij</string>
-  <string name="menu_white">Except</string>
+  <string name="menu_white">Uitzondering</string>
   <string name="menu_wh_remove">Verwijderen van uitzonderingen</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_traffic_detail">Framework details</string>
@@ -1308,7 +1308,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_btn_analyze">Batterijverbruik analyseren</string>
   <string name="power_cell">Mobiel netwerk</string>
   <string name="power_center_auto_shutdown">Schema voor in-/uitschakelen</string>
-  <string name="power_center_back">Back to Power</string>
+  <string name="power_center_back">Terug</string>
   <string name="power_center_charge_time">%1$stot volledig opgeladen</string>
   <string name="power_center_ontime_boot">Opstarten op een tijdstip</string>
   <string name="power_center_ontime_shutdown">Uitschakelen op een tijdstip</string>
