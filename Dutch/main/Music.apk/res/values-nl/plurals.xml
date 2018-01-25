@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">%d afspeellijsten verwijderen?</item>
-        <item quantity="one">%d afspeellijst verwijderen?</item>
-    </plurals>
 	<plurals name="Nalbum_total_songs">
         <item quantity="other">%d nummers totaal</item>
-        <item quantity="zero">%d nummers totaal</item>
         <item quantity="one">%d nummer totaal</item>
     </plurals>
 	<plurals name="Nartists_count">
@@ -30,7 +25,8 @@
         <item quantity="one">%d groep</item>
     </plurals>
 	<plurals name="Nnew_tracks_count">
-        <item quantity="other">%d nieuw</item>
+        <item quantity="other">%d new songs</item>
+        <item quantity="one">%d new song</item>
     </plurals>
 	<plurals name="Nquit_warning">
         <item quantity="other">Speler zal binnen %d minuten stoppen</item>
@@ -41,9 +37,10 @@
         <item quantity="one">Optimalisatie van album en songteksten uitgeschakeld. Wil je info van %d nummer verwijderen?</item>
     </plurals>
 	<plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Gemaakt op %1$s | %2$d nummers totaal</item>
-        <item quantity="zero">Gemaakt op %1$s | %2$d nummers totaal</item>
-        <item quantity="one">Gemaakt op %1$s | %2$d nummer totaal</item>
+        <item quantity="other">Gemaakt op %1$s
+%2$d nummers totaal</item>
+        <item quantity="one">Gemaakt op %1$s
+%2$d nummer totaal</item>
     </plurals>
 	<plurals name="Nstop_backup_songs_message">
         <item quantity="other">%d nummers zijn niet geback-upt naar Mi Cloud. Nu stoppen?</item>
@@ -70,7 +67,7 @@
         <item quantity="one">%d gelijkaardig nummer</item>
     </plurals>
 	<plurals name="Nunbackup_audios">
-        <item quantity="other">"%1$d nummers zijn niet geback-upt (%2$.1fMB)"</item>
+        <item quantity="other">"%1$d nummers zijn niet geback-upt (%2$.1fMB)\"</item>
         <item quantity="one">"%1$d nummer is niet geback-upt (%2$.1fMB)"</item>
     </plurals>
 	<plurals name="Nupload_song_button">
@@ -116,18 +113,6 @@
 	<plurals name="multichoice_title">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
-    </plurals>
-	<plurals name="notif_title_multiple_downloading">
-        <item quantity="other">%1$d nummers aan het downloaden</item>
-        <item quantity="one">%1$d nummer aan het downloaden</item>
-    </plurals>
-    <plurals name="notification_download_failed_more">
-        <item quantity="other">Kon %1$d nummers niet downloaden</item>
-        <item quantity="one">Kon %1$d nummer niet downloaden</item>
-    </plurals>
-    <plurals name="notification_download_success_more">
-        <item quantity="other">%1$d nummers</item>
-        <item quantity="one">%1$d nummer</item>
     </plurals>
 	<plurals name="reader_count">
         <item quantity="other">%d volgers</item>
