@@ -463,7 +463,7 @@ in het geval je hem vergeten bent"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_button">Annuleren</string>
   <string name="card_main_applock_action">Inschakelen</string>
-  <string name="card_main_applock_summary">Beveilig geselecteerde apps met een wachtwoord. Verberg berichten, foto\'s, notities en meer.</string>
+  <string name="card_main_applock_summary">Beveilig berichten, foto\'s en andere items met een wachtwoord.</string>
   <string name="card_main_applock_title">Appvergrendeling</string>
   <string name="card_main_deepclean_action">Wissen</string>
   <string name="card_main_deepclean_summary">Onnodige bestanden verwijderen</string>
@@ -889,8 +889,8 @@ Je provider kan kosten in rekening brengen als u verbinding maakt met mobiele ne
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel mislukte pogingen!</string>
   <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
   <string name="lockpattern_tutorial_continue_label">Volgende</string>
-  <string name="lockpattern_tutorial_continue_label_confirm">Click OK</string>
-  <string name="lockpattern_tutorial_continue_label_next">Click next</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Tik \"OK\"</string>
+  <string name="lockpattern_tutorial_continue_label_next">Tik \"Volgende\"</string>
   <string name="lockscreen_access_pattern_cell_added">Telefoon toegevoegd</string>
   <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
@@ -1319,7 +1319,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_center_state_on">Aan</string>
   <string name="power_center_time_to_boot">Opstarten op een tijdstip</string>
   <string name="power_center_time_to_shutdown">Uitschakelen op een tijdstip</string>
-  <string name="power_center_title">Statistieken</string>
+  <string name="power_center_title">Batterijgebruik</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_consume_other">Overige</string>
   <string name="power_consume_rank_hardware">Hardware</string>
