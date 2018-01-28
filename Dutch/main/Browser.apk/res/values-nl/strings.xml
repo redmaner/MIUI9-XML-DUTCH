@@ -613,17 +613,21 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_mr_system_route_name">Systeem</string>
   <string name="mw_mr_user_route_category_name">Apparaten</string>
   <string name="mw_new_tab_otr_not_saved">"Chrome slaat de volgende informatie niet op:
-          Browsegeschiedenis
+          
+		  Browsegeschiedenis
           Cookies en sitegegevens
           Informatie ingevuld in formulieren
-          "</string>
+          
+		           "</string>
   <string name="mw_new_tab_otr_subtitle">Nu kan je prive browsen, en andere mensen die die apparaat gebruiken zullen je activiteiten niet zien. Houd er rekening mee dat downloads en bladwijzers wel worden opgeslagen.</string>
   <string name="mw_new_tab_otr_title">Je bent incognito</string>
   <string name="mw_new_tab_otr_visible">"Je activiteiten kunnen nog steeds zichtbaar zijn voor:
-        Websites die je bezoekt
-        Je werkgever of school
-        Je internetprovider
-        "</string>
+        
+		  Websites die je bezoekt
+          Je werkgever of school
+          Je internetprovider
+        
+		           "</string>
   <string name="mw_no_matches">Geen overeenkomsten</string>
   <string name="mw_ntp_title_no_suggestions">Dat is het voor nu</string>
   <string name="mw_older">Ouder</string>
