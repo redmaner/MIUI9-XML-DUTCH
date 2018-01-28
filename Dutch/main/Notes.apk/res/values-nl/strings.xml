@@ -171,8 +171,8 @@
   <string name="theme_title_yellow">Geel</string>
   <string name="theme_white_description">Wit</string>
   <string name="theme_yellow_description">Geel</string>
-  <string name="toast_cancel_to_insert_image">Cancel to insert images.</string>
-  <string name="toast_message_add_image_fail">Afbeelding invoegen mislukt!</string>
+  <string name="toast_cancel_to_insert_image">Kon afbeelding niet toevoegen.</string>
+  <string name="toast_message_add_image_fail">Kon afbeelding niet toevoegen</string>
   <string name="toast_notes_delete_success">Met succes verwijderd</string>
   <string name="toast_notes_hidden">Met succes verborgen</string>
   <string name="toast_notes_hidden_count">%1$s met succes verborgen</string>

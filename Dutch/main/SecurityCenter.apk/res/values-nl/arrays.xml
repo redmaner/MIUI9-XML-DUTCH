@@ -77,7 +77,7 @@
         <item>Gebruiksfrequentie</item>
         <item>Gebruikte opslag</item>
         <item>Installatietijd</item>
-        <item>Je kan deze app verwijderen</item>
+        <item>Apps die kunnen worden verwijderd</item>
     </string-array>
 	<string-array name="tether_limit_warn_type">
         <item>Uitschakelen en melden</item>

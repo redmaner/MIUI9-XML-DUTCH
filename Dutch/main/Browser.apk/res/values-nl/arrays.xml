@@ -39,48 +39,48 @@
         <item>Volg de olympische spelen met Mi</item>
     </string-array>
 	<string-array name="suggestion_weather_condition_message">
-        <item>Clear</item>
-        <item>Partly cloudy</item>
-        <item>Cloudy</item>
-        <item>Shower</item>
-        <item>Thunderstorms</item>
-        <item>Hail</item>
-        <item>Sleet</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Torrential rain</item>
-        <item>Extraordinary storm</item>
-        <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
-        <item>Small to moderate rain</item>
-        <item>Medium to heavy rain</item>
-        <item>Heavy to torrential rain</item>
-        <item>Torrential rain to downpour</item>
-        <item>Downpour to extreme rainstorm</item>
-        <item>Light to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy to blizzard</item>
-        <item>Floating dust</item>
-        <item>Raising sand</item>
-        <item>Sandstorm</item>
-        <item>Dense fog</item>
-        <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
-        <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
-        <item>Strong dense fog</item>
-        <item>Nothing</item>
-        <item>Rain</item>
-        <item>Snow</item>
+        <item>Helder</item>
+        <item>Gedeeltelijk bewolkt</item>
+        <item>Bewolkt</item>
+        <item>Regen</item>
+        <item>Onweer</item>
+        <item>Hagel</item>
+        <item>Ijzel</item>
+        <item>Lichte regenval</item>
+        <item>Regenval</item>
+        <item>Hevige regenval</item>
+        <item>Regenstorm</item>
+        <item>Stromende regen</item>
+        <item>Storm</item>
+        <item>Sneeuwstorm</item>
+        <item>Lichte sneeuwval</item>
+        <item>Sneeuwval</item>
+        <item>Hevige sneeuwval</item>
+        <item>Sneeuwstorm</item>
+        <item>Mist</item>
+        <item>Regen</item>
+        <item>Zandstorm</item>
+        <item>Lichte tot normale regenval</item>
+        <item>Normale tot hevige regenval</item>
+        <item>Hevige tot extreme regenval</item>
+        <item>Extreme regenval tot stortbui</item>
+        <item>Stortbui tot extreme regenstorm</item>
+        <item>Lichte tot normale sneeuwval</item>
+        <item>Normale tot hevige sneeuwval</item>
+        <item>Hevig tot sneeuwstorm</item>
+        <item>Zwevend stof</item>
+        <item>Zand</item>
+        <item>Zandstorm</item>
+        <item>Dichte mist</item>
+        <item>Sterke mist</item>
+        <item>Nevel</item>
+        <item>Normale nevel</item>
+        <item>Hevige nevel</item>
+        <item>Ernstige nevel</item>
+        <item>Dichte mist</item>
+        <item>Sterke dichte mist</item>
+        <item>Niks</item>
+        <item>Regen</item>
+        <item>Sneeuw</item>
     </string-array>
 </resources>

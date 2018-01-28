@@ -97,8 +97,8 @@
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Als u op de schakelaar drukt zullen lopende back-ups worden gestopt.</string>
   <string name="dialog_cancel_backup_title">De lopende back-up stoppen?</string>
-  <string name="dialog_msg_restore_require_wlan">Wi-fi is vereist om een back-up te herstellen.</string>
-  <string name="dialog_title_require_wlan">Wi-Fi vereist</string>
+  <string name="dialog_msg_restore_require_wlan">Wi-Fi is vereist om een back-up te herstellen.</string>
+  <string name="dialog_title_require_wlan">Verbind met Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">Startscherm en instellingen herstellen…</string>
   <string name="done_remove">Verwijderd</string>
