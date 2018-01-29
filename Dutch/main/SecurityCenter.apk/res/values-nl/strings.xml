@@ -1065,6 +1065,8 @@ om te reageren"</string>
   <string name="network_blocked_connected_open_wifi">Verbinden met openbaar netwerk</string>
   <string name="network_blocked_notification_summary">Netwerk testen</string>
   <string name="network_blocked_switch_wifi">Wisselen van netwerk</string>
+  <string name="network_changed_noti_summary">Using mobile data</string>
+  <string name="network_changed_noti_title">Disconnected from WLAN</string>
   <string name="network_connected_exception_title">Netwerk testen</string>
   <string name="network_control">Appinstellingen bekijken</string>
   <string name="network_diagnostics">Netwerk testen</string>

@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
   <string name="act_find_city_hint">Locatie invoeren</string>
   <string name="act_find_city_hot_attractions_title">Populaire plekken</string>
   <string name="act_find_city_hot_city_title">Populaire steden</string>
@@ -76,6 +79,9 @@
   <string name="content_desc_activity_main_add_city">Stad toevoegen</string>
   <string name="content_desc_activity_main_add_city_manage">Steden beheren</string>
   <string name="content_desc_activity_main_more_settings">Meer instellingen</string>
+  <string name="content_desc_back_button">Back</string>
+  <string name="content_desc_close_button">Close</string>
+  <string name="content_desc_edit_city_manage">Manage cities</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_no_stable_direction">Geen wind</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
@@ -138,8 +144,8 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="location_tag">Lokaliseren</string>
   <string name="menu_add_city">Locaties wijzigen</string>
   <string name="menu_location">Locaties</string>
-  <string name="menu_minute_rain">Twee-uurs neerslagvoorspelling</string>
-  <string name="menu_speeker">Spraakomroep</string>
+  <string name="menu_speaker">Spraakomroep</string>
+  <string name="minute_rain">Minutely forecast</string>
   <string name="minute_rain_after_an_hour">Over een uur</string>
   <string name="minute_rain_after_two_hour">Over twee uur</string>
   <string name="minute_rain_feedback_subtitle">Vertel ons hoe het weer is</string>
@@ -151,6 +157,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Trek naar beneden om te vernieuwen</string>
   <string name="minute_rain_refreshing_now">Vernieuwen…</string>
+  <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="more_details">Meer details</string>
   <string name="network_not_available">Kan geen verbinding maken met netwerk</string>
   <string name="network_unavailable">Kan geen verbinding maken met netwerk</string>
