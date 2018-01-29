@@ -2529,6 +2529,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Beveiligde element positie</string>
   <string name="nfc_se_wallet_title">Standaard wallet</string>
+  <string name="night_light">Night Light</string>
+  <string name="night_light_brightness">Night Light Brigtness</string>
+  <string name="night_light_color">Night Light Color</string>
+  <string name="night_light_summary">Minimize the backlight in low light environment to enter night light mode</string>
   <string name="no">Nee</string>
   <string name="no_account_found">Geen applicatie gevonden die accounts kan toevoegen</string>
   <string name="no_application">Niets</string>
@@ -2732,6 +2736,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Annuleren</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Ga naar instellingen</string>
   <string name="paper_mode_get_location_dlg_title">Locatie instellen</string>
+  <string name="paper_mode_side_effect_hint">Higher intensity might affect the way content is displayed.</string>
   <string name="paper_mode_start_time_title">Inschakelen</string>
   <string name="passpoint_content">%1$s referenties</string>
   <string name="passpoint_label">Opgeslagen via</string>
