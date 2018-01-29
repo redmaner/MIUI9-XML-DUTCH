@@ -317,7 +317,7 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   
 Sommige gedupliceerde apps vereisen Google Services Framework. In zulke gevallen wordt er een dubbele Google Services Framework gemaakt."</string>
   <string name="xspace_guide_des">Gebruik twee accounts zonder te wisselen</string>
-  <string name="xspace_guide_title">Create a dual app</string>
+  <string name="xspace_guide_title">Gedupliceerde app aanmaken</string>
   <string name="xspace_header">Gedupliceerde apps</string>
   <string name="xspace_install_completed">Icoon toegevoegd aan startpagina</string>
   <string name="xspace_install_failed">Kon het niet aanmaken</string>
