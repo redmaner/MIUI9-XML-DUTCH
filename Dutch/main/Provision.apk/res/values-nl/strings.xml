@@ -36,8 +36,8 @@
   <string name="multisim_settings_category">SIM kaart instellingen</string>
   <string name="multisim_settings_title">2 SIM kaarten gedetecteerd</string>
   <string name="navigation_picker_gesture_guide">Gebaren</string>
-  <string name="navigation_picker_radio_text_full_screen">Fullscreenmodus</string>
-  <string name="navigation_picker_radio_text_virtual_key">Virtuele toetsen-modus</string>
+  <string name="navigation_picker_radio_text_full_screen">Full screen gestures</string>
+  <string name="navigation_picker_radio_text_virtual_key">Buttons</string>
   <string name="next">Volgende</string>
   <string name="next_fingerprint">Volgende</string>
   <string name="other_settings">Extra instellingen</string>
