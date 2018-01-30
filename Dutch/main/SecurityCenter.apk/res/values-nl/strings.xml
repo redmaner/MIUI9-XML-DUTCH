@@ -463,7 +463,7 @@ in het geval je hem vergeten bent"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_button">Annuleren</string>
   <string name="card_main_applock_action">Inschakelen</string>
-  <string name="card_main_applock_summary">Beveilig berichten, foto\'s en andere items met een wachtwoord.</string>
+  <string name="card_main_applock_summary">Beveilig geselecteerde apps met een wachtwoord.</string>
   <string name="card_main_applock_title">Appvergrendeling</string>
   <string name="card_main_deepclean_action">Wissen</string>
   <string name="card_main_deepclean_summary">Onnodige bestanden verwijderen</string>
