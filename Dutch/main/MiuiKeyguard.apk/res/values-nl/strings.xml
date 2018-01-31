@@ -31,7 +31,7 @@
   <string name="face_data_manage_unlock_title">Ontgrendelen met je gezicht</string>
   <string name="face_data_siggesstion_next">Volgende</string>
   <string name="face_data_siggesstion_next_time">Volgende (%ds)</string>
-  <string name="face_data_suggesstion_first">Veiligheidsproblemen: Gezichtsontgrendeling is minder veilig dan een PIN code, wachtwoord of patroon. Uw apparaat zou ontgrendeld kunnen worden met een foto van u, of door mensen of objecten die op u lijken.</string>
+  <string name="face_data_suggesstion_first">Het ontgrendelen van het apparaat met je gezicht is minder veilig dan het gebruiken van een wachtwoord. Het apparaat zou ontgrendeld kunnen worden door mensen die op je lijken.</string>
   <string name="face_data_suggesstion_second">Zorg ervoor dat geen van uw gezichtsdelen is bedekt en duidelijk zichtbaar zijn. Je gezicht zou ook goed verlicht moeten zijn.</string>
   <string name="face_unlock_adjust_distance">Zorg ervoor dat de afstand tussen je gezicht en het scherm optimaal is.</string>
   <string name="face_unlock_be_on_the_screen">Houd het apparaat voor uw gezicht</string>
