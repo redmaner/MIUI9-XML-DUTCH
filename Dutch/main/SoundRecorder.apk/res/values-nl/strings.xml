@@ -16,7 +16,7 @@
   <string name="cloud_status_full_dialog_msg">Uw cloudopslag is vol, kan opnames niet synchroniseren. Upgrade uw account om meer opslagruimte te verkrijgen.</string>
   <string name="cloud_status_full_dialog_ok">Upgraden</string>
   <string name="cloud_status_full_dialog_title">Mi Cloud opslag is vol</string>
-  <string name="data_connection_body">Door te downloaden met je mobiele dataverbinding kunnen er kosten in aanrekening worden gebracht</string>
+  <string name="data_connection_body">Door te downloaden met mobiel internet kunnen er kosten in aanrekening worden gebracht</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tip</string>
   <string name="delete">Verwijderen</string>

@@ -1031,10 +1031,10 @@ om te reageren"</string>
   <string name="menu_text_power_manager">Batterijgebruik</string>
   <string name="menu_text_power_percent_title">Batterij %s</string>
   <string name="menu_text_power_percent_title_default">Batterij</string>
-  <string name="menu_white">Add to exceptions</string>
-  <string name="menu_wh_remove">Verwijderen van uitzonderingen</string>
+  <string name="menu_white">Toevoegen aan uitzonderingen</string>
+  <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
-  <string name="mi_service_traffic_detail">Framework details</string>
+  <string name="mi_service_traffic_detail">Frameworkdetails</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
   <string name="mixed_need_to_confirm">Voer opnieuw in om te bevestigen</string>
   <string name="mixed_password_confirmed_header_confirm">Instellen gelukt. Tik om te bevestigen.</string>

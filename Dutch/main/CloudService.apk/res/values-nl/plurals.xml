@@ -5,12 +5,12 @@
         <item quantity="one">%d staat uit</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Items wachten om te sync.: %d</item>
-        <item quantity="one">Item wacht om te sync.: %d</item>
+        <item quantity="other">Items wachten om te synchroniseren: %d</item>
+        <item quantity="one">Item wacht om te synchroniseren: %d</item>
     </plurals>
     <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d items wachten om te sync.</item>
-        <item quantity="one">%d item wacht om te sync.</item>
+        <item quantity="other">%d items wachten om te synchroniseren</item>
+        <item quantity="one">%d item wacht om te synchroniseren</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d contacten</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%d foto</item>
     </plurals>
 	<plurals name="dirty_callog_count">
-        <item quantity="other">%d belgeschiedenis archieven</item>
-        <item quantity="one">%d belgeschiedenis archief</item>
+        <item quantity="other">%d oproepgeschiedenis archieven</item>
+        <item quantity="one">%d oproepgeschiedenis archief</item>
     </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d Wi-Fi netwerken</item>
@@ -45,20 +45,20 @@
         <item quantity="one">%d nummer</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">%d browser items</item>
-        <item quantity="one">%d browser item</item>
+        <item quantity="other">%d browseritems</item>
+        <item quantity="one">%d browseritem</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">%d kalender items</item>
-        <item quantity="one">%d kalender item</item>
+        <item quantity="other">%d kalenderitems</item>
+        <item quantity="one">%d kalenderitem</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d vermeldingen in blokkeerlijst</item>
         <item quantity="one">%d vermelding in blokkeerlijst</item>
     </plurals>
 	<plurals name="dirty_personalAssistant_count">
-        <item quantity="other">%d App vault entries</item>
-        <item quantity="one">%d App vault entry</item>
+        <item quantity="other">%d appvault items</item>
+        <item quantity="one">%d appvault item</item>
     </plurals>
 	<plurals name="dirty_secretphoto_count">
         <item quantity="other">"%d verborgen foto\'s worden niet gesynchroniseerd. Log uit nadat alle items zijn gesynchroniseerd om ze te bewaren; anders worden de items verwijderd."</item>
