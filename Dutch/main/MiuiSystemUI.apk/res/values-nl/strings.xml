@@ -285,7 +285,7 @@
   <string name="ext_media_badremoval_notification_title">USB opslag onverwacht verwijderd</string>
   <string name="ext_media_checking_notification_message">Controleren op fouten.</string>
   <string name="ext_media_checking_notification_title">USB opslag voorbereiden</string>
-  <string name="ext_media_mountable_notification_message">"Klik 'Ga naar Explorer'"</string>
+   <string name="ext_media_mountable_notification_message">Tap to open in Mi File Manager.</string>
   <string name="ext_media_mountable_notification_title">USB opslag is verbonden</string>
   <string name="ext_media_nofs_notification_message">USB opslag leeg of heeft geen ondersteunde bestandsindeling.</string>
   <string name="ext_media_nofs_notification_title">Lege USB opslag</string>

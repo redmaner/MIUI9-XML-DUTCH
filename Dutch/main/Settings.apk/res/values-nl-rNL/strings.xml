@@ -2403,7 +2403,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="mtp_ptp_mode_summary">MTP- of PTP functie is actief</string>
   <string name="multi_touch_points_category_title">Multi touch punten</string>
   <string name="multi_touch_points_preference">Herstart is nodig</string>
-  <string name="music_app_unavailable">Afhankelijk van muziekapp, zorg ervoor dat het beschikbaar is</string>
+  <string name="music_app_unavailable">Make sure the Mi Music app is available.</string>
   <string name="music_audio_effect_optimize">Audio instellingen</string>
   <string name="music_audio_effect_optimize_summary">Dirac, koptelefoon en andere audio instellingen</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD geluid, koptelefoon en andere audio instellingen</string>
@@ -2425,7 +2425,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="music_dirac_mode_piston_1">Mi Piston 1</string>
   <string name="music_dirac_mode_piston_100">Mi piston 1</string>
   <string name="music_dirac_mode_piston_2">Mi piston 2</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (TypeC)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (Type-C)</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Muziek</string>
   <string name="music_dolby_mode_off">Uit</string>
