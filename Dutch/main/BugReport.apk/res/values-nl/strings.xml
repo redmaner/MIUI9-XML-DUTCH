@@ -262,8 +262,8 @@
   <string name="select_system_app_tag">Selecteer een probleem</string>
   <string name="submit_dialog_cancel">Annuleren</string>
   <string name="submit_dialog_confirm">Indienen</string>
-  <string name="submit_dialog_content">Uw feedback zal samen verzonden worden met bijlagen en logs naar MIUI\’s servers. Het kan personlijke info bevatten.</string>
-  <string name="submit_dialog_content_global">"Your feedback, along with attachments and logs, will be sent to MIUI's servers. Logs may contain personal info and your location data. You can choose not to submit logs by unchecking the corresponding box."</string>
+  <string name="submit_dialog_content">Uw feedback zal samen met bijlagen en logs verzonden worden naar MIUI\’s servers. Logs kunnen persoonlijke info bevatten.</string>
+  <string name="submit_dialog_content_global">Uw feedback zal samen met bijlagen en logs verzonden worden naar MIUI\’s servers. Logs kunnen persoonlijke info en locatiegegevens bevatten. Je kan ervoor kiezen om geen logs mee te sturen door het vakje uit te vinken.</string>
   <string name="submit_dialog_title">Bugrapport versturen</string>
   <string name="submit_feedback_info_failed">Kon rapport niet verzenden</string>
   <string name="suggestion_description">Voeg beschrijving hier toe</string>
