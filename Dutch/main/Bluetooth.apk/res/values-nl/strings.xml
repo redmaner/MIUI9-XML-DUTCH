@@ -59,10 +59,11 @@
   <string name="enabling_progress_content">Bluetooth inschakelen…</string>
   <string name="enabling_progress_title">Een ogenblik geduld…</string>
   <string name="inbound_history_title">Inkomende overdrachten</string>
-  <string name="inbound_noti_title">Incoming file</string>
+  <string name="inbound_noti_title">Bluetooth delen: ontvangen bestanden</string>
   <string name="incoming_file_confirm_Notification_content">%1$s is klaar om %2$s te verzenden</string>
+  <string name="incoming_file_confirm_Notification_title">Inkomend bestand</string>
   <string name="incoming_file_confirm_cancel">Weigeren</string>
-  <string name="incoming_file_confirm_content">Binnenkomed bestand aanvaarden?</string>
+  <string name="incoming_file_confirm_content">Binnenkomed bestand accepteren?</string>
   <string name="incoming_file_confirm_ok">Accepteren</string>
   <string name="incoming_file_confirm_timeout_content">Er was een time-out, tijdens het accepteren van een inkomend bestand van \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
