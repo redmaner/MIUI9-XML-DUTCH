@@ -1740,7 +1740,6 @@ For more details, contact your organization's admin."</string>
   <string name="fingerprint_identify_try_again_msg">Kon niet lezen, probeer opnieuw</string>
   <string name="fingerprint_intro_error_max">You’ve added the maximum number of fingerprints</string>
   <string name="fingerprint_intro_error_unknown">Can’t add more fingerprints</string>
-  <string name="fingerprint_last_delete_confirm">Yes, remove</string>
   <string name="fingerprint_last_delete_confirm">Ja, verwijderen</string>
   <string name="fingerprint_last_delete_message">Je zal niet in staat zijn om vingerafdrukken te gebruiken om te ontgrendelen, betalingen uit te voeren of in te loggen in apps.</string>
   <string name="fingerprint_last_delete_message_profile_challenge">U kan uw vingerafdrukken niet gebruiken om uw werkprofiel te ontgrendelen, aankopen te machtigen of in te loggen op werkapps.</string>

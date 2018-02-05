@@ -531,7 +531,6 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_duration_only">Ongeveer %1$s resterend</string>
   <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
-  <string name="power_remaining_duration_only">About %1$s left</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Geen verbonden apparaten beschikbaar</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Verbonden</string>

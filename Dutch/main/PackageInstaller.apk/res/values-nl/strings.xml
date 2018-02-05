@@ -357,7 +357,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
   <string name="power_remaining_duration_only">About %1$s left</string>
   <string name="power_discharging_duration_short">%1$s - %2$s te gaan</string>
-  <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
   <string name="power_remaining_duration_only">Nog ongeveer %1$s te gaan</string>
   <string name="power_remaining_duration_only_short">%1$s te gaan</string>
   <string name="privacyPerms">Privacy</string>
@@ -506,7 +505,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="wifi_display_certification_summary">Opties voor draadloze weergavecertificering weergeven</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
   <string name="wifi_no_internet">Geen toegang tot internet gevonden, wordt niet automatisch opnieuw verbonden.</string>
-  <string name="wifi_no_internet_no_reconnect">Geen toegang tot internet gevonden</string>
   <string name="wifi_no_internet_no_reconnect">"Won't automatically connect"</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_remembered">Opgeslagen</string>
