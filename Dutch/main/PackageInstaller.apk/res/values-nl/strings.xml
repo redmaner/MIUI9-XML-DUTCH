@@ -355,7 +355,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
   <string name="power_discharging_duration">%1$s - about %2$s left</string>
   <string name="power_remaining_charging_duration_only">%1$s left until fully charged</string>
-  <string name="power_remaining_duration_only">About %1$s left</string>
   <string name="power_discharging_duration_short">%1$s - %2$s te gaan</string>
   <string name="power_remaining_duration_only">Nog ongeveer %1$s te gaan</string>
   <string name="power_remaining_duration_only_short">%1$s te gaan</string>
