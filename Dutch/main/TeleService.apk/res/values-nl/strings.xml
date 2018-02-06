@@ -422,14 +422,12 @@ Sample Rate"</string>
   <string name="card_title_MTcall_forwarding">Inkomende oproep is doorgeschakeld</string>
   <string name="card_title_call_deflected">Oproep afgewezen</string>
   <string name="card_title_call_ended">Oproep beëindigd</string>
-  <string name="card_title_callconnectedect">Oproep verbonden ECT</string>
-  <string name="card_title_callconnectingect">Oproep verbinden ECT</string>
+  <string name="card_title_callconnectedect">Call connected through explicit call transfer</string>
+  <string name="card_title_callconnectingect">Call connecting through explicit call transfer</string>
   <string name="card_title_calliswaiting">Gesprek in de wacht</string>
   <string name="card_title_callonhold">Zet in de wacht</string>
   <string name="card_title_callonhold_released">Oproep vrijgegeven</string>
   <string name="card_title_callretrieved">Oproep teruggehaald</string>
-  <string name="card_title_callconnectedect">Call connected through explicit call transfer</string>
-  <string name="card_title_callconnectingect">Call connecting through explicit call transfer</string>
   <string name="card_title_cugcall">Closed User Group Call</string>
   <string name="card_title_deflectedcall">Doorgeschakeld gesprek</string>
   <string name="card_title_dialing">Bezig met bellen</string>
@@ -1459,7 +1457,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="time_end_minute">tijd eind minuut</string>
   <string name="time_next_day">" volgende dag "</string>
   <string name="time_start">" Van "</string>
-  <string name="time_next_day">" next day "</string>
   <string name="time_start_hour">tijd start uur</string>
   <string name="time_start_minute">tijd start minuut</string>
   <string name="title_cfu_enabled">Oproepdoorschakeling staat aan</string>

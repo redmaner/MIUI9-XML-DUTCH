@@ -114,7 +114,6 @@ Wilt u deze activiteit sluiten?"</string>
   <string name="app_running_notification_text">Raak aan voor meer informatie of om de app te stoppen.</string>
   <string name="app_running_notification_title">%1$s wordt uitgevoerd</string>
   <string name="app_upgrading_toast">%1$s is aan het upgraden…</string>
-  <string name="app_upgrading_toast">%1$s is upgrading…</string>
   <string name="autofill">Autofill</string>
   <string name="autofill_address_type_same_as_re">zelfde als</string>
   <string name="autofill_address_type_use_my_re">gebruik mijn</string>
@@ -314,11 +313,6 @@ met %s"</string>
   <string name="eventTypeCustom">Aangepast</string>
   <string name="eventTypeOther">Overig</string>
   <string name="expand_action_accessibility">toggle expansion</string>
-  <string name="etws_primary_default_message_earthquake">Stay calm and seek shelter nearby.</string>
-  <string name="etws_primary_default_message_earthquake_and_tsunami">Stay calm and seek shelter nearby.</string>
-  <string name="etws_primary_default_message_others"/>
-  <string name="etws_primary_default_message_test">Emergency messages test</string>
-  <string name="etws_primary_default_message_tsunami">Evacuate immediately from coastal regions and riverside areas to a safer place such as high ground.</string>
   <string name="expires_on">Verloopt op:</string>
   <string name="ext_media_badremoval_notification_message">%s ontkoppelen voordat u deze verwijdert om gegevensverlies te voorkomen</string>
   <string name="ext_media_badremoval_notification_title">%s onverwacht verwijderd</string>
@@ -720,7 +714,6 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="network_available_sign_in">Aanmelden op netwerk</string>
   <string name="network_logging_notification_text">Your organization manages this device and may monitor network traffic. Tap for details.</string>
   <string name="network_logging_notification_title">Device is managed</string>
-  <string name="network_switch_metered">Switched to %1$s</string>
   <string name="network_switch_metered">Switched to %1$s</string>
   <string name="network_switch_metered_detail">Device uses %1$s when %2$s has no Internet access. Charges may apply.</string>
   <string name="network_switch_metered_toast">Switched from %1$s to %2$s</string>
@@ -1293,7 +1286,6 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="stk_cc_ss_to_ussd">SS verzoek is aangepast naar USSD verzoek.</string>
   <string name="stk_cc_ussd_to_dial">USSD verzoek is aangepast naar DIAL verzoek.</string>
   <string name="stk_cc_ss_to_dial_video">SS request is modified to Video DIAL request.</string>
-  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
   <string name="stk_cc_ussd_to_ss">USSD verzoek is aangepast naar SS verzoek.</string>
   <string name="stk_cc_ussd_to_ussd">USSD verzoek is aangepast naar nieuw USSD verzoek.</string>
   <string name="storage_internal">Interne opslag</string>

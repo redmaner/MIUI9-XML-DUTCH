@@ -14,6 +14,12 @@
   <string name="ac_firstUseApplock_subTitle">Betere systeem-niveau bescherming tools gebruiken</string>
   <string name="ac_firstUseApplock_title">Wachtwoord instellen om uw apps te beschermen</string>
   <string name="ac_mask_all_apps">Verbergen voor alle apps</string>
+  <string name="ac_notification_contentText">Tap to turn on</string>
+  <string name="ac_notification_contentTitle">Protect apps with App lock</string>
+  <string name="ac_post_notification_contentText">Get system-level protection</string>
+  <string name="ac_post_notification_contentTitle">Turn on App Lock</string>
+  <string name="ac_pre_notification_contentText">Protect your personal info</string>
+  <string name="ac_pre_notification_contentTitle">Try App Lock</string>
   <string name="ac_summaryOff">Uitgeschakeld, wachtwoord is niet vereist om apps te openen</string>
   <string name="ac_summaryOn">Ingeschakeld, wachtwoord is vereist om apps te openen</string>
   <string name="ac_unmask_all_apps">Zichtbaar maken voor alle apps</string>
@@ -1124,12 +1130,10 @@ Probeer een andere ethernetkabel op uw router. Als u vermoedt dat er een problee
   <string name="notification_battery_consume_abnormal_title">Batterij loopt te snel leeg</string>
   <string name="notification_exit_power_save_mode">Batterijbespaarder uitgeschakeld</string>
   <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
-  <string name="notification_item">Bescherm apps met appvergrendeling</string>
   <string name="notification_mask_summary">Meldingsinhoud niet weergeven op vergrendelscherm en in de notificatiebalk</string>
   <string name="notification_mask_title">Inhoud verbergen</string>
   <string name="notification_masked_item">Meldingen verbergen</string>
   <string name="notification_masked_subtitle">Meldingen van apps beveiligd door appvergrendeling verbergen</string>
-  <string name="notification_subtitle">Tik om in te schakelen</string>
   <string name="notification_summary_cmcc_app_check">Aanraken om details te bekijken.</string>
   <string name="notify_daily_data_usage_body">Om dataverbruik automatisch te beperken, stel je maandelijkse datalimiet in.</string>
   <string name="notify_daily_limit_body">Tik om datalimiet in te stellen.</string>
