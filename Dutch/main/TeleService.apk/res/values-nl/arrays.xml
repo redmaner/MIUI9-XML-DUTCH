@@ -123,16 +123,16 @@
         <item>16M per log buffer</item>
     </string-array>
 	<string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Uit</item>
+        <item>Alle</item>
+        <item>Alle behalve radio</item>
+        <item>Alleen kernel</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Uit</item>
+        <item>Alle logbuffers</item>
+        <item>Alle behalve radio logbuffers</item>
+        <item>Alleen kernel logbuffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
@@ -308,17 +308,4 @@
         <item>LTE</item>
         <item>Triple modus</item>
     </string-array>
-    <string-array name="select_logpersist_titles">
-        <item>Uit</item>
-        <item>Alle</item>
-        <item>Alle behalve radio</item>
-        <item>Alleen kernel</item>
-    </string-array>
-    <string-array name="select_logpersist_summaries">
-        <item>Uit</item>
-        <item>Alle logbuffers</item>
-        <item>Alle behalve radio logbuffers</item>
-        <item>Alleen kernel logbuffer</item>
-    </string-array>
-    <array name="config_hideWhenDisabled_packageNames" />
 </resources>
