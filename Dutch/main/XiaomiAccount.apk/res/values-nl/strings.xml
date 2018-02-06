@@ -79,7 +79,7 @@
   <string name="change_password">Wachtwoord wijzigen</string>
   <string name="change_phone_number">Telefoonnr. wijzigen</string>
   <string name="cloud_service">Mi Cloud</string>
-  <string name="completed">Helemaal klaar</string>
+  <string name="completed">Helemaal klaar!</string>
   <string name="confirm_activate_email">Bevestigd</string>
   <string name="confirm_bundled_phone_dialog_title">Gekoppeld telefoonnummer bevestigen</string>
   <string name="confirm_delete_app_message">Na het verwijderen van deze app, zal u uw moeten telefoonnummer verifiëren de volgende keer dat u zich aanmeldt bij uw Mi account.</string>
@@ -93,8 +93,8 @@
   <string name="current_location_title">Huidige locatie</string>
   <string name="delete_action">Verwijderen</string>
   <string name="delete_app">App verwijderen</string>
-  <string name="delete_bank_card_message">Uw bankkaart wordt verwijderd vanwege veiligheidsredenen nadat u zich afmeldt</string>
-  <string name="delete_bank_card_title">Bankkaart verwijderen</string>
+  <string name="delete_bank_card_message">Mi Pay bank cards and NFC cards will be deleted after you sign out.</string>
+  <string name="delete_bank_card_title">Attention</string>
   <string name="delete_browser">Browser verwijderen</string>
   <string name="delete_device">Apparaat verwijderen</string>
   <string name="delete_device_btn">Verwijderen</string>
@@ -117,7 +117,6 @@
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
   <string name="find_device_activate_account">Account activeren</string>
   <string name="find_device_bad_response_error">Er is een serverfout opgetreden, probeer later opnieuw</string>
-  <string name="find_device_display_id">Nummer deblokkeren: %s</string>
   <string name="find_device_error_password_not_confirmed">"Kan apparaat vinden niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in."</string>
   <string name="find_device_error_password_recently_changed">"U heeft uw wachtwoord de afgelopen 3 dagen veranderd. Kan nu apparaat vinden niet uitschakelen om veiligheidsredenen."</string>
   <string name="find_device_interrupted">Actie is onderbroken, probeer later opnieuw</string>
@@ -267,7 +266,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_input_password_hint">Voer wachtwoord in</string>
   <string name="passport_input_phone_hint">Voer telefoonnummer in</string>
   <string name="passport_input_vcode_hint">Voer verificatiecode in</string>
-  <string name="passport_instant_login">Inloggen</string>
+  <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
   <string name="passport_license_host_unreachable">"Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Aanmelden</string>
@@ -365,7 +364,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_uplink_slot1_reg">SIM 1 gebruiken</string>
   <string name="passport_uplink_slot2_reg">SIM 2 gebruiken</string>
   <string name="passport_use_generated_pwd_message">Zorg ervoor dat u uw wachtwoord onthoudt. U kunt het gebruiken om aan te melden bij andere Mi diensten.</string>
-  <string name="passport_use_generated_pwd_title">Onthoud uw wachtwoord</string>
+  <string name="passport_use_generated_pwd_title">Onthoud uw wachtwoord!</string>
   <string name="passport_user_agreement">Gebruikersovereenkomst</string>
   <string name="passport_user_agreement_p1">"Akkoord gaan met "</string>
   <string name="passport_user_agreement_p2">Gebruikersovereenkomst</string>

@@ -732,7 +732,7 @@ Last ran on %2$s"</string>
   <string name="bluetooth_pairing_pin_error_message">Kan niet koppelen met %1$s vanwege een onjuiste PIN code of toegangscode.</string>
   <string name="bluetooth_pairing_rejected_error_message">Koppeling geweigerd door %1$s.</string>
   <string name="bluetooth_pairing_request">Koppelen met %1$s?</string>
-  <string name="bluetooth_pairing_shares_phonebook">%1$s toestaan om toegang te krijgen tot uw contacten en oproepgeschiedenis</string>
+  <string name="bluetooth_pairing_shares_phonebook">Toestaan om toegang te krijgen tot uw contacten en oproepgeschiedenis</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppelen zorgt ervoor dat u toegang verleent tot uw contacten en belgeschiedenis wanneer verbonden.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Lokale internetverbinding delen met apparaat</string>
   <string name="bluetooth_pan_profile_summary_use_for">Gebruik voor internettoegang</string>
@@ -1850,6 +1850,8 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="free_xiaomi_wifi_connect_summary">Tik om te verbinden met %1$s.</string>
   <string name="frequently_fragment_delete">Verwijderen</string>
   <string name="frequently_fragment_tempty">Regelmatig gebruikte items staan hier</string>
+  <string name="fsg_mistake_touch_summary">In some scenes, such as full-screen games and videos, gestures need to be double swipe to take effect</string>
+  <string name="fsg_mistake_touch_title">Double check for the gestures</string>
   <string name="full_transparent_smarrcover_title">Doorzichtige voorklep</string>
   <string name="fullbackup_data_summary">"Automatisch apparaatgegevens (zoals Wi-Fi wachtwoorden en oproepgeschiedenis) en appgegevens (zoals instellingen en bestanden opgeslagen door apps) back-uppen.
 

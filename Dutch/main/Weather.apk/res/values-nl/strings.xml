@@ -131,6 +131,7 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
   <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Zichtbaarheid</string>
   <string name="information_manager_extension">Weerextensie</string>
+  <string name="information_settings_title">Weather info</string>
   <string name="install">Installeren</string>
   <string name="international_detail_menu_title">Details</string>
   <string name="international_details_pressure_title">DRUK</string>
@@ -169,6 +170,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="open_browser">Openen in browser</string>
   <string name="open_now">Openen</string>
   <string name="other">Overige</string>
+  <string name="other_settings">Other settings</string>
   <string name="other_warning_settings">Andere alarmen</string>
   <string name="particulate_matter_exceeded">Hoog</string>
   <string name="particulate_matter_not_exceeded">Normaal</string>
