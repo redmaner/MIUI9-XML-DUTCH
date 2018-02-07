@@ -1522,6 +1522,9 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="verify_apps_over_usb_title">Verifieer apps via USB</string>
   <string name="vibrate_after_connected_summary">Trillen bij opnemen</string>
   <string name="vibrate_after_connected_title">Trillen nadat verbinding tot stand is gebracht</string>
+  <string name="vice_slot_volte_data_switch_prompt">Your device will connect to a mobile data network using the secondary SIM during ongoing VoLTE calls. This may generate additional data fees. Contact your local carrier for details about your data plan.</string>
+  <string name="vice_slot_volte_data_switch_summary">During VoLTE calls, device will connect to a mobile data network using the secondary SIM</string>
+  <string name="vice_slot_volte_data_switch_title">Use mobile data during VoLTE calls on the secondary SIM</string>
   <string name="vm_change_failed">Kan het voicemailnummer niet wijzigen. Neem contact op met uw provider als dit probleem zich blijft voordoen.</string>
   <string name="vm_change_pin_error_invalid">De nieuwe PIN bevat ongeldige tekens.</string>
   <string name="vm_change_pin_error_mismatch">De oude PIN komt niet overeen.</string>
