@@ -86,11 +86,6 @@
   <string name="invalid_sim_puk_hint">PUK moet minstens 8 nummers lang zijn</string>
   <string name="keyguard_charging_info_battery_temperature_text">Temperatuur van batterij</string>
   <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Ongeveer %d uur tot volledig opgeladen</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Ongeveer %d minuten tot volledig opgeladen</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Ongeveer %d uur en %d minuten tot volledig opgeladen</string>
-  <string name="keyguard_charging_info_charging_text">Opladen</string>
-  <string name="keyguard_charging_info_charging_voltage_text">Voltage</string>
   <string name="keyguard_charging_info_click_to_detail">Details bekijken</string>
   <string name="keyguard_charging_info_could_use_hour_time_text">Ongeveer %d uur resterend</string>
   <string name="keyguard_charging_info_could_use_min_time_text">Ongeveer %d minuten resterend</string>
@@ -99,8 +94,6 @@
   <string name="keyguard_charging_info_drained_hour_time_format">%d uur</string>
   <string name="keyguard_charging_info_drained_min_time_format">%d minuten</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Leeggelopen</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d uur en %d minuten</string>
-  <string name="keyguard_charging_info_finished_charging_text">Volledig opgeladen</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Gisteren %s</string>
@@ -117,7 +110,6 @@
   <string name="keyguard_left_smarthome">Contacts</string>
   <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
-  <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
   <string name="keyguard_torch_cover_text">Druk op de aan/uitnop om de zaklamp aan te houden</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>

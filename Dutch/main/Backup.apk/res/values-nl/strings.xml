@@ -490,6 +490,7 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
   <string name="trans_start_failed_message">Kon transfer niet starten, probeer opnieuw of herstart het apparaat</string>
   <string name="trans_start_failed_title">Kon transfer niet starten</string>
+  <string name="trans_switching_5g">Switching to 5GHz WLAN…</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"
 Tijd besteed: %s"</string>

@@ -354,6 +354,8 @@ Sample Rate"</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">Naar startscherm gaan</string>
   <string name="how_to_switch_recents">Recente apps tonen</string>
+  <string name="how_to_use_drawer">How to use the app sliding function</string>
+  <string name="how_to_use_drawer_summary">Swipe from the top-left</string>
   <string name="how_to_use_fsg">Je kan deze acties uitvoeren met gebaren:</string>
   <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
   <string name="immediately_destroy_activities">Activiteiten niet behouden</string>
