@@ -406,7 +406,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="show_touches">Aanrakingen weergeven</string>
   <string name="show_touches_summary">Visuele feedback weergeven voor aanrakingen</string>
   <string name="simulate_color_space">Kleurruimtes simuleren</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="strict_mode">Strikte modus ingeschakeld</string>
   <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
   <string name="system_warning">Als u deze toestemming weigert, zou het kunnen dat basisfuncties van uw apparaat niet langer werken zoals bedoeld.</string>
