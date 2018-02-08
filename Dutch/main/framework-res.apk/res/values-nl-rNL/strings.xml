@@ -1269,7 +1269,6 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="status_bar_managed_profile">managed_profile</string>
   <string name="status_bar_mute">mute</string>
   <string name="status_bar_nfc">nfc</string>
-  <string name="status_bar_notification_info_overflow">999 +</string>
   <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
   <string name="status_bar_phone_signal">phone_signal</string>
   <string name="status_bar_rotate">rotate</string>

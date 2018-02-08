@@ -1121,7 +1121,6 @@ U hebt nog %d pogingen over."</string>
   <string name="pin_progress_unlock_icc">SIM kaart ontgrendelen…</string>
   <string name="pointer_location">Aanwijzer locatie</string>
   <string name="pointer_location_summary">Schermoverlay met huidige aanraakgegevens</string>
-  <string name="port">Poort</string>
   <string name="port_title">Poortnummer</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
   <string name="power_discharging_duration">%1$s - ongeveer. %2$s nog te gaan</string>
