@@ -477,7 +477,7 @@ Sample Rate"</string>
   <string name="change_default_data_card_summary">Het lijkt dat u van SIM kaarten hebt gewisseld. Instellen als standaard voor mobiele data?</string>
   <string name="change_num">Bijwerken</string>
   <string name="change_password">Verander wachtwoord voor afbuigen</string>
-  <string name="change_pin">SIM PIN code wijzigen</string>
+  <string name="change_pin">PIN code wijzigen</string>
   <string name="change_pin2">PIN 2 code wijzigen</string>
   <string name="change_pin_cancel_label">Annuleren</string>
   <string name="change_pin_confirm_pin_header">Uw PIN bevestigen</string>
@@ -605,7 +605,7 @@ Sample Rate"</string>
   <string name="dialog_cancel">Annuleren</string>
   <string name="dialog_network_priority_title">Prioriteitsnetwerk</string>
   <string name="dialog_report">Rapporteren</string>
-  <string name="direct_boot_unaware_dialog_message">"Note: After a reboot, this app can't start until you unlock your phone"</string>
+  <string name="direct_boot_unaware_dialog_message">Opmerking: na een herstart kan deze app niet starten totdat je je telefoon ontgrendeld.</string>
   <string name="disable">Uitschakelen</string>
   <string name="disable_all_cf">Schakel alle doorschakelfuncties uit</string>
   <string name="disable_cfb_forbidden">Uw provider ondersteunt doorschakelen van gesprekken niet wanneer uw telefoon bezet is.</string>
@@ -616,10 +616,10 @@ Sample Rate"</string>
   <string name="disable_overlays">HW overlays uitschakelen</string>
   <string name="disable_overlays_summary">Altijd GPU gebruiken voor schermcompositie</string>
   <string name="disable_pin_ok">PIN gewist</string>
-  <string name="disable_sim_pin">SIM PIN wissen</string>
-  <string name="disabled">Disabled</string>
+  <string name="disable_sim_pin">PIN code wissen</string>
+  <string name="disabled">Uitgeschakeld</string>
   <string name="disabled_by_admin">Uitgeschakeld door beheerder</string>
-  <string name="disabled_by_admin_summary_text">Gecontrolleerd door admin</string>
+  <string name="disabled_by_admin_summary_text">Gecontroleerd door admin</string>
   <string name="display_name_summary">&lt;Gelijk aan gebruikersnaam&gt;</string>
   <string name="display_name_title">Naam weergeven</string>
   <string name="domain_address_title">Server</string>
@@ -675,11 +675,11 @@ Sample Rate"</string>
   <string name="enable_freeform_support_summary">Ondersteuning voor experimentele freeform windows inschakelen.</string>
   <string name="enable_in_progress">PIN aan het instellen…</string>
   <string name="enable_opengl_traces_title">OpenGL traces inschakelen</string>
-  <string name="enable_pin">In- en uitschakelen SIM PIN</string>
+  <string name="enable_pin">In- en uitschakelen PIN code</string>
   <string name="enable_pin_ok">PIN ingesteld</string>
   <string name="enable_proximity_summary">Scherm uitschakelen wanneer u het apparaat tegen uw oor houdt tijdens gesprekken</string>
   <string name="enable_proximity_title">Nabijheidssensor</string>
-  <string name="enable_sim_pin">Stel SIM PIN in</string>
+  <string name="enable_sim_pin">PIN instellen</string>
   <string name="enable_terminal_summary">Terminal app die lokale shell toegang biedt inschakelen</string>
   <string name="enable_terminal_title">Lokale terminal</string>
   <string name="enable_video_calling_dialog_close">Sluiten</string>
@@ -695,7 +695,7 @@ Sample Rate"</string>
   <string name="enter_callbarring_password">Geef een wachtwoord voor het afbuigen van oproepen (4 cijfers)</string>
   <string name="enter_input" formatted="false">USSD bericht moet tussen %d en %d tekens lang zijn. Probeer opnieuw</string>
   <string name="enter_pin2_text">PIN 2</string>
-  <string name="enter_pin_text">SIM PIN code:</string>
+  <string name="enter_pin_text">PIN code:</string>
   <string name="entertainment_news_settings">Amusementsnieuws</string>
   <string name="eo_disable">Vacatures uitgeschakeld</string>
   <string name="eo_enable">Vacatures ingeschakeld</string>
