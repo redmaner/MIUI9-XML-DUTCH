@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Dit geschenk verzenden?</string>
   <string name="gift_use_fail_dlg_title">Er ging iets fout</string>
   <string name="gift_used">Verzenden</string>
-  <string name="hide_free">Gratis thema\'s verbergen</string>
-  <string name="hide_incompatible">Thema\'s die niet ondersteund worden verbergen</string>
+  <string name="hide_free">Gratis %1$s verbergen</string>
+  <string name="hide_incompatible">%1$s die niet ondersteund worden verbergen</string>
   <string name="home_apply_failured">Kan achtergrond niet toepassen op het startscherm</string>
   <string name="home_apply_success">Achtergrond toegepast op het startscherm</string>
   <string name="in_the_end">Geen items meer om te tonen</string>
@@ -357,8 +357,8 @@
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Melding</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Beltoon</string>
-  <string name="theme_apply_failured">Kan vergrendelscherm achtergrond niet toepassen</string>
-  <string name="theme_apply_success">Vergrendelscherm toegepast</string>
+  <string name="theme_apply_failured">Kan achtergrond niet toepassen op vergrendelscherm</string>
+  <string name="theme_apply_success">Toegepast op vergrendelscherm</string>
   <string name="theme_applying">Bezig met toepassen…</string>
   <string name="theme_batch_update_all">Alles bijwerken</string>
   <string name="theme_batch_update_dlg_content">"%1$s en %2$d andere thema's nu bijwerken?"</string>
@@ -440,7 +440,7 @@
   <string name="uid_change_dialog_message">U hebt de updates verwijderd. Herstart het apparaat om deze thema\'s te kunnen gebruiken.</string>
   <string name="uid_change_dialog_ok">Begrepen</string>
   <string name="uid_change_dialog_title">Apparaat herstarten</string>
-  <string name="wallpaper_apply">Apply</string>
+  <string name="wallpaper_apply">Toepassen</string>
   <string name="wallpaper_crop">Bijsnijden</string>
   <string name="wallpaper_decoded_error">Kan achtergrond niet instellen</string>
   <string name="wallpaper_scroll_type_tips">Achtergrondscroll</string>

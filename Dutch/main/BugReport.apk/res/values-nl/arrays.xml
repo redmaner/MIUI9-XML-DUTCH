@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="reproductivity">
+        <item>ALtijd</item>
+        <item>Vaak</item>
+        <item>Zelden</item>
+        <item>Eenmalig</item>
+    </string-array>
+</resources>

@@ -6,26 +6,26 @@
   <string name="app_name">Provisie</string>
   <string name="application_permissions">Apptoestemmingen</string>
   <string name="back">Terug</string>
-  <string name="cm_terms_content">Om de service voor u te verbeteren, kan uw mobiele provider persoonlijke gegevens en informatie over die apparaat uploaden naar haar servers. Deze informatie zal alleen worden gebruikt om de kwaliteit van de services te verbeteren en inhoud te tonen die voor u persoonlijk relevant is. Deze informatie zal niet worden gebruikt om u persoonlijk te identificeren en zal niet worden gedeeld met derden.</string>
+  <string name="cm_terms_content">Om de service voor u te verbeteren, kan uw mobiele provider persoonlijke gegevens en informatie over dit apparaat uploaden naar haar servers. Deze informatie zal alleen worden gebruikt om de kwaliteit van de services te verbeteren en inhoud te tonen die voor u persoonlijk relevant is. Deze informatie zal niet worden gebruikt om u persoonlijk te identificeren en zal niet worden gedeeld met derden.</string>
   <string name="cm_terms_title">Overeenkomst mobiele netwerkprovider</string>
   <string name="congratulation_label">Je bent klaar om te beginnen!</string>
+  <string name="congratulation_swipe">Veeg omhoog om te beginnen</string>
   <string name="congratulation_title">Instellen voltooid</string>
   <string name="content_description_complete">Voltooid</string>
   <string name="content_description_start">Starten</string>
   <string name="continue_to_enable_accessibility">Blijf ingedrukt houden met twee vingers om toegankelijkheid in te schakelen.</string>
-  <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, verifiëren van Mi Pay transacties of om  aan te melden bij apps en diensten.</string>
+  <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, Mi Pay transacties te verifiëren of om aan te melden bij apps en diensten.</string>
   <string name="desc_international_fingerprint">Gebruik uw vingerafdruk om uw toestel te ontgrendelen of aan te melden op apps en diensten.</string>
   <string name="disagree">Annuleren</string>
   <string name="enable_accessibility_canceled">Toegankelijkheid geannuleerd.</string>
-  <string name="enable_accessibility_dialog_message">U heeft TalkBack ingeschakeld door met twee vingers op het scherm te drukken voor langer dan 10 seconden. TalkBack geeft spraakfeedback voor mensen met oogproblemen. Als je het per ongeluk hebt ingeschakeld, druk op annuleren en tik vervolgens twee keer op het scherm.</string>
+  <string name="enable_accessibility_dialog_message">U heeft TalkBack ingeschakeld door met twee vingers op het scherm te drukken voor langer dan 10 seconden. TalkBack geeft spraakfeedback voor mensen met zichtproblemen. Als je het per ongeluk hebt ingeschakeld, druk op annuleren en tik vervolgens twee keer op het scherm.</string>
   <string name="enable_accessibility_dialog_negative_btn">Annuleren</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="fail_to_generate_qr_code">Kon geen QR code genereren. Open deze pagina opnieuw.</string>
   <string name="ime_privacy_policy">Privacybeleid voor geselecteerde toetsenbord</string>
   <string name="ime_privacy_policy_no_network">Geen netwerkverbinding. Bekijk het privacybeleid voor dit keyboard op %s</string>
   <string name="input_method_category">Kies het standaard toetsenbord dat u gebruikt om berichten, notities en meer mee te schrijven. Merk op dat u andere toetsenborden van derden later kunt installeren.</string>
   <string name="input_method_setting">Kies toetsenbord</string>
-  <string name="install_preinstall_app">Bezig met apps aan het laden…</string>
+  <string name="install_preinstall_app">Bezig met apps laden…</string>
   <string name="item_fingerprint">Vingerafdruk</string>
   <string name="item_lock_screen_password">Alleen schermvergrendeling</string>
   <string name="language_picker_other_languages_title">Meer talen</string>
@@ -35,16 +35,19 @@
   <string name="miui_terms_no_network">"U hebt geen internetverbinding. Bekijk de Algemene Voorwaarden op %s."</string>
   <string name="multisim_settings_category">SIM kaart instellingen</string>
   <string name="multisim_settings_title">2 SIM kaarten gedetecteerd</string>
+  <string name="navigation_picker_gesture_guide">Gebaren</string>
+  <string name="navigation_picker_radio_text_full_screen">Fullscreengebaren</string>
+  <string name="navigation_picker_radio_text_virtual_key">Knoppen</string>
   <string name="next">Volgende</string>
   <string name="next_fingerprint">Volgende</string>
   <string name="other_settings">Extra instellingen</string>
   <string name="other_settings_auto_update">Automatisch updaten</string>
-  <string name="other_settings_auto_update_summary">MIUI zal de tijd die u niet actief bent selecteren om te downloaden en de updates te installeren.</string>
+  <string name="other_settings_auto_update_summary">MIUI zal op een moment dat u niet bezig bent updates downloaden en installeren.</string>
   <string name="other_settings_location">Locatie</string>
   <string name="other_settings_location_summary">Apps toegang tot uw locatie geven.</string>
-  <string name="other_settings_upload_debug_log_summary">De gegevens die wij verzamelen zullen worden gebruikt voor het vinden en analyseren van problemen in het systeem en zal nooit worden gebruikt om u persoonlijk te identificeren.</string>
-  <string name="other_settings_upload_debug_log_title">Diagnostische data automatisch verzenden</string>
-  <string name="other_settings_user_experience">Gebruikerservaringsprogramma</string>
+  <string name="other_settings_upload_debug_log_summary">De gegevens die wij verzamelen zullen worden gebruikt voor het vinden en analyseren van problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
+  <string name="other_settings_upload_debug_log_title">Diagnostische gegevens automatisch verzenden</string>
+  <string name="other_settings_user_experience">Gebruikerservaring</string>
   <string name="other_settings_user_experience_summary">Help onze producten te verbeteren door het versturen van anonieme gebruiksgegevens.</string>
   <string name="pref_title_data_slot">Voorkeur voor data SIM kaart</string>
   <string name="pref_title_voice_slot">Voorkeur voor gesprek SIM kaart</string>
@@ -55,6 +58,7 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
   <string name="setting_locale">Regio instellen…</string>
   <string name="shut_down">Uitschakelen</string>
   <string name="sim_card_detecting">Controleren op SIM kaart…</string>
+  <string name="sim_card_detecting_check">Kon SIM kaart niet vinden. Zorg ervoor dat de SIM kaart goed is bevestigd en dat je voldoende saldo hebt.</string>
   <string name="sim_card_detecting_title">Controleren op SIM kaart</string>
   <string name="sim_card_detection">SIM kaart invoeren</string>
   <string name="sim_card_detection_info">Om uw SIM kaart in te voeren, lees de instructies die bij het apparaat geleverd zijn.</string>
@@ -62,13 +66,17 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
   <string name="sim_redetection">Opnieuw controleren</string>
   <string name="skip_underline">Deze stap overslaan</string>
   <string name="summary_not_set">Niet ingesteld</string>
+  <string name="system_navigation_mode">Systeemnavigatiemodus</string>
   <string name="terms_of_use">Algemene voorwaarden</string>
   <string name="terms_of_use_label">"Uw privacy is erg belangrijk voor ons. Lees onze Gebruiksvoorwaarden en Privacybeleid om te begrijpen welke informatie wij verzamelen, hoe we deze gebruiken en welke keuzes er voor u beschikbaar zijn.
 
-U moet akkoord gaan met onze Algemene Voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat vinden, startscherm, gamecenter, MAB en MSA systeemcomponenten, webapps, quick cards, statistieken, smart cards, Mi Link, en Mi Account componenten zullen verbinding maken met internet en toegang tot uw locatie krijgen."</string>
+U moet akkoord gaan met onze Algemene voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat vinden, startscherm, gamecenter, Miui Daemon, MAB en MSA systeemcomponenten, webapps, quick cards, statistieken, smart cards, Mi Link, en Mi Account componenten zullen verbinding maken met internet en toegang tot uw locatie krijgen."</string>
+  <string name="terms_of_use_label_gms">"Uw privacy is erg belangrijk voor ons. Lees onze Gebruiksvoorwaarden en Privacybeleid om te begrijpen welke informatie wij verzamelen, hoe we deze gebruiken en welke keuzes er voor u beschikbaar zijn.
+
+U moet akkoord gaan met onze Algemene voorwaarden en Privacybeleid voordat u MIUI kunt gebruiken. Mi diensten, Mi SIM activatiediensten, Mi Cloud, Apparaat vinden, startscherm, gamecenter, Miui Daemon, MAB en MSA systeemcomponenten, webapps, quick cards, statistieken, smart cards, Mi Link, Mi Account componenten en Google Play Services zullen verbinding maken met internet en toegang tot uw locatie krijgen."</string>
   <string name="title_fingerprint">Wachtwoord instellen</string>
-  <string name="two_dimensional_code_scan">QR code scannen</string>
-  <string name="user_agreement">Algemene Voorwaarden</string>
-  <string name="user_strayed_warning">Deze pagina is bedoeld voor fabriekstests. Tik op \"Terug\" om af te sluiten.</string>
+  <string name="user_agreement">Algemene voorwaarden</string>
+  <string name="voice_assist_desp">Zeg \"Mi AI\". Mi AI zal je stem herkennen en vervolgens kan je je apparaat controleren.</string>
+  <string name="voice_assist_title">Ontwaken met je stem</string>
   <string name="welcome">Welkom</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Downloadbeheer</string>
+  <string name="app_label">Downloads</string>
   <string name="auto_restart_under_wifi">Bestand zal automatisch downloaden wanneer verbonden met Wi-Fi</string>
   <string name="button_cancel_download">Annuleren</string>
   <string name="button_download_now">Nu downloaden</string>
@@ -46,7 +46,7 @@
   <string name="notification_download_failed_more">Kon %1$d bestanden niet downloaden</string>
   <string name="notification_download_success_more">%1$d bestanden gedownload</string>
   <string name="notification_need_wifi_for_size">Wi-Fi nodig voor download</string>
-  <string name="notification_paused_in_background">Onderbr. op achtergrond.</string>
+  <string name="notification_paused_in_background">Onderbroken op achtergrond.</string>
   <string name="notify_disabled_net_by_app">Internetverbinding is beperkt door veiligheidsapp</string>
   <string name="notify_install_guide_forward_text">Openen</string>
   <string name="notify_install_guide_msg">Met succes geïnstalleerd</string>
@@ -58,16 +58,16 @@
   <string name="permdesc_downloadCompletedIntent">Hiermee kan de app meldingen verzenden over voltooide downloads. Schadelijke apps kunnen dit gebruiken om andere apps die bestanden downloaden in verwarring te brengen.</string>
   <string name="permdesc_downloadManager">Hiermee heeft de app toegang tot downloadbeheer en kan de app via downloadbeheer bestanden downloaden. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
   <string name="permdesc_downloadManagerAdvanced">Hiermee heeft de app toegang tot de geavanceerde functies van downloadbeheer. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
-  <string name="permdesc_downloadWithoutNotification">Hiermee kan de app bestanden downloaden via downloadbeheer zonder dat de gebruiker een melding krijgt.</string>
+  <string name="permdesc_downloadWithoutNotification">Hiermee kan de app bestanden downloaden zonder enige melding te tonen aan de gebruiker.</string>
   <string name="permdesc_seeAllExternal">Hiermee kan de app alle downloads op de SD kaart zien, ongeacht welke app ze heeft gedownload.</string>
   <string name="permlab_accessAllDownloads">Toegang geven tot alle systeemdownloads</string>
   <string name="permlab_downloadCacheNonPurgeable">Ruimte in de downloadcache reserveren</string>
   <string name="permlab_downloadCompletedIntent">Downloadmeldingen verzenden.</string>
   <string name="permlab_downloadManager">Downloadbeheer weergeven.</string>
   <string name="permlab_downloadManagerAdvanced">Geavanceerde downloadbeheer functies.</string>
-  <string name="permlab_downloadWithoutNotification">bestanden downloaden zonder melding</string>
+  <string name="permlab_downloadWithoutNotification">Bestanden downloaden zonder melding</string>
   <string name="permlab_seeAllExternal">Alle downloads op USB opslag bekijken</string>
-  <string name="privacy_notif_content">Aanraken om details te bekijken.</string>
+  <string name="privacy_notif_content">Tik om details te bekijken.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator staat aan</string>
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">"Xunlei Accelerator gebruiken om je downloads te versnellen? De URL van de download gastheer  zal geüpload naar de servers van Xunlei's. Uw Mi Account gegevens zullen ook worden geüpload om te controleren of u een actieve abonnementen hebt op deze dienst."</string>
@@ -79,16 +79,16 @@
   <string name="task_already_exist">Taak bestaat al</string>
   <string name="warning_tip_cancel">Downloaden</string>
   <string name="warning_tip_content">Wi-Fi is onderbroken. Het gebruik van uw mobiele gegevensverbinding om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
-  <string name="warning_tip_ok">Ok</string>
+  <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Waarschuwing dataverbruik</string>
   <string name="wifi_recommended_body" formatted="false">"Als u deze download van %s nu start, kan dit de levensduur van de batterij verkorten en/of leiden tot bovenmatig gebruik van uw mobiele gegevensverbinding. Uw provider kan hiervoor kosten aanrekenen.
 
- Raak '%s' aan om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
+Tik op '%s' om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_recommended_title">In wachtrij plaatsen voor later downloaden?</string>
-  <string name="wifi_required_body" formatted="false">"U moet Wi-Fi gebruiken om deze download van %s te voltooien.
+  <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze download van %s te voltooien.
 
-Raak %s aan om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
-  <string name="wifi_required_title">Download te groot voor providernetwerk</string>
+Tik op %s om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
+  <string name="wifi_required_title">Het bestand is te groot om te downloaden met mobiel internet</string>
   <string name="xl_speedup_experience_notify_context">De snelheid wordt verhoogd voor elke download als je een Xunlei lid bent</string>
   <string name="xl_speedup_experience_notify_title">Xunlei lidmaatschap</string>
   <string name="xl_speedup_notify_button_experience">Gratis proberen</string>

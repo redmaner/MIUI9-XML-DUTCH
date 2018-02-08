@@ -81,7 +81,7 @@ Nu bijwerken?"</string>
   <string name="account_setup_basics_password_label">Wachtwoord</string>
   <string name="account_setup_basics_title">Accountinstellingen</string>
   <string name="account_setup_check_settings_check_incoming_msg">Serverinstellingen verifiëren…</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">MTP instellingen verifiëren…</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">SMTP instellingen verifiëren…</string>
   <string name="account_setup_check_settings_retr_info_msg">"    Accountinformatie ophalen…"</string>
   <string name="account_setup_correct_address_tips">E-mailadres invoeren</string>
   <string name="account_setup_creating_account_msg">"    Account maken…"</string>
@@ -160,7 +160,6 @@ Nu bijwerken?"</string>
   <string name="account_sync_settings_settings">Account- contacten en kalenders synchroniseren</string>
   <string name="account_sync_settingstip_description">Synchronisatie-instellingen</string>
   <string name="account_waiting_for_folders_msg">Mappenlijst laden…</string>
-  <string name="actionbar_large_unread_count">Meer dan %1$d ongelezen</string>
   <string name="activity_folder_selection">Map selecteren</string>
   <string name="activity_mailbox_selection">Account kiezen</string>
   <string name="ad_merge">Adv &amp; meldingen</string>
@@ -216,19 +215,21 @@ Nu bijwerken?"</string>
   <string name="auto_advance_help_title">Na het verwijderen van een bericht, bekijk…</string>
   <string name="auto_advance_label">Actie na verwijderen van bericht</string>
   <string name="auto_advance_summary">Kies welk bericht je wilt zien nadat een bericht is verwijderd</string>
+  <string name="auto_login_fail">Kon niet automatisch inloggen</string>
+  <string name="auto_login_fail_to_retry">Kon niet automatisch inloggen, probeer opnieuw.</string>
   <string name="auto_mail_describe">139 E-mail service Automatische Configuratie kan u helpen bij het invullen van de inloggegevens naar de mailbox. Wilt u deze functie inschakelen?</string>
   <string name="auto_mail_disable_txt">Uitschakelen</string>
   <string name="auto_mail_enable_txt">Instellingen starten</string>
   <string name="auto_mail_go_email">Mailbox</string>
   <string name="auto_mail_name">AutoMail</string>
-  <string name="auto_mail_title_note">Vind de opyie \"139 Mailbox Automatische Configuratie\", klik erop om te starten.</string>
+  <string name="auto_mail_title_note">Vind de optie \"139 Mailbox Automatische Configuratie\" en klik erop om te starten.</string>
   <string name="auto_mail_window_description">139 E-mail service Automatische Configuratie</string>
   <string name="auto_mail_window_label">139 Mailbox Automatische Configuratie</string>
   <string name="auto_remind_bind">Toevoegen</string>
   <string name="auto_remind_discribe_text">Inschakelen om automatische herinneringen te ontvangen</string>
   <string name="auto_remind_text">Automatische herinneringen</string>
   <string name="auto_remind_unbind">Stop</string>
-  <string name="auto_sync_off">Automatische sync. is uitgeschakeld.</string>
+  <string name="auto_sync_off">Automatische synchroniseren is uitgeschakeld.</string>
   <string name="automatic_remind_text">Automatisch herinneren</string>
   <string name="back">Terug</string>
   <string name="bank_card_detail">Creditcardgegevens</string>
@@ -355,7 +356,7 @@ Nu bijwerken?"</string>
   <string name="del_account_questionnair_hint">Kan je ons vertellen waarom u dit account verwijderd?</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_message_flow">Automatisch verwijderen</string>
-  <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
+  <string name="delete_message_flow_keywords">berichten verwijderen;verwijderen verwijzen</string>
   <string name="deleted">Verwijderd</string>
   <string name="device_activity_btn_str">Ga terug om te activeren</string>
   <string name="device_activity_lint_str">Mail service uitschakelen om verder te updaten en de veiligheid te activeren</string>
@@ -365,7 +366,6 @@ Nu bijwerken?"</string>
   <string name="device_not_activiey_lint2">Mail service werkt niet goed wisselen</string>
   <string name="dialog_account_auto_sync_setting_no_open">Kan geen nieuwe berichten automatisch ontvangen. Sync. is uitgeschakeld.</string>
   <string name="dialog_change_sync_lookback">E-mails die %s geleden zijn ontvangen worden automatisch verwijderd. Tik om te wijzigen.</string>
-  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server fout.</string>
   <string name="dialog_insufficient_space_on_external">Kan bijlage niet downloaden. Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_insufficient_space_on_internal">Niet genoeg ruimte op interne opslag.</string>
   <string name="dialog_system_auto_sync_account_no_open">Schakel accountsynchronisatie in om e-mails automatisch te ontvangen</string>
@@ -516,7 +516,6 @@ Nu bijwerken?"</string>
   <string name="header_label_general_preferences">Algemene instellingen</string>
   <string name="help_and_info">Help</string>
   <string name="help_config">Zelf configuratie</string>
-  <string name="hide_atts_remaining">%1$d bijlagen verbergen</string>
   <string name="hide_elided">▼ Tekst uit oorspronkelijk bericht verbergen</string>
   <string name="hide_password">Wachtwoord verbergen</string>
   <string name="hint_quick_reply_all">Allen beantwoorden</string>
@@ -529,7 +528,6 @@ Nu bijwerken?"</string>
   <string name="info_switch_title">Promotie</string>
   <string name="inline_picture_deleted">Downloaden van ontbrekende afbeelding…</string>
   <string name="input_password_prompt">Voer uw wachtwoord in</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="interact_with_server_error">Kon niet verbinden met de server</string>
   <string name="invalid_recipient">Het adres %s is ongeldig.</string>
   <string name="invalid_recipient_title">Ontvangers Error</string>
@@ -539,7 +537,6 @@ Nu bijwerken?"</string>
   <string name="loading_conversations">Laden…</string>
   <string name="loading_from_remote">Laden…</string>
   <string name="local_search">Lokaal zoeken</string>
-  <string name="local_search_result">%s gevonden resultaten in gesync. berichten.</string>
   <string name="login">Aanmelden</string>
   <string name="login139">Aanmelden met China Mobile</string>
   <string name="login_failed_ticker">%s: aanmelden mislukt.</string>
@@ -651,7 +648,6 @@ Nu bijwerken?"</string>
   <string name="mibill_privacy_policy_link">"Door deze functie te gebruiken gaat u akkoord met onze "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Algemene voorwaarden&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Rekeningen automatisch beheren</string>
   <string name="min_payment_text">Minimum betaling</string>
-  <string name="more_atts_remaining">%1$d meer overgebleven</string>
   <string name="more_context">Meer</string>
   <string name="move_to_selection_dialog_title">Verplaatsen naar een andere map</string>
   <string name="mute">Dempen</string>
@@ -663,7 +659,6 @@ Nu bijwerken?"</string>
   <string name="network_try_again">Controleer netwerkverbinding en probeer opnieuw</string>
   <string name="network_unavailable">Netwerk niet beschikbaar</string>
   <string name="new_incoming_messages_one">Nieuw bericht van %s. Weergeven.</string>
-  <string name="new_messages">%1$d nieuwe berichten</string>
   <string name="new_signature_has_saved">Nieuwe handtekening opgeslagen</string>
   <string name="next_action">Volgende</string>
   <string name="no">Nee</string>
@@ -820,6 +815,9 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="push_wps_confirm_message">Probeer WPS Office te gebruiken om deze bijlage te openen.</string>
   <string name="push_wps_confirm_title">Probeer WPS Office</string>
   <string name="push_wps_no_response_app">Geen app gevonden om deze actie te behandelen</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Gekopieerd. Ga terug naar de inlogpagina en plak de code in het wachtwoordveld.</string>
+  <string name="qq_auto_login_failed_dialog_message">Kopieer de verificatiecode, tik op \"Gebruikersnaam en wachtwoord invullen om in te loggen\" op de inlogpagina en plak de code in het wachtwoordveld.</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Code kopiëren</string>
   <string name="qq_bar_open_imap">Help</string>
   <string name="qq_bar_send_message">SMS verzenden</string>
   <string name="qq_login_basecode">Aanmelden op web QQ Mail. Voer onafhankelijke wachtwoord in.</string>
@@ -845,7 +843,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="quick_3">Ik zal dit later lezen en kom er dan op terug.</string>
   <string name="quick_4">Laten we een afspraak maken om dit te bespreken.</string>
   <string name="quick_reply_dialog_title">Kiezen</string>
-  <string name="quick_reply_hint">%1$d beantwoorden</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_reply_hint_reply_only_from">Snel antwoord (alleen afzender)</string>
@@ -897,7 +894,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="recognize_ticket_title">Vliegtuig &amp; trein kaartjes</string>
   <string name="recognize_ticket_train_alter">Gewijzigd</string>
   <string name="recognize_ticket_train_depart_date">Vertrekt op %3$s:%4$s op %1$s/%2$s</string>
-  <string name="recognize_ticket_train_notification_content">Goeie reis!</string>
+  <string name="recognize_ticket_train_notification_content">Goede reis!</string>
   <string name="recognize_ticket_train_notification_title">Trein %3$s (%1$s/%2$s) zal binnenkort vertrekken. Controleer uw treinkaartje.</string>
   <string name="recognize_ticket_train_return">Geretourneerd</string>
   <string name="recognize_ticket_train_user_name">Passagier: %1$s</string>
@@ -909,7 +906,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="refreshing_done">Voltooid</string>
   <string name="release_to_refresh">Loslaten om te vernieuwen</string>
   <string name="remind_attachment_size_limit">Uw e-mails zouden minder dan %sMB moeten zijn</string>
-  <string name="remote_search_result">%s resultaten gevonden op de server.</string>
   <string name="remove_account">Account verwijderen</string>
   <string name="remove_folder">Verwijderen uit %1$s</string>
   <string name="remove_star">Uit favorieten verwijderen</string>
@@ -922,6 +918,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="request_entity_large">Bestand is te groot</string>
   <string name="request_permission_activity">Toestemmingsaanvraag</string>
   <string name="respond_inline">"   Inline beantwoorden"</string>
+  <string name="retry_login">Opnieuw inloggen</string>
   <string name="save_action">Opslaan</string>
   <string name="save_attachment">Opslaan</string>
   <string name="save_draft_failed">Concept opslaan mislukt</string>
@@ -1022,7 +1019,6 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="system_setup_open_error">Schakel synchronisatie voor Mail in in instellingen</string>
   <string name="tap_to_configure">Raak aan om in te stellen</string>
   <string name="tap_to_enable_sync">Raak aan om in te schakelen.</string>
-  <string name="to">Aan</string>
   <string name="to_heading">"Aan: "</string>
   <string name="toast_bar_fail_synchronization">Kan niet verbinden met netwerk</string>
   <string name="toast_bar_insufficient_memory_space">Kan geen e-mails ontvangen. Niet genoeg opslagruimte.</string>
@@ -1058,7 +1054,6 @@ Account verwijderen?"</string>
   <string name="undo">Ongedaan maken</string>
   <string name="unknow">Onbekend</string>
   <string name="unread_string">Conversatie ongelezen</string>
-  <string name="unsent_messages_in_outbox">%1$s niet verzonden in %2$s</string>
   <string name="unzip_file_failed">Kon dit bestand niet unzippen</string>
   <string name="update_date_format_templete">dd MMMM, HH:mm</string>
   <string name="update_to_wps_mail">Voor geavanceerde functies, upgrade naar WPS-mail</string>

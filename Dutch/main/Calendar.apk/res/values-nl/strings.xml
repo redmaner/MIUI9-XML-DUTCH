@@ -10,9 +10,10 @@
   <string name="accessibility_sync_cal">Agenda synchroniseren</string>
   <string name="account_and_calendar">Accounts</string>
   <string name="accounts">Accounts en synchronisatie</string>
-  <string name="acct_not_synced">"Dit account wordt niet gesynchroniseerd, dus uw agenda's zijn mogelijk niet bijgewerkt."</string>
+  <string name="acct_not_synced">Dit account wordt niet gesynchroniseerd. Uw kalenders zijn mogelijk niet bijgewerkt.</string>
   <string name="acessibility_selected_marker_description">Geselecteerde afspraak</string>
-  <string name="action_bar_more_menu_view_description">meer</string>
+  <string name="action_bar_more_menu_view_description">Meer</string>
+  <string name="action_bar_return">Terug</string>
   <string name="action_text_card_manager">Abonnementen</string>
   <string name="action_text_today">Vandaag</string>
   <string name="ad_card_connecting">Verbinding</string>
@@ -90,11 +91,11 @@
   <string name="countdown_today">Vandaag</string>
   <string name="create_an_account_desc">"Agenda werkt beter met een Google account.
 
-• Toegang via elke webbrowser
-• Maak beveiligde back-ups van uw afspraken"</string>
+• Toegang via elke webbrowser.
+• Maak beveiligde back-ups van uw afspraken."</string>
   <string name="creating_event">Afspraak gemaakt</string>
-  <string name="creating_event_with_guest">Uitnodigingen worden verzonden.</string>
-  <string name="credit">Creditkaart</string>
+  <string name="creating_event_with_guest">Uitnodigingen verzenden…</string>
+  <string name="credit">Creditcard</string>
   <string name="credit_card_date_label">Datum van terugbetaling:</string>
   <string name="credit_card_number_label">Kaart:</string>
   <string name="credit_card_overdue">Verlopen</string>
@@ -111,6 +112,7 @@
   <string name="date_calculate_days">Aantal dagen invoeren</string>
   <string name="date_calculate_description">Bekijk welke datum het een bepaald aantal dagen voor of na een bepaalde dag is</string>
   <string name="date_calculate_direction">Vooruit/achteruit</string>
+  <string name="date_calculate_direction_content_description">Ingesteld op %1s.</string>
   <string name="date_calculate_result">Resultaat</string>
   <string name="date_calculate_tab">Datum berekenen</string>
   <string name="date_calculate_today">0 dagen</string>
@@ -173,10 +175,10 @@
   <string name="edit_event_to_label">Tot</string>
   <string name="electricity_bill_event_title">Elektriciteitsrekening:</string>
   <string name="email_guests_label">E-mailen aan gasten</string>
-  <string name="email_install_hint">Email is verwijderd. Door het opnieuw te installeren kan je accountgegevens herstellen of een nieuw account toevoegen.</string>
+  <string name="email_install_hint">De mailapp is verwijderd. Installeer het opnieuw om je accountgegevens te herstellen of een nieuw account toe te voegen.</string>
   <string name="email_picker_label">E-mail met</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">Lege afspraak niet gemaakt</string>
+  <string name="empty_event">Kan geen lege afspraak maken</string>
   <string name="english_premium_league">English Premium League</string>
   <string name="event_account">Account</string>
   <string name="event_action_delete">Verwijderen</string>
@@ -255,9 +257,9 @@
   <string name="insert_event_dialog_title">Waarschuwing</string>
   <string name="insert_event_toast_add_failed">Kon niet toevoegen</string>
   <string name="insert_event_toast_add_success">Gebeurtenis aangemaakt</string>
-  <string name="install_email_app">Email installeren</string>
-  <string name="install_email_finished">Email geinstalleerd</string>
-  <string name="installing_email">Installeren...</string>
+  <string name="install_email_app">Mailapp installeren</string>
+  <string name="install_email_finished">Geinstalleerd</string>
+  <string name="installing_email">Installeren…</string>
   <string name="install_weather_app_error">De toepassing kan niet worden geladen.</string>
   <string name="install_weather_app_loading">Bezig met laden…</string>
   <string name="item_num_selected">%1$d geselecteerd</string>
@@ -268,7 +270,7 @@
   <string name="jump_date_full">Spring naar datum</string>
   <string name="live_text">Live</string>
   <string name="living_text">In de lucht</string>
-  <string name="load_more_hint">Afspraken van %1$d vernieuwen</string>
+  <string name="load_more_hint">Afspraken van %1$d laden</string>
   <string name="loading">Een momentje…</string>
   <string name="loan_event_title">Krediet rekening</string>
   <string name="local_calendar_display_name">Lokale kalender</string>
@@ -282,7 +284,21 @@
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_reminder_preferences">Herinneringen</string>
   <string name="missing_name">(Geen naam)</string>
-  <string name="missing_required_permission">Je hebt een vereiste toestemming uitgeschakeld.</string>
+  <string name="missing_required_permission">Je hebt vereiste toestemmingen uitgeschakeld.</string>
+  <string name="miuishare_account_activate_confirmation">Mi Account activeren</string>
+  <string name="miuishare_account_activate_ok">Activeren</string>
+  <string name="miuishare_account_login_cancel">Annuleren</string>
+  <string name="miuishare_account_login_confirmation">inloggen op Mi Account</string>
+  <string name="miuishare_account_login_ok">Inloggen</string>
+  <string name="miuishare_account_need_activate">Delen met Weibo vereist dat het Weibo account is gekoppeld aan je Mi Account. Activeer je Mi Account om verder te gaan.</string>
+  <string name="miuishare_account_need_login">Delen met Weibo vereist dat het Weibo account is gekoppeld aan je Mi Account. Log in op je Mi Account om verder te gaan.</string>
+  <string name="miuishare_app_name">MIUI Share</string>
+  <string name="miuishare_no_network">Kon niet verbinden met het netwerk</string>
+  <string name="miuishare_publish">Verzenden</string>
+  <string name="miuishare_share_done">Delen gelukt</string>
+  <string name="miuishare_share_editor_title">Delen</string>
+  <string name="miuishare_title_more">Meer</string>
+  <string name="miuishare_title_share">Delen</string>
   <string name="modify_all">Alle afspraken in de reeks wijzigen</string>
   <string name="modify_all_following">Deze en alle toekomstige afspraken wijzigen</string>
   <string name="modify_event">Alleen deze afspraak wijzigen</string>
@@ -306,6 +322,7 @@
   <string name="more_string">+%1$d</string>
   <string name="movie_event_title">Film:</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
+  <string name="new_event_description">Nieuw</string>
   <string name="new_event_dialog_label">Nieuwe afspraak</string>
   <string name="new_event_dialog_option">Nieuwe afspraak</string>
   <string name="no_contact_birthday_hint">Geen verjaardagen om te importeren</string>
@@ -313,9 +330,9 @@
   <string name="no_network">Geen netwerk. Netwerk vernieuwen :)</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="no_title_label">(Geen titel)</string>
-  <string name="no_visiable_calendar_message">U moet een kalenderaccount selecteren. Tik op account selecteren en ga door.</string>
-  <string name="no_visiable_calendar_select_account">Account selecteren</string>
-  <string name="no_visiable_calendar_title">Account selecteren</string>
+  <string name="no_visiable_calendar_message">U moet een kalenderaccount toevoegen. Tik op account toevoegen om door te gaan.</string>
+  <string name="no_visiable_calendar_select_account">Account toevoegen</string>
+  <string name="no_visiable_calendar_title">Account toevoegen</string>
   <string name="not_synced">Niet gesynchroniseerd</string>
   <string name="olympic_rank">Ranking</string>
   <string name="olympic_total">Totaal</string>
@@ -337,7 +354,7 @@
   <string name="preferences_home_tz_title">Eigen tijdzone</string>
   <string name="preferences_import_credit_repayment">Creditkaartbetalingen</string>
   <string name="preferences_import_electricity_bill">Elektriciteitsrekening</string>
-  <string name="preferences_import_gas_bill">Gas rekening</string>
+  <string name="preferences_import_gas_bill">Gasrekening</string>
   <string name="preferences_import_hotel">Hotels</string>
   <string name="preferences_import_loan">Lening</string>
   <string name="preferences_import_movie">Film</string>
@@ -350,12 +367,12 @@
   <string name="preferences_week_start_day_dialog">Week begint op</string>
   <string name="preferences_week_start_day_title">Week begint op</string>
   <string name="provided_ad">Advertentie</string>
-  <string name="pull_to_refresh_hint">Naar beneden trekken om afspraken van %1$d te vernieuwen</string>
+  <string name="pull_to_refresh_hint">Trek naar beneden om afspraken van %1$d te laden</string>
   <string name="recommend_card_add">Abonneer je nu</string>
   <string name="recommend_card_adding">Abonnementen</string>
   <string name="recommend_card_close_hint">Verlaag uw abonnement naar soortgelijke wordt aangeraden</string>
   <string name="refresh">Vernieuwen</string>
-  <string name="refreshing_hint">Bezig met vernieuwen</string>
+  <string name="refreshing_hint">Een momentje…</string>
   <string name="repeat_activity_label">Herhalen</string>
   <string name="repeat_custom_activity_label">Aangepast</string>
   <string name="repeat_custom_prompt">iedere %1$s op %2$s</string>
@@ -386,7 +403,7 @@
   <string name="response_yes">Ja</string>
   <string name="rest_day_indication">: )</string>
   <string name="saving_event">Afspraak opgeslagen</string>
-  <string name="saving_event_with_guest">Updates zullen worden verzonden</string>
+  <string name="saving_event_with_guest">Updates verzenden…</string>
   <string name="search">Zoeken</string>
   <string name="search_calendar">"Datum;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Herinnering;Vakantie;Vakantie;Verjaardag;2016;2017;Spring Festival;Nieuwjaarsdag;International Labour Day;Mid-Autumn Festival"</string>
   <string name="search_calendar_edit_event">Meeting;Herinnering;Agenda</string>
@@ -406,6 +423,7 @@
   <string name="setting_sms_import">SMS importeer evenement</string>
   <string name="setting_title_about">Over</string>
   <string name="setting_title_holiday_display">Vakanties weergeven</string>
+  <string name="share_title">Delen</string>
   <string name="show_day_view">Dag weergeven</string>
   <string name="show_newer_events">Tik om gebeurtenissen na %1$s weer te geven</string>
   <string name="show_older_events">Tik aan om gebeurtenissen vóór %1$s weer te geven</string>
@@ -427,6 +445,7 @@ U kunt ook herinneringen aan abonnement toevoegen"</string>
   <string name="subscribing_card">Abonnementen</string>
   <string name="swipe_up_guide_hint_text">Omhoog vegen</string>
   <string name="synced">Gesynchroniseerd</string>
+  <string name="talk_back_read_date">Huidige datum: %1$s (%2$s volgens de maankalender).</string>
   <string name="taishen">band van God</string>
   <string name="template_announce_item_index">Afspraak %1$s van %2$s.</string>
   <string name="template_week_num">Week %1$s</string>

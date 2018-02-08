@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_smart_sms_title">Slimme berichten partner</string>
   <string name="action_firewall_setting">Zwarte lijst</string>
   <string name="activity_not_found">Geen app gevonden om deze handeling uit te voeren</string>
   <string name="activity_not_found_uri">Geen app gevonden om deze handeling uit te voeren</string>
@@ -63,18 +62,16 @@
   <string name="check_all">Alles selecteren</string>
   <string name="class_0_message_activity">Berichtklasse 0</string>
   <string name="close">Sluiten</string>
-  <string name="cloud_recommend_msg">Tik om berichten te synchroniseren met Mi Cloud.</string>
-  <string name="cloud_state_disabled">Synchronisatie met Mi Cloud is uitgeschakeld</string>
+  <string name="cloud_state_disabled">Schakel synchronisatie met Mi Cloud in om berichten te synchroniseren</string>
   <string name="cloud_state_sync_finished">Gesynchroniseerd met Mi Cloud</string>
   <string name="cloud_state_syncing">Synchroniseren met Mi Cloud…</string>
-  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="compressing">Afbeelding is te groot. Comprimeren…</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_add_blacklist_dialog_dspt">Nummer toevoegen aan zwarte lijst?</string>
   <string name="confirm_delete_SIM_message">Dit bericht op de SIM kaart wordt verwijderd?</string>
   <string name="confirm_delete_all_SIM_messages">Alle berichten van de SIM kaart verwijderen?</string>
   <string name="confirm_delete_all_conversations">Alle berichten verwijderen?</string>
-  <string name="confirm_delete_conversation">Alle threads verwijderen?</string>
+  <string name="confirm_delete_conversation">Deze conversatie verwijderen?</string>
   <string name="confirm_delete_group_message">Groepsberichten verwijderen?</string>
   <string name="confirm_delete_locked_message">Dit vergrendeld bericht verwijderen?</string>
   <string name="confirm_delete_message">Dit bericht verwijderen?</string>
@@ -85,7 +82,8 @@
   <string name="confirm_export_dialog_description">Alle gesprekken met dit nummer worden niet langer verborgen.</string>
   <string name="confirm_export_dialog_title">Verwijderen uit privé contacten</string>
   <string name="confirm_no_block_positive">Niet blokkeren en herstellen</string>
-  <string name="confirm_no_block_title">Nummer niet blokkeren en alle berichten herstellen?</string>
+  <string name="confirm_no_block_title">"Wil je alle berichten gestuurd door dit nummer deblokkeren en herstellen?
+(Het nummer zal worden toegevoegd aan uitzonderingen)"</string>
   <string name="confirm_rate_limit">Er wordt een groot aantal multimediaberichten verzonden.</string>
   <string name="confirm_restore_all_title">Alle berichten herstellen van dit nummer?</string>
   <string name="confirm_restore_checkbox">Geblokkeerde berichten herstellen</string>
@@ -361,7 +359,6 @@
   <string name="open_url_with_web">Deze URL openen in browser?</string>
   <string name="over_max_mms_size">MMS is te groot.</string>
   <string name="overwrite_edited_content">"Aangepaste inhoud wordt overschreven, wilt u doorgaan?"</string>
-  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">Term wissen?.</string>
   <string name="phrase_empty">Geen zinnen</string>
   <string name="phrase_from">Van %1s</string>
@@ -409,7 +406,6 @@
   <string name="pref_summary_wake_up_screen">Scherm ontwaken bij inkomende berichten</string>
   <string name="pref_switch_sdk_setting">Smart SMS serviceprovider wisselen</string>
   <string name="pref_system_title">Systeem</string>
-  <string name="pref_title_about_smart_sms">Over slimme berichten partner</string>
   <string name="pref_title_allow_si_sl_push">WAP pushberichten toestaan (SI/SL)</string>
   <string name="pref_title_allow_upload_message_info">Spamberichten uploaden</string>
   <string name="pref_title_auto_delete">Oude berichten verwijderen</string>
@@ -572,6 +568,7 @@
   <string name="sms_report_success">Rapport verzonden</string>
   <string name="snippet_audio">[Audio]</string>
   <string name="snippet_picture">[Afbeelding]</string>
+  <string name="snippet_timed">[Getimed]</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankmeldingsberichten</string>
   <string name="sp_category_title_prefix">%s</string>

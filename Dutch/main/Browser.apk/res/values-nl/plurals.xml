@@ -8,13 +8,13 @@
         <item quantity="other">%d overeenkomsten</item>
         <item quantity="one">%d overeenkomst</item>
     </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">Laatste %d dagen</item>
-		<item quantity="one">Afgelopen dag</item>
+	<plurals name="nav_screen_incognito_time">
+        <item quantity="other">Na %d seconden wordt er automatisch een nieuwe pagina geopend</item>
+        <item quantity="one">Na %d seconde wordt er automatisch een nieuwe pagina geopend</item>
     </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d van %2$d</item>
-        <item quantity="one">1 overeenkomst</item>
+	<plurals name="transfer_prompt">
+        <item quantity="other">Video afspelen over %1$d seconden</item>
+        <item quantity="one">Video afspelen over %1$d seconde</item>
     </plurals>
 	<plurals name="v5_edit_mode_title">
         <item quantity="other">1$d geselecteerd</item>
@@ -39,5 +39,12 @@
 	<plurals name="video_subtitle_last_message">
         <item quantity="other">%d minuten over</item>
         <item quantity="one">%d minuut over</item>
+    </plurals>    
+	<plurals name="mw_last_num_days">
+        <item quantity="other">Laatste %d dagen</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d van %2$d</item>
+        <item quantity="one">1 overeenkomst</item>
     </plurals>
 </resources>

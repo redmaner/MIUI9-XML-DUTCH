@@ -1,89 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="group_name_translate">
-        <item>Standaard</item>
-        <item>Verbergmodus</item>
-        <item>Leesmodus</item>
-        <item>Mediamodus</item>
-    </string-array>
-     <string-array name="event_name_translate">
-        <item>App loopt in de voorgrond</item>
-        <item>Scherm aan</item>
-        <item>Scherm uit</item>
-        <item>Scherm uit in 10 minuten</item>
-        <item>Ga naar volledig scherm</item>
-        <item>Volledig scherm afsluiten</item>
-        <item>App loopt in achtergrond</item>
-        <item>Telefoon is aan het opladen</item>
-        <item>Telefoon is niet aan het opladen</item>
-        <item>Telefoon is inactief</item>
-    </string-array>
-    <string-array name="action_name_translate">
-        <item>Max Helderheid scherm</item>
-        <item>MAX CPU Frequentie</item>
-        <item>Schermmodus</item>
-        <item>CPU verbruik</item>
-        <item>Dataconnectie</item>
-        <item>Locatie</item>
-        <item>Eerste melding</item>
-        <item>Vergrendelscherm meldingen</item>
-        <item>Beperk achtergrond dataverbindingen</item>
-    </string-array>
-    <string-array name="action_param_translate">
-        <item>Geen operaties</item>
-        <item>Standaard</item>
-        <item>Afbeeldingen</item>
-        <item>Films</item>
-        <item>Batterij besparen</item>
-        <item>Gebalanceerd</item>
-        <item>Prestatie</item>
-        <item>Aan</item>
-        <item>Uit</item>
-        <item>Onmiddellijk</item>
-        <item>Na 10 min</item>
-        <item>Na 30 min</item>
-        <item>Wanneer scherm uit is</item>
-    </string-array>
-    <string-array name="app_groups">
-        <item>In deze modus</item>
-        <item>Niet geselecteerd</item>
-        <item>In andere geselecteerde modus</item>
-	</string-array>
     <string-array name="hmode_app_groups">
         <item>Aangepast</item>
         <item>Batterijbespaarder</item>
-	</string-array>	
-    <string-array name="power_checker_group_prefix">
-        <item>Nu</item>
-        <item>Achtergrond</item>
-        <item>Recent</item>
-    </string-array>
-    <string-array name="power_checker_running_group_titles">
-        <item>Voorkomt diepe slaapmodus</item>
-        <item>Voorkomt slaapmodus</item>
-        <item>Zoekt naar Wi-Fi</item>
-        <item>Gebruikt GPS</item>
-        <item>Houdt de CPU bezig</item>
-        <item>Ontwaakt het apparaat regelmatig</item>
-    </string-array>
-    <string-array name="power_checker_recent_group_titles">
-        <item>Voorkomt diepe slaapmodus</item>
-        <item>Voorkomt slaapmodus</item>
-        <item>Zoekt naar Wi-Fi</item>
-        <item>Gebruikt GPS</item>
-        <item>Houdt CPU bezig</item>
-        <item>Ontwaakt apparaat frequent</item>
-    </string-array>
-	<string-array name="invisible_app_groups">
-        <item>Geselecteerd</item>
-        <item>Gedeselecteerd</item>
-    </string-array>
+	</string-array>
     <string-array name="thermal_entries">
         <item>Standaard temperatuurcontrole modus</item>
         <item>Prestatiemodus</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>De huidige temperatuurregelmodus</item>
-        <item>De huidige prestatiemodus</item>
+        <item>Huidige temperatuurregelmodus</item>
+        <item>Huidige prestatiemodus</item>
+    </string-array>
+	<string-array name="power_mode_entries">
+        <item>Prestatiemodus</item>
+        <item>Gebalanceerd</item>
     </string-array>
 </resources>

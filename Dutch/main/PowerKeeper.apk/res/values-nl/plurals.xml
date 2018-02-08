@@ -1,23 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="select_items">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
-    </plurals>
-    <plurals name="app_list_total">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
-    </plurals>
-    <plurals name="power_config_ultimate_on_count">
-        <item quantity="other">%1$d stappen verwijderd van het omschakelen naar ultieme modus</item>
-        <item quantity="one">%1$d stap verwijderd van het omschakelen naar ultieme modus</item>
-    </plurals>
-    <plurals name="power_config_ultimate_off_count">
-        <item quantity="other">%1$d stappen verwijderd van het uitschakelen van ultieme modus</item>
-        <item quantity="one">%1$d stap verwijderd van het uitschakelen van ultieme modus</item>
-    </plurals>
-    <plurals name="power_config_ultimate_unlock_count">
-        <item quantity="other">Nog %1$d stappen om alle items te ontgrendelen</item>
-        <item quantity="one">Nog %1$d stap om alle items te ontgrendelen</item>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Search %d apps</item>
+        <item quantity="one">Search %d app</item>
     </plurals>
 </resources>

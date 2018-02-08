@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="aqi_detail_title">
+        <item>Goed</item>
+        <item>Gemiddeld</item>
+        <item>Ongezond voor gevoelige groepen</item>
+        <item>Ongezond</item>
+        <item>Heel ongezond</item>
+        <item>Gevaarlijk</item>
+    </string-array>
+	<string-array name="aqi_value">
+        <item>Goed</item>
+        <item>Voldoende</item>
+        <item>Gemiddeld vervuild</item>
+        <item>Slecht</item>
+        <item>Zeer slecht</item>
+        <item>Ernstig</item>
+        <item>Zeer ernstig</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
         <item>Shanghai</item>
@@ -25,37 +42,32 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
+	<string-array name="indices_car_wash">
+        <item>Geschikt</item>
+        <item>Niet geschikt</item>
     </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+	<string-array name="indices_sport">
+        <item>Geschikt</item>
+        <item>Niet geschikt</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-	<string-array name="aqi_detail_title">
-        <item>Goed</item>
+	<string-array name="indices_uv_level">
+        <item>Laag</item>
         <item>Gemiddeld</item>
-        <item>Ongezond voor gevoelige groepen</item>
-        <item>Ongezond</item>
-        <item>Heel ongezond</item>
-        <item>Gevaarlijk</item>
+        <item>Hoog</item>
+	</string-array>
+	<string-array name="minute_rain_array">
+        <item>Hevig</item>
+        <item>Gemiddeld</item>
+        <item>Licht</item>
+    </string-array>
+	<string-array name="pollution_level_desc_arr">
+        <item>Uitstekend</item>
+        <item>Goed</item>
+        <item>Licht vervuild</item>
+        <item>Gemiddeld vervuild</item>
+        <item>Zwaar vervuild</item>
+        <item>Ernstig vervuild</item>
+        <item>Zeer ernstig</item>
     </string-array>
     <string-array name="weather_type">
         <item>Helder</item>
@@ -75,7 +87,7 @@
         <item>Sneeuw</item>
         <item>Zware sneeuwval</item>
         <item>Matige sneeuwval</item>
-        <item>Lichte sneeuw</item>
+        <item>Lichte sneeuwval</item>
         <item>Sterke zandstorm</item>
         <item>Matige zandstorm</item>
         <item>Zandstorm</item>
@@ -86,19 +98,6 @@
         <item>IJzel</item>
         <item></item>
 	</string-array>
-	<string-array name="indices_uv_level">
-        <item>Laag</item>
-        <item>Gemiddeld</item>
-        <item>Hoog</item>
-	</string-array>
-    <string-array name="indices_sport">
-        <item>Geschikt</item>
-        <item>Ongepast</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Geschikt</item>
-        <item>Ongepast</item>
-    </string-array>
     <string-array name="wind_direction">
         <item>Noord</item>
         <item>Noord-oost</item>
@@ -119,44 +118,6 @@
         <item>W</item>
         <item>NW</item>
     </string-array>
-    <string-array name="wind_power">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-    </string-array>
-	    <string-array name="aqi_value">
-        <item>Goed</item>
-        <item>Voldoende</item>
-        <item>Gemiddeld vervuild</item>
-        <item>Slecht</item>
-        <item>Zeer slecht</item>
-        <item>Ernstig</item>
-        <item>Zeer ernstig</item>
-    </string-array>
-	    <string-array name="wind_unit_simple">
-        <item>Beaufort</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
-    </string-array>
-	    <string-array name="breeze">
-        <item>&lt;Kracht 2</item>
-        <item>&lt;6.0km/h</item>
-        <item>&lt;1.7m/s</item>
-        <item>&lt;3.7mph</item>
-        <item>&lt;3.2kn</item>
-    </string-array>
 	<string-array name="wind_unit_detail">
         <item>Beaufort</item>
         <item>Kilometer per uur (km/h)</item>
@@ -164,25 +125,18 @@
         <item>Mijl per uur (mph)</item>
         <item>Knopen (kn)</item>
     </string-array>
-	    <string-array name="wind_unit_replace">
+	<string-array name="wind_unit_replace">
         <item>Kracht %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
     </string-array>
-	<string-array name="minute_rain_array">
-        <item>Hevig</item>
-        <item>Gemiddeld</item>
-        <item>Licht</item>
-    </string-array>
-	<string-array name="pollution_level_desc_arr">
-        <item>Uitstekend</item>
-        <item>Goed</item>
-        <item>Licht vervuild</item>
-        <item>Gemiddeld vervuild</item>
-        <item>Zwaar vervuild</item>
-        <item>Ernstig vervuild</item>
-        <item>Zeer ernstig</item>
+	<string-array name="wind_unit_simple">
+        <item>Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
     </string-array>
 </resources>

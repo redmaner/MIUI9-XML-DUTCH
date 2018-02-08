@@ -5,12 +5,9 @@
   <string name="access_token_invalid_warning">Weibo Account is ongeldig</string>
   <string name="account">Account</string>
   <string name="account_bind_devices">Apparaten</string>
-  <string name="account_bind_new_phone">Nieuwe telefoon toevoegen</string>
-  <string name="account_bind_phone_notice">Gebruik dit telefoonnr. om aan te melden bij uw account, uw wachtwoord opnieuw in te stellen of om de beveiligingsinstellingen te wijzigen.</string>
   <string name="account_bind_secure_email_title">E-mail toevoegen</string>
   <string name="account_bind_secure_phone_title">Telefoon toevoegen</string>
   <string name="account_bind_settings">Accounts</string>
-  <string name="account_binded_phone">Telefoon %d</string>
   <string name="account_crop_user_avatar">Foto bijsnijden</string>
   <string name="account_empty_user_name">Voer je Mi account gebruikersnaam in</string>
   <string name="account_error_all_space_user_name">Naam kan niet alleen maar spaties bevatten</string>
@@ -18,6 +15,8 @@
   <string name="account_error_longer_user_name">Naam mag niet langer zijn dan 20 tekens</string>
   <string name="account_error_shorter_user_name">Naam moet langer zijn dan 2 tekens</string>
   <string name="account_error_user_birthday">De ingevoerde verjaardag is ongeldig</string>
+  <string name="account_error_user_name">De ingevoerde naam is ongeldig</string>
+  <string name="account_global_region">Buitenland</string>
   <string name="account_has_been_set">Wijzigen</string>
   <string name="account_limit_update_birthday">Kan verjaardagen momenteel niet updaten</string>
   <string name="account_mipay_info">Mi Pay</string>
@@ -25,7 +24,7 @@
   <string name="account_none">Geen</string>
   <string name="account_none_binded_info">Geen</string>
   <string name="account_none_user_name">Geen</string>
-  <string name="account_notification_message">Sessie is verlopen, log opnieuw in.</string>
+  <string name="account_notification_message">&gt;Sessie is verlopen, log opnieuw in.</string>
   <string name="account_protection">Accountbescherming</string>
   <string name="account_protection_off">Uit</string>
   <string name="account_protection_on">Aan</string>
@@ -58,6 +57,8 @@
   <string name="account_user_using_qq_avatar">Gebruik QQ profielfoto</string>
   <string name="account_user_using_weibo_avatar">Gebruik Sina Weibo profielfoto</string>
   <string name="account_xiaomi_service">Diensten</string>
+  <string name="action_add_phone">Telefoonnummer toevoegen</string>
+  <string name="action_update_phone">Telefoonnummer wijzigen</string>
   <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
   <string name="activity_not_found_notice">Kan de app niet vinden</string>
   <string name="add_account">Account verbinden</string>
@@ -77,9 +78,8 @@
   <string name="change_email_address">E-mailadres wijzigen</string>
   <string name="change_password">Wachtwoord wijzigen</string>
   <string name="change_phone_number">Telefoonnr. wijzigen</string>
-  <string name="checking_phone_num_availible">Telefoon verifiëren…</string>
   <string name="cloud_service">Mi Cloud</string>
-  <string name="completed">Helemaal klaar</string>
+  <string name="completed">Helemaal klaar!</string>
   <string name="confirm_activate_email">Bevestigd</string>
   <string name="confirm_bundled_phone_dialog_title">Gekoppeld telefoonnummer bevestigen</string>
   <string name="confirm_delete_app_message">Na het verwijderen van deze app, zal u uw moeten telefoonnummer verifiëren de volgende keer dat u zich aanmeldt bij uw Mi account.</string>
@@ -93,8 +93,8 @@
   <string name="current_location_title">Huidige locatie</string>
   <string name="delete_action">Verwijderen</string>
   <string name="delete_app">App verwijderen</string>
-  <string name="delete_bank_card_message">Uw bankkaart wordt verwijderd vanwege veiligheidsredenen nadat u zich afmeldt</string>
-  <string name="delete_bank_card_title">Bankkaart verwijderen</string>
+  <string name="delete_bank_card_message">Mi Pay bank cards and NFC cards will be deleted after you sign out.</string>
+  <string name="delete_bank_card_title">Attention</string>
   <string name="delete_browser">Browser verwijderen</string>
   <string name="delete_device">Apparaat verwijderen</string>
   <string name="delete_device_btn">Verwijderen</string>
@@ -117,7 +117,6 @@
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
   <string name="find_device_activate_account">Account activeren</string>
   <string name="find_device_bad_response_error">Er is een serverfout opgetreden, probeer later opnieuw</string>
-  <string name="find_device_display_id">Nummer deblokkeren: %s</string>
   <string name="find_device_error_password_not_confirmed">"Kan apparaat vinden niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in."</string>
   <string name="find_device_error_password_recently_changed">"U heeft uw wachtwoord de afgelopen 3 dagen veranderd. Kan nu apparaat vinden niet uitschakelen om veiligheidsredenen."</string>
   <string name="find_device_interrupted">Actie is onderbroken, probeer later opnieuw</string>
@@ -135,10 +134,12 @@
   <string name="find_device_request_prepare_error">"Kan status niet verkrijgen, probeer later opnieuw"</string>
   <string name="find_device_unknown_error">Kan apparaatstatus niet verkrijgen, probeer later opnieuw</string>
   <string name="first_login_time">Eerste aanmeldpoging: %s</string>
+  <string name="get_back_pwd">Wachtwoord resetten</string>
   <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
   <string name="get_phone_bind_exceed_limit">Het aantal apparaten verbonden met het account is bereikt(3). Er kan niet meer worden verbonden met het account.</string>
   <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
-  <string name="guest_account_label">Mi Gast Account</string>
+  <string name="guest_account_label">Mi gastaccount</string>
+  <string name="identity">Identificatie</string>
   <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
   <string name="io_error_title">Bevestig uw netwerk</string>
   <string name="just_a_second">Een momentje…</string>
@@ -168,6 +169,7 @@
   <string name="my_device_title">Huidig apparaat</string>
   <string name="no_network_btn">Vernieuwen</string>
   <string name="no_network_title">Kan geen verbinding maken met netwerk</string>
+  <string name="no_phone">Geen telefoonnummer</string>
   <string name="no_response_retry">Geen antwoord, probeer opnieuw.</string>
   <string name="no_sim_card_or_unactivated">SIM kaart is niet geïnstalleerd of niet geactiveerd</string>
   <string name="nobind">Niet verbonden</string>
@@ -181,7 +183,7 @@
   <string name="oauth_title">Aanmelden met Mi Account</string>
   <string name="other_devices_title">Andere apparaten</string>
   <string name="passport_access_denied">Toegang geweigerd</string>
-  <string name="passport_account_hint_text">E-mailadres, telefoonnummer of Mi Account ID</string>
+  <string name="passport_account_hint_text">E-mailadres/Telefoonnummer/Mi Account ID</string>
   <string name="passport_account_identity_title">Bevestig je identiteit</string>
   <string name="passport_account_label">Mi Account</string>
   <string name="passport_account_name">Account: %1$s</string>
@@ -208,16 +210,18 @@
 Om je account te activeren, volg de link
 die verzonden is naar je Postvak In."</string>
   <string name="passport_completed">Voltooid</string>
+  <string name="passport_confirm_login">Doorgaan</string>
   <string name="passport_confirm_recycle_account">Ja</string>
+  <string name="passport_confirm_recycle_account_msg">Het lijkt erop dat het nummer %s is gerecycled door je provider, en er een Mi Account aan verbonden is. Is dit account van jou?</string>
   <string name="passport_continue">Doorgaan</string>
   <string name="passport_copy_message_text_success">Met succes gekopieerd</string>
   <string name="passport_copy_message_vcode">Code kopiëren</string>
   <string name="passport_delete_account">Afmelden</string>
   <string name="passport_downlink_reg">Telefoonnummer</string>
   <string name="passport_email">E-mailadres</string>
-  <string name="passport_email_or_id_hint_text">E-mailadres of Mi account ID</string>
+  <string name="passport_email_or_id_hint_text">E-mailadres/Mi account ID</string>
   <string name="passport_email_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
-  <string name="passport_error_auth_fail">Session expired, sign in again later</string>
+  <string name="passport_error_auth_fail">Sessie is verlopen, log later opnieuw in</string>
   <string name="passport_error_device_id">Kan apparaat ID niet verkrijgen</string>
   <string name="passport_error_dup_email">Ingevoerde e-mail is al gekoppeld aan een ander account</string>
   <string name="passport_error_email">Het e-mailadres dat je hebt ingevoerd is ongeldig</string>
@@ -246,6 +250,10 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_forget_password">Wachtwoord vergeten</string>
   <string name="passport_forget_password_no_underline">Wachtwoord vergeten</string>
   <string name="passport_get_back_pwd">Ophalen account wachtwoord</string>
+  <string name="passport_get_innetdate_agree">Controleren</string>
+  <string name="passport_get_innetdate_disagree">Nee</string>
+  <string name="passport_get_innetdate_msg">Het lijkt erop dat het nummer %s is gerecycled door je provider. Kijken wanneer het nummer online was?</string>
+  <string name="passport_get_innetdate_title">Controleren wanneer het nummer online was</string>
   <string name="passport_get_verify_code">Code verkrijgen</string>
   <string name="passport_getting_activator_phone">SIMinformatie verkrijgen…</string>
   <string name="passport_getting_verify_code">Verkrijgen</string>
@@ -258,7 +266,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_input_password_hint">Voer wachtwoord in</string>
   <string name="passport_input_phone_hint">Voer telefoonnummer in</string>
   <string name="passport_input_vcode_hint">Voer verificatiecode in</string>
-  <string name="passport_instant_login">Inloggen</string>
+  <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
   <string name="passport_license_host_unreachable">"Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Aanmelden</string>
@@ -303,7 +311,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_reg_recycle_account_yes">Ja</string>
   <string name="passport_reg_success">Account aangemaakt</string>
   <string name="passport_reg_success_summary">%1$s is toegevoegd aan uw account. U kunt het gebruiken om in te loggen of om uw wachtwoord te resetten.</string>
-  <string name="passport_reg_type_email">Gebruik e-mailadres</string>
+  <string name="passport_reg_type_email">E-mailadres</string>
   <string name="passport_reg_using_other_phone">Alternatief telefoonnummer gebruiken</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Een nieuw accont aanmaken met gebruik van "</string>
   <string name="passport_reg_using_phone_number_prompt">Account aanmaken door middel van telefoonnummer</string>
@@ -346,6 +354,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_skip_setup_account_msg">Je kan later een Mi account aanmaken in Instellingen.</string>
   <string name="passport_skip_setup_account_title">Installatie overslaan</string>
   <string name="passport_sms_send_success">Verzonden</string>
+  <string name="passport_sms_verification_code_login">Inloggen met SMS</string>
   <string name="passport_sync_account_data">Accountinfo synchroniseren…</string>
   <string name="passport_sync_account_data_failed_warning">Uw accountinfo wordt nu gesynchroniseerd. U kan inloggen door middel van uw Mi Account ID. Als je wilt inloggen met je telefoonnummer of email wacht je tot de info compleet is gesynchroniseerd.</string>
   <string name="passport_title_reg">Een account aanmaken</string>
@@ -355,7 +364,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_uplink_slot1_reg">SIM 1 gebruiken</string>
   <string name="passport_uplink_slot2_reg">SIM 2 gebruiken</string>
   <string name="passport_use_generated_pwd_message">Zorg ervoor dat u uw wachtwoord onthoudt. U kunt het gebruiken om aan te melden bij andere Mi diensten.</string>
-  <string name="passport_use_generated_pwd_title">Onthoud uw wachtwoord</string>
+  <string name="passport_use_generated_pwd_title">Onthoud uw wachtwoord!</string>
   <string name="passport_user_agreement">Gebruikersovereenkomst</string>
   <string name="passport_user_agreement_p1">"Akkoord gaan met "</string>
   <string name="passport_user_agreement_p2">Gebruikersovereenkomst</string>
@@ -376,11 +385,14 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_wrong_vcode">De ingevoerde code is fout</string>
   <string name="passport_yes">Ja</string>
   <string name="phone_activated">%s geactiveerd</string>
+  <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
   <string name="photoPickerNotFoundText">Geen foto\'s beschikbaar.</string>
   <string name="push_notification_content">Verificatiecode krijgen</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
   <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>
   <string name="push_notify_dialog_title">Accountverificatie</string>
+  <string name="recycle_phone_notification_msg">Het lijkt erop dat je telefoonnummer is gerecycled. Tik om te updaten.</string>
+  <string name="recycle_phone_notification_title">Mi Account beveiligingsrisico</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
   <string name="remove_trust_btn">Verwijderen uit vertrouwde apparaten</string>
   <string name="remove_trust_notice">Verwijderen uit vertrouwde apparaten en afmelden</string>
@@ -412,6 +424,10 @@ die verzonden is naar je Postvak In."</string>
   <string name="select_location_title">Uw locatie selecteren</string>
   <string name="send_email_activate_message">Verificatie e-mail verzonden</string>
   <string name="service_error">Servicefout</string>
+  <string name="set_success">Wijzigen voltooid</string>
+  <string name="sign_in">Inloggen</string>
+  <string name="sim_changed_notification_msg">Tik om je hersteltelefoon bij te werken om je account veilig te houden.</string>
+  <string name="sim_changed_notification_title">Telefoonnummer veranderd?</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Verzenden</string>
   <string name="sns_access_token_expired_warning">Account aanmelding is verlopen. Meld opnieuw aan om dit account opnieuw te koppelen.</string>
@@ -427,6 +443,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>
   <string name="update_email_address_dialog_title">E-mail updaten</string>
+  <string name="update_phone_notice">Beveiligingsvragen wijzigen</string>
   <string name="update_phone_number_notice_message">U moet uw identiteit verifiëren voordat uw telefoonnummer kan updaten.</string>
   <string name="updated_nothing">Geüpdatet</string>
   <string name="user_avatar_update_title">Verander profielfoto</string>

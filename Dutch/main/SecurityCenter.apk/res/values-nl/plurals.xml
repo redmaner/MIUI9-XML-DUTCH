@@ -4,6 +4,10 @@
         <item quantity="other">%1$d oproepen van %2$s en anderen</item>
         <item quantity="one">%1$d oproep van %2$s</item>
     </plurals>
+	<plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d oproepen van %2$s en anderen</item>
+        <item quantity="one">%1$d oproep van %2$s</item>
+    </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d berichten</item>
         <item quantity="one">%d bericht</item>
@@ -32,6 +36,14 @@
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
+	<plurals name="bg_network_allow_count">
+        <item quantity="other">%d apps kunnen niet met het netwerk verbinden op de achtergrond</item>
+        <item quantity="one">%d app kan niet met het netwerk verbinden op de achtergrond</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d apps kunnen niet met het netwerk verbinden op de achtergrond</item>
+        <item quantity="one">%d app kan niet met het netwerk verbinden op de achtergrond</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Je hebt al %s dagelijkse datalimieten gebruikt.</item>
         <item quantity="one">Je hebt al %s dagelijks datalimiet gebruikt.</item>
@@ -59,6 +71,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d apps gevonden</item>
         <item quantity="one">%d app gevonden</item>
+    </plurals>
+	<plurals name="network_restrict_count">
+        <item quantity="other">Netwerktoegang is beperkt voor %d apps</item>
+        <item quantity="one">Netwerktoegang is beperkt voor %d app</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d apps werken niet goed en vreten batterij"</item>
@@ -101,6 +117,14 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Gedownload door %1$d personen</item>
+    </plurals>
+	<plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d mensen zijn aan het spelen</item>
+        <item quantity="one">%1$d persoon is aan het spelen</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d mensen zijn aan het spelen</item>
+        <item quantity="one">%1$d persoon is aan het spelen</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d keer bekeken</item>
@@ -258,10 +282,6 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
     <plurals name="app_manager_start_count">
         <item quantity="other">%d keer</item>
         <item quantity="one">%d keer</item>
-    </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">%d keer geblokkeerd</item>
-        <item quantity="one">%d keer geblokkeerd</item>
     </plurals>
 	<plurals name="app_usage_day">
         <item quantity="other">Niet gebruikt voor %d dagen</item>

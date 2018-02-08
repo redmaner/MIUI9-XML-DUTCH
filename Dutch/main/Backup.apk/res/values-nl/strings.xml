@@ -5,6 +5,16 @@
   <string name="account_contact_backup_info">Gegevens (back-up Xiaomi en Gmail-info)</string>
   <string name="account_login">Inloggen</string>
   <string name="account_summary">Back-up Xiaomi accounts, Google accounts en andere gebruikersgegevens</string>
+  <string name="alert_button_agree_and_continue">Toestaan</string>
+  <string name="alert_button_deny">Weigeren</string>
+  <string name="alert_message_backup_to_miasist">Mi PC Suite vraagt toestemming om een back-up te maken op een computer. Toestaan?</string>
+  <string name="alert_message_restore_from_miasist">Mi PC Suite vraagt toestemming om bestanden terug te zetten op uw telefoon. Toestaan?</string>
+  <string name="alert_miasist_occupy_backup">Items back-uppen met Mi PC Suite… Wacht tot de back-up is voltooid en probeer het opnieuw.</string>
+  <string name="alert_miasist_occupy_restore">Items herstellen met Mi PC Suite… Wacht tot de items zijn hersteld en probeer het opnieuw.</string>
+  <string name="alert_phone_occupy_backup">Kan Mi PC Suite nu niet gebruiken. Voltooi de back-up of het herstellen van items op uw telefoon en probeer het opnieuw.</string>
+  <string name="alert_second_space_not_support_miasist">Kan Mi PC Suite niet gebruiken in tweede ruimte. Wissel naar de eerste ruimte.</string>
+  <string name="alert_title_backup_to_miasist">Bestanden back-uppen met Mi PC Suite?</string>
+  <string name="alert_title_restore_from_miasist">Bestanden op uw telefoon herstellen?</string>
   <string name="already_enable_encrypt">Encryptie ingeschakeld</string>
   <string name="app_name">Back-up</string>
   <string name="apps_and_data_item_desc">Apps en data</string>
@@ -52,7 +62,7 @@
   <string name="button_ok">OK</string>
   <string name="button_return">Terug</string>
   <string name="button_send">Verzenden</string>
-  <string name="call_title">Belgeschiedenis</string>
+  <string name="call_title">Oproepgeschiedenis</string>
   <string name="camera_summary">"Camera instellingen (foto's niet inbegrepen)"</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_backup">Back-up annuleren</string>
@@ -91,7 +101,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="current_pad_location">Opslaglocatie</string>
   <string name="current_phone_location">Telefoon</string>
   <string name="current_sim">Huidige SIM kaart</string>
-  <string name="custom_progress">%d items</string>
+  <string name="data_detail_description">Details</string>
   <string name="data_item_desc">Data</string>
   <string name="data_no_enough_space_message">Er is niet genoeg opslagruimte op uw apparaat.</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -121,9 +131,11 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="err_unknown">Onbekende fout</string>
   <string name="err_version_too_old">Back-up is te oud.</string>
   <string name="err_version_unsupported">Back-up versie wordt niet ondersteund.</string>
+  <string name="error_permissions">Deze app heeft geen toestemming om toegang te krijgen tot kalendergegevens. Ga naar instellingen en controleer toestemmingen om verder te gaan.</string>
   <string name="every_day">Dagelijks</string>
   <string name="exchange_account">Van account wisselen</string>
   <string name="fail">Mislukt</string>
+  <string name="failed_description">Mislukt</string>
   <string name="feature_title_account">Mi account</string>
   <string name="feature_title_antispam">Zwarte lijst</string>
   <string name="feature_title_call_log">Oproepgeschiedenis</string>
@@ -133,8 +145,9 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="findlost_contact">Contacten herstellen</string>
   <string name="findlost_contact_online">Herstel verwijderde contacten van Mi Cloud</string>
   <string name="guarded_mode_dialog_backup_message">Back-ups zijn niet toegestaan in gastmodus.</string>
-  <string name="guarded_mode_dialog_title">U zit in Gastmodus</string>
+  <string name="guarded_mode_dialog_title">U zit in gastmodus</string>
   <string name="guarded_mode_dialog_transfer_message">Kan Mi Mover niet gebruiken in gastmodus.</string>
+  <string name="hide_password_description">Wachtwoord verbergen</string>
   <string name="hsa_code_null">Verificatiecode kan niet leeg zijn</string>
   <string name="hsa_input_hint">Voer verificatiecode in</string>
   <string name="hsa_input_tip">Uw Apple ID gebruikt tweestaps authenticatie. Voer verificatiecode in.</string>
@@ -154,7 +167,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="hsa_verify_shutdown">Uitschakelen</string>
   <string name="icloud_backup_tip">Log in op het iCloud account van het oude iOS apparaat</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Ga naar instellingen op uw iOS apparaat, en kies voor iCloud.
-2. Schakel Contacten in.
+2. Druk op de schakelaar voor contacten en andere items.
 3. Selecteer foto\'s en schakel iCloud fotobibliotheek in."</string>
   <string name="icloud_how_to_backup_tip_summary">Om gegevens van iOS te importeren, moet je een iCloud back-up maken.</string>
   <string name="icloud_login_title">Log in op iCloud</string>
@@ -171,6 +184,7 @@ moet je eerst een iCloud back-up maken."</string>
   <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
   <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor back-up van contacten op andere apparaten.</string>
   <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kan je alleen contacten en foto\'s overzetten van iOS apparaten. Zorg ervoor dat je eerst een iCloud back-up maakt voordat je begint met de overdracht.</string>
+  <string name="list_footer_tip_title">Tips:</string>
   <string name="loading_data">Gegevens laden</string>
   <string name="local_app_name">Back-up</string>
   <string name="local_backup_window_title">Lokale back-up gegevens</string>
@@ -205,6 +219,9 @@ moet je eerst een iCloud back-up maken."</string>
   <string name="notif_backup_complete_title">Back-up gelukt</string>
   <string name="notif_backup_content">Back-up aan het maken van gebruikersdata</string>
   <string name="notif_backup_title">gegevens back-uppen</string>
+  <string name="notif_calculating_app">%1$s berekenen (%2$s)…</string>
+  <string name="notif_connect_miasist">Verbonden met Mi PC Suite</string>
+  <string name="notif_disconnect_miasist">Niet verbonden met Mi PC Suite</string>
   <string name="notif_icloud_canceled_summary">Geannuleerd</string>
   <string name="notif_icloud_canceling_summary">Annuleren…</string>
   <string name="notif_icloud_import_title">Gegevens van iCloud importeren</string>
@@ -214,9 +231,13 @@ moet je eerst een iCloud back-up maken."</string>
   <string name="notif_icloud_need_wifi_summary">Wachten op Wi-Fi</string>
   <string name="notif_icloud_saved_summary">Importeren gelukt</string>
   <string name="notif_icloud_saving_summary">Gegevens herstellen…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite is trying to connect to your device</string>
+  <string name="notif_parse_select_descript_error">"Couldn't sync the list of backed up items."</string>
+  <string name="notif_receiving_transingsd">%1$s ontvangen (%2$s)…</string>
   <string name="notif_restore_complete_title">Herstellen gelukt</string>
   <string name="notif_restore_content">Gebruikersdata herstellen</string>
   <string name="notif_restore_title">Gegevens herstellen</string>
+  <string name="notif_sending_transingsd">%1$s verzenden (%2$s)…</string>
   <string name="notif_trans_auto_reconnecting_content">Je kan de huidige taak annuleren als dat nodig is.</string>
   <string name="notif_trans_auto_reconnecting_title">Verbinding is onderbroken. Automatisch opnieuw verbinden…</string>
   <string name="notif_trans_receiving_completed">Data met succes ontvangen</string>
@@ -281,8 +302,10 @@ Maak tenminste %s vrij."</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_backup_item">Back-up item selecteren</string>
   <string name="select_empty">Selecteer items om te importeren</string>
+  <string name="select_item_calendar">Kalender</string>
   <string name="select_item_contacts">Contacten</string>
-  <string name="select_item_empty_summary">Geen items</string>
+  <string name="select_item_empty_summary">Geen inhoud</string>
+  <string name="select_item_notes">Notities</string>
   <string name="select_item_photos">Foto\'s</string>
   <string name="select_item_summary_loading">Gegevens laden…</string>
   <string name="select_item_summary_wait">Wachten…</string>
@@ -295,6 +318,7 @@ Maak tenminste %s vrij."</string>
   <string name="start_restore">Herstellen</string>
   <string name="state_mounting">Toegang krijgen tot routeropslag…</string>
   <string name="state_waiting">Een momentje…</string>
+  <string name="succ_description">Successvol</string>
   <string name="succeed">Voltooid</string>
   <string name="summary_err_backup_encrypting">Aanmelden bij je Mi Account.</string>
   <string name="summary_err_backup_no_network">Kon geen verbinding maken met netwerk</string>
@@ -329,7 +353,6 @@ Maak tenminste %s vrij."</string>
   <string name="task_running_restore_hint">Service draait al in de achtergrond!</string>
   <string name="task_service_not_launched">Back-upservice niet gestart, even wachten!</string>
   <string name="task_stopped_exception">Taak geannuleerd</string>
-  <string name="total_num">%d items</string>
   <string name="trans_backingup">Bezig met back-up…</string>
   <string name="trans_backingup_no_items">Synchroniseren…</string>
   <string name="trans_button_cancel">Annuleren</string>
@@ -344,10 +367,30 @@ Maak tenminste %s vrij."</string>
   <string name="trans_connect_failed_toast">Kon niet verbinden</string>
   <string name="trans_connecting_toast">Verbinden…</string>
   <string name="trans_connection_failed">Verbinding is verbroken</string>
+  <string name="trans_detail_app_apk_list_title">Geinstalleerde apps</string>
+  <string name="trans_detail_app_apk_page_title">Selecteer apps</string>
+  <string name="trans_detail_app_data_list_title">Appgegevens</string>
+  <string name="trans_detail_app_data_page_title">Selecteer appgegevens</string>
+  <string name="trans_detail_app_data_useless_tip">Je kan deze van de app herstellen, het is niet nodig om ze over te zetten.</string>
+  <string name="trans_detail_audio_video_doc_list_title">Audio, video en bestanden</string>
+  <string name="trans_detail_audio_video_doc_page_title">Selecteer audio, video en bestanden</string>
   <string name="trans_detail_category_account">Accounts en contacten</string>
+  <string name="trans_detail_category_audio_video_doc">Audio, video en bestanden</string>
   <string name="trans_detail_category_files">Bestanden</string>
-  <string name="trans_detail_category_sysdata">Systeemdata</string>
+  <string name="trans_detail_category_sysdata">Systeemdata (inclusief berichten, contacten en oproepgeschiedenis)</string>
+  <string name="trans_detail_category_user_app_data">Appgegevens</string>
   <string name="trans_detail_category_userdata">Apps</string>
+  <string name="trans_detail_category_wechat_qq">WeChat en QQ data (inclusief chatgeschiedenis)</string>
+  <string name="trans_detail_item_app_data_selected_tip">Bijbehorende apps zijn ook geselecteerd.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Het lijkt erop dat het bestand te groot is om over te zetten.</string>
+  <string name="trans_detail_list_footer">Opmerking: Je kan ervoor kiezen om apps afzonderlijk over te zetten. Maar als je appgegevens selecteert zullen de bijbehorende apps ook worden overgezet.</string>
+  <string name="trans_detail_page_tip">Hoe meer items je selecteert hoe langer het overzetten duurt.</string>
+  <string name="trans_detail_qq_data">QQ data (inclusief chatgeschiedenis)</string>
+  <string name="trans_detail_sys_data_list_title">Systeemapps</string>
+  <string name="trans_detail_sys_data_page_title">Selecteer systeemapps</string>
+  <string name="trans_detail_wechat_data">WeChat data (inclusief chatgeschiedenis)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat en QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">Selecteer WeChat, QQ en appgegevens</string>
   <string name="trans_device_auto_reconnecting">Verbinding met apparaat verboken. Automatisch verbinding herstellen…</string>
   <string name="trans_device_disconnected">Verbinding is verbroken</string>
   <string name="trans_device_wait_for_reconnecting">Verbinding is verbroken. Verbind opnieuw om verder te gaan.</string>
@@ -367,15 +410,15 @@ Maak tenminste %s vrij."</string>
   <string name="trans_intro_desc_new">Tik op \"Ik ben ontvanger\". Er zal een QR code worden gemaakt.</string>
   <string name="trans_intro_desc_old">Tik op \"Ik ben verzender\". Scan de QR code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden er verzonden moeten worden en tik op \"Versturen\".</string>
   <string name="trans_intro_desc_private">Mi Mover heeft geen toegang tot foto\'s in verborgen albums omdat ze versleuteld zijn. Je kan deze foto\'s herstellen van Mi Cloud op het nieuwe apparaat.</string>
-   <string name="trans_intro_question_1">1. Hoe gebruik ik Mi Mover om gegevens van een iOS apparaat over te zetten?</string>
-  <string name="trans_intro_question_2">2. Hoe gebruik ik Mi Mover om gegevens van een Android apparaat over te zetten?</string>
-  <string name="trans_intro_question_3">3. Wat moet ik doen als Mi Mover vastloopt bij een bepaalde stap?</string>
-  <string name="trans_intro_question_4">"4. Waarom kan ik Wi-Fi niet gebruiken tijdens een overdracht?"</string>
-  <string name="trans_intro_question_5">"5. Waarom zegt Mi Mover dat er niet genoeg ruimte is op de oude telefoon?"</string>
-  <string name="trans_intro_question_6">"6. Waarom lukt het niet om sommige apps over te zetten?"</string>
-  <string name="trans_intro_question_7">"7. Waarom starten sommige apps niet op het nieuwe apparaat?"</string>
-  <string name="trans_intro_question_8">"8. Waarom wordt WeChat geschiedenis niet volledig overgezet?"</string>
-  <string name="trans_intro_question_9">"9. Welke items kunnen niet worden overgezet?"</string>
+   <string name="trans_intro_question_1">%d. Hoe gebruik ik Mi Mover om gegevens van een iOS apparaat over te zetten?</string>
+  <string name="trans_intro_question_2">%d. Hoe gebruik ik Mi Mover om gegevens van een Android apparaat over te zetten?</string>
+  <string name="trans_intro_question_3">%d. Wat moet ik doen als Mi Mover vastloopt bij een bepaalde stap?</string>
+  <string name="trans_intro_question_4">"%d. Waarom kan ik Wi-Fi niet gebruiken tijdens een overdracht?"</string>
+  <string name="trans_intro_question_5">"%d. Waarom zegt Mi Mover dat er niet genoeg ruimte is op de oude telefoon?"</string>
+  <string name="trans_intro_question_6">"%d. Waarom lukt het niet om sommige apps over te zetten?"</string>
+  <string name="trans_intro_question_7">"%d. Waarom starten sommige apps niet op het nieuwe apparaat?"</string>
+  <string name="trans_intro_question_8">"%d. Waarom wordt WeChat geschiedenis niet volledig overgezet?"</string>
+  <string name="trans_intro_question_9">"%d. Welke items kunnen niet worden overgezet?"</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Accounts en wachtwoorden:</string>
   <string name="trans_intro_title_multiapp">Gegevens van gedupliceerde apps:</string>
@@ -402,6 +445,7 @@ Transfereren app op uw oude apparaat
 Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
   <string name="trans_operate_reconnect_old_tips">"Wacht tot de oude telefoon \"verbinding verbroken\" weergeeft.
 Klik daarna op \"opnieuw verbinden\" om een QR code te maken."</string>
+  <string name="trans_pausing">Pauzeren…</string>
   <string name="trans_please_waiting">Een momentje…</string>
   <string name="trans_progress_subdescript_br_receiver">%1$s aan het herstellen, %2$s voltooid</string>
   <string name="trans_progress_subdescript_br_sender">%1$s aan het back-uppen, %2$s voltooid</string>
@@ -430,6 +474,8 @@ Wi-Fi Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</stri
 Selecteer de bestanden opnieuw of maak %s ruimte vrij op nieuw apparaat"</string>
   <string name="trans_select_data_tips">"Selecteer bestanden om te transfereren
 Gelijkaardige bestanden op het nieuwe apparaat zullen overschreven worden"</string>
+  <string name="trans_select_data_too_large">"U hebt te veel items geselecteerd om te transfereren.
+Selecteer enkel de belangrijke items om de transfer sneller te laten gaan."</string>
   <string name="trans_select_device_receive">Selecteer een apparaat om data te ontvangen.</string>
   <string name="trans_select_device_send">Selecteer een apparaat om data naar te transfereren.</string>
   <string name="trans_sender">Ik ben een verzender</string>
@@ -444,6 +490,7 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_show_qr_code_tips">Scan QR code met oud apparaat</string>
   <string name="trans_start_failed_message">Kon transfer niet starten, probeer opnieuw of herstart het apparaat</string>
   <string name="trans_start_failed_title">Kon transfer niet starten</string>
+  <string name="trans_switching_5g">Switching to 5GHz WLAN…</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
   <string name="trans_time_spent">"
 Tijd besteed: %s"</string>
@@ -460,6 +507,7 @@ en dat Mi Mover ingeschakeld is"</string>
   <string name="user_notice_declaration_ignore">Niet meer tonen</string>
   <string name="user_notice_message">Sommige functies hebben een internetverbinding nodig om normaal te werken.</string>
   <string name="user_notice_title">Waarschuwing</string>
+  <string name="view_password_description">Wachtwoord weergeven</string>
   <string name="wifi_title">Wi-Fi instellingen</string>
   <string name="xiaomi_connect_download_manager_fail">Kon downloaden niet starten. Ben er zeker van dat de Download Manager normaal werkt.</string>
   <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer de SD kaart.</string>

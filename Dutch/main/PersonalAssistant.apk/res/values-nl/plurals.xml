@@ -55,15 +55,23 @@
         <item quantity="other">%1$d uur geleden</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d fagen geleden</item>
+        <item quantity="other">%1$d dagen geleden</item>
     </plurals>
     <plurals name="steps">
         <item quantity="other">%d|stappen</item>
-        <item quantity="zero">%d|stap</item>
+        <item quantity="zero">%d|stappen</item>
         <item quantity="one">%d|stap</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">Over %d dagen</item>
         <item quantity="one">Over %d dag</item>
+    </plurals>
+	<plurals name="express_history_dialog_delete_message">
+        <item quantity="other">%s items verwijderen van express?</item>
+        <item quantity="one">%s item verwijderen van express?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">%s items geselecteerd</item>
+        <item quantity="one">%s item geselecteerd</item>
     </plurals>
 </resources>

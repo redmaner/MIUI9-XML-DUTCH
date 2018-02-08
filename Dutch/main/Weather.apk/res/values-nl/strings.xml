@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">Ongebruikelijke weerswaarschuwingen</string>
+  <string name="abrupt_weather_settings_summary_type_b">Ongebruikelijke weerswaarschuwingen</string>
+  <string name="abrupt_weather_settings_title">Ongebruikelijke weerswaarschuwing</string>
   <string name="act_find_city_hint">Locatie invoeren</string>
   <string name="act_find_city_hot_attractions_title">Populaire plekken</string>
   <string name="act_find_city_hot_city_title">Populaire steden</string>
@@ -76,6 +79,9 @@
   <string name="content_desc_activity_main_add_city">Stad toevoegen</string>
   <string name="content_desc_activity_main_add_city_manage">Steden beheren</string>
   <string name="content_desc_activity_main_more_settings">Meer instellingen</string>
+  <string name="content_desc_back_button">Terug</string>
+  <string name="content_desc_close_button">Sluiten</string>
+  <string name="content_desc_edit_city_manage">Steden beheren</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_no_stable_direction">Geen wind</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
@@ -124,11 +130,8 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Zichtbaarheid</string>
-  <string name="information_manager_default_weather_bg">Standaard weerachtergrond</string>
   <string name="information_manager_extension">Weerextensie</string>
-  <string name="information_manager_information">Weerinfo</string>
-  <string name="information_manager_wlan">Laden wanner verbonden met Wi-Fi</string>
-  <string name="information_set">Overige instellingen</string>
+  <string name="information_settings_title">Weather info</string>
   <string name="install">Installeren</string>
   <string name="international_detail_menu_title">Details</string>
   <string name="international_details_pressure_title">DRUK</string>
@@ -142,8 +145,8 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="location_tag">Lokaliseren</string>
   <string name="menu_add_city">Locaties wijzigen</string>
   <string name="menu_location">Locaties</string>
-  <string name="menu_minute_rain">Twee-uurs neerslagvoorspelling</string>
-  <string name="menu_speeker">Spraakomroep</string>
+  <string name="menu_speaker">Spraakomroep</string>
+  <string name="minute_rain">Neerslagverwachting per minuut</string>
   <string name="minute_rain_after_an_hour">Over een uur</string>
   <string name="minute_rain_after_two_hour">Over twee uur</string>
   <string name="minute_rain_feedback_subtitle">Vertel ons hoe het weer is</string>
@@ -155,6 +158,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Trek naar beneden om te vernieuwen</string>
   <string name="minute_rain_refreshing_now">Vernieuwen…</string>
+  <string name="missing_required_permission">Je hebt een vereiste toestemming uitgeschakeld.</string>
   <string name="more_details">Meer details</string>
   <string name="network_not_available">Kan geen verbinding maken met netwerk</string>
   <string name="network_unavailable">Kan geen verbinding maken met netwerk</string>
@@ -166,6 +170,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="open_browser">Openen in browser</string>
   <string name="open_now">Openen</string>
   <string name="other">Overige</string>
+  <string name="other_settings">Other settings</string>
   <string name="other_warning_settings">Andere alarmen</string>
   <string name="particulate_matter_exceeded">Hoog</string>
   <string name="particulate_matter_not_exceeded">Normaal</string>
@@ -175,9 +180,13 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="precipitation_degree_one">Geen</string>
   <string name="precipitation_degree_three">Gemiddeld</string>
   <string name="precipitation_degree_two">Licht</string>
+  <string name="pull_fresh_updated">Bijgewerkt</string>
+  <string name="pull_fresh_updating">Bijwerken…</string>
   <string name="radar_cloud_image_title">Radarkaart</string>
   <string name="rainfall_settings_summary">Alarmen voor regenval</string>
   <string name="rainfall_settings_title">Regenval</string>
+  <string name="real_time_sunrise">Zonsopkomst %1$s</string>
+  <string name="real_time_sunset">Zonsondergang %1$s</string>
   <string name="realtime_aqi_title">Luchtkwaliteitindex</string>
   <string name="realtime_humidity_title">Relatieve vochtigheid</string>
   <string name="realtime_temperature_no_data">N/A</string>
@@ -213,6 +222,8 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="update_night_setting_summary_text">Weergegevens bijwerken tussen 23:00 en 07:00</string>
   <string name="update_night_setting_title_text">\'s Nachts automatisch bijwerken</string>
   <string name="update_setting_title_text">Weergegevens updaten</string>
+  <string name="updated_a_moment_ago">Zojuist bijgewerkt</string>
+  <string name="updating">Bijwerken…</string>
   <string name="view_forecast_item_yesterday">Gisteren</string>
   <string name="view_indexes_item_today">Vandaag</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>

@@ -6,6 +6,8 @@
   <string name="custom_lock_wallpaper_enter">Invoeren</string>
   <string name="default_lockscreen_unlock_hint_text">Veeg omhoog om te ontgrendelen</string>
   <string name="delete">Verwijderen</string>
+  <string name="do_disclosure_generic">Dit apparaat wordt beheerd door uw bedrijf</string>
+  <string name="do_disclosure_with_name">Dit apparaat wordt beheerd door %s</string>
   <string name="emergency_call_string">Noodoproep</string>
   <string name="face_data_input_camera_fail">Kon camera niet laden</string>
   <string name="face_data_input_camera_ok">Camera laden…</string>
@@ -14,6 +16,8 @@
   <string name="face_data_input_msg">Plaats je gezicht in het frame</string>
   <string name="face_data_input_ok">Klaar</string>
   <string name="face_data_input_ok_msg">Zet het scherm aan om het apparaat te ontgrendelen met je gezicht.</string>
+  <string name="face_data_input_ok_msg_angle">"Ontgrendel het apparaat met je gezicht wanneer het scherm aan is.
+(Sla uw gezichtgegevens op van alle benodigde hoeken.)​"</string>
   <string name="face_data_input_ok_title">Toevoegen gelukt</string>
   <string name="face_data_input_title">Gezichtgegevens toevoegen</string>
   <string name="face_data_introduction_msg">Gezichtgegevens kan gebruikt worden om het apparaat te ontgrendelen of uw identiteit te controleren. Stel een wachtwoord in voordat je gezichtsontgrendeling inschakelt.</string>
@@ -22,9 +26,11 @@
   <string name="face_data_manage_delete">Gezichtsgegevens verwijderen?</string>
   <string name="face_data_manage_delete_msg">Gezichtgegevens verwijderen</string>
   <string name="face_data_manage_delete_sure">Je zal het apparaat niet meer kunnen ontgrendelen met je gezicht als je de gegevens verwijderd.</string>
-  <string name="face_data_manage_delete_title">Gezichtgegevens</string>
+  <string name="face_data_manage_delete_title">Gezichtgegevens</string>   
   <string name="face_data_manage_unlock_msg">Apparaat ontgrendelen met je gezicht</string>
   <string name="face_data_manage_unlock_title">Ontgrendelen met je gezicht</string>
+  <string name="face_data_siggesstion_next">Volgende</string>
+  <string name="face_data_siggesstion_next_time">Volgende (%ds)</string>
   <string name="face_data_suggesstion_first">Het ontgrendelen van het apparaat met je gezicht is minder veilig dan het gebruiken van een wachtwoord. Het apparaat zou ontgrendeld kunnen worden door mensen die op je lijken.</string>
   <string name="face_data_suggesstion_second">Zorg ervoor dat geen van uw gezichtsdelen is bedekt en duidelijk zichtbaar zijn. Je gezicht zou ook goed verlicht moeten zijn.</string>
   <string name="face_unlock_adjust_distance">Zorg ervoor dat de afstand tussen je gezicht en het scherm optimaal is.</string>
@@ -32,29 +38,31 @@
   <string name="face_unlock_by_notification_screen_on_msg">Je kan het apparaat ontgrendelen met je gezicht wanneer het scherm oplicht voor binnenkomende meldingen. Dit kan ervoor zorgen dat de batterij sneller leeg raakt.</string>
   <string name="face_unlock_by_notification_screen_on_title">Gezichtsherkenning toestaan wanneer scherm aangaat</string>
   <string name="face_unlock_check_failed">Kon u niet herkennen</string>
-  <string name="face_unlock_close_screen">Kom wat dichterbij het scherm</string>
-  <string name="face_unlock_down">Ga omhoog met je hoofd</string>
+  <string name="face_unlock_close_screen">Kom iets dichterbij het scherm</string>
+  <string name="face_unlock_down">Ga iets omhoog met je hoofd</string>
   <string name="face_unlock_identify_error">Er is een fout opgetreden</string>
   <string name="face_unlock_not_found">Kon u niet herkennen</string>
-  <string name="face_unlock_offset_bottom">Houd je telefoon wat lager</string>
-  <string name="face_unlock_offset_left">Beweeg naa rechts</string>
+  <string name="face_unlock_offset_bottom">Houd je telefoon iets lager</string>
+  <string name="face_unlock_offset_left">Beweeg naar rechts</string>
   <string name="face_unlock_offset_right">Beweeg naar links</string>
-  <string name="face_unlock_offset_top">Houd je telefoon wat hoger</string>
-  <string name="face_unlock_open_eye">Open je ogen wat meer</string>
+  <string name="face_unlock_offset_top">Houd je telefoon iets hoger</string>
+  <string name="face_unlock_open_eye">Open je ogen iets meer</string>
   <string name="face_unlock_passwork">Wachtwoord gebruiken</string>
   <string name="face_unlock_passwork_and_fingerprint">Gebruik wachtwoord of gezichtsherkenning</string>
   <string name="face_unlock_quality">Kon je gezicht niet duidelijk zien</string>
+  <string name="face_unlock_reenter_content">Het algorithme voor gezichtsontgrendeling wordt geupdate. Tik om gezichtgegevens opnieuw op te slaan.</string>
+  <string name="face_unlock_reenter_title">Sla opnieuw uw gezichtgegevens op.</string>
   <string name="face_unlock_reveal_eye">Zorg ervoor dat je ogen zichtbaar zijn</string>
   <string name="face_unlock_reveal_mouth">Zorg ervoor dat je lippen zichtbaar zijn</string>
-  <string name="face_unlock_rise">Ga omlaag met je hoofd</string>
-  <string name="face_unlock_rotated_left">Draai je hoofd naar rechts</string>
-  <string name="face_unlock_rotated_right">Draai je hoofd naar links</string>
+  <string name="face_unlock_rise">Ga iets omlaag met je hoofd</string>
+  <string name="face_unlock_rotated_left">Draai je hoofd iets naar rechts</string>
+  <string name="face_unlock_rotated_right">Draai je hoofd iets naar links</string>
   <string name="face_unlock_stay_away_screen">Houd 25 tot 40 cm afstand tot het scherm</string>
-  <string name="fingerprint_add_text">De vingerafdruk interface is bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
+  <string name="fingerprint_add_text">De vingerafdruk-interface is bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
   <string name="fingerprint_add_title">Vingerafdruk toevoegen</string>
   <string name="fingerprint_again_identified_msg">Je vingerafdruk is nu actief. Je kan het gebruiken om het apparaat te ontgrendelen.</string>
-  <string name="fingerprint_enter_second_psw_msg">Na herstart wachtwoord tweede ruimte invoeren om vingerafdrukherkenning te kunnen gebruiken</string>
-  <string name="fingerprint_enter_second_psw_msg_oldman">Kan tweede ruimte niet betreden wanneer in lite mode</string>
+  <string name="fingerprint_enter_second_psw_msg">Voer na herstarten het wachtwoord van de tweede ruimte in om vingerafdrukherkenning te kunnen gebruiken</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">Kan tweede ruimte niet betreden in litemodus</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
   <string name="fingerprint_not_identified_msg">Teveel mislukte pogingen. Voer wachtwoord nu in of probeer je vingerafdruk te gebruiken over een paar seconden.</string>
   <string name="fingerprint_not_identified_title">Voer wachtwoord in</string>
@@ -65,7 +73,7 @@
   <string name="incorrect_pincode_remaining_attempts">Foute PIN code, %d pogingen resterend</string>
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Foute PUK code, %d pogingen resterend</string>
-  <string name="input_password_after_boot_msg">Om apparaat te ontgrendelen, voer uw wachtwoord in</string>
+  <string name="input_password_after_boot_msg">Voer uw wachtwoord in om apparaat te ontgrendelen</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet betreden vanaf vergrendelscherm. Betreed vanuit eerste ruimte.</string>
@@ -78,11 +86,6 @@
   <string name="invalid_sim_puk_hint">PUK moet minstens 8 nummers lang zijn</string>
   <string name="keyguard_charging_info_battery_temperature_text">Temperatuur van batterij</string>
   <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Ongeveer %d uur tot volledig opgeladen</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Ongeveer %d minuten tot volledig opgeladen</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Ongeveer %d uur en %d minuten tot volledig opgeladen</string>
-  <string name="keyguard_charging_info_charging_text">Opladen</string>
-  <string name="keyguard_charging_info_charging_voltage_text">Voltage</string>
   <string name="keyguard_charging_info_click_to_detail">Details bekijken</string>
   <string name="keyguard_charging_info_could_use_hour_time_text">Ongeveer %d uur resterend</string>
   <string name="keyguard_charging_info_could_use_min_time_text">Ongeveer %d minuten resterend</string>
@@ -91,36 +94,35 @@
   <string name="keyguard_charging_info_drained_hour_time_format">%d uur</string>
   <string name="keyguard_charging_info_drained_min_time_format">%d minuten</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Leeggelopen</string>
-  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d uur en %d minuten</string>
-  <string name="keyguard_charging_info_finished_charging_text">Volledig opgeladen</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Gisteren %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Laatst opgeladen</string>
   <string name="keyguard_charging_info_tip_text1">Zorg ervoor dat uw apparaat altijd tenminste 10% is opgeladen om de levensduur van de batterij te verlengen.</string>
-  <string name="keyguard_charging_info_tip_text2">"Laad uw apparaat niet te lang op. Meerdere malen kort opladen is beter dan uw apparaat 's nachts in de oplader te laten."</string>
+  <string name="keyguard_charging_info_tip_text2">Laad uw apparaat niet te lang op. Meerdere malen kort opladen is beter dan uw apparaat \'s nachts in de oplader te laten.</string>
   <string name="keyguard_charging_info_tip_text3">Laad uw apparaat niet op als de omgevingstemperatuur lager is dan 0℃.</string>
   <string name="keyguard_charging_info_tip_text4">Gebruik uw apparaat niet teveel wanneer deze aan het opladen is om overhitting te voorkomen.</string>
   <string name="keyguard_charging_info_tip_text5">Batterijen doen er langer over om op te laden als ze warm zijn.</string>
   <string name="keyguard_charging_info_tip_text6">Schakel het scherm uit en leg uw apparaat weg om deze af te laten koelen.</string>
-  <string name="keyguard_left_bankcard">Mi Pay</string>
-  <string name="keyguard_left_buscard">Transport card</string>
-  <string name="keyguard_left_remotecentral">Mi Remote</string>
-  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_left_bankcard">Calculator</string>
+  <string name="keyguard_left_buscard">Notes</string>
+  <string name="keyguard_left_remotecentral">Calendar</string>
+  <string name="keyguard_left_smarthome">Contacts</string>
+  <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Snelladen (quick charging). Tik om details te bekijken.</string>
-  <string name="keyguard_quickly_charging_info_charging_text">Snelladen (quick charging)…</string>
-  <string name="keyguard_torch_cover_text">Druk op de powerknop om de zaklamp aan te houden</string>
+  <string name="keyguard_torch_cover_text">Druk op de aan/uitnop om de zaklamp aan te houden</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
-  <string name="lock_wallpaper_enter">Enter</string>
+  <string name="lock_screen_no_sim_card">Geen SIM kaart</string>
+  <string name="lock_wallpaper_enter">Invoeren</string>
   <string name="lock_wallpaper_learn_more">Meer</string>
   <string name="lockscreen_access_pattern_cell_added">Mobiel netwerk toegevoegd</string>
   <string name="lockscreen_access_pattern_cleared">Patroon gewist</string>
   <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
   <string name="lockscreen_access_pattern_start">Patroon gestart</string>
   <string name="lockscreen_charging_msg">Opladen</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">U heeft de telefoon %d keer foutief proberen te ontgrendelen. Na nog %d mislukte pogingen, zal de telefoon worden teruggezet naar de fabrieksinstellingen en alle gebruikersgegevens gaan verloren.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">U heeft uw wachtwoord %d keer fout ingevoerd. Na %d meer mislukte pogingen, wordt u gevraagd om uw telefoon te ontgrendelen met behulp van het aanmelden op uw Mi account .
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">U heeft de telefoon %d keer foutief proberen te ontgrendelen. Na nog %d mislukte pogingen zal de telefoon worden teruggezet naar de fabrieksinstellingen en alle gebruikersgegevens zullen verloren gaan.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">U heeft uw wachtwoord %d keer fout ingevoerd. Na nog %d mislukte pogingen wordt u gevraagd om uw telefoon te ontgrendelen met behulp van het aanmelden op uw Mi account.
 
 Probeer het opnieuw over %d seconden.</string>
   <string name="lockscreen_failed_attempts_now_wiping">U heeft de telefoon %d keer foutief proberen te ontgrendelen. De telefoon wordt nu teruggezet naar de fabrieksinstellingen.</string>
@@ -133,7 +135,7 @@ Probeer het opnieuw over %d seconden.</string>
   <string name="phone_locked_foget_password_method_content">U moet alle gegevens op uw apparaat wissen, inclusief foto\'s en contacten, en dan een nieuw wachtwoord instellen.</string>
   <string name="phone_locked_foget_password_method_next">Volgende</string>
   <string name="phone_locked_foget_password_ok">Begrepen</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">Schakel uw apparaat uit, houd de aan/uitknop en de volume omhoogknop tegelijkertijd ingedrukt totdat je het Mi logo ziet.</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Schakel uw apparaat uit, houd de aan/uitknop en de volume+ knop tegelijkertijd ingedrukt totdat je het Mi logo ziet.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Selecteer \"Wissen &amp; Resetten\" en wacht tot het apparaat opnieuw opstart.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Hoe moet ik gegevens verwijderen?</string>
   <string name="phone_locked_string">Telefoon is vergrendeld</string>

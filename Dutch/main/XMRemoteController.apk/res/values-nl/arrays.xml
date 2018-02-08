@@ -25,6 +25,31 @@
         <item>Waarom kan ik alleen mijn A/C inschakelen en niet uitschakelen?</item>
         <item>Kan ik Mi 3, Mi 2 en Redmi als IR afstandsbediening gebruiken?</item>
     </string-array>
+	<string-array name="voice_ac_help">
+        <item>Schakel Haier AC in de woonkamer in</item>
+        <item>Stel de temperatuur in op 25 degrees</item>
+        <item>Windrichting instellen op \"omhoog\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree AC inschakelen</item>
+        <item>Wisselen naar draaien</item>
+        <item>AC harder laten draaien</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Set-top box inschakelen</item>
+        <item>Ik wil Hunan TV kijken</item>
+        <item>Terug naar kanaal 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>AC inschakelen</item>
+        <item>Ik wil Shenzhen TV kijken</item>
+        <item>Terug naar kanaal 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>TV in de slaapkamer inschakelen</item>
+        <item>TV uitschakelen</item>
+        <item>Volume van de TV harder zetten</item>
+    </string-array>
 	<string-array name="assistant_tab">
         <item>Video</item>
         <item>Schermafdrukken</item>
@@ -47,10 +72,10 @@
     </string-array>
     <string-array name="epg_channel_tab_v53">
 	    <item>Alles</item>
-        <item>Recent</item>
-        <item>HD</item>
         <item>TV</item>
         <item>CCTV</item>
+		<item>HD</item>
+        <item>Recent</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>
