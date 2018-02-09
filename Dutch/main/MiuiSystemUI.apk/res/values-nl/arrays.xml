@@ -133,13 +133,13 @@
         <item>4MB per logbuffer</item>
         <item>16MB per logbuffer</item>
     </string-array>
-	    <string-array name="select_logpersist_titles">
+	<string-array name="select_logpersist_titles">
         <item>Uit</item>
         <item>Alles</item>
         <item>Alles behalve radio</item>
         <item>Alleen kernel</item>
     </string-array>
-	    <string-array name="select_logpersist_summaries">
+	<string-array name="select_logpersist_summaries">
         <item>Uit</item>
         <item>Alle logbuffers</item>
         <item>Alles behalve radio logbuffers</item>
