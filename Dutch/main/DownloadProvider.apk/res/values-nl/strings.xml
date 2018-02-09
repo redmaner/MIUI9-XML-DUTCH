@@ -78,13 +78,13 @@
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Taak bestaat al</string>
   <string name="warning_tip_cancel">Downloaden</string>
-  <string name="warning_tip_content">Wi-Fi is onderbroken. Het gebruik van uw mobiele gegevensverbinding om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
+  <string name="warning_tip_content">Je bent niet meer verbonden met Wi-Fi. Mobiel internet gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Waarschuwing dataverbruik</string>
-  <string name="wifi_recommended_body" formatted="false">"Als u deze download van %s nu start, kan dit de levensduur van de batterij verkorten en/of leiden tot bovenmatig gebruik van uw mobiele gegevensverbinding. Uw provider kan hiervoor kosten aanrekenen.
+  <string name="wifi_recommended_body" formatted="false">"Als u deze download van %s nu start, kan dit de levensduur van de batterij verkorten en/of leiden tot veel gebruik van uw mobiele data. Uw provider kan hiervoor kosten aanrekenen.
 
 Tik op '%s' om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
-  <string name="wifi_recommended_title">In wachtrij plaatsen voor later downloaden?</string>
+  <string name="wifi_recommended_title">In wachtrij plaatsen om later te downloaden?</string>
   <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze download van %s te voltooien.
 
 Tik op %s om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
