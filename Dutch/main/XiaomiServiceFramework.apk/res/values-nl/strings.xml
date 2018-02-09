@@ -8,7 +8,7 @@ Apparaat ID moet een geldig IMEI of MAC-adres hebben. Zonder apparaat ID, zullen
   <string name="explain_send_sms_permission_button">Verifiëren</string>
   <string name="explain_send_sms_permission_msg">Om %s in te schakelen, zal Xiaomi Service Framework een SMS sturen om uw telefoonnummer te verifiëren. Kosten voor een gewone SMS zijn van toepassing.</string>
   <string name="explain_send_sms_permission_title">Verifieer uw telefoonnummer</string>
-  <string name="sync_notification_title_format">Sync. huidige item: %1$s</string>
+  <string name="sync_notification_title_format">%1$s synchroniseren</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF activeer info</string>
 </resources>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="RF_DalvikCacheLeftovers">Dalvik-Cache</string>
+  <string name="RF_DalvikCacheLeftovers">Dalvik-cache</string>
   <string name="activity_title_ad">Advertenties</string>
   <string name="activity_title_apk">Pakketten</string>
   <string name="activity_title_brightness_image">Onder- en overbelicht</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Appdata</string>
   <string name="activity_title_deep_apk">APK\'s verwijderen</string>
-  <string name="activity_title_deep_clean">Diepe schoonmaak</string>
+  <string name="activity_title_deep_clean">Grondig schoonmaken</string>
   <string name="activity_title_garbage_cleanup">Opruimer</string>
   <string name="activity_title_ignored_image">Genegeerd</string>
   <string name="activity_title_image_gallery">Duplicaten verwijderen</string>
   <string name="activity_title_large_file">Grote bestanden</string>
   <string name="activity_title_main">Opruimer</string>
   <string name="activity_title_news">Nieuws</string>
-  <string name="activity_title_privacy_cache">Privacy cache</string>
+  <string name="activity_title_privacy_cache">Privacycache</string>
   <string name="activity_title_residual">Restanten</string>
   <string name="activity_title_scanfinish">Scan voltooid</string>
   <string name="activity_title_screenshot">Schermafdrukken</string>
@@ -29,7 +29,7 @@
   <string name="ad_install_success_dialog_title">%1$s met succes geïnstalleerd. Nu openen?</string>
   <string name="analying">Analyseren…</string>
   <string name="apk_status_damage">Corrupt</string>
-  <string name="apk_status_duplicate">Dupliceer</string>
+  <string name="apk_status_duplicate">Dupliceren</string>
   <string name="apk_status_install">Geïnstalleerd</string>
   <string name="apk_status_installed_old">Oude versie</string>
   <string name="apk_status_uninstalled">Niet geïnstalleerd</string>
@@ -70,8 +70,8 @@
   <string name="button_text_deselect_all_photos">Alles deselecteren</string>
   <string name="button_text_group_ignore">Negeren</string>
   <string name="button_text_group_unlike">Geen duplicaten</string>
-  <string name="button_text_install">Installeer</string>
-  <string name="button_text_install_now">Installeer</string>
+  <string name="button_text_install">Installeren</string>
+  <string name="button_text_install_now">Installeren</string>
   <string name="button_text_keep_one">Eén reserveren</string>
   <string name="button_text_known">Ok</string>
   <string name="button_text_let_me_select">Ok</string>
@@ -90,23 +90,22 @@
   <string name="buy_a_new_phone">Meer opslagruimte verkrijgen</string>
   <string name="buy_immediately">Koop</string>
   <string name="buy_traffic_pack">Koop meer data</string>
-  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Lege map (%d)</string>
   <string name="cache_title_empty_folder2">Lege map</string>
   <string name="cache_title_system_cache">Systeemcache</string>
   <string name="cached_garbage">Cache</string>
   <string name="call_log">Oproepgeschiedenis</string>
   <string name="cancel">Annuleren</string>
-  <string name="cd_back">back</string>
-  <string name="cd_check_box_checked">checked</string>
-  <string name="cd_check_box_middle">partial selection</string>
-  <string name="cd_check_box_unchecked">not checked</string>
-  <string name="cd_list_item_collapse">collapsed</string>
-  <string name="cd_list_item_expanded">expanded</string>
-  <string name="cd_percent">percent</string>
-  <string name="cd_settings">settings</string>
-  <string name="cd_sort_type">sort type</string>
-  <string name="clean_content_all">Alle</string>
+  <string name="cd_back">terug</string>
+  <string name="cd_check_box_checked">aangevinkt</string>
+  <string name="cd_check_box_middle">gedeeltelijke selectie</string>
+  <string name="cd_check_box_unchecked">niet aangevinkt</string>
+  <string name="cd_list_item_collapse">ingeklapt</string>
+  <string name="cd_list_item_expanded">uitgeklapt</string>
+  <string name="cd_percent">procent</string>
+  <string name="cd_settings">instellingen</string>
+  <string name="cd_sort_type">type sorteren</string>
+  <string name="clean_content_all">Alles</string>
   <string name="clean_content_one">1 item</string>
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
@@ -287,7 +286,7 @@
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
   <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
   <string name="menu_clear">Wissen</string>
-  <string name="menu_install">Installeer deze app</string>
+  <string name="menu_install">Deze app installeren</string>
   <string name="menu_view">Bekijken in folder</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Controleren op updates…</string>
@@ -375,9 +374,9 @@
   <string name="recommend_news">Aanbevolen bronnen</string>
   <string name="recommend_the_following">Neem de volgende maatregelen om het meest uit uw apparaat te halen</string>
   <string name="recommended">Voorgesteld</string>
-  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; er kunnen meerdere bestanden opgeruimt worden. Maak meer ruimte vrij.&lt;/Data&gt;" "</string>
-  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;U kan &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; wissen aangemaakt door QQ&lt;/Data&gt;" "</string>
-  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; van WeChat cache. Maak meer ruimte vrij.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_deep_clean_summary">Er kunnen meerdere bestanden opgeruimd worden. Maak meer ruimte vrij.</string>
+  <string name="resutl_function_qq_clean_summary">Wissen aangemaakt door QQ</string>
+  <string name="resutl_function_wechat_clean_summary">%1$s van WeChat cache. Maak meer ruimte vrij.</string>
   <string name="sc_allow_network_dialog_button">Toestaan</string>
   <string name="sc_allow_network_dialog_message">Deze app toelaten om verbinding te maken met internet om updates te ontvangen?</string>
   <string name="scanning">Scannen…</string>
@@ -454,7 +453,7 @@
   <string name="total_clean_text">Opruimen</string>
   <string name="unlike">Nee bedankt</string>
   <string name="update_date_format">dd-MM-yyyy</string>
-  <string name="virus_scan">Veiligheidsscan</string>
+  <string name="virus_scan">Virussscan</string>
   <string name="vungle_ad_name">Vungle advertentie</string>
   <string name="wechat_cache_files">WeChat cache</string>
   <string name="wechat_chat_data_type_cache">WeChat cache</string>
@@ -498,7 +497,7 @@
   <string name="white_list_large_file_header">Grote bestanden en video\'s: %d</string>
   <string name="white_list_residual_header">Restanten: %d</string>
   <string name="white_list_title">Uitzonderingen</string>
-  <string name="wq_deep_clean_filter_all">All</string>
+  <string name="wq_deep_clean_filter_all">Alles</string>
   <string name="wq_deep_clean_filter_month_ago">1 maand geleden</string>
   <string name="wq_deep_clean_filter_three_month_ago">3 maanden geleden</string>
   <string name="wq_deep_clean_filter_week_ago">1 week geleden</string>
