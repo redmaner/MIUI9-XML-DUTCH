@@ -4,10 +4,6 @@
         <item quantity="other">%d nummers totaal</item>
         <item quantity="one">%d nummer totaal</item>
     </plurals>
-	<plurals name="Nartists_count">
-        <item quantity="other">%d artiesten</item>
-        <item quantity="one">%d artiest</item>
-    </plurals>
 	<plurals name="Nassociate_songs">
         <item quantity="other">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
         <item quantity="one">Zoeken naar albumcovers en songteksten (%1$d/%2$d)</item>
@@ -15,18 +11,6 @@
 	<plurals name="Nbackup_songs">
         <item quantity="other">Nummers back-uppen, %1$d nummers resterend (%2$.1fMB)</item>
         <item quantity="one">Nummers back-uppen, %1$d nummer resterend (%2$.1fMB)</item>
-    </plurals>
-	<plurals name="Nexpired_remind">
-        <item quantity="other">%d dagen overblijvend</item>
-        <item quantity="one">%d dag overblijvend</item>
-    </plurals>
-	<plurals name="Ngroups_count">
-        <item quantity="other">%d groepen</item>
-        <item quantity="one">%d groep</item>
-    </plurals>
-	<plurals name="Nnew_tracks_count">
-        <item quantity="other">%d nieuwe nummers</item>
-        <item quantity="one">%d nieuw nummer</item>
     </plurals>
 	<plurals name="Nquit_warning">
         <item quantity="other">Speler zal binnen %d minuten stoppen</item>
@@ -57,10 +41,6 @@
 	<plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d nummers verwijderd van afspeellijst</item>
         <item quantity="one">>%d nummer verwijderd van afspeellijst</item>
-    </plurals>
-	<plurals name="Ntracks_search_result">
-        <item quantity="other">%d nummers gevonden</item>
-        <item quantity="one">%d nummers gevonden</item>
     </plurals>
 	<plurals name="Ntracks_similar_count">
         <item quantity="other">%d gelijkaardige nummers</item>
@@ -105,10 +85,6 @@
     <plurals name="download_running">
         <item quantity="other">%d nummers bezig met downloaden</item>
         <item quantity="one">%d nummer bezig met downloaden</item>
-    </plurals>
-	<plurals name="folder_songs_count">
-        <item quantity="other">%d nummers</item>
-        <item quantity="one">>%d nummer</item>
     </plurals>
 	<plurals name="multichoice_title">
         <item quantity="other">%d items geselecteerd</item>
