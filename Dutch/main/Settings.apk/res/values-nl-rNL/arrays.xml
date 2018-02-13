@@ -179,9 +179,9 @@
         <item>Maximaal 4 processen</item>
     </string-array>
 	    <string-array name="automatic_storage_management_days">
-        <item>Over 30 days old</item>
-        <item>Over 60 days old</item>
-        <item>Over 90 days old</item>
+        <item>Meer dan 30 dagen oud</item>
+        <item>Meer dan 60 dagen oud</item>
+        <item>Meer dan 90 dagen oud</item>
     </string-array>
 	<string-array name="battery_indicator_style_entries">
         <item>Grafisch</item>
@@ -207,55 +207,55 @@
         <item>IS95A</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Geoptimaliseerd voor audiokwaliteit</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit</item>
+        <item>Best Effort (varierende bitrate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
-        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Geoptimaliseerd voor audiokwaliteit (990kbps/909kbps)</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit (660kbps/606kbps)</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
+        <item>Best Effort (Varierende bitrate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
@@ -271,11 +271,11 @@
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
     </string-array>
 	<string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.4 (standaard)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -965,7 +965,7 @@
         <item>Toon gebieden voor deuteranomalie</item>
     </string-array>
 	<string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
+        <item>OpenGL (standaard)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
 	<string-array name="dream_timeout_entries">
@@ -1177,7 +1177,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="proc_stats_process_states">
         <item>Aanhoudend</item>
-        <item>Top activiteit</item>
+        <item>Topactiviteit</item>
         <item>Belangrijk (voorgrond)</item>
         <item>Belangrijk (achtergrond)</item>
         <item>Back-up</item>
@@ -1264,16 +1264,16 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>16M</item>
     </string-array>
 	<string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Uit</item>
+        <item>Alle logbuffers</item>
+        <item>Alles behalve radio logbuffers</item>
+        <item>Alleen kernel logbuffers</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Uit</item>
+        <item>Alles</item>
+        <item>Alles behalve radio</item>
+        <item>Alleen kernel</item>
     </string-array>
 	<string-array name="show_non_rect_clip_entries">
         <item>Uit</item>
@@ -1413,13 +1413,13 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Alleen Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
-        <item>WLAN</item>
-        <item>Mobile</item>
-        <item>WLAN only</item>
+        <item>Wi-Fi</item>
+        <item>Mobiel</item>
+        <item>Alleen Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-        <item>WLAN</item>
-        <item>Mobile</item>
+        <item>Wi-Fi</item>
+        <item>Mobiel</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Bij voorkeur Wi-Fi</item>

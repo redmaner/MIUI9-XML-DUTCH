@@ -1,287 +1,287 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Extremely short delay (%1$d ms)</item>
-        <item quantity="one">Extremely short delay (%1$d ms)</item>
+        <item quantity="other">Extreem korte vertraging (%1$d ms)</item>
+        <item quantity="one">Extreem korte vertraging (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Long delay (%1$d ms)</item>
-        <item quantity="one">Long delay (%1$d ms)</item>
+        <item quantity="other">Lange vertraging (%1$d ms)</item>
+        <item quantity="one">Lange vertragng (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Short delay (%1$d ms)</item>
-        <item quantity="one">Short delay (%1$d ms)</item>
+        <item quantity="other">Korte vertraging (%1$d ms)</item>
+        <item quantity="one">Korte vertraging (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Very long delay (%1$d ms)</item>
-        <item quantity="one">Very long delay (%1$d ms)</item>
+        <item quantity="other">Zeer lange vertraging (%1$d ms)</item>
+        <item quantity="one">Zeer lange vertraging (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Very short delay (%1$d ms)</item>
-        <item quantity="one">Very short delay (%1$d ms)</item>
+        <item quantity="other">Zeer korte vertraging (%1$d ms)</item>
+        <item quantity="one">Zeer korte vertraging (%1$d ms)</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Turned off for %d apps</item>
-        <item quantity="one">Turned off for %d app</item>
+        <item quantity="other">Uitgeschakeld voor %d apps</item>
+        <item quantity="one">Uitgeschakeld voor %d app</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Never disable for %d apps</item>
-        <item quantity="one">Never disable for 1 app</item>
+        <item quantity="other">Nooit uitschakelen voor %d apps</item>
+        <item quantity="one">Nooit uitschakelen voor 1 app</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Always disable for %d apps</item>
-        <item quantity="one">Always disable for 1 app</item>
+        <item quantity="other">Altijd uitschakelen voor %d apps</item>
+        <item quantity="one">Altijd uitschakelen voor 1 app</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">%d apps are allowed to autostart</item>
-        <item quantity="one">%d app is allowed to autostart</item>
+        <item quantity="other">%d apps hebben toestemming om automatisch te starten</item>
+        <item quantity="one">%d app heeft toestemming om automatisch te starten</item>
     </plurals>
     <plurals name="connected_devices_number">
-        <item quantity="other">%d devices</item>
-        <item quantity="one">%d device</item>
+        <item quantity="other">%d apparaten</item>
+        <item quantity="one">%d apparaat</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d apps allowed to use unrestricted data when Data Saver is on</item>
-        <item quantity="one">1 app allowed to use unrestricted data when Data Saver is on</item>
+        <item quantity="other">%1$d apps mogen onbeperkt gegevens gebruiken wanneer databespaarder is ingeschakeld</item>
+        <item quantity="one">%1$d app mag onbeperkt gegevens gebruiken wanneer databespaarder is ingeschakeld</item>
     </plurals>
     <plurals name="default_camera_app_title">
-        <item quantity="other">Camera apps</item>
-        <item quantity="one">Camera app</item>
+        <item quantity="other">Camera-apps</item>
+        <item quantity="one">Camera-app</item>
     </plurals>
     <plurals name="default_email_app_title">
-        <item quantity="other">Email client apps</item>
-        <item quantity="one">Email client app</item>
+        <item quantity="other">E-mailapps</item>
+        <item quantity="one">E-mailapp</item>
     </plurals>
     <plurals name="default_phone_app_title">
-        <item quantity="other">Phone apps</item>
-        <item quantity="one">Phone app</item>
+        <item quantity="other">Telefoonapps</item>
+        <item quantity="one">Telefoonapp</item>
     </plurals>
     <plurals name="deleted_channels">
-        <item quantity="other">%d categories deleted</item>
-        <item quantity="one">%d category deleted</item>
+        <item quantity="other">%d categorien verwijderd</item>
+        <item quantity="one">%d categorie verwijderd</item>
     </plurals>
     <plurals name="dlg_remove_locales_title">
         <item quantity="other">Geselecteerde talen verwijderen?</item>
         <item quantity="one">Geselecteerde taal verwijderen?</item>
     </plurals>
      <plurals name="domain_urls_apps_summary_on">
-        <item quantity="other">%d apps opening supported links</item>
-        <item quantity="one">One app opening supported links</item>
+        <item quantity="other">%d apps openen ondersteunde links</item>
+        <item quantity="one">Een app opent ondersteunde links</item>
     </plurals>
     <plurals name="enterprise_privacy_number_ca_certs">
-        <item quantity="other">Minimum %d CA certificates</item>
-        <item quantity="one">Minimum %d CA certificate</item>
+        <item quantity="other">Minimaal %d CA certificaten</item>
+        <item quantity="one">Minimaal %d CA certificaat</item>
     </plurals>
     <plurals name="enterprise_privacy_number_failed_password_wipe">
-        <item quantity="other">%d attempts</item>
-        <item quantity="one">%d attempt</item>
+        <item quantity="other">%d pogingen</item>
+        <item quantity="one">%d poging</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages">
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
     <plurals name="enterprise_privacy_number_packages_lower_bound">
-        <item quantity="other">Minimum %d apps</item>
-        <item quantity="one">Minimum %d app</item>
+        <item quantity="other">Minimaal %d apps</item>
+        <item quantity="one">Minimaal %d app</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$d people connected</item>
-        <item quantity="one">%1$d person connected</item>
+        <item quantity="other">%1$d mensen verbonden</item>
+        <item quantity="one">%1$d persoon verbonden</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%s hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%s uur</item>
+        <item quantity="one">1 uur</item>
     </plurals>
 	<plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Must contain at least %d letters</item>
-        <item quantity="one">Must contain at least 1 letter</item>
+        <item quantity="other">Wachtwoord moet ten minste %d letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste één letter bevatten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Must contain at least %d lowercase letters</item>
-        <item quantity="one">Must contain at least 1 lowercase letter</item>
+        <item quantity="other">Wachtwoord moet ten minste %d kleine letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste één kleine letter bevatten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Must contain at least %d non-letter characters</item>
-        <item quantity="one">Must contain at least 1 non-letter character</item>
+        <item quantity="other">Wachtwoord moet ten minste %d andere tekens dan letters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste één ander teken dan letters bevatten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Must contain at least %d numerical digits</item>
-        <item quantity="one">Must contain at least 1 numerical digit</item>
+        <item quantity="other">Wachtwoord moet ten minste %d cijfers bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste één cijfer bevatten.</item>
     </plurals>
      <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Must contain at least %d special symbols</item>
-        <item quantity="one">Must contain at least 1 special symbol</item>
+        <item quantity="other">Wachtwoord moet ten minste %d speciale symbolen bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste één speciaal symbool bevatten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Must contain at least %d uppercase letters</item>
-        <item quantity="one">Must contain at least 1 uppercase letter</item>
+        <item quantity="other">Wachtwoord moet ten minste %d hoofdletters bevatten.</item>
+        <item quantity="one">Wachtwoord moet ten minste één hoofdletter bevatten.</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN must be %d digits</item>
-        <item quantity="one">PIN must be %d digit</item>
+        <item quantity="other">PIN moet %d nummers zijn</item>
+        <item quantity="one">PIN moet %d nummer zijn</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN can contain up to %d digits</item>
-        <item quantity="one">PIN can contain up to %d digit</item>
+        <item quantity="other">PIN kan tot %d tekens bevatten</item>
+        <item quantity="one">PIN kan tot %d teken bevatten</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN must be %d digits long</item>
-        <item quantity="one">PIN must be %d digit long</item>
+        <item quantity="other">PIN moet %d tekens lang zijn</item>
+        <item quantity="one">PIN moet %d teken lang zijn</item>
     </plurals>
      <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Connect at least %d dots. Try again.</item>
-        <item quantity="one">Connect at least %d dot. Try again.</item>
+        <item quantity="other">Verbind ten minste %d punten. Probeer opnieuw.</item>
+        <item quantity="one">Verbind ten minste %d punt. Probeer opnieuw.</item>
     </plurals>
      <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
-        <item quantity="one">Too many incorrect attempts. Try again in %d second.</item>
+        <item quantity="other">Teveel incorrecte pogingen. Probeer opnieuw over %d seconden.</item>
+        <item quantity="one">Teveel incorrecte pogingen. Probeer opnieuw over %d seconde.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Wait for %d seconds and try again.</item>
-        <item quantity="one">Wait for %d second and try again.</item>
+        <item quantity="other">Wacht %d seconden en probeer opnieuw.</item>
+        <item quantity="one">Wacht %d seconde en probeer opnieuw.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d apps kunnen meldingen lezen</item>
         <item quantity="one">%d app kan meldingen lezen</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d active trust agents</item>
-        <item quantity="one">1 active trust agent</item>
+        <item quantity="other">%d actieve vertrouwde agents</item>
+        <item quantity="one">1 actieve vertrouwde agent</item>
     </plurals>
     <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d accounts will be reset</item>
-        <item quantity="one">1 account will be reset</item>
+        <item quantity="other">%1$d accounts worden gereset</item>
+        <item quantity="one">1 account wordt gereset</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d apps used memory in the last %2$s</item>
-        <item quantity="one">1 app used memory in the last %2$s</item>
+        <item quantity="other">%1$d apps hebben geheugen gebruikt in de laatste %2$s</item>
+        <item quantity="one">1 app heeft geheugen gebruikt in de laatste %2$s</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%s minuten</item>
+        <item quantity="one">1 minuut</item>
     </plurals>
     <plurals name="network_restrictions_summary">
-        <item quantity="other">%1$d restrictions</item>
-        <item quantity="one">1 restriction</item>
+        <item quantity="other">%1$d beperkingen</item>
+        <item quantity="one">1 beperking</item>
     </plurals>
     <plurals name="notification_summary">
-        <item quantity="other">Off for %d apps</item>
-        <item quantity="one">Off for 1 app</item>
+        <item quantity="other">Uitgeschakeld voor %d apps</item>
+        <item quantity="one">Uitgeschakeld voor 1 app</item>
     </plurals>
     <plurals name="number_of_device_admins">
-        <item quantity="other">%d active apps</item>
-        <item quantity="one">%d active app</item>
+        <item quantity="other">%d actieve apps</item>
+        <item quantity="one">%d actieve app</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d toestemmingen verleend</item>
         <item quantity="one">%d toestemming verleend</item>
     </plurals>
     <plurals name="print_settings_summary">
-        <item quantity="other">%1$d print services on</item>
-        <item quantity="one">1 print service on</item>
+        <item quantity="other">%1$d printservices ingeschakeld</item>
+        <item quantity="one">1 printservice ingeschakeld</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d extra toestemmingen</item>
         <item quantity="one">%d extra toestemming</item>
     </plurals>
     <plurals name="runtime_permissions_summary">
-        <item quantity="other">%1$d of %2$d permissions granted</item>
-        <item quantity="one">%1$d of %2$d permission granted</item>
+        <item quantity="other">%1$d van %2$d toestemmingen gegeven</item>
+        <item quantity="one">%1$d van %2$d toestemming gegeven</item>
     </plurals>
 	<plurals name="seconds">
-        <item quantity="other">%s seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%s seconden</item>
+        <item quantity="one">1 seconde</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d fingerprints set up</item>
-        <item quantity="one">%1$d fingerprint set up</item>
+        <item quantity="other">%1$d vingerafdrukken ingesteld</item>
+        <item quantity="one">%1$d vingerafdruk ingesteld</item>
     </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
-        <item quantity="other">Show %d hidden items</item>
-        <item quantity="one">Show %d hidden item</item>
+        <item quantity="other">%d verborgen items tonen</item>
+        <item quantity="one">%d verborgen item tonen</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d toggles will appear in the Notification shade</item>
-        <item quantity="one">%1$d toggle will appear in the Notification shade</item>
+        <item quantity="other">Er zullen %1$d schakelaars worden weergegeven in het meldingenscherm</item>
+        <item quantity="one">Er zal %1$d schakelaar worden weergegeven in het meldingenscherm</item>
     </plurals>
 	<plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a developer.</item>
-        <item quantity="one">You are now %1$d step away from being a developer.</item>
+        <item quantity="other">Je bent %1$d stappen verwijderd van het worden van ontwikkelaar.</item>
+        <item quantity="one">Je bent %1$d stap verwijderd van het worden van ontwikkelaar.</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van de telefooninfo."</item>
-        <item quantity="one">"Je bent %1$d stap verwijderd van de telefooninfo.."</item>
+        <item quantity="one">"Je bent %1$d stap verwijderd van de telefooninfo."</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">"Je bent %1$d stappen verwijderd van bug rapporteren."</item>
-        <item quantity="one">"Je bent %1$d stap verwijderd van bug rapporteren."</item>
+        <item quantity="other">"Je bent %1$d stappen verwijderd van het rapporteren van een bug."</item>
+        <item quantity="one">"Je bent %1$d stap verwijderd van het rapporteren van een bug."</item>
     </plurals>
 	<plurals name="special_access_summary">
-        <item quantity="other">%d apps can use unrestricted data</item>
-        <item quantity="one">1 app can use unrestricted data</item>
+        <item quantity="other">%d apps kunnen onbeperkt data gebruiken</item>
+        <item quantity="one">1 app kan onbeperkt data gebruiken</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
-        <item quantity="other">Trust or remove certificates</item>
-        <item quantity="one">Trust or remove certificate</item>
+        <item quantity="other">Certificaten vertrouwen of verwijderen</item>
+        <item quantity="one">Certificaat vertrouwen of verwijderen</item>
     </plurals>
 	<plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s has installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+        <item quantity="other">"%s heeft certificaatautoriteiten geïnstalleerd voor uw werkprofiel, waardoor ze de werknetwerkactiviteit kunnen monitoren, inclusief e-mails, apps en beveiligde websites.
 
-For more information about these certificates, contact your admin."</item>
-        <item quantity="one">"%s has installed a certificate authority for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+Voor meer informatie over deze certificaten, neem contact op met uw beheerder."</item>
+        <item quantity="one">"%s heeft een certificaatautoriteit geïnstalleerd voor uw werkprofiel, waardoor ze de werknetwerkactiviteit kunnen monitoren, inclusief e-mails, apps en beveiligde websites..
 
-For more information about this certificate, contact your admin."</item>
+Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s has installed certificate authorities on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+        <item quantity="other">"%s heeft certificaatautoriteiten op uw apparaat geïnstalleerd, waardoor ze uw apparaatnetwerkactiviteit kunnen monitoren, inclusief e-mails, apps en beveiligde websites.
 
-For more information about these certificates, contact your admin."</item>
-        <item quantity="one">"%s has installed a certificate authority on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+Voor meer informatie over deze certificaten, neem contact op met uw beheerder."</item>
+        <item quantity="one">"%s heeft een certificaatautoriteit op uw apparaat geïnstalleerd, waardoor ze uw apparaatnetwerkactiviteit kunnen monitoren, inclusief e-mails, apps en beveiligde websites.
 
-For more information about this certificate, contact your admin."</item>
+Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
-        <item quantity="other">Check certificates</item>
-        <item quantity="one">Check certificate</item>
+        <item quantity="other">Controleer certificaten</item>
+        <item quantity="one">Controleer certificaat</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%d apps can't show notifications"</item>
-        <item quantity="one">"%d app can't show notifications"</item>
+        <item quantity="other">%d apps kunnen geen meldingen tonen</item>
+        <item quantity="one">%d app kan geen meldingen tonen</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%d apps can show notifications</item>
-        <item quantity="one">%d app can show notifications</item>
+        <item quantity="other">%d apps kunnen meldingen tonen</item>
+        <item quantity="one">%d app kan meldingen tonen</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d items</item>
         <item quantity="one">1 item</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
-        <item quantity="other">%d risks found</item>
-        <item quantity="one">%d risk found</item>
+        <item quantity="other">%d risico\'s gevonden</item>
+        <item quantity="one">%d risico gevonden</item>
     </plurals>
     <plurals name="wifi_saved_access_points_summary">
-        <item quantity="other">%d networks</item>
-        <item quantity="one">1 network</item>
+        <item quantity="other">%d netwerken</item>
+        <item quantity="one">1 netwerk</item>
     </plurals>
     <plurals name="wifi_share_count">
-        <item quantity="other">Shared %d networks</item>
-        <item quantity="one">Shared %d network</item>
+        <item quantity="other">%d netwerken gedeeld</item>
+        <item quantity="one">%d netwerk gedeeld</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Onjuiste PIN code, je hebt nog %d pogingen.</item>
+        <item quantity="one">Onjuiste PIN code, je hebt nog %d poging voordat je contact moet opnemen met je provider om je apparaat te ontgrendelen.</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d automatic rules turned on</item>
-        <item quantity="one">1 automatic rule turned on</item>
+        <item quantity="other">%d automatische regels ingeschakeld</item>
+        <item quantity="one">1 automatische regel ingeschakeld</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Change to alarms only for %1$d hours until %2$s</item>
-        <item quantity="one">Change to alarms only for one hour until %2$s</item>
+        <item quantity="other">Wisselen naar alleen wekkers voor %1$d uur tot %2$s</item>
+        <item quantity="one">Wisselen naar alleen wekkers voor één uur tot %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Change to alarms only for %1$d minutes (until %2$s)</item>
-        <item quantity="one">Change to alarms only for one minute until %2$s</item>
+        <item quantity="other">Wisselen naar alleen wekkers voor %1$d minuten (tot %2$s)</item>
+        <item quantity="one">Wisselen naar alleen wekkers voor één minuut tot %2$s</item>
     </plurals>
 </resources>
