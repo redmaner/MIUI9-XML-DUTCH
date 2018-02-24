@@ -422,8 +422,8 @@ Sample Rate"</string>
   <string name="card_title_MTcall_forwarding">Inkomende oproep is doorgeschakeld</string>
   <string name="card_title_call_deflected">Oproep afgewezen</string>
   <string name="card_title_call_ended">Oproep beëindigd</string>
-  <string name="card_title_callconnectedect">Call connected through explicit call transfer</string>
-  <string name="card_title_callconnectingect">Call connecting through explicit call transfer</string>
+  <string name="card_title_callconnectedect">Oproep verbonden door beltransfer</string>
+  <string name="card_title_callconnectingect">Oproep verbinden door beltransfer</string>
   <string name="card_title_calliswaiting">Gesprek in de wacht</string>
   <string name="card_title_callonhold">Zet in de wacht</string>
   <string name="card_title_callonhold_released">Oproep vrijgegeven</string>

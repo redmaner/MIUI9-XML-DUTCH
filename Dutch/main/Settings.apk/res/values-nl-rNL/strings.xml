@@ -1851,8 +1851,8 @@ Er leek geen paarden te zijn, noch dieren van welke aard dan ook; De mannen droe
   <string name="free_xiaomi_wifi_connect_summary">Tik om te verbinden met %1$s.</string>
   <string name="frequently_fragment_delete">Verwijderen</string>
   <string name="frequently_fragment_tempty">Regelmatig gebruikte items staan hier</string>
-  <string name="fsg_mistake_touch_summary">In some scenes, such as full-screen games and videos, gestures need to be double swipe to take effect</string>
-  <string name="fsg_mistake_touch_title">Double check for the gestures</string>
+  <string name="fsg_mistake_touch_summary">In sommige situaties, zoals bij full-screen games en video\'s, gebaren moet dubbel worden geveegd om effect te hebben</string>
+  <string name="fsg_mistake_touch_title">Controleer dubbel voor de gebaren</string>
   <string name="full_transparent_smarrcover_title">Doorzichtige voorklep</string>
   <string name="fullbackup_data_summary">"Automatisch apparaatgegevens (zoals Wi-Fi wachtwoorden en oproepgeschiedenis) en appgegevens (zoals instellingen en bestanden opgeslagen door apps) back-uppen.
 

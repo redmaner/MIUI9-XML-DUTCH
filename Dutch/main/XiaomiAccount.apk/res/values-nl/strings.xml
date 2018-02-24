@@ -93,8 +93,8 @@
   <string name="current_location_title">Huidige locatie</string>
   <string name="delete_action">Verwijderen</string>
   <string name="delete_app">App verwijderen</string>
-  <string name="delete_bank_card_message">Mi Pay bank cards and NFC cards will be deleted after you sign out.</string>
-  <string name="delete_bank_card_title">Attention</string>
+  <string name="delete_bank_card_message">Mi Pay bankkaarten en NFC kaarten worden verwijderd als je uitlogt.</string>
+  <string name="delete_bank_card_title">Waarschuwing</string>
   <string name="delete_browser">Browser verwijderen</string>
   <string name="delete_device">Apparaat verwijderen</string>
   <string name="delete_device_btn">Verwijderen</string>
@@ -266,7 +266,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_input_password_hint">Voer wachtwoord in</string>
   <string name="passport_input_phone_hint">Voer telefoonnummer in</string>
   <string name="passport_input_vcode_hint">Voer verificatiecode in</string>
-  <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
+  <string name="passport_input_voice_captcha_hint">Voer spraakverificatiecode in</string>
   <string name="passport_license_host_unreachable">"Kan niet verbinden met netwerk. Je kan deze pagina bekijken op %s."</string>
   <string name="passport_loading">Laden…</string>
   <string name="passport_login">Aanmelden</string>
