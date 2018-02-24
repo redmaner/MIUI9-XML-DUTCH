@@ -873,7 +873,7 @@ Sample Rate"</string>
   <string name="breathing_light_freq_title">Meldingslicht knipperfrequentie</string>
   <string name="brightness">Helderheidsniveau</string>
   <string name="brightness_auto_adjust_off">Schermhelderheid blijft hetzelfde.</string>
-  <string name="brightness_auto_adjust_on">Screen brightness will be optimized according to ambient light.</string>
+  <string name="brightness_auto_adjust_on">Schermhelderheid wordt geoptimaliseerd gebaseerd op omgevingslicht.</string>
   <string name="brightness_summary">Helderheid van het scherm aanpassen</string>
   <string name="brightness_title">Helderheid</string>
   <string name="bssid_label">BSSID:</string>

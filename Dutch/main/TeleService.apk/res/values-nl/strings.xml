@@ -1509,21 +1509,21 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Nieuwe PLMN</string>
   <string name="uplmn_list_setting_title">Voorkeursnetwerken</string>
   <string name="uplmn_numeric_is_empty">Voeg netwerk ID in</string>
-  <string name="usb_audio_disable_routing">Disable USB audio routing</string>
-  <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
-  <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
-  <string name="user_guest">Guest</string>
+  <string name="usb_audio_disable_routing">USB audio routing uitschakelen</string>
+  <string name="usb_audio_disable_routing_summary">Automatische routing naar USB audio apparaten uitschakelen</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Systeemtalen gebruiken</string>
+  <string name="user_guest">Gast</string>
   <string name="username_title">Gebruikersnaam</string>
   <string name="ussdRunning">USSD code uitvoeren…</string>
   <string name="ussd_dialog_sep">----------</string>
-  <string name="ut_not_support">UT is not available</string>
+  <string name="ut_not_support">UT is niet beschikbaar</string>
   <string name="verify_apps_over_usb_summary">Controleer apps geïnstalleerd via ADB/ADT voor schadelijk gedrag.</string>
   <string name="verify_apps_over_usb_title">Verifieer apps via USB</string>
   <string name="vibrate_after_connected_summary">Trillen bij opnemen</string>
   <string name="vibrate_after_connected_title">Trillen nadat verbinding tot stand is gebracht</string>
-  <string name="vice_slot_volte_data_switch_prompt">Your device will connect to a mobile data network using the secondary SIM during ongoing VoLTE calls. This may generate additional data fees. Contact your local carrier for details about your data plan.</string>
-  <string name="vice_slot_volte_data_switch_summary">During VoLTE calls, device will connect to a mobile data network using the secondary SIM</string>
-  <string name="vice_slot_volte_data_switch_title">Use mobile data during VoLTE calls on the secondary SIM</string>
+  <string name="vice_slot_volte_data_switch_prompt">Het apparaat zal verbinden met een mobiel datanetwerk van de tweede SIM tijdens VoLTE oproepen. Dit kan voor extra kosten zorgen. Neem contact op met je provider voor meer informatie over je databundels.</string>
+  <string name="vice_slot_volte_data_switch_summary">Tijdens VoLTE oproepen zal het apparaat verbinden met een mobiel datanetwerk met de tweede SIM</string>
+  <string name="vice_slot_volte_data_switch_title">Gebruik mobiel internet tijdens VoLTE oproepen op de tweede SIM</string>
   <string name="vm_change_failed">Kan het voicemailnummer niet wijzigen. Neem contact op met uw provider als dit probleem zich blijft voordoen.</string>
   <string name="vm_change_pin_error_invalid">De nieuwe PIN bevat ongeldige tekens.</string>
   <string name="vm_change_pin_error_mismatch">De oude PIN komt niet overeen.</string>
@@ -1533,9 +1533,9 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="vm_change_pin_error_too_weak">De nieuwe PIN is te zwak. Een sterk wachtwoord mag geen continue volgorde of herhaalde cijfers hebben.</string>
   <string name="vm_change_pin_new_pin">Nieuwe PIN</string>
   <string name="vm_change_pin_old_pin">Oude PIN</string>
-  <string name="vm_change_pin_progress_message">Een momnetje.</string>
+  <string name="vm_change_pin_progress_message">Een momentje.</string>
   <string name="vm_changed">Voicemailnummer gewijzigd.</string>
-  <string name="voice_number_setting_primary_user_only">Voicei mail voor oproepinstellingen kunnen alleen door de primaire gebruiker gewijzigd worden .</string>
+  <string name="voice_number_setting_primary_user_only">Voicemail voor oproepinstellingen kunnen alleen door de primaire gebruiker gewijzigd worden .</string>
   <string name="voice_privacy">Spraakprivacy</string>
   <string name="voice_privacy_summary">Verbeterde privémodus inschakelen</string>
   <string name="voice_report_incoming_call">Bellen</string>
@@ -1575,8 +1575,8 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="wapi_cert_manage_error">Faild to setting the WAPI certificate.</string>
   <string name="wapi_cert_manage_summary">Add or delete the WAPI certificate</string>
   <string name="wapi_cert_manage_title">WAPI certificate management</string>
-  <string name="wapi_cert_roaming">Connecting…</string>
-  <string name="wapi_no">no</string>
+  <string name="wapi_cert_roaming">Verbinden…</string>
+  <string name="wapi_no">nee</string>
   <string name="wapi_no_vaild_cert">No available certificates, install it now?</string>
   <string name="wapi_password_hex_format_add">The count of hexadecimal characters can not be odd number</string>
   <string name="wapi_password_is_empty">Password field can not be left blank</string>
@@ -1617,9 +1617,9 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
 Please check validity of certificates"</string>
   <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
 Credential storage might not enable"</string>
-  <string name="wifi_wapi_psk_type">Password type</string>
-  <string name="wifi_wapi_user_certificate">User certificate</string>
+  <string name="wifi_wapi_psk_type">Wachtwoordtype</string>
+  <string name="wifi_wapi_user_certificate">Gebruikerscertificaat</string>
   <string name="wild_prompt_str">Wild karakter vervangen door</string>
-  <string name="window_animation_scale_title">Window animation scale</string>
+  <string name="window_animation_scale_title">Schermanimatieschaal</string>
   <string name="wrong_password">Ingevoerd wachtwoord is verkeerd</string>
 </resources>
