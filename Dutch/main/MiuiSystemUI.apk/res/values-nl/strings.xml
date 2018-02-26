@@ -354,8 +354,8 @@ Samplerate"</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">Naar startscherm gaan</string>
   <string name="how_to_switch_recents">Recente apps tonen</string>
-  <string name="how_to_use_drawer">How to use the app sliding function</string>
-  <string name="how_to_use_drawer_summary">Swipe from the top-left</string>
+  <string name="how_to_use_drawer">Hoe moet u de appveegfunctie gebruiken</string>
+  <string name="how_to_use_drawer_summary">Veeg vanaf linksboven</string>
   <string name="how_to_use_fsg">Je kan deze acties uitvoeren met gebaren:</string>
   <string name="ime_security_warning">Deze invoermethode kan alle tekst die je typt bijhouden, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. Het is van de app %1$s. Deze invoermethode gebruiken?</string>
   <string name="immediately_destroy_activities">Activiteiten niet behouden</string>

@@ -43,13 +43,13 @@
         <item>Geoptimaliseerd voor audiokwaliteit</item>
         <item>Gebalanceerde audio- en verbindingskwaliteit</item>
         <item>Geoptimaliseerd voor verbindingskwaliteit</item>
-        <item>Best Effort (Varierende bitrate)</item>
+        <item>Best Effort (varierende bitrate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Geoptimaliseerd voor audiokwaliteit (990kbps/909kbps)</item>
         <item>Gebalanceerde audio- en verbindingskwaliteit (660kbps/606kbps)</item>
         <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
-        <item>Best Effort (Varierende bitrate)</item>
+        <item>Best Effort (varierende bitrate)</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Systeemselectie gebruiken (standaard)</item>

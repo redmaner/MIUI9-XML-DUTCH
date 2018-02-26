@@ -20,7 +20,7 @@
   <string name="no_sim_card_inserted">Voer SIM kaart om SIM toolkit te starten.</string>
   <string name="service_name">Servicenaam</string>
   <string name="stk_app_state">Appstatus</string>
-  <string name="stk_channel_name">Mobile service messages</string>
+  <string name="stk_channel_name">Berichten van mobiele diensten</string>
   <string name="stk_dialog_accept">JA</string>
   <string name="stk_dialog_reject">NEE</string>
   <string name="stk_intent_permission">Toestemmingen zijn vereist</string>
