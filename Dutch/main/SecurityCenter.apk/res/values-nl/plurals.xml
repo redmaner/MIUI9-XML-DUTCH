@@ -171,12 +171,12 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">%d virus opgeruimd</item>
     </plurals>
 	<plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d apps kunnen automatisch opstarten</item>
-        <item quantity="one">%d app kan automatisch opstarten</item>
+        <item quantity="other">%d apps mogen automatisch opstarten</item>
+        <item quantity="one">%d app mag automatisch opstarten</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d apps zijn niet toegestaan om automatisch op te starten</item>
-        <item quantity="one">%d app is niet toegestaan om automatisch op te starten</item>
+        <item quantity="other">%d apps mogen niet automatisch opstarten</item>
+        <item quantity="one">%d app mag niet automatisch opstarten</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d toestemmingen</item>
@@ -284,16 +284,16 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">%d keer</item>
     </plurals>
 	<plurals name="app_usage_day">
-        <item quantity="other">Niet gebruikt voor %d dagen</item>
-        <item quantity="one">Niet gebruikt voor %d dag</item>
+        <item quantity="other">%d dagen niet gebruikt</item>
+        <item quantity="one">%d dag niet gebruikt</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">Niet gebruikt voor %d maanden</item>
-        <item quantity="one">Niet gebruikt voor %d maand</item>
+        <item quantity="other">%d maanden niet gebruikt</item>
+        <item quantity="one">%d maand niet gebruikt</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">Niet gebruikt voor %d jaar</item>
-        <item quantity="one">Niet gebruikt voor %d jaar</item>
+        <item quantity="other">%d jaar niet gebruikt</item>
+        <item quantity="one">%d jaar niet gebruikt</item>
     </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">%d games toegevoegd</item>

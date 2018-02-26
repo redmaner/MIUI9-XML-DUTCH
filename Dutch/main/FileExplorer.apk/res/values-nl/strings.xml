@@ -418,7 +418,7 @@
   <string name="other_user_liked_topic_tip">Geen onderwerpen</string>
   <string name="other_user_no_follow_tip">"U hebt nog niemand gevolgd.</string>
   <string name="other_user_no_liked_video_tip">Geen video\'s die u leuk vond.</string>
-  <string name="overwrite_msg">\"%s\" bestaat al. Tik om het te vervangen met het nieuwe bestand.</string>
+  <string name="overwrite_msg">\"%s\" bestaat al. Tik op Ok om het te vervangen met het nieuwe bestand.</string>
   <string name="pad">Interne opslag</string>
   <string name="partial_cancel_successful">"Kon sommige bestanden niet verwijderen. De rest van de bestanden zijn verplaatst naar %s"</string>
   <string name="partial_delete_failure">Kon sommige bestanden niet verwijderen, probeer opnieuw</string>
@@ -430,7 +430,6 @@
   <string name="path_recent_file">Bestanden beheren op uw apparaat</string>
   <string name="permission_denial">Kreeg geen toegang tot bestanden. Laat Mi File Manager toe toegang te hebben tot bestanden in de instellingen.</string>
   <string name="permission_required">Kreeg geen toegang tot bestanden. Laat Mi File Manager toe toegang te hebben tot bestanden in de instellingen.​</string>
-  <string name="petabyteShort">PB</string>
   <string name="phone">Intern geheugen</string>
   <string name="phone_bind_skip">Overslaan</string>
   <string name="phone_bind_tip">Voeg telefoonnummer toe om mee te doen in rankings en prijzen te winnen</string>
@@ -627,8 +626,7 @@
   <string name="tab_newest_video">Nieuw</string>
   <string name="tab_ranking_list">Rankinglijst</string>
   <string name="tab_source">Apps</string>
-  <string name="terabyteShort">TB</string>
-  <string name="tip">Attentie</string>
+  <string name="tip">Waarschuwing</string>
   <string name="title_album">Albums</string>
   <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">DocumentsUI inschakelen</string>
@@ -642,7 +640,6 @@
   <string name="top_videos">Deel rankings</string>
   <string name="topic_follow">Volgen</string>
   <string name="topic_followed">Gevolgd</string>
-  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
   <string name="topic_title">Topics</string>
   <string name="transfer_done">Bestanden met succes verplaatst.</string>
   <string name="transfer_private_data">Bezig met verborgen bestanden te verplaatsen van SD kaart…</string>

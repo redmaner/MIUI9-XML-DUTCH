@@ -10,7 +10,7 @@
         <item quantity="other">Over 1 uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Over half uur</item>
+        <item quantity="other">Over een half uur</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Direct</item>
@@ -22,7 +22,10 @@
 	<plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
     </plurals>
-    
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
+    </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">%1$d contacten verwijderen?</item>
         <item quantity="one">%1$d contact verwijderen?</item>
