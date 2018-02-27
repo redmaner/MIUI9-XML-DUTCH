@@ -111,8 +111,8 @@
   <string name="name">Naam:</string>
   <string name="namecard_recognize_failed_tip">Kon kaart niet lezen</string>
   <string name="namecard_recognizing">Lezen…</string>
-  <string name="namecard_title">Kaart binnen het kader houden om te scannen</string>
-  <string name="namecard_vendor_info">Powered by CamCard</string>
+  <string name="namecard_title">Houd de kaart binnen het kader</string>
+  <string name="namecard_vendor_info">Mogelijk gemaakt door CamCard</string>
   <string name="nickname">Roepnaam:</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_storage">Geen interne opslag</string>
@@ -126,13 +126,12 @@
   <string name="phone">Telefoon:</string>
   <string name="picker_lable">Foto</string>
   <string name="place_barcode_into_rectangle">Plaats de code binnen het kader</string>
-  <string name="pref_camera_focusmode_default">continuous-picture</string>
   <string name="pref_camera_jpeg_quality_fine">fijn</string>
   <string name="pref_camera_jpeg_quality_normal">normaal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfijn</string>
   <string name="preparing_sd">Interne opslag voorbereiden…</string>
   <string name="previous">Terug</string>
-  <string name="qr_code_details">QR code details:</string>
+  <string name="qr_code_details">Details QR code:</string>
   <string name="recognition_error_download_cancel">Later</string>
   <string name="recognition_error_download_data_msg">Download de herkenningsmachine om kaarten te scannen. Het ongeveer 15MB. Mobiele data gebruiken om te downloaden?</string>
   <string name="recognition_error_download_fail">Kon de herkenningsmachine niet downloaden</string>

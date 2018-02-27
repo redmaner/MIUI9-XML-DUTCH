@@ -307,7 +307,7 @@
   <string name="delete_in_album">Wanneer je foto\'s of video\'s uit een album verwijdert, zullen ze ook verwijderd worden van:</string>
   <string name="delete_in_home_page">Wanneer je foto\'s of video\'s uit de galerij verwijdert, zullen ze ook verwijderd worden van:</string>
   <string name="delete_in_process">Verwijderen…</string>
-  <string name="delete_origin">Items verwijderen uit originele album</string>
+  <string name="delete_origin">Items uit originele album verwijderen</string>
   <string name="delete_other_shared_images">Kan geen foto\'s verwijderen gedeeld door anderen</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d verwijderd，%2$d opgeslagen</string>
   <string name="delete_third_party_photo">Deze foto verwijderen?</string>

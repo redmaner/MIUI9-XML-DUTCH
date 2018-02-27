@@ -44,7 +44,7 @@
   <string name="no_sound">Dempen</string>
   <string name="operation_delete">Verwijderen</string>
   <string name="operation_send">Verzenden</string>
-  <string name="quit_recording">Schermrecorder afsluiten</string>
+  <string name="quit_recording">Schermrecorder afgesloten</string>
   <string name="recording_failure">Kon niet opnemen, start een nieuwe schermopname</string>
   <string name="recording_max_size">De opname is gestopt en automatisch opgeslagen omdat het bestand de maximumgrootte heeft bereikt. Als je nog niet klaar was kan je een nieuwe opname starten.</string>
   <string name="recording_without_mic">Microfoon is bezet en kan niet worden gebruikt om op te nemen</string>

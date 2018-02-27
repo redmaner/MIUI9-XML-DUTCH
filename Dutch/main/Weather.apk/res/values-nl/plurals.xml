@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">%d minuut geleden</item>
-    </plurals>
     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">%d uur geleden</item>
         <item quantity="one">%d uur geleden</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">%d minuut geleden</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d dagen geleden</item>
@@ -21,12 +21,16 @@
         <item quantity="one">%1$s seconde na feedback</item>
     </plurals>
 	<plurals name="no_vote_num">
-        <item quantity="other">%1$s personen| </item>
+        <item quantity="other">%1$s personen | </item>
         <item quantity="one">%1$s persoon | </item>
     </plurals>
 	<plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> personen hebben gestemd"</item>
-        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> persoon heeft gestemd"</item>
+        <item quantity="other">%1$s personen hebben gestemd</item>
+        <item quantity="one">%1$s persoon heeft gestemd</item>
+    </plurals>
+	<plurals name="view_realtime_clear">
+        <item quantity="other">Helder</item>
+        <item quantity="one">Helder</item>
     </plurals>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s personen</item>

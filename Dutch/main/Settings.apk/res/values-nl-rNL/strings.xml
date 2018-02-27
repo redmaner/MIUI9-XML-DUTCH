@@ -3813,7 +3813,6 @@ Om schermpinning te gebruiken:
   <string name="security_encryption_attention_3">"U zal een nieuw vergrendelschermwachtwoord moeten instellen."</string>
   <string name="security_encryption_attention_4">"Onthoud uw vergrendelschermwachtwoord, anders zou u een fabrieksreset moeten uitvoeren waarbij alle gegevens op het apparaat verloren gaan."</string>
   <string name="security_encryption_attention_info">U kan accounts, instellingen, gedownloade apps en hun gegevens, media en andere bestanden versleutelen.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Belangrijk</string>
   <string name="security_encryption_close_dialog_info">Als u ervoor kiest om het apparaat niet te versleutelen met het vergrendelschermwachtwoord, kunnen sommige Google services niet beschikbaar zijn.</string>
   <string name="security_encryption_close_dialog_title">Terugzetten naar standaard wachtwoordbeveiliging</string>
