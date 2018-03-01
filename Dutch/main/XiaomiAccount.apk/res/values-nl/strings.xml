@@ -439,7 +439,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="unlock_help_notice">"Help:
 · Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
 · Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen.
-· Geef dit ontgrendelnummer bij de klantenservice: %s"</string>
+· Uw ontgrendelingsnummer: %s"</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>
   <string name="update_email_address_dialog_title">E-mail updaten</string>

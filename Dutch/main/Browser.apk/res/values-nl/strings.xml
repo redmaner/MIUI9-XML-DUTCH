@@ -186,7 +186,7 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefoon</string>
-  <string name="data_monitor">Datamonitor</string>
+  <string name="data_monitor">Data usage monitor</string>
   <string name="data_monitor_dialog_message">Het lijkt erop dat iets veel mobiele data gebruikt. Open de startpagina om dit te stoppen.</string>
   <string name="data_traffic_prompt_message">Mobiel internet gebruiken om video\'s te bekijken zal voor veel datagebruik zorgen. Als je je limiet overschrijdt kan je provider extra kosten in rekening brengen.</string>
   <string name="data_traffic_prompt_title">Waarschuwing datagebruik</string>
@@ -557,7 +557,7 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Verbinding is verbroken toen uw apparaat in standby was.</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Verbinding is verbroken vanwege een netwerkwijziging.</string>
   <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Kon bestand niet vinden. Het kan verplaatst of verwijderd zijn.</string>
-  <string name="mw_miuichromium_error_page_problem_gateway_timed_out">Het duurt te lang voordat %s0 reageert.</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Couldn't read file. File permissions may be preventing access."</string><string name="mw_miuichromium_error_page_problem_gateway_timed_out">Het duurt te lang voordat %s0 reageert.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">Netwerktoegang is beperkt.</string>
   <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Kon niet verbinden met het internet. Er is iets mis met de proxyserver of het proxyadres is onjuist.</string>
   <string name="mw_miuichromium_error_page_problem_page_moved">De pagina op %s0 kan verplaatst of verwijderd zijn.</string>
@@ -764,6 +764,7 @@ Wil je deze pagina verlaten?"</string>
 Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat wel worden bewaard."</string>
   <string name="nav_screen_incognito_time">Na %s seconden wordt er automatisch een nieuwe pagina geopend</string>
   <string name="nav_screen_incognito_title">Incognitomodus</string>
+  <string name="navigation_delete_all">Swipe left and right to close all tabs</string>  
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuleren</string>
   <string name="navigationbar_rightbutton_actiontext_go">Ga</string>
   <string name="navigationbar_rightbutton_actiontext_search">Zoeken</string>
@@ -802,7 +803,6 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="popup_window_attempt">Deze site toestaan een pop-upvenster te openen?</string>
   <string name="positive_confirm_message">Toch uitschakelen</string>
   <string name="pref_accept_quicklink_push">Nieuwsfeed</string>
-  <string name="pref_accessibility">Toegankelijkheid</string>
   <string name="pref_accessibility_title">Toegankelijkheid</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Bij het invoeren van de adresbalk, kunnen veel gebruikte lettercombinaties ingevoerd worden met één toetsaanslag</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Snelle URL invoer</string>
@@ -1048,7 +1048,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggest_access_item_album_songs">%d nummers</string>
   <string name="suggest_access_item_app_update">Update: %s</string>
   <string name="suggest_access_item_book_mark">BOEKEN</string>
-  <string name="suggest_access_item_mina_mark">INSTANT APPS</string>
+  <string name="suggest_access_item_mina_mark">QUICK APPS</string>
   <string name="suggest_access_item_music_mark">MUZIEK</string>
   <string name="suggest_access_item_singer_albums">%d albums</string>
   <string name="suggest_access_item_singer_pop">%d populaire nummers</string>
@@ -1059,7 +1059,11 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">Verwijderen</string>
   <string name="suggest_open_app_failed">Kon deze app niet openen</string>
-  <string name="suggestion_translation_more">Meer vertalen</string>
+  <string name="suggestion_lottery_detail_pour">%s NOTE</string>
+  <string name="suggestion_lottery_detail_price">EACH NOTE IS WORTH %s YUAN</string>
+  <string name="suggestion_lottery_detail_text">THIS ROUND %s</string>
+  <string name="suggestion_lottery_period">ROUND %s</string>
+  <string name="suggestion_translation_more">VIEW MORE</string>
   <string name="switchText">JA</string>
   <string name="switch_proxy_dialog_msg">Netwerkkaping gedetecteerd. Gebruik MIUI\'s ingebouwde beveiliging app of meld dit bij uw mobiele provider.</string>
   <string name="switch_proxy_dialog_title">Netwerkkaping</string>
@@ -1077,10 +1081,10 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="transfer_prompt_0">Video afspelen</string>
   <string name="transfer_restart">Opnieuw beginnen</string>
   <string name="translation_copy">Kopiëren</string>
-  <string name="translation_more">Meer vertalen</string>
-  <string name="translation_query_error">Geen betekenis</string>
-  <string name="translation_query_error_network">De zoekopdracht is mislukt. Controleer de verbinding.</string>
-  <string name="translation_result_copy">De vertaalresultaten zijn gekopieerd</string>
+  <string name="translation_more">View more</string>
+  <string name="translation_query_error">"Couldn't translate"</string>
+  <string name="translation_query_error_network">"Couldn't get info. Connect to the network and try again."</string>
+  <string name="translation_result_copy">Copied to clipboard</string>
   <string name="unSwitchText">NEE</string>
   <string name="undo">Ongedaan maken</string>
   <string name="unknown_title">Onbekend</string>

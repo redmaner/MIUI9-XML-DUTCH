@@ -12,7 +12,7 @@
   <string name="album_name">Dagelijkse selectie: %s</string>
   <string name="all_topic">Alle topics</string>
   <string name="already_liked">U hebt dit item al toegevoegd aan favorieten</string>
-  <string name="app_name">Mi File Manager</string>
+  <string name="app_name">File Manager</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Camera</string>
   <string name="app_name_downloadedrom">Pakketten</string>
@@ -123,7 +123,7 @@
   <string name="data_consumption_checkbox_hint">Niet meer tonen</string>
   <string name="data_consumption_confirm">Ok</string>
   <string name="data_consumption_message">Deze app heeft verbinding met internet nodig via Wi-Fi om normaal te kunnen werken.</string>
-  <string name="data_consumption_message1">Mi File Manager heeft verbinding met internet nodig om populaire stickers en video\'s beschikbaar te maken.</string>
+  <string name="data_consumption_message1">File Manager heeft verbinding met internet nodig om populaire stickers en video\'s beschikbaar te maken.</string>
   <string name="data_consumption_title">Internetverbinding</string>
   <string name="decompress_cancel">Annuleren</string>
   <string name="decompress_confirm">Uitpakken</string>
@@ -336,7 +336,7 @@
   <string name="my_follows">Mijn feed</string>
   <string name="name_empty">Voer een naam in.</string>
   <string name="need_login">Eerst aanmmelden</string>
-  <string name="need_read_storage_permission">Mi File Manager heeft toegang nodig tot de interne opslag van het apparaat om normaal te werken.</string>
+  <string name="need_read_storage_permission">File Manager heeft toegang nodig tot de interne opslag van het apparaat om normaal te werken.</string>
   <string name="network_dialog_checkbox_tip">Niet meer tonen</string>
   <string name="network_not_available">Kan niet verbinden met het netwerk</string>
   <string name="network_spent_reminding">Om deze pagina te openen zal er verkeer gebruikt worden van uw dataplan.</string>
@@ -347,7 +347,7 @@
   <string name="no_apk">Tik om de meest populaire apps te bekijken.</string>
   <string name="no_app_tags">Leeg</string>
   <string name="no_comment">Geen reacties</string>
-  <string name="no_content">Open Mi File Manager opnieuw om populaire video\'s te bekijken</string>
+  <string name="no_content">Open File Manager opnieuw om populaire video\'s te bekijken</string>
   <string name="no_daren_tip">Nog niets hier</string>
   <string name="no_downloaded_sticker_tip">Kon gedownloade stickers niet vinden. Bekijk de gedeelde stickers van de Mi fans.</string>
   <string name="no_enough_storage_indication">Opslagruimte apparaat is vol.</string>
@@ -428,8 +428,8 @@
   <string name="path_hot_video">Bekijk populaire korte video\'s gratis</string>
   <string name="path_kuai_chuan">Peer-to-peer bestandsoverdrachten</string>
   <string name="path_recent_file">Bestanden beheren op uw apparaat</string>
-  <string name="permission_denial">Kreeg geen toegang tot bestanden. Laat Mi File Manager toe toegang te hebben tot bestanden in de instellingen.</string>
-  <string name="permission_required">Kreeg geen toegang tot bestanden. Laat Mi File Manager toe toegang te hebben tot bestanden in de instellingen.​</string>
+  <string name="permission_denial">Kreeg geen toegang tot bestanden. Laat File Manager toe toegang te hebben tot bestanden in de instellingen.</string>
+  <string name="permission_required">Kreeg geen toegang tot bestanden. Laat File Manager toe toegang te hebben tot bestanden in de instellingen.​</string>
   <string name="phone">Intern geheugen</string>
   <string name="phone_bind_skip">Overslaan</string>
   <string name="phone_bind_tip">Voeg telefoonnummer toe om mee te doen in rankings en prijzen te winnen</string>
@@ -643,6 +643,7 @@
   <string name="topic_title">Topics</string>
   <string name="transfer_done">Bestanden met succes verplaatst.</string>
   <string name="transfer_private_data">Bezig met verborgen bestanden te verplaatsen van SD kaart…</string>
+  <string name="transition_image">transition image</string>
   <string name="type_not_support">Dit formaat wordt niet ondersteunt. Pak dit bestand uit en probeer opnieuw.</string>
   <string name="ui_main_toast_favorite_added">Toegevoegd aan favorieten</string>
   <string name="ui_main_toast_favorite_removed">Uit favorieten verwijderd</string>

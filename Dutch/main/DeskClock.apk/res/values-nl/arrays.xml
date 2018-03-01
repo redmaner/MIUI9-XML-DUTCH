@@ -1,39 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="timezone_alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
+     <string-array name="alarm_set">
+        <item>Alarm zal afgaan over minder dan 1 minuut</item>
+        <item>Alarm zal afgaan over %1$s</item>
+        <item>Alarm zal afgaan over %2$s</item>
+        <item>Alarm zal afgaan over %1$s en %2$s</item>
+        <item>Alarm zal afgaan over %3$s</item>
+        <item>Alarm zal afgaan over %1$s en %3$s</item>
+        <item>Alarm zal afgaan over %2$s en %3$s</item>
+        <item>Alarm zal afgaan over %1$s, %2$s en %3$s</item>
     </string-array>
-<string-array name="stat_volume_button_behaviors">
-        <item>Geen</item>
+	<string-array name="auto_silence_entries">
+        <item>Nooit</item>
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+    </string-array>
+	<string-array name="snooze_duration_entries">
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+    </string-array>
+	    <string-array name="volume_button_setting_entries">
+        <item>Niets doen</item>
         <item>Snoozen</item>
-        <item>Uitzetten</item>
+        <item>Alarm uitzetten</item>
     </string-array>
-    <string-array name="alarm_in_furture">
+	    <string-array name="alarm_in_furture">
         <item>Over minder dan 1 minuut</item>
         <item>Over %1$s</item>
         <item>Over %2$s</item>
@@ -43,12 +44,7 @@
         <item>Over %2$s en %3$s</item>
         <item>Over %1$s %2$s en %3$s</item>
     </string-array>
-    <string-array name="days">
-        <item>Gisteren</item>
-        <item>Vandaag</item>
-        <item>Morgen</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
+	    <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>
         <item>Werkdagen</item>
@@ -62,7 +58,7 @@
         <item>Maandag tot vrijdag</item>
         <item>Aangepast</item>
     </string-array>
-    <string-array name="aqi_value">
+	    <string-array name="aqi_value">
         <item>Goed</item>
         <item>Voldoende</item>
         <item>Matig vervuild</item>
@@ -70,38 +66,24 @@
         <item>Zeer slecht</item>
         <item>Ernstig</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>Alarm zal afgaan over minder dan 1 minuut</item>
-        <item>Alarm zal afgaan over %1$s</item>
-        <item>Alarm zal afgaan over %2$s</item>
-        <item>Alarm zal afgaan over %1$s en %2$s</item>
-        <item>Alarm zal afgaan over %3$s</item>
-        <item>Alarm zal afgaan over %1$s en %3$s</item>
-        <item>Alarm zal afgaan over %2$s en %3$s</item>
-        <item>Alarm zal afgaan over %1$s, %2$s en %3$s</item>
+	    <string-array name="days">
+        <item>Gisteren</item>
+        <item>Vandaag</item>
+        <item>Morgen</item>
     </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
+	<string-array name="weather_tips_value">
+        <item>Reduce outdoor activities</item>
+        <item>The roads are slippery</item>
+        <item>The weather is stormy, be careful!</item>
+        <item>The air is polluted, wear a mask!</item>
+        <item>Take an umbrella when you go out</item>
+        <item>Be careful on the road</item>
+        <item>Sandstorm is coming, wear a mask!</item>
+        <item>Have a nice day!</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Nooit</item>
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-    </string-array>
-     <string-array name="volume_button_setting_entries">
-        <item>Niets doen</item>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Geen</item>
         <item>Snoozen</item>
-        <item>Alarm uitzetten</item>
+        <item>Uitzetten</item>
     </string-array>
 </resources>

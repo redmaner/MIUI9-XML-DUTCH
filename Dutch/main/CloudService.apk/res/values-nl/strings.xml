@@ -96,6 +96,8 @@ Laatst geback-upt op %2$s"</string>
   <string name="find_device_error_password_changed">Account wachtwoord is recent gewijzigd.</string>
   <string name="find_device_error_server">Fout op onze servers.</string>
   <string name="find_device_error_unknown">Onbekende fout.</string>
+  <string name="find_device_gdpr_prompt">By turning on Find device, you agree to \"Privacy Policy\". If you need to revoke your privacy authorization, please turn off this feature.</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">\"Privacy Policy\"</string>
   <string name="find_device_notice_p1">Ga naar</string>
   <string name="find_device_notice_p3">om je telefoon te lokaliseren, vergrendelen of te herstellen.</string>
   <string name="find_device_operation_failure_rpc">Kon deze actie niet uitvoeren door een RPC error.</string>
@@ -360,6 +362,7 @@ of apparaat te wissen."</string>
   <string name="micloud_notif_content_master_depend_wifi">Eerst verbinden met Wi-Fi.</string>
   <string name="micloud_notif_content_memory_low">Niet genoeg opslagruimte.</string>
   <string name="micloud_notif_content_multi_user_error">Je bent ingelogd met hetzelfde account als op de eerste ruimte.</string>
+  <string name="micloud_notif_content_privacy_reopen_failed">View details</string>
   <string name="micloud_notif_content_sync_finish">Account</string>
   <string name="micloud_notif_content_sync_not_finish">Details</string>
   <string name="micloud_notif_content_sync_with_off">Tik om uw apparaat nu te sync.</string>
@@ -369,11 +372,21 @@ of apparaat te wissen."</string>
   <string name="micloud_notif_title_master_depend_wifi">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_memory_low">Kan niet sync. met Mi Cloud</string>
   <string name="micloud_notif_title_multi_user_error">Kan niet synchroniseren met Mi Cloud</string>
+  <string name="micloud_notif_title_privacy_reopen_failed">"Couldn't start cloud service"</string>
   <string name="micloud_notif_title_sync_finish">Gesynchroniseerd</string>
   <string name="micloud_notif_title_sync_not_finish">Sommige items zijn niet gesynchroniseerd</string>
   <string name="micloud_notif_title_sync_progress">Bezig met synchroniseren</string>
   <string name="micloud_notif_title_sync_with_off">Synchroniseren met Mi Cloud</string>
   <string name="micloud_other_product_price">Vergelijk prijzen</string>
+  <string name="micloud_privacy_cloud_off">Sync Off</string>
+  <string name="micloud_privacy_cloud_sync">Active Mi Cloud</string>
+  <string name="micloud_privacy_explanation">Active Mi Cloud after enabling the authorization</string>
+  <string name="micloud_privacy_licence_agreed">Agree with Mi Cloud privacy policy.</string>
+  <string name="micloud_privacy_licence_privacy_policy">privacy policy</string>
+  <string name="micloud_privacy_more">more</string>
+  <string name="micloud_privacy_warning_button">Back</string>
+  <string name="micloud_privacy_warning_content">"Can't active Mi Cloud. Try it later."</string>
+  <string name="micloud_privacy_warning_title">Hint</string>
   <string name="micloud_proceed">Doorgaan</string>
   <string name="micloud_request_permission_confirm">Begrepen</string>
   <string name="micloud_request_permission_content">Mi Cloud heeft toestemmingen nodig om gegevens te synchroniseren. Geef Mi Cloud toegang tot kalender, contacten, Mi Account, SIM kaartstatus, gespreksgeschiedenis en berichten.</string>
@@ -540,7 +553,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="sync_sub_int_dspt">Uw provider kan u kosten aanrekenen voor een internationale SMS bericht dat wordt gebruikt om deze dienst te activeren.</string>
   <string name="title_back">Terug</string>
   <string name="title_reg">Maak Mi Account aan</string>
-  <string name="total_space_upgraded_to">Totale ruimte:%s</string>
+  <string name="total_space_upgraded_to">Totale ruimte: %s</string>
   <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
   <string name="unactivated_user">Gedeactiveerd</string>
   <string name="upgrade_space">Toevoegen ruimte</string>

@@ -1006,8 +1006,6 @@ Sample Rate"</string>
   <string name="close_gesture">Sluiten door middel van gebaar</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
   <string name="close_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
-  <string name="close_sdcard_optimization_title">Neppe SD kaart optimalisatie uitschakelen</string>
-  <string name="close_sdcard_optimization_warning_message">Het apparaat zal opnieuw opstarten om de wijziging toe te passen.</string>
   <string name="cloud_backup_section_title">Mi Cloud backup</string>
   <string name="cloud_backup_settings_section_title">Back-upinstellingen</string>
   <string name="cloud_restore_section_summary">Systeeminstellingen, startschermlayout en apps herstellen</string>
@@ -2751,7 +2749,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="night_light">Nachtmodus</string>
   <string name="night_light_brightness">Helderheid nachtmodus</string>
   <string name="night_light_color">Kleurtemperatuur nachtmodus</string>
+  <string name="night_light_color_tip">Changes will take effect when Reading mode is off</string>
   <string name="night_light_summary">Zet de schermhelderheid op het laagste niveau in een omgeving met weinig licht om nachtmodus in te schakelen.</string>
+  <string name="night_light_tip">Changes will take effect when Night mode is on</string>
   <string name="no">Nee</string>
   <string name="no_application">Niets</string>
   <string name="no_applications">Geen apps.</string>
@@ -2893,8 +2893,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="open_personal_assistant_dialog_desc">Het zal niet meer mogelijk zijn om de App vault te gebruiken en updates te ontvangen. Nu uitschakelen?"</string>
   <string name="open_personal_assistant_dialog_title">App vault uitschakelen</string>
   <string name="open_personal_assistant_title">App vault inschakelen</string>
-  <string name="open_sdcard_optimization_title">Neppe SD kaart optimalisatie inschakelen</string>
-  <string name="open_sdcard_optimization_warning_message">Het apparaat zal opnieuw opstarten om de wijziging toe te passen.</string>
   <string name="open_wifi_connect_summary">Tik om details weer te geven</string>
   <string name="open_wifi_connect_title">Verbonden met %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Dit werkprofiel wordt beheerd door:</string>
@@ -3591,11 +3589,6 @@ Om schermpinning te gebruiken:
   <string name="sd_mount">USB opslag koppelen</string>
   <string name="sdcard_changes_instructions">Wijzigingen worden van kracht als de USB kabel opnieuw wordt aangesloten.</string>
   <string name="sdcard_format">USB opslag wissen</string>
-  <string name="sdcard_optimization">Neppe SD kaart optimalisatie</string>
-  <string name="sdcard_optimization_cancel">Annuleren</string>
-  <string name="sdcard_optimization_close">Uitschakelen &amp; opnieuw opstarten</string>
-  <string name="sdcard_optimization_open">Inschakelen</string>
-  <string name="sdcard_optimization_summary">Maak je SD kaart sneller</string>
   <string name="sdcard_setting">USB opslag</string>
   <string name="sdcard_settings_available_bytes_label">Beschikbare bytes:</string>
   <string name="sdcard_settings_bad_removal_status">USB opslag verwijderd tijdens gebruik!</string>
@@ -4456,6 +4449,8 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="testing_usage_stats">Gebruiksstatistieken</string>
   <string name="testing_wifi_info">Wi-Fi informatie</string>
   <string name="tether_and_hotspot_title">Tethering en hotspot</string>
+  <string name="tether_auto_disable_summary">Automatically close hotspot when no connected devices</string>
+  <string name="tether_auto_disable_title">Automatically close hotspot</string>
   <string name="tether_data_usage_limit">Eenmalige datalimiet</string>
   <string name="tether_data_usage_limit_summary">Datalimiet wordt toegepast de volgende keer dat je de hotspot inschakelt</string>
   <string name="tether_devices_management_title">Apparaten beheren</string>
@@ -4763,7 +4758,8 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="use_location_title">Locatie en Google Zoeken</string>
   <string name="use_open_wifi_automatically_summary">Automatisch verbinden met publieke netwerken van hoge kwaliteit</string>
   <string name="use_open_wifi_automatically_title">Verbinden met open netwerken</string>
-  <string name="use_personalized_ad_service">Gebruik reclame-identifier</string>
+  <string name="use_personalized_ad_service">Personalized Ad Recommendation</string>
+  <string name="use_personalized_ad_service_summary">When the recommendation feature is switched off, you will still see the same quantity of ads as when it’s on, but not based on your behavior data or your personal information.</string>
   <string name="use_privacy_password_immediate">Gebruiken</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="use_this_wlan">Verbonden blijven</string>

@@ -32,7 +32,8 @@
   <string name="attach_sound">Audio</string>
   <string name="attach_subject">Onderwerp</string>
   <string name="attach_take_photo">Foto maken</string>
-  <string name="attach_video">Videos</string>
+  <string name="attach_transaction">Send money</string>
+  <string name="attach_video">Video</string>
   <string name="audio_download_failed">Kon audio niet downloaden</string>
   <string name="audio_message_expired">Dit spraakbericht is verlopen.</string>
   <string name="audio_message_mx_offline">Kon audio niet downloaden. Mi Message is offline of niet beschikbaar</string>
@@ -515,6 +516,7 @@
   <string name="select_local_audio">Selecteer audio</string>
   <string name="select_local_video">Selecteer video</string>
   <string name="select_message_send_sim">Kies SIM kaart</string>
+  <string name="select_phone_number">Select phone number</string>
   <string name="select_recipient">Selecteer ontvangers</string>
   <string name="select_sim">Selecteer SIM kaart</string>
   <string name="select_top_text">Tekst bovenaan</string>
