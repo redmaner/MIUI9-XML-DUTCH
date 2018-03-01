@@ -20,10 +20,8 @@
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="allow">Allow</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="archive_loading_failed">Unable to open archive for browsing. File is either corrupt, or an unsupported format.</string>
   <string name="authentication_required">To view this directory, sign in to %1$s</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="button_compress">Compress</string>
   <string name="button_copy">Copy</string>
   <string name="button_dismiss">Dismiss</string>
@@ -111,7 +109,6 @@
   <string name="sort_dimension_summary">Summary</string>
   <string name="sort_direction_ascending">Ascending</string>
   <string name="sort_direction_descending">Descending</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="title_open">Open from</string>
   <string name="title_save">Save to</string>
   <string name="toast_failed_delete">Unable to delete some documents</string>
