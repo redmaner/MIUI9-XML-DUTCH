@@ -470,6 +470,7 @@ Sample Rate"</string>
   <string name="cfb_title">Doorschakelen bij in gesprek</string>
   <string name="cfnrc_title">Doorschakelen bij onbereikbaar</string>
   <string name="cfnrc_title_cta">Doorschakelen bij onbereikbaar</string>
+  <string name="cfnry_time_setting_title">Set wait time</string>
   <string name="cfnry_title">Doorschakelen bij geen antwoord</string>
   <string name="cfu_title">Gesprekken altijd doorschakelen</string>
   <string name="change_data_preference_4g_only_prompt">Het lijkt dat u enkel een 4G SIM kaart hebt. Instellen als standaard voor mobiele data?</string>
@@ -497,6 +498,7 @@ Sample Rate"</string>
   <string name="clir_choices_hide_number">Verberg nummer</string>
   <string name="clir_choices_network_default">Netwerk standaard</string>
   <string name="clir_choices_show_number">Toon nummer</string>
+  <string name="close">Turn off</string>
   <string name="close_dialog">Ok</string>
   <string name="close_profile">Sluiten</string>
   <string name="cloud_antispam_title">Onbekende nummers identificeren</string>
@@ -1190,9 +1192,9 @@ U hebt nog %d pogingen over."</string>
   <string name="private_num">Privénummer</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="progress_dialog_exiting_ecm">Modus voor noodoproepen verlaten</string>
-  <string name="proximity_mode_title">Nabijheidssensor inschakelen</string>
-  <string name="proximity_off_summary">Wanneer je een oproep beantwoordt, zal het scherm altijd inschakelen.</string>
-  <string name="proximity_on_summary">Wanneer je een oproep beantwoordt, zal het scherm uitblijven om batterij te besparen.</string>
+  <string name="prompt_to_turnoff_volte_when_failed">"VoLTE services aren't available. Turn off VoLTE to make a call."</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">"Service isn't available. Turn off VoLTE in the Settings."</string>
+  <string name="prompt_when_turnon_volte_without_lte">"LTE networks aren't available now. Turning on VoLTE may prevent you from making regular calls."</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adres voor uitgaande proxy</string>
   <string name="pstn_connection_service_label">Ingebouwde SIM kaarten</string>
@@ -1559,7 +1561,9 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="volte_switch_not_support_summary">Volte oproepen worden niet ondersteund voor de mobiele data SIM kaart.</string>
   <string name="volte_switch_not_support_summary2">VoLTE oproepen worden niet ondersteund door de provider.</string>
   <string name="volte_switch_summary">Gebruik VoLTE om de kwaliteit van spraak- en video-oproepen te verbeteren</string>
+  <string name="volte_switch_summary2">Confirm that your carrier supports this feature before turning on. Otherwise, regular calls might be affected.</string>
   <string name="volte_switch_title">VoLTE ingeschakeld</string>
+  <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
   <string name="vpn_settings_not_available">VPN instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="vvm_unsupported_message_format">Niet ondersteunde bericht type, bel %s om te luisteren.</string>
   <string name="wait_for_debugger">Wachten op debugger</string>

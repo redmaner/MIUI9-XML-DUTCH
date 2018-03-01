@@ -37,6 +37,7 @@ Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze fu
   <string name="lock_msg_phone">Contactinformatie: %s</string>
   <string name="login_extra_steps">Aanmeld verificatie</string>
   <string name="login_failed">"Kon niet aanmelden. %s."</string>
+  <string name="open_wifi_settings">Open WLAN settings</string>
   <string name="passport_checking_vcode">Wachtwoord controleren…</string>
   <string name="passport_error_empty_vcode">Verificatiecode invoeren</string>
   <string name="passport_notification_need_unlock_again">Probeer opnieuw te ontgrendelen</string>

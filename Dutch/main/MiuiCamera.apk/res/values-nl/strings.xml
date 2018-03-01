@@ -31,7 +31,7 @@
   <string name="button_normal_video_title">Video opnemen</string>
   <string name="camera_disabled">Camera is uitgeschakeld</string>
   <string name="camera_error_title">Camerafout</string>
-  <string name="camera_facedetection_sub_option_hint">Experimentele optie is nu beschikbaar</string>
+  <string name="camera_facedetection_sub_option_hint">Experimentele functie</string>
   <string name="camera_label">Camera</string>
   <string name="camera_mode_options">Modi</string>
   <string name="camera_setting">Camera</string>
@@ -113,7 +113,7 @@ als je je telefoon draait"</string>
   <string name="front_camera_hint_text_rotate">Draai je telefoon</string>
   <string name="hine_hht">"In een omgeving met weinig licht, zullen er meerdere foto\'s worden genomen
 om zo uiteindelijk een foto met weinig ruis te maken."</string>
-  <string name="hint_device_water_mark">Watermerk zal automatisch worden toegevoegd.</string>
+  <string name="hint_device_water_mark">Foto watermerk zal automatisch worden toegevoegd.</string>
   <string name="hint_fast_motion">De video die je opneemt zal sneller afspelen.</string>
   <string name="hint_groupshot">"Er zullen meerdere foto\'s worden genomen
 en vervolgens wordt een een foto gemaakt waar iedereen goed op staat."</string>
@@ -209,7 +209,7 @@ en brengt de personen naar voren"</string>
   <string name="pref_camera_delay_capture_entry_5s">5s vertraging</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
-  <string name="pref_camera_device_watermark_title">Apparaatwatermerk</string>
+  <string name="pref_camera_device_watermark_title">Foto watermerk</string>
   <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
   <string name="pref_camera_face_info_watermark_title">Leeftijdstempel toevoegen op foto</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Gezichtsdetectie automatisch verborgen</string>
@@ -261,7 +261,7 @@ en brengt de personen naar voren"</string>
   <string name="pref_camera_multilevel_entry_middle">Gemiddeld (standaard)</string>
   <string name="pref_camera_multilevel_entry_normal">Normaal</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
-  <string name="pref_camera_parallel_process_enable_title">Picture Parallel Process inschakelen</string>
+  <string name="pref_camera_parallel_process_enable_title">Turn on parallel processing</string>
   <string name="pref_camera_peak_entry_off">Uit</string>
   <string name="pref_camera_peak_entry_on">Aan</string>
   <string name="pref_camera_peak_title">Focus Peaking</string>
@@ -361,7 +361,7 @@ en brengt de personen naar voren"</string>
   <string name="pref_priority_storage_title">Opslaan op SD kaart</string>
   <string name="pref_retain_camera_mode_summary">Laatstgebruikte cameramodus gebruiken bij openen van app.</string>
   <string name="pref_retain_camera_mode_title">Laatstgebruikte modus opslaan</string>
-  <string name="pref_scan_qrcode_summary">De camera op de achterkant kan alleen QR codes scannen in de \"Foto\" modus.</string>
+  <string name="pref_scan_qrcode_summary">Alleen camera op de achterkant kan QR codes scannen in de \"Foto\" modus.</string>
   <string name="pref_scan_qrcode_title">QR codes scannen</string>
   <string name="pref_setting_title">Instellingen</string>
   <string name="pref_simple_hdr_entry_off">Uit</string>

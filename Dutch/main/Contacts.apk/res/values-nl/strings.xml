@@ -201,6 +201,15 @@
   <string name="contact_detail_calllog_call_note_tips">Notities</string>
   <string name="contact_detail_calllog_call_record_tips">Opgenomen gesprek</string>
   <string name="contact_detail_calllog_empty">Geen geschiedenis</string>
+  <string name="micloud_privacy_cloud_off">Sync Off</string>
+  <string name="micloud_privacy_cloud_sync">Active Mi Cloud</string>
+  <string name="micloud_privacy_explanation">Active Mi Cloud after enabling the authorization</string>
+  <string name="micloud_privacy_licence_agreed">Agree with Mi Cloud privacy policy.</string>
+  <string name="micloud_privacy_licence_privacy_policy">privacy policy</string>
+  <string name="micloud_privacy_more">more</string>
+  <string name="micloud_privacy_warning_button">Back</string>
+  <string name="micloud_privacy_warning_content">"Can't active Mi Cloud. Try it later."</string>
+  <string name="micloud_privacy_warning_title">Hint</string>
   <string name="contact_detail_menu_delete_miprofile">Visitekaartje verwijderen</string>
   <string name="contact_detail_miprofile_accept">Visitekaartjes  uitwisselen</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Kon visitekaartje niet uitwisselen</string>
@@ -795,7 +804,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="path_key_rebuild_t9_index_title">Systeemapps/Contacten/Contacten schikken/Indexdata opnieuw opbouwen</string>
   <string name="path_key_sim_manage">Systeemapps/Contacten/Contacten schikken/SIM kaarten</string>
   <string name="path_preference_contacts_filter">Systeemapps/Contacten/Voorkeursweergave/Contactlijsten configureren</string>
-  <string name="path_quick_dial_setting">Systeemapps/Contacten/Snelkeuzenummers</string>
+  <string name="path_quick_dial_setting">Systeemapps//Phone/Advanced settings/Snelkeuzenummers</string>
   <string name="path_remove_duplicate">Systeemapps/Contacten/Contacten organiseren/Dubbele contacten samenvoegen</string>
   <string name="path_share_visible_contacts">Systeemapps/Contacten/Importeren/Contacten exporteren/Contacten delen</string>
   <string name="path_sim_capacity">Systeemapps/Contacten/SIM kaart opslag</string>
@@ -854,6 +863,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="preference_contacts_display">Weergavevoorkeuren</string>
   <string name="preference_contacts_filter">Contactlijsten configureren</string>
   <string name="preference_contacts_more">Contacten organiseren</string>
+  <string name="preference_contacts_moresetting">More</string>
   <string name="preference_dial_pad_touch_tone_default">Standaard</string>
   <string name="preference_dial_pad_touch_tone_human">Stem</string>
   <string name="preference_dial_pad_touch_tone_piano">Pianotoetsen</string>
@@ -861,6 +871,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="preference_dial_pad_touch_tone_title">Toetsenblok aanraakgeluiden</string>
   <string name="preference_display">Weergave</string>
   <string name="preference_displayOptions">Weergave-opties</string>
+  <string name="preference_display_contact">Weergave-opties</string>
   <string name="preference_export">Exporteer</string>
   <string name="preference_import">Importeer</string>
   <string name="preference_import_export">Import/export</string>
@@ -978,7 +989,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="search_key_rebuild_t9_index_title">Organiseren;Contacten;t9</string>
   <string name="search_key_sim_manage">Organiseren;Contacten</string>
   <string name="search_preference_contacts_filter">Contacten;Weergave</string>
-  <string name="search_quick_dial_setting">Contacten</string>
+  <string name="search_quick_dial_setting">Telefoon</string>
   <string name="search_remove_duplicate">Organiseren;Contacten</string>
   <string name="search_results_searching">Zoeken…</string>
   <string name="search_settings_description">Namen van uw contacten</string>

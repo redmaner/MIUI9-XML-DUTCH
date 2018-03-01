@@ -115,5 +115,7 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="phone_verify_processing">Verifiëren…</string>
   <string name="phone_verify_text">%1$s zal uw telefoonnummer niet krijgen. Het zal alleen controleren of het nummer geldig is. Akkoord?.</string>
   <string name="phone_verify_title">%1$s toestaan om uw telefoonnummer te verifiëren</string>
+  <string name="privacy_revoke_failed_msg">privacy revoke，can not get phone number，activate failed</string>
+  <string name="privacy_revoke_tips">If you revoke, the sms sync will not be able to use</string>
   <string name="sim_unactivated_title">Uw SIM kaart is niet geactiveerd</string>
 </resources>

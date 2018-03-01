@@ -1547,7 +1547,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="safepay_alert_dialog_button_fix">Oplossen</string>
   <string name="save_energy_text">Beperk automatisch starten en synchronisatie voor apps op de achtergrond om optimaal gebruik te maken van de batterij van uw apparaat</string>
   <string name="save_energy_title">Batterij optimaliseren</string>
-  <string name="sc_allow_network_dialog_message">Deze app moet verbonden zijn met internet om normaal te kunnen werken.</string>
+  <string name="sc_allow_network_dialog_message">You restricted network connection and access to your location for Security. Give Security the required permissions to use this feature.</string>
   <string name="sc_allow_network_dialog_tiltle">Kan deze functie niet gebruiken</string>
   <string name="sc_system_risk_fix_info_xspace">Kan het niet oplossen in tweede ruimte. Probeer het in de eerste ruimte.</string>
   <string name="sc_warning_updater_not_found">Kon de updater-app niet vinden</string>
