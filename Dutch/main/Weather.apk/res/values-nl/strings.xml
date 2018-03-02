@@ -72,6 +72,7 @@
   <string name="button_sure_abandon">Wijzigingen ongedaan maken?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
+  <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s and %2$s.This app needs to connect to the internet and access your location to work normally."</string>
   <string name="city_exceeded_warning">U kan tot 10 steden toevoegen</string>
   <string name="commercial">Reclame</string>
   <string name="common_loading_text">Een momentje…</string>
@@ -139,6 +140,7 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
   <string name="international_details_title">Details</string>
   <string name="international_details_uv_index_title">UV INDEX</string>
   <string name="international_details_wind_title">WIND</string>
+  <string name="international_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s.This app needs to connect the network, upload the city information you entered in order to obtain the corresponding city weather data. Click agree to continue."</string>
   <string name="it_is_going_to_rain">Het gaat regenen</string>
   <string name="locate_fail_detail_err">"Kan apparaat niet lokaliseren
 Tik op het scherm om handmatig een stad toe te voegen"</string>
@@ -146,7 +148,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="menu_add_city">Locaties wijzigen</string>
   <string name="menu_location">Locaties</string>
   <string name="menu_speaker">Spraakomroep</string>
-  <string name="minute_rain">Neerslagverwachting per minuut</string>
+  <string name="minute_rain">Precipitation forecast</string>
   <string name="minute_rain_after_an_hour">Over een uur</string>
   <string name="minute_rain_after_two_hour">Over twee uur</string>
   <string name="minute_rain_feedback_subtitle">Vertel ons hoe het weer is</string>

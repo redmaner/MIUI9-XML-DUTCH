@@ -147,7 +147,7 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
-        <item>Animatieschaal 0.5x</item>
+        <item>Animatieschaal .5x</item>
         <item>Animatieschaal 1x</item>
         <item>Animatieschaal 1.5x</item>
         <item>Animatieschaal 2x</item>
@@ -156,7 +156,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animatie uit</item>
-        <item>Animatieschaal 0.5x</item>
+        <item>Animatieschaal .5x</item>
         <item>Animatieschaal 1x</item>
         <item>Animatieschaal 1.5x</item>
         <item>Animatieschaal 2x</item>
@@ -165,7 +165,7 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animatie uit</item>
-        <item>Animatieschaal 0.5x</item>
+        <item>Animatieschaal .5x</item>
         <item>Animatieschaal 1x</item>
         <item>Animatieschaal 1.5x</item>
         <item>Animatieschaal 2x</item>
@@ -205,7 +205,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Uit</item>
         <item>Getekende gebieden weergeven</item>
-        <item>Gebieden voor deuteranomalie weergeven</item>
+        <item>Gebieden voor Deuteranomalie weergeven</item>
     </string-array>
 	    <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (standaard)</item>

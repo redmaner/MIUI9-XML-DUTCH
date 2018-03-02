@@ -38,6 +38,11 @@
         <item>HDCP controle alleen voor DRM inhoud gebruiken</item>
         <item>Altijd HDCP controle gebruiken</item>
     </string-array>
+	    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
 	<string-array name="bluetooth_a2dp_codec_titles">
         <item>Systeemselectie gebruiken (standaard)</item>
         <item>SBC</item>
@@ -99,6 +104,12 @@
         <item>Gebalanceerde audio- en verbindingskwaliteit (660kbps/606kbps)</item>
         <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
         <item>Best Effort (varierende bitrate)</item>
+    </string-array>
+	    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimized for Audio Quality</item>
+        <item>Balanced Audio And Connection Quality</item>
+        <item>Optimized for Connection Quality</item>
+        <item>Best Effort (Adaptive Bit Rate)</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Uit</item>
@@ -256,31 +267,6 @@
         <item>Nummer verbergen</item>
         <item>Nummer weergeven</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM/WCDMA, CDMA en EvDo</item>
-        <item>TD-SCDMA, GSM/WCDMA en LTE</item>
-        <item>TD-SCDMA, WCDMA en LTE</item>
-        <item>TD-SCDMA, GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM en LTE</item>
-        <item>TD-SCDMA en GSM</item>
-        <item>TD-SCDMA en LTE</item>
-        <item>TD-SCDMA en WCDMA</item>
-        <item>Alleen TD-SCDMA</item>
-        <item>LTE/WCDMA</item>
-        <item>Alleen LTE</item>
-        <item>LTE/GSM/CDMA auto (PRL)</item>
-        <item>LTE/GSM auto (PRL)</item>
-        <item>LTE/CDMA auto (PRL)</item>
-        <item>GSM/CDMA auto (PRL)</item>
-        <item>Alleen EvDo</item>
-        <item>Alleen CDMAy</item>
-        <item>CDMA auto (PRL)</item>
-        <item>GSM auto (PRL)</item>
-        <item>Alleen WCDMA</item>
-        <item>GSM</item>
-        <item>Bij voorkeur WCDMA</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>Engels</item>
         <item>Frans</item>
@@ -294,7 +280,9 @@
         <item>Alleen thuis</item>
         <item>Automatisch</item>
     </string-array>
-    <string-array name="tty_mode_entries">
+	    <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
     </string-array>
 	<string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
