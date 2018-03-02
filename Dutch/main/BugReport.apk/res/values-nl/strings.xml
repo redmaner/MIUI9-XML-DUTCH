@@ -268,10 +268,10 @@
   <string name="section_err_type">Type bug</string>
   <string name="section_screenshot">Schermafdruk</string>
   <string name="select_system_app_tag">Selecteer een probleem</string>
-  <string name="submit_dialog_cancel">Annuleren</string>
-  <string name="submit_dialog_confirm">Indienen</string>
+  <string name="submit_dialog_cancel">"Don't agree"</string>
+  <string name="submit_dialog_confirm">Agree</string>
   <string name="submit_dialog_content">Uw feedback zal samen met bijlagen en logs verzonden worden naar MIUI\’s servers. Logs kunnen persoonlijke info bevatten.</string>
-  <string name="submit_dialog_content_global">"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers for analysis and further communication. Logs may contain personal info and your location data."</string>
+  <string name="submit_dialog_content_global">"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers. The information about your threads and forum activity will also be collected for analysis and further communication. Logs may contain personal info and your location data."</string>
   <string name="submit_dialog_title">Bugrapport versturen</string>
   <string name="submit_feedback_info_failed">Kon rapport niet verzenden</string>
   <string name="suggestion_description">Voeg beschrijving hier toe</string>

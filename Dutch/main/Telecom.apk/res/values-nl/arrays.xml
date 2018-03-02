@@ -38,6 +38,11 @@
         <item>HDCP controle alleen gebruiken voor DRM inhoud</item>
         <item>Altijd HDCP controle gebruiken</item>
     </string-array>
+	<string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
 	<string-array name="bluetooth_a2dp_codec_titles">
         <item>Systeemselectie gebruiken (standaard)</item>
         <item>SBC</item>
@@ -74,6 +79,12 @@
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Systeemselectie gebruiken (standaard)</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </string-array>
+	    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Use System Selection (Default)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
@@ -226,14 +237,6 @@
         <item>Snel</item>
         <item>Zeer snel</item>
         <item>Snelst</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Levendig (standaard)</item>
