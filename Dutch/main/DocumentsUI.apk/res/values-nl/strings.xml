@@ -20,10 +20,8 @@
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="allow">Allow</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="archive_loading_failed">Unable to open archive for browsing. File is either corrupt, or an unsupported format.</string>
   <string name="authentication_required">To view this directory, sign in to %1$s</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="button_compress">Compress</string>
   <string name="button_copy">Copy</string>
   <string name="button_dismiss">Dismiss</string>
