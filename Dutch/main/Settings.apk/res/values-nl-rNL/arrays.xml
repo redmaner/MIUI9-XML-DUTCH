@@ -117,6 +117,7 @@
         <item>Scherm inschakelen</item>
         <item>Accountsinformatie verkrijgen</item>
         <item>In achtergrond lopen</item>
+		<item>Accessibility volume</item>
     </string-array>
 	<string-array name="app_ops_summaries">
         <item>geschatte locatie</item>
@@ -164,11 +165,26 @@
         <item>high power locatie waarnemen</item>
         <item>verbruikstatistieken krijgen</item>
         <item>microfoon dempen of inschakelen</item>
+		<item>show toast</item>
         <item>media projecteren</item>
         <item>VPN activeren</item>
         <item>Achtergrond schrijven</item>
         <item>Hulp structuur</item>
         <item>Hulp schermafdruk</item>
+		<item>read phone state</item>
+        <item>add voicemail</item>
+        <item>use sip</item>
+        <item>process outgoing call</item>
+        <item>fingerprint</item>
+        <item>body sensors</item>
+        <item>read cell broadcasts</item>
+        <item>mock location</item>
+        <item>read storage</item>
+        <item>write storage</item>
+        <item>turn on screen</item>
+        <item>get accounts</item>
+        <item>run in background</item>
+        <item>accessibility volume</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standaardlimiet</item>
@@ -1255,6 +1271,14 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
+	    <string-array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Uit</item>
         <item>64K</item>
@@ -1464,6 +1488,13 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>AKA</item>
         <item>"AKA'"</item>
     </string-array>
+	    <string-array name="wifi_phase2_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Geen</item>
         <item>Handmatig</item>
@@ -1526,53 +1557,5 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Animatieschaal 2x</item>
         <item>Animatieschaal 5x</item>
         <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Uit</item>
-		<item>64KB per log buffer</item>
-        <item>256KB per log buffer</item>
-        <item>1MB per log buffer</item>
-        <item>4MB per log buffer</item>
-        <item>16MB per log buffer</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>Geen</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="cellcular2wifi_entries">
-        <item>Automatisch verbinden</item>
-        <item>Handmatig verbinden</item>
-        <item>Altijd vragen</item>
-    </string-array>
-    <array name="carrier_operator_list" />
-	<string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadecimaal</item>
-    </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB massaopslag zal automatisch openen wanneer verbonden met een computer.</item>
-        <item></item>
-    </string-array>
-	<string-array name="max_number_titles">
-	    <item>6</item>
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-        <item>Ongelimiteerd</item>
-    </string-array>
-	<string-array name="standard_configuration_version_description_primary">
-        <item>CPU</item>
-        <item>Batterijcapaciteit</item>
-        <item>Camera</item>
-        <item>Schermgrootte</item>
-        <item>Schermresolutie</item>
-        <item>Android versie</item>
     </string-array>
 </resources>
