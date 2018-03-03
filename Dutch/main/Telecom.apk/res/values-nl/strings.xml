@@ -83,7 +83,6 @@
   <string name="bluetooth_pairing_rejected_error_message">Koppeling geweigerd door %1$s.</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppelen verleent toegang tot uw contacten en belgeschiedenis wanneer deze is aangesloten.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Lokale internetverbinding delen met apparaat</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Gebruikt voor internet toegang</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Verbonden met apparaat voor internet toegang</string>
   <string name="bluetooth_profile_a2dp">Media audio</string>
   <string name="bluetooth_profile_a2dp_high_quality">Hoge kwaliteit audio gebruiken: %1$s</string>
