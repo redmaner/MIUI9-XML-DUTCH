@@ -280,10 +280,6 @@
         <item>Alleen thuis</item>
         <item>Automatisch</item>
     </string-array>
-	    <string-array name="absent_num">
-        <item>ABSENT NUMBER</item>
-        <item>ABSENTNUMBER</item>
-    </string-array>
 	<string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TD-SCDMA</item>

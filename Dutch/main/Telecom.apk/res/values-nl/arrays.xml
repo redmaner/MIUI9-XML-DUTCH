@@ -83,12 +83,6 @@
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
-	    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Systeemselectie gebruiken (standaard)</item>
         <item>Mono</item>
