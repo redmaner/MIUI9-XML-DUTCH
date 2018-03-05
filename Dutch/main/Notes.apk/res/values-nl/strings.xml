@@ -28,6 +28,7 @@
   <string name="db_downgrade_clear_date_reminder">Wanneer u wisselt naar een andere versie van MIUI moet u de appgegevens van notities wissen. Voordat u update moet u ervoor zorgen dat u uw notities hebt geback-upt naar Mi Cloud.</string>
   <string name="default_folder_name">Naamloze map</string>
   <string name="delete_folder_dialog_tile">Map verwijderen</string>
+  <string name="dialog_privacy_revoke_tips">Na het intrekken van de autorisatie, stopt de app met het verzamelen van gegevens en worden alle gerelateerde gegevens van de servers verwijderd. Hierdoor kan de app praktisch onbruikbaar worden. Autorisatie toch intrekken? Om u te verzekeren van de veiligheid van uw account, logt u in op i.mi.com voordat u de autorisatie voor Mi Cloud-services intrekt.</string>
   <string name="dialog_share_as_pic">Notitie delen als afbeelding</string>
   <string name="dialog_share_as_text">Notitie delen als tekst</string>
   <string name="dialog_share_title">Notitie delen</string>

@@ -3132,10 +3132,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="priority_storage_settings_summary">Als er geen SD kaart is gedetecteerd, worden gebruikersgegevens automatisch opgeslagen op uw interne opslag.</string>
   <string name="priority_storage_summary">Kies standaardlocatie voor de opslag van uw gebruikersgegevens</string>
   <string name="priority_storage_title">Opslaginstellingen</string>
+  <string name="privacy_authorize_cloud_msg">Om de veiligheid van uw account te garanderen, logt u in op i.mi.com als u authotizatie voor Mi Cloud-services (inclusief synchronisatie en back-ups) wilt intrekken.</string>
   <string name="privacy_authorize_dialog_agree">Akkoord</string>
   <string name="privacy_authorize_dialog_exit">Afsluiten</string>
-  <string name="privacy_authorize_dialog_message">%1$s vereist dat je akkoord gaat met %2$s. De app moet verbinden met het netwerk om normaal te werken. Akkoord?</string>
-  <string name="privacy_authorize_network_error">Verbind met het netwerk en probeer opnieuw.</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Om de basisfuncties van Mi Cloud-services te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. Raadpleeg ons Privacybeleid voor informatie over hoe we persoonlijke gegevens verzamelen en verwerken. "Akkoord" betekent dat u onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst &amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
   <string name="privacy_authorize_privacy_policy">Privacybeleid</string>
   <string name="privacy_authorize_revoke">Intrekken</string>
   <string name="privacy_authorize_revoke_dialog_msg">Nadat je autorisatie intrekt zal de app stoppen met gegevens verzamelen, en alle gerelateerde gegevens worden verwijderd van de servers. Dit kan de app onbruikbaar maken. Toch de autorisatie intrekken?</string>
@@ -5078,6 +5078,9 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="wfd_menu_teardown">Stoppen</string>
   <string name="wfd_settings_description">Met scherm verbinden via Wi-Fi</string>
   <string name="wfd_settings_title">Draadloze scherm</string>
+  <string name="wfd_status_dialog_disconnect">Verbinding verbreken</string>
+  <string name="wfd_status_dialog_message">De inhoud van het scherm wordt via een draadloze verbinding weergegeven op een ander weergaveapparaat</string>
+  <string name="wfd_status_dialog_title">Draadloze scherm</string>
   <string name="wfd_wps_keypad">Gebruik toetsenblok</string>
   <string name="wfd_wps_pbc">PIN invoeren</string>
   <string name="whetstone_level_reboot">Deze instelling wordt van kracht nadat het toestel opnieuw is opgestart</string>

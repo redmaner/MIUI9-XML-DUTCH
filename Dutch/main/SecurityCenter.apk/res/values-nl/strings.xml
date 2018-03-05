@@ -564,10 +564,16 @@ in het geval je hem vergeten bent"</string>
   <string name="data_usage_leisure_warning_body">Tik om gegevens over dataverbruik weer te geven.</string>
   <string name="data_usage_leisure_warning_title">Daluren dataverbruikslimiet</string>
   <string name="data_usage_limit_body">Tik om details over dataverbruik weer te geven</string>
+  <string name="data_usage_mobile_dialog_title">U heeft al 5 GB mobiele data gebruikt. MIUI heeft mobiele data uitgeschakeld.</string>
   <string name="data_usage_mobile_limit_title">Mobiele datalimiet bereikt</string>
   <string name="data_usage_no_total_package_body">Tik om datalimiet in te stellen</string>
   <string name="data_usage_no_total_package_body_dual">Er is geen datalimiet ingesteld voor %s</string>
   <string name="data_usage_no_total_package_title">Stel datalimiet in</string>
+  <string name="data_usage_protected_dialog_message">MIUI heeft mobiele data uitgeschakeld om te voorkomen dat u extra provider kosten aanrekenen. 
+  
+Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opnieuw inschakelt.</string>
+  <string name="data_usage_protected_notify_message">MIUI heeft mobiele data uitgeschakeld om te voorkomen dat u extra provider kosten hebt</string>
+  <string name="data_usage_protected_notify_title">U hebt al 5 GB mobiele datra gebruikt</string>
   <string name="data_usage_warning_body">Tik om details over dataverbruik weer te geven.</string>
   <string name="data_usage_warning_body_notify">Tik om details te bekijken</string>
   <string name="data_usage_warning_title_notify">Je hebt het datalimiet overschreden</string>
@@ -755,6 +761,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gb_description_image_button_reject">Weigeren</string>
   <string name="gb_description_image_button_video_answer">Video-oproep</string>
   <string name="gb_new_feature">Nieuwe functie</string>
+  <string name="gdpr_msg">&lt;Data&gt;"Om de basisfuncties van Beveiliging te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt, inclusief informatie over de manier waarop u de functies van Beveiliging gebruikt (bijv. Statistieken voor mobiel gegevensgebruik, informatie over malware, evenals basisinformatie over uw apparaat) en andere soorten informatie die worden vermeld in onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Info verkrijgen…</string>
   <string name="gmscore_support_remind">Schakel deze functie in als je problemen ervaart met Gmail, Google Maps en andere Google apps. Het zal de accuduur iets verminderen.</string>
   <string name="go_to">Doorgaan</string>
