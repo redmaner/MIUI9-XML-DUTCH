@@ -39,7 +39,7 @@
   <string name="component_title_wallpaper">Achtergronden</string>
   <string name="current_using_desktop_wallpaper_text">Startscherm</string>
   <string name="current_using_lockscreen_wallpaper_text">Vergrendelscherm</string>
-  <string name="current_version_incompatible">Dit thema wordt niet ondersteund</string>
+  <string name="current_version_incompatible">Niet ondersteund</string>
   <string name="deleting">Verwijderen…</string>
   <string name="description_author">Auteur:</string>
   <string name="description_designer">Ontwerper</string>
@@ -136,9 +136,12 @@
   <string name="online_precust_animal">Dieren</string>
   <string name="online_precust_asphalt">Asfalt</string>
   <string name="online_precust_building">Gebouwen</string>
+  <string name="online_precust_chubby_dreamer">Mollige dromer</string>
   <string name="online_precust_creative">Creatief</string>
+  <string name="online_precust_forest_stories">Bos verhalen</string>
   <string name="online_precust_geometry">Geometrie</string>
   <string name="online_precust_lifestyle">Lifestyle</string>
+  <string name="online_precust_paper_world">Papierwereld</string>
   <string name="online_precust_peach_blossom">Perzikbloesem</string>
   <string name="online_precust_plant">Planten</string>
   <string name="online_precust_scenery">Landschap</string>
@@ -208,6 +211,7 @@
   <string name="resource_comment_upload_not_logined">Eerst inloggen</string>
   <string name="resource_comment_upload_success">Reactie verzonden! Uw reactie wordt weergegeven na een standaard controle.</string>
   <string name="resource_continue">Volgende</string>
+  <string name="resource_current_using_title">Huidige bronnen</string>
   <string name="resource_data_empty">Geen items hier.</string>
   <string name="resource_default">Standaard beltoon</string>
   <string name="resource_default_name">Bron</string>
@@ -254,6 +258,8 @@
   <string name="resource_exchange_wrong_format_by_server">Code kan niet worden gevalideerd. Controleer uw code en probeer het opnieuw.</string>
   <string name="resource_expand_full_text">Meer weergeven</string>
   <string name="resource_failed_to_load_list">"Kan thema\'s niet laden"</string>
+  <string name="resource_free_trial_15_days">15 dagen gratis uit proberen</string>
+  <string name="resource_free_use_last_one_day">Uw trial verloopt morgen.</string>
   <string name="resource_get_auth_checking">Controleren…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 apparaten zijn reeds toegestaan op dit account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Authorisatielimiet bereikt</string>
@@ -265,7 +271,9 @@
   <string name="resource_import_failed">Kan niet importeren</string>
   <string name="resource_import_successful">Voltooid</string>
   <string name="resource_importing">Importeren…</string>
+  <string name="resource_is_off_shelf">Niet beschikbaar</string>
   <string name="resource_list_title">Recent geselecteerde</string>
+  <string name="resource_local_picker">Kies een lokale beltoon</string>
   <string name="resource_menu_refresh">Vernieuwen</string>
   <string name="resource_mute">Geen</string>
   <string name="resource_my">Offline</string>
@@ -275,7 +283,9 @@
   <string name="resource_no_result">Kan niets vinden</string>
   <string name="resource_notification_default">Meldingen</string>
   <string name="resource_on_trial">Uitproberen: %1$s</string>
+  <string name="resource_on_use">Gebruik makend van: %1$s</string>
   <string name="resource_online">Online</string>
+  <string name="resource_online_picker">Kies een online beltoon</string>
   <string name="resource_pack_confirm">"Ondanks dat u al %1$d items heeft aangeschaft in dit thema, is het goedkoper om de hele bundel aan te schaffen."</string>
   <string name="resource_pack_discount_info">Bespaard: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Dit thema is niet langer beschikbaar.</string>
@@ -311,6 +321,7 @@
   <string name="resource_select_boot_audio_confirm">Dit opstartgeluid selecteren?</string>
   <string name="resource_select_notification_audio_confirm">Dit alarmgeluid selecteren?</string>
   <string name="resource_select_ringtone_audio_confirm">Deze beltoon selecteren?</string>
+  <string name="resource_select_ringtone_confirm">Deze beltoon selecteren?</string>
   <string name="resource_selected">Uitgelicht</string>
   <string name="resource_send">Verzenden</string>
   <string name="resource_server_alert_dialog_title">Service is momenteel niet beschikbaar</string>
@@ -328,9 +339,12 @@
   <string name="resource_title_rank">Hitlijsten</string>
   <string name="resource_title_select_ringtone">Beltoon selecteren</string>
   <string name="resource_title_subject">Aanbevolen</string>
+  <string name="resource_trial_15_days_end_title">15 dagen trial is verlopen</string>
+  <string name="resource_trial_15_days_immediately">15 dagen onmiddellijk proberen</string>
   <string name="resource_trial_days">(trial: %1$dd)</string>
   <string name="resource_trial_days_hours">(trial: %1$dd %2$dh)</string>
-  <string name="resource_trial_end_message">Trial van %1$s verlopen.</string>
+  <string name="resource_trial_end_change">Wijzigen</string>
+  <string name="resource_trial_end_message">Trial van %1$s is verlopen. Voltooi de aankoop als je het leuk vindt.</string>
   <string name="resource_trial_end_purchase">Kopen</string>
   <string name="resource_trial_end_restore">Beëindig trial</string>
   <string name="resource_trial_end_time">（trial tot %1$s）</string>
@@ -440,9 +454,11 @@
   <string name="uid_change_dialog_message">U hebt de updates verwijderd. Herstart het apparaat om deze thema\'s te kunnen gebruiken.</string>
   <string name="uid_change_dialog_ok">Begrepen</string>
   <string name="uid_change_dialog_title">Apparaat herstarten</string>
+  <string name="title_system_audio_notification_resource">Systeem meldingen</string>
   <string name="wallpaper_apply">Toepassen</string>
   <string name="wallpaper_crop">Bijsnijden</string>
   <string name="wallpaper_decoded_error">Kan achtergrond niet instellen</string>
+  <string name="wallpaper_detail_load_page_no_network">Verbinden met netwerk en probeer later opnieuw.</string>
   <string name="wallpaper_scroll_type_tips">Achtergrondscroll</string>
   <string name="wallpaper_set_as_both">Toepassen op beide</string>
   <string name="wallpaper_set_as_destop">Als achtergrond instellen</string>

@@ -13,6 +13,7 @@
   <string name="action_menu_account_not_login_hint">Log in om te synchroniseren met Mi Cloud</string>
   <string name="action_menu_bookshelf">Boekenplank</string>
   <string name="action_menu_current_version">Huidige versie</string>
+  <string name="action_menu_download">Download</string>
   <string name="action_menu_request_desktop_site">Websitetoegang</string>
   <string name="action_menu_request_desktop_site_off">Websitetoegang is uitgeschakeld</string>
   <string name="action_menu_request_desktop_site_on">Websitetoegang is ingeschakeld</string>
@@ -33,6 +34,7 @@
   <string name="action_menu_text_nightmode">Nachtmodus</string>
   <string name="action_menu_text_nightmode_off">Nachtmodus</string>
   <string name="action_menu_text_nightmode_on">Nachtmodus</string>
+  <string name="action_menu_text_readmode">Leesmodus</string>
   <string name="action_menu_text_refresh">Vernieuwen</string>
   <string name="action_menu_text_setting">Instellingen</string>
   <string name="action_menu_text_share">Delen</string>
@@ -138,6 +140,7 @@
   <string name="clear_search_history">Geschiedenis verwijderen</string>
   <string name="clear_video_download">Video\'s verwijderen</string>
   <string name="clip_dialog_title">Gekopieerde link openen?</string>
+  <string name="close">Sluiten</string>
   <string name="close_ads_choice_no">Toestaan</string>
   <string name="close_ads_choice_yes">Blokkeren</string>
   <string name="close_ads_message">Inhoud van deze website blokkeren? Je kan geblokkeerde websites zien in Instellingen &gt; Geavanceerd &gt; Geblokkeerde websites.</string>
@@ -271,6 +274,9 @@
   <string name="enable_geolocation_confirm_message">Locatiediensten uitschakelen heeft invloed op de aanbevelingen die je ontvangt.</string>
   <string name="enter_developer_mode">Ga naar ontwikkelaarsmodus</string>
   <string name="enter_incongnito_mode">Ga naar incognitomodus</string>
+  <string name="enter_the_group_name">Groepnaam invoeren</string>
+  <string name="enter_the_password">Wachtwoord invoeren</string>
+  <string name="enter_the_user_name">Gebruikersnaam invoeren</string>
   <string name="error_console_eval_button_text">Evalueren</string>
   <string name="error_console_eval_text_hint">JavaScript evalueren</string>
   <string name="error_console_header_text_maximized">JavaScript bedieningspaneel</string>
@@ -968,6 +974,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="save_image_success">Afbeelding opgeslagen</string>
   <string name="save_page_capture_tip">Open meldingspaneel om schermafdruk te bekijken.</string>
   <string name="save_page_capture_to_camera">Schermafdruk opgeslagen</string>
+  <string name="save_to_bookmark">Opslaan naar favorieten</string>
   <string name="save_to_camera">Opslaan in galerij</string>
   <string name="save_to_camera_failed">Afbeelding opslaan mislukt</string>
   <string name="save_to_camera_success">Opgeslagen in galerij</string>
@@ -1036,7 +1043,9 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="ssl_untrusted">Dit is geen certificaat van een vertrouwde autoriteit.</string>
   <string name="ssl_warnings_header">Er zijn problemen met het beveiligingscertificaat van deze site</string>
   <string name="start_save_page_capture">Schermafdruk opslaan…</string>
+  <string name="storage_close">Sluiten</string>
   <string name="storage_internal">Interne opslag</string>
+  <string name="storage_open">Openen</string>
   <string name="storage_permission_request_toast">Downloads hebben toegang nodig tot de opslag van het apparaat</string>
   <string name="storage_sd_card">SD kaart</string>
   <string name="storage_usb">USB opslag</string>
