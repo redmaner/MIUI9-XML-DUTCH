@@ -645,7 +645,13 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="dlg_remove_whitelist">Deze nummers uit uitzonderingen verwijderen?</string>
   <string name="dlg_remove_whitelist_ing">Verwijderen…</string>
   <string name="dlg_remove_whitelist_title">Verwijderen</string>
+  <string name="dlg_sec_network_unavailable">Beveiligingsapp kan niet worden bijgewerkt omdat je de internetverbinding hebt beperkt. Beveiliging toestaan om verbinding te maken met internet?</string>
   <string name="dlg_title_not_open_stranger_identify">Beller ID</string>
+  <string name="dlg_update_btn_contiue">Doorgaan</string>
+  <string name="dlg_update_btn_open">Toestaan</string>
+  <string name="dlg_update_data_content">U bent niet verbonden met Wi-Fi. Het gebruik van mobiele data kan extra kosten genereren. Toch doorgaan?</string>
+  <string name="dlg_update_date_title">Waarschuwing</string>
+  <string name="dlg_update_updating">Updating…</string>
   <string name="dlg_white_address_antispam_message">Deze locatie toevoegen aan uitzonderingen?</string>
   <string name="dlg_white_antispam_hint">Uitzonderingen</string>
   <string name="dlg_white_antispam_message">Dit nummer toevoegen aan uitzonderingen?</string>
@@ -1614,7 +1620,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sms_prefix">Voorvoegsel zwarte lijst</string>
   <string name="sms_service">Blokkeer SMS van diensten</string>
   <string name="sms_smart_engine_update">SMS filter automatisch updaten</string>
-  <string name="sms_stranger_block">Vreemde onderscheppen</string>
+  <string name="sms_smart_engine_update_now">Updaten</string>
+  <string name="sms_stranger_block">SMS van vreemde blokkeren</string>
   <string name="sorted_dialog_title">Sorteren op</string>
   <string name="sp_background_risk_dialog_summary">, controleer en herstel betalingsproblemen.</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Je bent verbonden met een publiek Wi-Fi netwerk dat onveilig kan zijn. Zorg ervoor dat de betaling veilig kan verlopen voordat je deze doet.</string>
@@ -1983,6 +1990,10 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="toast_root_apply_reject">Roottoegang geweigerd voor %s</string>
   <string name="toast_set_success">Met succes ingeschakeld</string>
   <string name="toast_show_notification">Vastgemaakt aan notificatiebalk</string>
+  <string name="toast_update_fail">Kon niet updaten</string>
+  <string name="toast_update_nonetwork">Kon niet verbinden met het netwerk</string>
+  <string name="toast_update_notneed">Up to date</string>
+  <string name="toast_update_success">Met succes upgedate</string>
   <string name="top_game">Topgames</string>
   <string name="top_load_fail_detail">Kon het niet laden, tik om opnieuw te proberen</string>
   <string name="top_no_network_detial">Kon het niet laden, controleer de netwerkverbinding en probeer opnieuw</string>
