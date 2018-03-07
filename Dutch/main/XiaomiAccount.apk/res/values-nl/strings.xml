@@ -245,6 +245,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_error_user_name">Ingevoerde gebruikersnaam is ongeldig</string>
   <string name="passport_error_verify_activator_phone_message">Controleer of uw SIM kaart service is geactiveerd en het apparaat is verbonden met het netwerk.</string>
   <string name="passport_error_verify_activator_phone_title">Kon telefoonnummer niet controleren</string>
+  <string name="passport_extra_gdpr_license">Creating your Mi Account means that you agree that Xiaomi will collect, process, and use your personal data, including verification data (e.g., verification codes), Second space data (e.g., information about the ways you use Second space, IDs used in First and Second spaces), and other data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we process and use personal data.</string>
   <string name="passport_failed_to_send_activate_email">Kon activatie e-mail niet verzenden</string>
   <string name="passport_find_password_on_web_msg">Bezoek account.mi.com om uw wachtwoord te resetten.</string>
   <string name="passport_forget_password">Wachtwoord vergeten</string>
@@ -437,9 +438,9 @@ die verzonden is naar je Postvak In."</string>
   <string name="turn_off_find_device_failed_title">"Kan apparaat vinden niet uitschakelen"</string>
   <string name="unbind_sns_description">Na verbreking, kan je niet aanmelden op je Mi account met behulp van  %s</string>
   <string name="unlock_help_notice">"Help:
-· Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
-· Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen.
-· Uw ontgrendelingsnummer: %s"</string>
+1· Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
+2· Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen.
+3· Uw ontgrendelingsnummer: %s"</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>
   <string name="update_email_address_dialog_title">E-mail updaten</string>

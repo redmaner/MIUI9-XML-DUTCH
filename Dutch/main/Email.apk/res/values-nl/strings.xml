@@ -945,6 +945,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
          beveiligingsvereisten"</string>
   <string name="security_notification_content_update_title">Beveiligingsupdate vereist</string>
   <string name="security_unsupported_ticker_fmt">"Account \"%s\" kan niet worden gesynchroniseerd wegens beveiligingsvereisten."</string>
+  <string name="see_more_content">See more content</string>
   <string name="select_attachment_type">Bijlagetype selecteren</string>
   <string name="select_no_file">Geen geselecteerde bijlagen om te delen</string>
   <string name="select_path">Selecteer pad</string>
@@ -982,6 +983,7 @@ om herinneringen ontvangen over betalingen en reizen"</string>
   <string name="show_elided">▶ Tekst uit oorspronkelijk bericht weergeven</string>
   <string name="show_images">Afbeeldingen weergeven</string>
   <string name="show_password">Wachtwoord tonen</string>
+  <string name="signature_black_shark">Sent from my Blackshark phone</string>
   <string name="silent_ringtone">Stil</string>
   <string name="sms_tip">Authenticatie mislukt, controleer of de antivirussoftware SMS onderschept</string>
   <string name="smtp_password_error">Het wachtwoord van de uitgaande mail server is ongeldig</string>

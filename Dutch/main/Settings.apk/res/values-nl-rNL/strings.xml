@@ -2243,10 +2243,6 @@ Je kan dit later veranderen in Instellingen &gt; Apps &amp; meldingen."</string>
   <string name="lock_screen_notifications_summary_show">Alle meldingen en inhoud daarvan weergeven</string>
   <string name="lock_screen_notifications_summary_show_profile">Alle werkgerelateerde meldingsinhoud weergeven</string>
   <string name="lock_screen_notifications_title">Wanneer apparaat vergrendeld is</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Nooit wachtwoord nodig</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Wachtwoord direct nodig</string>
-  <string name="lock_screen_secure_after_timeout_summary">Wachtwoord nodig: %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Wachtwoord nodig na vergrendelen</string>
   <string name="lock_screen_signature_summary">Dit bericht zal worden weergegeven op het vergrendelscherm</string>
   <string name="lock_screen_signature_title">Eigenaarsinfo vergrendelscherm</string>
   <string name="lock_screen_unlock_show">Vergrendelscherm overslaan</string>
