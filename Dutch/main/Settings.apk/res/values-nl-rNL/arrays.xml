@@ -117,7 +117,7 @@
         <item>Scherm inschakelen</item>
         <item>Accountsinformatie verkrijgen</item>
         <item>In achtergrond lopen</item>
-		<item>Accessibility volume</item>
+		<item>Toegankelijkheidsvolume</item>
     </string-array>
 	<string-array name="app_ops_summaries">
         <item>geschatte locatie</item>
@@ -165,26 +165,26 @@
         <item>high power locatie waarnemen</item>
         <item>verbruikstatistieken krijgen</item>
         <item>microfoon dempen of inschakelen</item>
-		<item>show toast</item>
+		<item>toast weergeven</item>
         <item>media projecteren</item>
         <item>VPN activeren</item>
         <item>Achtergrond schrijven</item>
         <item>Hulp structuur</item>
         <item>Hulp schermafdruk</item>
-		<item>read phone state</item>
-        <item>add voicemail</item>
-        <item>use sip</item>
-        <item>process outgoing call</item>
-        <item>fingerprint</item>
-        <item>body sensors</item>
-        <item>read cell broadcasts</item>
-        <item>mock location</item>
-        <item>read storage</item>
-        <item>write storage</item>
-        <item>turn on screen</item>
-        <item>get accounts</item>
-        <item>run in background</item>
-        <item>accessibility volume</item>
+		<item>telefoonstatus lezen</item>
+        <item>voicemail toevoegen</item>
+        <item>sip gebruiken</item>
+        <item>uitgaande oproepen verwerken</item>
+        <item>vingerafdruk</item>
+        <item>lichaamssensors</item>
+        <item>cell broadcasts lezen</item>
+        <item>locatie faken</item>
+        <item>opslag lezen</item>
+        <item>opslag schrijven</item>
+        <item>scherm ontwaken</item>
+        <item>accounts verkrijgen</item>
+        <item>actief zijn op de achtergrond</item>
+        <item>toegankelijkheidsvolume</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standaardlimiet</item>
@@ -1272,12 +1272,12 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>1M</item>
     </string-array>
 	    <string-array name="select_logd_size_summaries">
-        <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>Uit</item>
+        <item>64K per logbuffer</item>
+        <item>256K per logbuffer</item>
+        <item>1M per logbuffer</item>
+        <item>4M per logbuffer</item>
+        <item>16M per logbuffer</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Uit</item>
@@ -1489,7 +1489,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>"AKA'"</item>
     </string-array>
 	    <string-array name="wifi_phase2_entries">
-        <item>None</item>
+        <item>Geen</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
