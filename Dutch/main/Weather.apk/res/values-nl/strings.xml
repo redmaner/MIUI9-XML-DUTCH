@@ -68,7 +68,7 @@
   <string name="button_sure_abandon">Wijzigingen ongedaan maken?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
-  <string name="china_version_first_start_network_msg">Door dit product te gebruiken ga je akkoord met Xiaomi's %1$s en %2$s. Deze app heeft verbinding met internet en toegang tot uw locatie nodig om normaal te werken.</string>
+  <string name="china_version_first_start_network_msg">Door dit product te gebruiken ga je akkoord met Xiaomi\'s %1$s en %2$s. Deze app heeft verbinding met internet en toegang tot uw locatie nodig om normaal te werken.</string>
   <string name="city_exceeded_warning">U kan tot 10 steden toevoegen</string>
   <string name="commercial">Reclame</string>
   <string name="common_loading_text">Een momentje…</string>
