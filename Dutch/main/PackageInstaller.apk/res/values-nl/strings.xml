@@ -289,7 +289,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="lb_search_bar_hint_speech">Spreek om te zoeken</string>
   <string name="lb_search_bar_hint_with_title">%1$s zoeken</string>
   <string name="lb_search_bar_hint_with_title_speech">Spreek om %1$s te zoeken</string>
-  <string name="lb_time_separator">:</string>
   <string name="loading">Laden…</string>
   <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-ups van de desktop</string>
   <string name="local_backup_password_summary_none">Desktop back-ups zijn momenteel niet beveiligd</string>
