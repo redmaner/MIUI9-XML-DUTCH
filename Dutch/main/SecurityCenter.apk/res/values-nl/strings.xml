@@ -573,7 +573,7 @@ in het geval je hem vergeten bent"</string>
   
 Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opnieuw inschakelt.</string>
   <string name="data_usage_protected_notify_message">MIUI heeft mobiele data uitgeschakeld om te voorkomen dat u extra provider kosten hebt</string>
-  <string name="data_usage_protected_notify_title">U hebt al 5 GB mobiele datra gebruikt</string>
+  <string name="data_usage_protected_notify_title">U heeft al 5GB mobiele data gebruikt</string>
   <string name="data_usage_warning_body">Tik om details over dataverbruik weer te geven.</string>
   <string name="data_usage_warning_body_notify">Tik om details te bekijken</string>
   <string name="data_usage_warning_title_notify">Je hebt het datalimiet overschreden</string>
@@ -657,7 +657,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="dlg_update_btn_open">Toestaan</string>
   <string name="dlg_update_data_content">U bent niet verbonden met Wi-Fi. Het gebruik van mobiele data kan extra kosten genereren. Toch doorgaan?</string>
   <string name="dlg_update_date_title">Waarschuwing</string>
-  <string name="dlg_update_updating">Updating…</string>
+  <string name="dlg_update_updating">Updaten…</string>
   <string name="dlg_white_address_antispam_message">Deze locatie toevoegen aan uitzonderingen?</string>
   <string name="dlg_white_antispam_hint">Uitzonderingen</string>
   <string name="dlg_white_antispam_message">Dit nummer toevoegen aan uitzonderingen?</string>
@@ -1999,7 +1999,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="toast_update_fail">Kon niet updaten</string>
   <string name="toast_update_nonetwork">Kon niet verbinden met het netwerk</string>
   <string name="toast_update_notneed">Up to date</string>
-  <string name="toast_update_success">Met succes upgedate</string>
+  <string name="toast_update_success">Met succes bijgewerkt</string>
   <string name="top_game">Topgames</string>
   <string name="top_load_fail_detail">Kon het niet laden, tik om opnieuw te proberen</string>
   <string name="top_no_network_detial">Kon het niet laden, controleer de netwerkverbinding en probeer opnieuw</string>
