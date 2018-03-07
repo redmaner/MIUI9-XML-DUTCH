@@ -600,6 +600,12 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="dialog_msg_auto_start_declare">Sommige beveiligingsapps kunnen foutief aangeven dat MIUI hen heeft verhinderd te starten. Als u de machtigingen wilt controleren die zijn toegekend aan individuele apps, gaat u naar Instellingen &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Virusscan stoppen voordat hij klaar is?</string>
   <string name="dialog_no_longer_alert">Niet opnieuw weergeven</string>
+  <string name="dialog_restrict_all_mobile_summary">%s Mobile data connection will be restricted for all apps after this.</string>
+  <string name="dialog_restrict_all_mobile_title">Restrict %s mobile data connection</string>
+  <string name="dialog_restrict_all_wlan_summary">WLAN connection will be restricted for all apps after this.</string>
+  <string name="dialog_restrict_all_wlan_title">Restrict WLAN connection</string>
+  <string name="dialog_restrict_negative">Restrict</string>
+  <string name="dialog_restrict_positive">Cancel</string>
   <string name="dialog_roaming_message">Deze app toelaten om mobiele data te gebruiken bij internationaal roamen?</string>
   <string name="dialog_roaming_title">Internationale roaming</string>
   <string name="dialog_text">Maak een snelkoppeling voor het startscherm voor Game Speed Booster</string>
