@@ -134,7 +134,7 @@
   <string name="national_emergency_alert">Nationaal noodalarm</string>
   <string name="national_emergency_alerts">Nationale noodalarmen</string>
   <string name="no_cell_broadcasts">Er zijn geen actieve waarschuwingen in uw omgeving. U kunt de instellingen voor waarschuwingen via het menu optie Instellingen wijzigen.</string>
-  <string name="notification_channel_broadcast_messages">Broadcast messages</string>
+  <string name="notification_channel_broadcast_messages">Berichten</string>
   <string name="notification_multiple">%s ongelezen waarschuwingen.</string>
   <string name="notification_multiple_title">Nieuwe waarschuwingen</string>
   <string name="pws_other_message_identifiers">Waarschuwingen over noodsituaties</string>

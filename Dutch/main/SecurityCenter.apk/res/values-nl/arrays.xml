@@ -8,7 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"Gisteren "</item>
         <item>"Vandaag "</item>
-		<item>"Last month "</item>
+		<item>"Vorige maand "</item>
         <item>"Deze maand "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -19,17 +19,17 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Gisteren: "</item>
         <item>"Vandaag: "</item>
-		<item>"Last month: "</item>
+		<item>"Vorige maand: "</item>
         <item>"Deze maand: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday (data)</item>
-        <item>Today (data)</item>
-        <item>Last month (data)</item>
-        <item>This month (data)</item>
+        <item>Gisteren (data)</item>
+        <item>Vandaag (data)</item>
+        <item>Vorige maand (data)</item>
+        <item>Deze maand (data)</item>
         <item>Wi-Fi gisteren</item>
         <item>Wi-Fi vandaag</item>
-        <item>Last month WLAN</item>
+        <item>Wi-Fi vorige maand</item>
         <item>Wi-Fi deze maand</item>
     </string-array>
     <string-array name="traffic_type">

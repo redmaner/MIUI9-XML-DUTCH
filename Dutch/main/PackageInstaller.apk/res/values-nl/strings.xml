@@ -66,8 +66,8 @@
   <string name="bluetooth_disable_absolute_volume_summary">Schakel de Bluetooth absolute volume functie uit in geval van volumeproblemen met externe apparaten, zoals onaanvaardbaar luid volume of gebrek aan controle.</string>
   <string name="bluetooth_disconnected">Verbinding verbroken</string>
   <string name="bluetooth_disconnecting">Verbinding verbreken…</string>
-  <string name="bluetooth_enable_inband_ringing">Enable in-band ringing</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Allow ringtones on the phone to be played on Bluetooth headsets</string>
+  <string name="bluetooth_enable_inband_ringing">Beltoon op bluetooth-apparaat inschakelen</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Beltoon zal afspelen op bluetooth-apparaat</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbonden met telefoonaudio</string>
   <string name="bluetooth_headset_profile_summary_use_for">Gebruiken voor telefoonaudio</string>
   <string name="bluetooth_hid_profile_summary_connected">Verbonden met invoerapparaat</string>
@@ -222,7 +222,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="grant_dialog_button_allow">Toestaan</string>
   <string name="grant_dialog_button_deny">Weigeren</string>
   <string name="grant_dialog_button_deny_anyway">Toch weigeren</string>
-  <string name="grant_dialog_button_more_info">More info</string>
+  <string name="grant_dialog_button_more_info">Meer info</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
   <string name="help_feedback_label">Hulp &amp; feedback</string>
@@ -443,7 +443,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="uninstall_activity_text">%1$s maakt deel uit van de volgende app:</string>
   <string name="uninstall_all_blocked_profile_owner">This app is required for some users or profiles and was uninstalled for others</string>
   <string name="uninstall_application_text">Wilt u deze app verwijderen?</string>
-  <string name="uninstall_application_text_all_users">Wilt u deze app deinstalleren voor &lt;b&gt;all&lt;/b&gt; gebruikers? De application en de data zullen worden verwijderd van &lt;b&gt;alle&lt;/b&gt; gebruikers op dit apparaat.</string>
+  <string name="uninstall_application_text_all_users">Wilt u deze app deinstalleren voor alle gebruikers? De applicatie en de data zullen worden verwijderd voor alle gebruikers op dit apparaat.</string>
   <string name="uninstall_application_text_user">Wilt u deze app deinstalleren voor de gebruiker %1$s?</string>
   <string name="uninstall_application_title">App verwijderen</string>
   <string name="uninstall_blocked_device_owner">Deze app is verplicht door uw apparaatadministrator en kan niet worden gedeinstalleerd</string>
@@ -455,7 +455,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="uninstall_failed_device_policy_manager">Kan actieve beheerapp niet verwijderen</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Kan actieve beheerapp voor %1$s niet verwijderen</string>
   <string name="uninstall_failed_msg">%1$s kon niet verwijderd worden</string>
-  <string name="uninstall_failure_notification_channel">Failed uninstalls</string>
+  <string name="uninstall_failure_notification_channel">Mislukte verwijderpogingen</string>
   <string name="uninstall_update_text">Wilt u deze app vervangen door de fabrieksversie?</string>
   <string name="uninstall_update_text_multiuser">Wilt u deze app vervangen door de fabrieksversie? Alle gegevens worden verwijderd. Dit heeft invloed op alle gebruikers op het apparaat, inclusief werkprofielen.</string>
   <string name="uninstall_update_title">Update verwijderen</string>
