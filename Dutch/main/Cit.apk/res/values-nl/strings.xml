@@ -149,11 +149,6 @@ Houd de telefoon vast zoals je zou bellen, spreek in de microfoon. U moet uw ste
   <string name="cit_blue_tooth_scan_check_title">Bluetooth scan</string>
   <string name="cit_blue_torch_on">Zaklamp inschakelen</string>
   <string name="cit_bluetooth_address_open_error">Kan geen Bluetoothadres krijgen. Er is een fout opgetreden bij het openen van Bluetooth apparaat.</string>
-  <string name="cit_bluetooth_logging_confirm_info">Bluetooth Logging zal gegevens verzamelen over protocolgegevens van uw apparaat. Privacygegevens worden ook opgenomen: Bluetooth telefoonboektoegang/oproepgeschiedenis/SMS/MMS/Uitgewisselde bestanden/Muziek metadata. Deze gegevens worden gebruikt door Xiaomi om te debuggen maar niet voor andere doeleinden.</string>
-  <string name="cit_bluetooth_logging_confirm_ng">Weigeren</string>
-  <string name="cit_bluetooth_logging_confirm_notify">Wilt u logging inschakelen?</string>
-  <string name="cit_bluetooth_logging_confirm_ok">Toestaan</string>
-  <string name="cit_bluetooth_logging_confirm_title">Bluetooth Logging privacywaarschuwing</string>
   <string name="cit_bluetooth_not_support">Dit apparaat ondersteunt geen Bluetooth</string>
   <string name="cit_bluetooth_scan_retry">Opnieuw scannen</string>
   <string name="cit_bluetooth_scanning">Scannen naar Bluetooth apparaten in de buurt(dit moet ongeveer 4 seconden duren)…</string>

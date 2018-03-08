@@ -43,74 +43,6 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
-        <item>LDAC</item>
-        <item>Optionele codecs inschakelen</item>
-        <item>Optionele codecs uitschakelen</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
-        <item>LDAC</item>
-        <item>Optionele codecs inschakelen</item>
-        <item>Optionele codecs uitschakelen</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>44.1 kHz</item>
-        <item>48.0 kHz</item>
-        <item>88.2 kHz</item>
-        <item>96.0 kHz</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Systeemselectie gebruiken (standaard)</item>
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Geoptimaliseerd voor audiokwaliteit (990kbps/909kbps)</item>
-        <item>Gebalanceerde audio- en verbindingskwaliteit (660kbps/606kbps)</item>
-        <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
-        <item>Best Effort (varierende bitrate)</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Geoptimaliseerd voor audiokwaliteit</item>
-        <item>Gebalanceerde audio- en verbindingskwaliteit</item>
-        <item>Geoptimaliseerd voor verbindingskwaliteit</item>
-        <item>Best Effort (varierende bitrate)</item>
-    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Uit</item>
         <item>64KB</item>
@@ -127,27 +59,17 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Uit</item>
-        <item>64KB per logbuffer</item>
-        <item>256KB per logbuffer</item>
-        <item>1MB per logbuffer</item>
-        <item>4MB per logbuffer</item>
-        <item>16MB per logbuffer</item>
-    </string-array>
-	<string-array name="select_logpersist_titles">
-        <item>Uit</item>
-        <item>Alles</item>
-        <item>Alles behalve radio</item>
-        <item>Alleen kernel</item>
     </string-array>
 	<string-array name="select_logpersist_summaries">
-        <item>Uit</item>
-        <item>Alle logbuffers</item>
-        <item>Alles behalve radio logbuffers</item>
-        <item>Alleen kernel logbuffers</item>
+        <item>64KB per log buffer</item>
+        <item>256KB per log buffer</item>
+        <item>1MB per log buffer</item>
+        <item>4MB per log buffer</item>
+        <item>16MB per log buffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
-        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 0.5x</item>
         <item>Animatieschaal 1x</item>
         <item>Animatieschaal 1.5x</item>
         <item>Animatieschaal 2x</item>
@@ -156,7 +78,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animatie uit</item>
-        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 0.5x</item>
         <item>Animatieschaal 1x</item>
         <item>Animatieschaal 1.5x</item>
         <item>Animatieschaal 2x</item>
@@ -206,10 +128,6 @@
         <item>Uit</item>
         <item>Getekende gebieden weergeven</item>
         <item>Gebieden voor deuteranomalie weergeven</item>
-    </string-array>
-	    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (standaard)</item>
-        <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standaardlimiet</item>
