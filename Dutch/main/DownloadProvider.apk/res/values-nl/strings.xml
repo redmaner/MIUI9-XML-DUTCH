@@ -1,27 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Downloads</string>
-  <string name="auto_restart_under_wifi">Bestand zal automatisch downloaden wanneer verbonden met Wi-Fi</string>
+  <string name="app_label">Download Manager</string>
+  <string name="auto_restart_under_wifi">Wi-Fi will automatically download this file</string>
   <string name="button_cancel_download">Annuleren</string>
   <string name="button_download_now">Nu downloaden</string>
   <string name="button_queue_for_wifi">Wachtrij</string>
   <string name="button_start_now">Nu starten</string>
   <string name="button_wait_for_wifi">Wachten</string>
-  <string name="dialog_button_cancel">Annuleren</string>
-  <string name="dialog_button_ok">OK</string>
-  <string name="dialog_content_limit0">Downloads beperken</string>
-  <string name="dialog_content_limit_max">Ongelimiteerd</string>
-  <string name="dialog_data_limit_button1">Wachten op Wi-Fi</string>
-  <string name="dialog_data_limit_button2">Nu downloaden</string>
-  <string name="dialog_data_limit_msg1">%s mobiele data zal worden verbruikt om dit bestand te downloaden. Nu downloaden?</string>
-  <string name="dialog_data_limit_msg3">Limiet wijzigen</string>
-  <string name="dialog_data_limit_title">Waarschuwing datagebruik</string>
   <string name="dialog_insufficient_space_on_cache">Niet genoeg ruimte op interne opslag</string>
   <string name="dialog_insufficient_space_on_external">Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_not_show_again">Niet meer weergeven</string>
-  <string name="dialog_tip_limit">Waarschuwen bij downloaden van bestand groter dan %s</string>
-  <string name="dialog_tip_limit0">Altijd waarschuwen</string>
-  <string name="dialog_tip_no_limit">Niet waarschuwen</string>
   <string name="download_apk_desktop_installing">Installeren</string>
   <string name="download_apk_desktop_pause">Gepauzeerd</string>
   <string name="download_apk_desktop_pending">In afwachting</string>
@@ -65,9 +53,9 @@
   <string name="permlab_downloadCompletedIntent">Downloadmeldingen verzenden.</string>
   <string name="permlab_downloadManager">Downloadbeheer weergeven.</string>
   <string name="permlab_downloadManagerAdvanced">Geavanceerde downloadbeheer functies.</string>
-  <string name="permlab_downloadWithoutNotification">Bestanden downloaden zonder melding</string>
+  <string name="permlab_downloadWithoutNotification">bestanden downloaden zonder melding</string>
   <string name="permlab_seeAllExternal">Alle downloads op USB opslag bekijken</string>
-  <string name="privacy_notif_content">Tik om details te bekijken.</string>
+  <string name="privacy_notif_content">Aanraken om details te bekijken.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator staat aan</string>
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">"Xunlei Accelerator gebruiken om je downloads te versnellen? De URL van de download gastheer  zal geüpload naar de servers van Xunlei's. Uw Mi Account gegevens zullen ook worden geüpload om te controleren of u een actieve abonnementen hebt op deze dienst."</string>
@@ -81,13 +69,13 @@
   <string name="warning_tip_content">Je bent niet meer verbonden met Wi-Fi. Mobiel internet gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Waarschuwing dataverbruik</string>
-  <string name="wifi_recommended_body" formatted="false">"Als u deze download van %s nu start, kan dit de levensduur van de batterij verkorten en/of leiden tot veel gebruik van uw mobiele data. Uw provider kan hiervoor kosten aanrekenen.
+  <string name="wifi_recommended_body" formatted="false">"You must use Wi-Fi to complete this %s download. 
 
-Tik op '%s' om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
+Aanraken om '%s' om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_recommended_title">In wachtrij plaatsen om later te downloaden?</string>
   <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze download van %s te voltooien.
 
-Tik op %s om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
+Aanraken om %s om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_required_title">Het bestand is te groot om te downloaden met mobiel internet</string>
   <string name="xl_speedup_experience_notify_context">De snelheid wordt verhoogd voor elke download als je een Xunlei lid bent</string>
   <string name="xl_speedup_experience_notify_title">Xunlei lidmaatschap</string>

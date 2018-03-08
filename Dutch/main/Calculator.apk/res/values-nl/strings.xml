@@ -109,6 +109,7 @@
   <string name="mortgage_tab_commercial_loan">Commercieel</string>
   <string name="mortgage_years_amount">Hypotheekperiode</string>
   <string name="mulDesc">vermenigvuldigen</string>
+  <string name="negDesc">Switch between temperatures below and above zero</string>
   <string name="network_confirm_content">"Valuta, belastingen en hypotheek berekenen heeft een werkende netwerkverbinding en toegang tot locatieservices nodig om normaal te werken."</string>
   <string name="network_confirm_title">Toestemmingen vereist</string>
   <string name="percentDesc">procent</string>
