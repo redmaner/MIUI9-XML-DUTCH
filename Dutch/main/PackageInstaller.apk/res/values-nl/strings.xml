@@ -320,7 +320,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="power_remaining_duration_only">Approx. %1$s left</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
   <string name="privacyPerms">Privacy</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="remaining_length_format">%1$s resterend</string>
   <string name="review_button_cancel">Annuleren</string>
   <string name="review_button_continue">Doorgaan</string>

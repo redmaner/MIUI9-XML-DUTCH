@@ -2958,7 +2958,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="private_sms_recording_intro_header">Teken een ontgrendelpatroon:</string>
   <string name="private_sms_reset_by_account">Log in op uw Mi account om uw wachtwoord te resetten.</string>
   <string name="process_dex2oat_label">Appoptimalisatie</string>
-  <string name="process_kernel_label">Android besturingssysteem</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Provider %1$s in gebruik.</string>
   <string name="process_service_in_use_description">Service %1$s in gebruik.</string>
