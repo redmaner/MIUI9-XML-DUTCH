@@ -435,10 +435,9 @@ of apparaat te wissen."</string>
   <string name="micloud_warn_full_title">Geen ruimte meer</string>
   <string name="micloud_warn_low_sum">Uw Mi Cloud is 90% vol.</string>
   <string name="micloud_warn_low_title">Bijna geen ruimte meer</string>
-  <string name="micloud_web_discription">Bezoek i.mi.com</string>
   <string name="micloud_web_discription_01">Aanmelden op i.mi.com</string>
   <string name="micloud_web_discription_02">Om op te slaan en toegang te krijgen tot uw bestanden vanaf iedere locatie</string>
-  <string name="micloud_web_discription_international">Bezoek www.mi.com/micloud</string>
+  <string name="micloud_web_discription_place_holder">Bezoek %1$s</string>
   <string name="micloud_website">Mi Cloud items</string>
   <string name="micloud_wipe_data_confirm_label">Verwijder data van Mi Cloud</string>
   <string name="micloud_wipe_data_confirm_title">Verwijder items die gesync. zijn met Mi Cloud van de telefoon na afmelden?</string>

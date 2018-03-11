@@ -2,15 +2,45 @@
 <resources>
   <string name="access_sd_fail">Toegang tot USB opslag mislukt</string>
   <string name="accessibility_audio_shutter_bg">Audio sluiter achtergrond</string>
+  <string name="accessibility_back_preview_status">Voorbeeld van achterste camera</string>
+  <string name="accessibility_beauty_panel_closed">Verfraaiingsmenu is verborgen</string>
+  <string name="accessibility_beauty_panel_open">Verfraaiingsmenu is open</string>
+  <string name="accessibility_beauty_switch_closed">Verfraaiïng is uitgeschakeld</string>
+  <string name="accessibility_beauty_switch_open">Verfraaiïng is ingeschakeld</string>
+  <string name="accessibility_bokeh_normal">Voorste camera achtergrond blur is uitgeschakeld</string>
+  <string name="accessibility_bokeh_on">Voorste camera achtergrond blur is ingeschakeld</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Voorste en achterste camera wisselen</string>
+  <string name="accessibility_camera_picker_finish">Wisselen tussen camera\'s gelukt</string>
+  <string name="accessibility_camera_shutter_finish">Foto nemen gelukt</string>
+  <string name="accessibility_closed">Turned off</string>
   <string name="accessibility_effect_mode_button">Effectknop</string>
+  <string name="accessibility_filter_close_panel">Filtermenu gesloten</string>
+  <string name="accessibility_filter_open_panel">Filtermenu open</string>
+  <string name="accessibility_filter_pad_close">Filtermenu is verborgen</string>
+  <string name="accessibility_flash_auto">Auto flash is ingeschakeld</string>
   <string name="accessibility_flash_mode_button">Flitsknop</string>
+  <string name="accessibility_flash_off">Flash is uitgeschakeld</string>
+  <string name="accessibility_flash_on">Flash is ingeschakeld</string>
+  <string name="accessibility_flash_torch">Flash is ingeschakeld, zaklamp modus</string>
+  <string name="accessibility_focus_status">%1$sX zoom</string>
+  <string name="accessibility_foucs_peak">Piekwaarde</string>
+  <string name="accessibility_front_preview_status">Voorbeeld van voorste camera</string>
   <string name="accessibility_hdr">HDR wisselknop</string>
+  <string name="accessibility_hdr_auto">Auto HDR is ingeschakeld</string>
+  <string name="accessibility_hdr_live">HDR Live is ingeschakeld</string>
+  <string name="accessibility_hdr_normal">HDR Pro is ingeschakeld</string>
+  <string name="accessibility_hdr_off">HDR is off</string>
+  <string name="accessibility_hdr_on">HDR is ingeschakeld</string>
+  <string name="accessibility_intent_done_apply">Klaar</string>
   <string name="accessibility_mode_dismiss_button">Modusselectieknop sluiten</string>
+  <string name="accessibility_more">Meer</string>
+  <string name="accessibility_open">ingeschakeld</string>
   <string name="accessibility_peak">Focus Peak knop</string>
   <string name="accessibility_review_thumbnail">Meest recente foto</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
+  <string name="accessibility_selected">Selected items</string>
+  <string name="accessibility_setting">Settings</string>
   <string name="accessibility_setting_button">Extra instellingen knop</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
   <string name="accessibility_skin_beautify_button">HuidVerfraaiKnop</string>
@@ -37,8 +67,8 @@
   <string name="dual_camera_lens_covered_toast">De lens is bedekt.</string>
   <string name="dual_camera_lowlight_toast">Het lijkt erop dat het te donker is.</string>
   <string name="dual_camera_too_close_toast">De camera is te dichtbij het object.</string>
-  <string name="dual_camera_use_hint">"Stereo mode helps you blur the background.
-The object shouldn't be further than 2 meters."</string>
+  <string name="dual_camera_use_hint">"De stereomodus helpt u de achtergrond te vervagen.
+Het object mag niet verder dan 2 meter zijn."</string>
   <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
   <string name="face_age_info">Leeftijd: %d (%1$s)</string>
   <string name="face_analyze_info_female">Vrouw</string>
@@ -62,8 +92,8 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_2">Gemiddeld</string>
   <string name="face_beauty_intelligent_level_3">Hoog</string>
   <string name="face_beauty_smart">Slim</string>
-  <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
-facial expression to synthesize into a photo"</string>
+  <string name="groupshot_mode_use_hint">"Meerdere foto's zullen worden genomen om het beste te selecteren
+gezichtsuitdrukking om te synthetiseren in een foto"</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Installeren</string>
   <string name="message_snap_double_confirm">Volumetoets lang ingedrukt houden activeerd NFC, deze functie vervanging?</string>
@@ -73,7 +103,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Plaats de pijl op één lijn met de referentielijn</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Blijf doorgaan…</string>
-  <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
+  <string name="pano_how_to_use_prompt_slow_down">Vertragen</string>
   <string name="pano_how_to_use_prompt_to_move">Begin langzaam te bewegen</string>
   <string name="path_settings">Systeemapps/Camera/Instellingen</string>
   <string name="pref_advance_settings">Extra instellingen</string>
@@ -87,7 +117,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_antibanding_entry_0">Uit</string>
   <string name="pref_camera_antibanding_title">Anti streepvorming</string>
   <string name="pref_camera_asd_night_title">Foto\'s met weinig omgevingslicht automatisch verbeteren</string>
-  <string name="pref_camera_asd_popup_title">Notify when flash is needed</string>
+  <string name="pref_camera_asd_popup_title">Melden wanneer flitslicht nodig is</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Om een object te selecteren, tikt u op twee diagonale punten rond de grens. Wanneer het object stilstaat zal de camera  automatisch een foto nemen.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Object vastleggen wanneer het stilstaat</string>
@@ -125,7 +155,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-  <string name="pref_camera_face_info_watermark_title">Add age stamp in photo</string>
+  <string name="pref_camera_face_info_watermark_title">Leeftijdstempel in foto toevoegen</string>
   <string name="pref_camera_facedetection_title">Gezichtsdetectie</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Uit</string>
@@ -266,7 +296,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_skin_beautify_intelligent_title">Slim</string>
   <string name="pref_skin_beautify_slim_title">Slank</string>
   <string name="pref_skin_beautify_smooth_title">Huid</string>
-  <string name="pref_video_captrue_ability_title">Image capture while recording</string>
+  <string name="pref_video_captrue_ability_title">Beeld vastleggen tijdens opname</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_title">Focus mode</string>
   <string name="pref_video_quality_title">Videokwaliteit</string>
