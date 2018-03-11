@@ -851,6 +851,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="carrier_enabled">APN inschakelen/uitschakelen</string>
   <string name="carrier_enabled_summaryOff">APN uitgeschakeld</string>
   <string name="carrier_enabled_summaryOn">APN ingeschakeld</string>
+  <string name="carrier_show_in_lock_screen">Alleen weergeven op vergrendelscherm</string>
+  <string name="carrier_show_none">Providernaam nooit weergeven</string>
   <string name="category_personal">Privé</string>
   <string name="category_work">Werk</string>
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
@@ -2300,6 +2302,8 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="memory_settings_title">Geheugen</string>
   <string name="memory_size">Totale ruimte</string>
   <string name="memory_summary">Gem. %1$s van %2$s geheugen gebruikt</string>
+  <string name="memory_system_rom">Systeem opslag</string>
+  <string name="memory_system_space">System opslag</string>
   <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Totaal: %2$s</string>
   <string name="memory_usage">Geheugengebruik</string>
   <string name="memory_usage_apps">Geheugen gebruikt door apps</string>
@@ -4348,7 +4352,7 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="untitled_apn">Naamloos</string>
   <string name="update_new_version">Update is beschibaar</string>
   <string name="update_progress_for_updates">Updaten （%s）</string>
-  <string name="upload_debug_log_summary">De verzamelde informatie kan uw persoonlijke data bevatten. De gegevens zullen worden gebruikt voor het vinden en analyseren van de problemen in het systeem en zullen nooit worden gebruikt om u persoonlijk te identificeren.</string>
+  <string name="upload_debug_log_summary">Gebruikstatistieken die ons helpen problemen op te sporen en op te lossen, bevatten mogelijk uw persoonlijke gegevens</string>
   <string name="upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="usage">Verbruik</string>
   <string name="usage_access">Gebruikstoegang</string>
@@ -4495,7 +4499,7 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="user_exit_guest_dialog_remove">Verwijderen</string>
   <string name="user_exit_guest_title">Gast verwijderen</string>
   <string name="user_experience_program">Gebruikerservaringsprogramma</string>
-  <string name="user_experience_program_summary">Help MIUI verbeteren door het sturen van anonieme gebruiksgegevens</string>
+  <string name="user_experience_program_summary">Help ons onze producten en diensten te verbeteren door uw gebruiksstatistieken met ons te delen</string>
   <string name="user_experience_program_title">Gebruikerservaringsprogramma</string>
   <string name="user_guest">Gast</string>
   <string name="user_image_choose_photo">Foto kiezen in galerij</string>

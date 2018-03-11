@@ -275,6 +275,7 @@
   <string name="tuesday_short">Di</string>
   <string name="tuesday_shortest">D</string>
   <string name="user_agreement">Servicevoorwaarden</string>
+  <string name="user_experience_program">Gebruikers ervaringsprogramma</string>
   <string name="user_manual">Handleiding</string>
   <string name="web_sso_login_fail">Je moet opnieuw aanmelden</string>
   <string name="web_sso_login_message">Aanmelden…</string>

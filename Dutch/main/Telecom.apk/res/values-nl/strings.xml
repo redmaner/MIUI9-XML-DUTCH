@@ -252,7 +252,7 @@ Sample Rate"</string>
   <string name="no_vm_number_msg">Er is een voicemailnummer opgeslagen op de SIM kaart.</string>
   <string name="non_primary_user">Alleen de eigenaar van het apparaat kan geblokkeerde nummers bekijken en beheren.</string>
   <string name="notification_AllMissedCallTitle">Alle gemiste oproepen</string>
-  <string name="notification_channel_incoming_call">Inkoende oproepen</string>
+  <string name="notification_channel_incoming_call">Inkomende oproepen</string>
   <string name="notification_channel_missed_call">Gemiste oproepen</string>
   <string name="notification_incoming_call">%1$s oproep van %2$s</string>
   <string name="notification_incoming_video_call">%1$s video-oproep van %2$s</string>
@@ -426,7 +426,7 @@ Sample Rate"</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certificaat</string>
   <string name="wifi_no_internet">Geen internettoegang</string>
-  <string name="wifi_no_internet_no_reconnect">Zal niet autoatisch verbinden</string>
+  <string name="wifi_no_internet_no_reconnect">Zal niet automatisch verbinden</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_remembered">Opgeslagen</string>
   <string name="wifi_security_eap">802.1x EAP</string>

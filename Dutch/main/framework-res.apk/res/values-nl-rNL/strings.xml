@@ -62,6 +62,7 @@
   <string name="activitychooserview_choose_application_error">Kan %s niet starten</string>
   <string name="adb_active_notification_message">Tik om USB foutopsporing uit te schakelen.</string>
   <string name="adb_active_notification_title">USB foutopsporing verbonden</string>
+  <string name="adb_debugging_notification_channel_tv">USB debugging</string>
   <string name="addToDictionary">Toevoegen aan woordenboek</string>
   <string name="add_account_button_label">Account toevoegen</string>
   <string name="add_account_label">Een account toevoegen</string>
@@ -236,9 +237,10 @@ met %s"</string>
   <string name="date_time_set">Instellen</string>
   <string name="day">dag</string>
   <string name="days">dagen</string>
+  <string name="db_default_sync_mode">FULL</string>
+  <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Weigeren</string>
   <string name="decline_remote_bugreport_action">WEIGEREN</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Voicemail</string>
   <string name="default_audio_route_category_name">Systeem</string>
   <string name="default_audio_route_name">Telefoon</string>
@@ -301,7 +303,7 @@ met %s"</string>
   <string name="enablePin">Mislukt. Schakel SIM/RUIM vergrendeling in.</string>
   <string name="enable_explore_by_touch_warning_message">"%1$s wil 'Verkennen via aanraking' inschakelen. Wanneer 'Verkennen via aanraking' is ingeschakeld, kunt u beschrijvingen beluisteren of bekijken van wat er onder uw vinger staat of aanraakbewerkingen uitvoeren op de telefoon."</string>
   <string name="enable_explore_by_touch_warning_title">"'Verkennen via aanraking' aan?"</string>
-  <string name="error_message_change_not_allowed">Deze wijziging is niet toegestaan door uw administrator</string>
+  <string name="error_message_change_not_allowed">Deze wijziging is niet toegestaan door uw beheerder</string>
   <string name="error_message_title">Fout</string>
   <string name="etws_primary_default_message_earthquake">Blijf rustig en zoek onderdak.</string>
   <string name="etws_primary_default_message_earthquake_and_tsunami">Blijf rustig en zoek onderdak.</string>
@@ -311,7 +313,8 @@ met %s"</string>
   <string name="eventTypeBirthday">Verjaardag</string>
   <string name="eventTypeCustom">Aangepast</string>
   <string name="eventTypeOther">Overig</string>
-  <string name="expand_action_accessibility">uitbreiden</string>
+  <string name="expand_button_content_description_collapsed">Expand</string>
+  <string name="expand_button_content_description_expanded">Collapse</string>
   <string name="expires_on">Verloopt op:</string>
   <string name="ext_media_badremoval_notification_message">%s ontkoppelen voordat u deze verwijdert om gegevensverlies te voorkomen</string>
   <string name="ext_media_badremoval_notification_title">%s onverwacht verwijderd</string>
@@ -775,9 +778,9 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="org_name">Organisatie:</string>
   <string name="org_unit">Organisatie eenheid:</string>
   <string name="owner_name">Eigenaar</string>
-  <string name="package_deleted_device_owner">Verwijderd door uw administrator</string>
-  <string name="package_installed_device_owner">Geinstalleerd door uw administrator</string>
-  <string name="package_updated_device_owner">Geupdatet door uw administrator</string>
+  <string name="package_deleted_device_owner">Verwijderd door uw beheerder</string>
+  <string name="package_installed_device_owner">Geinstalleerd door uw beheerder</string>
+  <string name="package_updated_device_owner">Geupdatet door uw beheerder</string>
   <string name="passwordIncorrect">Onjuist wachtwoord.</string>
   <string name="paste">Plakken</string>
   <string name="paste_as_plain_text">Paste as plain text</string>
@@ -915,7 +918,6 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="permission_request_notification_title">Toestemming gevraagd</string>
   <string name="permission_request_notification_with_subtitle">"Toestemming gevraagd
 voor account %s."</string>
-  <string name="permission_title">Toestemming</string>
   <string name="permlab_accessCoarseLocation">geschatte locatie (netwerkgebaseerd)</string>
   <string name="permlab_accessDrmCertificates">toegang tot DRM certificaten</string>
   <string name="permlab_accessFineLocation">precieze locatie (GPS- en netwerkgebaseerd)</string>
@@ -1207,7 +1209,7 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="share">Delen</string>
   <string name="share_action_provider_share_with">Delen met</string>
   <string name="share_remote_bugreport_action">DELEN</string>
-  <string name="share_remote_bugreport_notification_message_finished">Your IT admin requested a bug report to help troubleshoot this device. Apps and data may be shared.</string>
+  <string name="share_remote_bugreport_notification_message_finished">Your admin admin requested a bug report to help troubleshoot this device. Apps and data may be shared.</string>
   <string name="share_remote_bugreport_notification_title">Bugrapport delen?</string>
   <string name="shareactionprovider_share_with">Delen met</string>
   <string name="shareactionprovider_share_with_application">Delen met %s</string>
@@ -1298,6 +1300,7 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="time_picker_radial_mode_description">Wisselen naar klokmodus voor de tijdinvoer.</string>
   <string name="time_picker_text_input_mode_description">Wisselen naar tekstmodus voor de tijdinvoer.</string>
   <string name="toolbar_collapse_description">Inklappen</string>
+  <string name="tooltip_popup_title">Tooltip</string>
   <string name="turn_off_radio">Draadloos uitschakelen</string>
   <string name="turn_on_radio">Draadloos inschakelen</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Raak twee keer aan voor zoomregeling</string>

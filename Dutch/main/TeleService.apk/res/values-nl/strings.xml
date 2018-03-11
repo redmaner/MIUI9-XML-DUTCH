@@ -1543,6 +1543,7 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_change_pin_dialog_title">PIN wijzigen</string>
   <string name="voicemail_default">Uw provider</string>
+  <string name="voicemail_notification_vibrate_when_title">Trillen</string>
   <string name="voicemail_notifications_preference_title">Meldingen</string>
   <string name="voicemail_number_not_set">Niet ingesteld</string>
   <string name="voicemail_provider">Dienst</string>
