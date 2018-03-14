@@ -70,7 +70,6 @@
   <string name="dual_camera_use_hint">"De stereomodus helpt u de achtergrond te vervagen.
 Het object mag niet verder dan 2 meter zijn."</string>
   <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
-  <string name="face_age_info">Leeftijd: %d (%1$s)</string>
   <string name="face_analyze_info_female">Vrouw</string>
   <string name="face_analyze_info_male">Man</string>
   <string name="face_beauty_advanced">Pro</string>
