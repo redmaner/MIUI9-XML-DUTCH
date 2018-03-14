@@ -280,7 +280,6 @@ Sample Rate"</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Nog ongeveer %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="remaining_length_format">%1$s resterend</string>
   <string name="respond_via_sms_canned_response_1">Kan nu niet praten. Wat is het probleem?</string>
   <string name="respond_via_sms_canned_response_2">Ik bel meteen terug.</string>

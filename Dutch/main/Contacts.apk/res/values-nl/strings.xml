@@ -564,7 +564,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="keep_local">Niet sync.</string>
   <string name="keep_local_btn">"Gebruik de interne opslag van de telefoon"</string>
   <string name="label_custom_type">Aangepast</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Geen duplicaten gevonden</string>
   <string name="label_notes">Opmerkingen</string>
   <string name="label_sip_address">Internetgesprek</string>
@@ -814,7 +813,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="payphone">Betaaltelefoon</string>
   <string name="people">Contacten</string>
   <string name="phoneLabelsGroup">Telefoon</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Nummer is te lang</string>
   <string name="phone_primary">Primaire</string>
   <string name="photoPickerNotFoundText">Er zijn geen foto\'s beschikbaar op de telefoon.</string>

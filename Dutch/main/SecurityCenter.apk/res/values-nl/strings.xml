@@ -1469,7 +1469,6 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en providerdetails zullen gecodeerd en geüpload worden naar de servers van Mi om informatie over uw dataverbruik bij te werken.</string>
   <string name="privacy_prompt_traffic_adjust_message">Deze functie moet IMEI, telefoonnummer en providerinformatie van uw apparaat gecodeerd naar de servers van Mi verzenden om statistieken over dataverbruik van uw provider te verkrijgen.</string>
   <string name="privacy_prompt_upload">Upload</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="promotion">Adv.</string>
   <string name="prompt_all">Voor alle vragen</string>

@@ -201,7 +201,6 @@
   <string name="pause_prompt_no">Nee</string>
   <string name="pause_prompt_yes">Ja</string>
   <string name="payphone">Betaaltelefoon</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Contactinfo verkrijgen…</string>
   <string name="private_num">Privénummer</string>
   <string name="remind_unlock_message">Uw apparaat is nu vergrendeld. \"%s\" zal beschikbaar zijn nadat u het apparaat ontgrendelt. Nu ontgrendelen?</string>

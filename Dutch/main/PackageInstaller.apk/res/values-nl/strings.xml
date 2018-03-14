@@ -311,17 +311,13 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="pointer_location_summary">Schermoverlay geeft huidige aanraakgegevens weer</string>
   <string name="power_charging_duration">%1$s - %2$s until full</string>
   <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_duration_only">Approx. %1$s left</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
   <string name="privacyPerms">Privacy</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="remaining_length_format">%1$s resterend</string>
   <string name="review_button_cancel">Annuleren</string>
   <string name="review_button_continue">Doorgaan</string>
