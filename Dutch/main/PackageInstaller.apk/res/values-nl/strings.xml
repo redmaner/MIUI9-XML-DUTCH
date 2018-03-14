@@ -174,8 +174,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
   <string name="enable_freeform_support_summary">Ondersteuning inschakelen voor experimentele freeform windows.</string>
   <string name="enable_opengl_traces_title">OpenGL resten inschakelen</string>
-  <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
-  <string name="enable_terminal_title">Local terminal</string>
   <string name="enable_terminal_summary">Terminal app inschakelen die lokale shelltoegang geeft</string>
   <string name="enable_terminal_title">Lokale terminal</string>
   <string name="enable_webview_multiprocess">Multiprocess WebView</string>

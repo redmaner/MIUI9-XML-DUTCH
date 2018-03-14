@@ -273,7 +273,6 @@ gezichtsuitdrukking om te synthetiseren in een foto"</string>
   <string name="pref_camera_whitebalance_entry_manual">Handmatig</string>
   <string name="pref_camera_whitebalance_entry_measure">Meten</string>
   <string name="pref_camera_whitebalance_title">Witbalans</string>
-  <string name="pref_camera_whitebalance_title">White balance</string>
   <string name="pref_camera_zsl_entry_off">Uit</string>
   <string name="pref_camera_zsl_entry_on">Aan</string>
   <string name="pref_capture_settings">Camera</string>

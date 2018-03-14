@@ -292,7 +292,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_sees_restricted_accounts">Deze app heeft toegang tot uw accounts</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Deze app heeft toegang tot uw accounts. Gecontroleerd door %1$s</string>
   <string name="app_special_disable_dlg_text">If you disable this app, other apps may no longer function as intended. Your data will also be deleted.</string>
-  <string name="app_special_disable_dlg_text">Als je deze app uitschakelt kunnen Android en andere apps mogelijk niet werken zoals bedoeld. Gegevens worden ook gewist.</string>
   <string name="app_special_disable_dlg_title">Gegevens verwijderen en app uitschakelen?</string>
   <string name="app_switch_key">Menu</string>
   <string name="app_usage_preference">Appgebruik voorkeuren</string>
@@ -530,9 +529,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="bluetooth_ask_enablement_and_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">wil Bluetooth inschakelen en zichtbaar maken voor andere apparaten voor %1$d seconden.</string>
   <string name="bluetooth_ask_enablement_and_discovery_no_name">Een app wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten voor %1$d seconden.</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth instellingen.</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth instellingen.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth instellingen.</string>
   <string name="bluetooth_ask_enablement_detected">wil Bluetooth inschakelen.</string>
   <string name="bluetooth_ask_lasting_discovery">An app wants to make your phone visible to other Bluetooth devices. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s wants to turn on Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
@@ -988,7 +986,6 @@ Waarschuwing Dit zal alle gegevens wissen.
 Deze functie is alpha en werkt mogelijk niet goed.
 Druk op 'Wissen en converteren…' om door te gaan."</string>
   <string name="convert_to_file_encryption_done">Files are encrypted</string>
-  <string name="convert_to_file_encryption_done">Reeds in bestandsencryptie</string>
   <string name="convert_to_file_encryption_enabled">Converteren…</string>
   <string name="copyright_title">Auteursrecht</string>
   <string name="country_name">%s (systeem)</string>
@@ -1232,7 +1229,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="deny">Weigeren</string>
   <string name="details_subtitle">Gebruiksdetails</string>
   <string name="details_title">Use details</string>
-  <string name="dev_settings_warning_message">These settings are intended for developers only. Enabling these features may make your device and the apps on it misbehave or cause errors.</string>
   <string name="dev_settings_warning_message">Deze instellingen zijn bedoeld voor ontwikkelingsdoeleinden. Het kan ervoor zorgen dat je apparaat of de applicaties zich misdragen.</string>
   <string name="dev_settings_warning_title">Ontwikkelingsinstellingen toestaan?</string>
   <string name="developer_build">" | Beta"</string>
@@ -1769,7 +1765,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="imei_information_title">IMEI informatie</string>
   <string name="immediately_destroy_activities">Activiteiten niet behouden</string>
   <string name="immediately_destroy_activities_summary">End every activity as soon as the user leaves it</string>
-  <string name="importance_reset">Reset</string>
   <string name="importance_reset">Resetten</string>
   <string name="inactive_app_active_summary">Actief. Druk om te schakelen.</string>
   <string name="inactive_app_inactive_summary">Inactief. Druk om te schakelen.</string>
@@ -4751,12 +4746,8 @@ WLAN Assistant"</string>
   <string name="wifi_assistant_title_message">Google WLAN Assistant automatically connects you to the best available WLAN</string>
   <string name="wifi_assistant_vpn_message">To help protect your data, Google WLAN Assistant may provide a secure VPN connection through Google servers.</string>
   <string name="wifi_auto_connect">Automatisch verbinden</string>
-  <string name="wifi_auto_connect_type_summary">Specify network connection type</string>
   <string name="wifi_auto_connect_type_title">Auto connect type</string>
-  <string name="wifi_automatically_connect_summary">Let a Wi‑Fi assistant automatically connect to open networks determined to be high quality</string>
-  <string name="wifi_automatically_connect_title">Use open Wi‑Fi automatically</string>
-  <string name="wifi_automatically_manage_summary">Let a WLAN assistant manage your WLAN connection</string>
-  <string name="wifi_automatically_manage_title">Automatically manage WLAN</string><string name="wifi_auto_connect_type_summary">Specify network connection type</string>
+  <string name="wifi_auto_connect_type_summary">Specify network connection type</string>
   <string name="wifi_auto_connect_type_title">Auto connect type</string>
   <string name="wifi_automatically_connect_summary">Let a Wi‑Fi assistant automatically connect to open networks determined to be high quality</string>
   <string name="wifi_automatically_connect_title">Use open Wi‑Fi automatically</string>
