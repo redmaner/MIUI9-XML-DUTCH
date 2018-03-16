@@ -141,7 +141,6 @@
   <string name="app_manager_app_info_label">Appinfo</string>
   <string name="app_manager_app_info_name">Appnaam</string>
   <string name="app_manager_app_info_pkg">APK naam</string>
-  <string name="app_manager_app_lock">Appvergrendeling</string>
   <string name="app_manager_app_power">"Batterij gebruik: "</string>
   <string name="app_manager_app_storage">"Oplag: "</string>
   <string name="app_manager_app_traffic">"Data opslag: "</string>
@@ -201,7 +200,6 @@
   <string name="app_manager_net_mobile">Mobiele data</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Nee</string>
-  <string name="app_manager_not_support_uninstall">Kan deze apps niet verwijderen</string>
   <string name="app_manager_notify_bar">Badges</string>
   <string name="app_manager_notify_floating">Zwevende meldingen</string>
   <string name="app_manager_notify_keyguard">Vergrendelscherm</string>
@@ -232,10 +230,10 @@
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_start_by">Gestart door %s</string>
-  <string name="app_manager_support_uninstall">Je kan deze apps verwijderen</string>
   <string name="app_manager_system_mobile_disable">Data uitschakelen</string>
   <string name="app_manager_title">Apps beheren</string>
   <string name="app_manager_total_size">Totaal</string>
+  <string name="app_manager_uninstall">Uninstall</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Systeemapps verwijderen kan ervoor zorgen dat sommige MIUI componenten niet meer goed werken. Toch verwijderen?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Systeemapps verwijderen</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Gedupliceerde apps zullen worden verwijderd samen met de appgegevens.</string>
@@ -772,7 +770,20 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gb_description_image_button_answer">Opnemen</string>
   <string name="gb_description_image_button_reject">Weigeren</string>
   <string name="gb_description_image_button_video_answer">Video-oproep</string>
+  <string name="gb_get_gift_right_now">Check in now</string>
+  <string name="gb_have_signed">Checked in today</string>
+  <string name="gb_network_status_bad">A connection error occurred.</string>
   <string name="gb_new_feature">Nieuwe functie</string>
+  <string name="gb_sign_gift">Check in to get rewards</string>
+  <string name="gb_sign_gift_button_text">Receive</string>
+  <string name="gb_sign_notification_summary">Check in daily to receive Xunyou boost</string>
+  <string name="gb_sign_notification_title">Boost network speed for games</string>
+  <string name="gb_signed_gift_loading_fail">"Couldn't load"</string>
+  <string name="gb_signed_gift_loading_summary">Just a sec…</string>
+  <string name="gb_signed_title">Checked in this month</string>
+  <string name="gb_xunyou_gift_type_one">Xunyou 1-day boost</string>
+  <string name="gb_xunyou_gift_type_three">Xunyou 3-day boost</string>
+  <string name="gb_xunyou_gift_type_two">Xunyou 2-day boost</string>
   <string name="gdpr_msg">&lt;Data&gt;"Om de basisfuncties van Beveiliging te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt, inclusief informatie over de manier waarop u de functies van Beveiliging gebruikt (bijv. Statistieken voor mobiel gegevensgebruik, informatie over malware, evenals basisinformatie over uw apparaat) en andere soorten informatie die worden vermeld in onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Info verkrijgen…</string>
   <string name="gmscore_support_remind">Schakel deze functie in als je problemen ervaart met Gmail, Google Maps en andere Google apps. Het zal de accuduur iets verminderen.</string>
@@ -799,6 +810,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gs_game_shortcut">Verbeter uw game-ervaring</string>
   <string name="gs_only_self_start_for_list">Beperk achtergrondprocessen om batterij te sparen voor gaming</string>
   <string name="gs_open_game_booster">Snelheid opvoeren</string>
+  <string name="gs_open_game_booster_summary">Boost network speed for games</string>
   <string name="gs_performance_mode">Prestatiemodus</string>
   <string name="gs_performance_mode_detail">Verhoging van CPU frequentie om naadloze prestaties te garanderen</string>
   <string name="guide_get_operator_error">Verkeerde provider?</string>
@@ -1605,6 +1617,10 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="shutdown_cancel_reminder_detail2">Het lijkt erop dat u een game aan het spelen bent. Uw telefoon zal niet uitschakelen volgens schema.</string>
   <string name="signal_exception_summary">Kan geen verbinding maken met het netwerk in dit gebied.</string>
   <string name="signal_exception_title">Signaalsterkte testen</string>
+  <string name="signed_rule">Rules</string>
+  <string name="signed_rule_one">1.Check in 10, 20, or 28 days in a row every month to get a Xunyou boost for 1, 2, or 3 days respectively.</string>
+  <string name="signed_rule_three">"3.Days when you check in are annulled at the beginning of every month. The remaining days aren't rolled over."</string>
+  <string name="signed_rule_two">2.You can get only 1 Xunyou boost per month.</string>
   <string name="sim_location_diagnostic">Locatiediagnose</string>
   <string name="sim_location_error_dialog_message">"De SIM kaart die je gebruikt is van %1$s. Deze is anders dan de locatie die u handmatig hebt ingesteld (%2$s). Wijzig SIM locatie naar %3$s?"</string>
   <string name="sim_location_error_notify_message">Tik om SIM locatie te wijzigen.</string>

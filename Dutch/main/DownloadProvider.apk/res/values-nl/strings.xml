@@ -46,7 +46,7 @@
   <string name="permdesc_downloadCompletedIntent">Hiermee kan de app meldingen verzenden over voltooide downloads. Schadelijke apps kunnen dit gebruiken om andere apps die bestanden downloaden in verwarring te brengen.</string>
   <string name="permdesc_downloadManager">Hiermee heeft de app toegang tot downloadbeheer en kan de app via downloadbeheer bestanden downloaden. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
   <string name="permdesc_downloadManagerAdvanced">Hiermee heeft de app toegang tot de geavanceerde functies van downloadbeheer. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
-  <string name="permdesc_downloadWithoutNotification">Hiermee kan de app bestanden downloaden zonder enige melding te tonen aan de gebruiker.</string>
+  <string name="permdesc_downloadWithoutNotification">Allows the app to download files through the download manager without any notification being shown to the user.</string>
   <string name="permdesc_seeAllExternal">Hiermee kan de app alle downloads op de SD kaart zien, ongeacht welke app ze heeft gedownload.</string>
   <string name="permlab_accessAllDownloads">Toegang geven tot alle systeemdownloads</string>
   <string name="permlab_downloadCacheNonPurgeable">Ruimte in de downloadcache reserveren</string>

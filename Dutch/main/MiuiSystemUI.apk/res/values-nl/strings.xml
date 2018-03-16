@@ -170,7 +170,6 @@
   <string name="bluetooth_profile_sap">Used for accessing SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">Verbonden met SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Gebruikt om toegang te krijgen tot SIM</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
   <string name="bluetooth_tethered">Bluetooth getetherd</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI snoop log inschakelen</string>
   <string name="bt_hci_snoop_log_summary">Alle bluetooth HCI pakketten in een bestand opnemen</string>
@@ -209,7 +208,7 @@ Waarschuwing Dit zal alle gegevens wissen.
 Deze functie is in ontwikkeling, en werkt misschien niet correct.
 Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="convert_to_file_encryption">Omzetten naar bestandsversleuteling</string>
-  <string name="convert_to_file_encryption_done">Bestanden zijn al versleuteld</string>
+  <string name="convert_to_file_encryption_done">Bestanden zijn versleuteld</string>
   <string name="convert_to_file_encryption_enabled">Converteren…</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (rood-groen)</string>
   <string name="daltonizer_mode_disabled">Uigeschakeld</string>
@@ -255,8 +254,8 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="disable_notification_title">Meldingen verbergen</string>
   <string name="disable_overlays">HW overlay uitschakelen</string>
   <string name="disable_overlays_summary">Altijd GPU gebruiken voor schermrendering</string>
-  <string name="disabled_by_admin">Uitgeschakeld door administrator</string>
-  <string name="disabled_by_admin_summary_text">Gecontroleerd door admin</string>
+  <string name="disabled_by_admin">Uitgeschakeld door beheerder</string>
+  <string name="disabled_by_admin_summary_text">Gecontroleerd door beheerder</string>
   <string name="dismount_storage">Nee</string>
   <string name="divider_menu_close">Sluiten</string>
   <string name="divider_menu_select_apps">Selecteren</string>
@@ -403,6 +402,9 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="long_screenshot_stop">Klaar</string>
   <string name="long_screenshot_top_msg">Schermafdruk maken…</string>
   <string name="long_screenshot_top_msg_manual">Schermafdruk bijsnijden, tik op de knop om te beëindigen</string>
+  <string name="low_temperature_button_ok">Got it</string>
+  <string name="low_temperature_warning_message">The temperature is too low,the phone may shut down at any time, please save the data.</string>
+  <string name="low_temperature_warning_title">Shutdown warning</string>
   <string name="managed_profile_foreground_toast">U gebruikt uw werkprofiel</string>
   <string name="managed_user_title">Alle werkapps</string>
   <string name="mdb_entering">Opstarten…</string>

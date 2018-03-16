@@ -27,7 +27,7 @@
   <string name="device_owner_cancel_cancel">Annuleren</string>
   <string name="device_owner_cancel_message">Stoppen met het instellen en de gegevens van uw apparaat te wissen?</string>
   <string name="device_owner_error_already_provisioned">This device is already set up.</string>
-  <string name="device_owner_error_download_failed">Kon adminapp niet downloaden</string>
+  <string name="device_owner_error_download_failed">Kon beheerderapp niet downloaden</string>
   <string name="device_owner_error_frp">This device is locked by factory reset protection. Contact your IT department.</string>
   <string name="device_owner_error_general">"Couldn't set up your device. Contact your IT department."</string>
   <string name="device_owner_error_hash_mismatch">"Couldn't use the admin app due to a checksum error. Contact your IT department."</string>

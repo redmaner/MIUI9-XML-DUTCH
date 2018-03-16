@@ -157,7 +157,6 @@
   <string name="devicePerms">Apparaattoegang</string>
   <string name="disable_overlays">HW overlays uitschakelen</string>
   <string name="disable_overlays_summary">Altijd GPU gebruiken voor schermcompositie</string>
-  <string name="disabled">Uitgeschakeld</string>
   <string name="disabled_by_admin">Uitgeschakeld door beheerder</string>
   <string name="disabled_by_admin_summary_text">Gecontroleerd door beheerder</string>
   <string name="dlg_app_replacement_statement">"De app die u installeert verplaatst een andere app.
@@ -193,7 +192,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="grant_dialog_button_allow">Toestaan</string>
   <string name="grant_dialog_button_deny">Weigeren</string>
   <string name="grant_dialog_button_deny_anyway">Toch weigeren</string>
-  <string name="grant_dialog_button_more_info">Meer info</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
   <string name="help_feedback_label">Hulp &amp; feedback</string>
@@ -232,7 +230,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="lb_playback_controls_closed_captioning_enable">Ondertiteling inschakelen</string>
   <string name="lb_playback_controls_fast_forward">Vooruitspoelen</string>
   <string name="lb_playback_controls_fast_forward_multiplier">%1$dX vooruitspoelen</string>
-  <string name="lb_playback_controls_hidden">Mediaknoppen verborgen, tik op d-pad om weer te geven</string>
   <string name="lb_playback_controls_high_quality_disable">HQ uitschakelen</string>
   <string name="lb_playback_controls_high_quality_enable">HQ inschakelen</string>
   <string name="lb_playback_controls_more_actions">Meer acties</string>

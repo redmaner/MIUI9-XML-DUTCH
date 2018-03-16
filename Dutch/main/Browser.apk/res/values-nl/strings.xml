@@ -321,6 +321,7 @@
   <string name="go_supermarket_title">Meer apps, grotere snelheid en minder dataverbruik in App Store</string>
   <string name="gold_medals">Gouden medailles</string>
   <string name="google_bookmarks">Google</string>
+  <string name="green_kid_block_request">The website has been banned from visits by parents.</string>
   <string name="have_sent_bookmark_to_home_screen">Op startscherm geplaatst</string>
   <string name="hint">Hint</string>
   <string name="history">Geschiedenis</string>
@@ -1183,6 +1184,9 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="voice_connect_network">Kon niet verbinden met het netwerk.</string>
   <string name="voice_description">Spraakgestuurd zoeken</string>
   <string name="voice_network_connection">Spraakgestuurd zoeken heeft internet nodig om normaal te werken.</string>
+  <string name="voice_open_permission_baidu">Please go to Settings turn on voice permissions for Speech Recognition Settings</string>
+  <string name="voice_open_permission_xiaoai">Please go to Settings turn on voice permissions for Xiaoai Voice Engine</string>
+  <string name="voice_open_permission_xunfei">Please go to Settings turn on voice permissions for Voice Settings</string>
   <string name="voice_search_permission">Spraakgestuurd zoeken heeft toegang tot je microfoon nodig om normaal te werken.</string>
   <string name="voice_semantic_analysis">Browser zal in staat zijn om te analyseren nadat je toestaat om te verbinden.</string>
   <string name="voice_start_description">Starten</string>

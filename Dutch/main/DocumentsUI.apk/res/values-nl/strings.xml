@@ -58,7 +58,6 @@
   <string name="menu_new_window">New window</string>
   <string name="menu_open">Open</string>
   <string name="menu_paste_from_clipboard">Paste</string>
-  <string name="menu_paste_into_folder">Paste into folder</string>
   <string name="menu_rename">Rename</string>
   <string name="menu_save">Save</string>
   <string name="menu_search">Search</string>
@@ -95,6 +94,5 @@
   <string name="toast_no_application">Can’t open file</string>
   <string name="too_many_in_select_all">Could only select 1000 items</string>
   <string name="too_many_selected">Sorry, you can only select up to 1000 items at a time</string>
-  <string name="trusted_quick_viewer_package"/>
   <string name="undo">Undo</string>
 </resources>
