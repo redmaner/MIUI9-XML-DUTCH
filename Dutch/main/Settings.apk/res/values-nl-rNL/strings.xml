@@ -71,7 +71,6 @@ If the device has multiple users, using this shortcut on the lock screen tempora
   <string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit knop beëindigt oproep</string>
   <string name="accessibility_screen_magnification_enable">Zoombewegingen</string>
   <string name="accessibility_screen_magnification_short_summary">Tik 3 keer om te zoomen</string>
-  <string name="accessibility_screen_magnification_state_navbar_gesture">Vergroten met knop &amp; driemaal tikken</string>
   <string name="accessibility_screen_magnification_summary">Om te zoomen tik je driemaal op het scherm.
 Sleep twee of meer vingers om te slepen
 Maak een knijpbeweging met twee of meer vingers om de zoom aan te passen
@@ -80,8 +79,8 @@ U kunt ook de inhoud onder uw vinger tijdelijk vergroten door drie keer te tikke
 
 Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toetsenbord en de navigatiebalk."</string>
   <string name="accessibility_screen_magnification_title">Magnification gesture</string>
-  <string name="accessibility_services_title">Services</string>
   <string name="accessibility_service_default_description">Geen beschrijving opgegeven.</string>
+  <string name="accessibility_services_title">Services</string>
   <string name="accessibility_settings">Toegankelijkheid</string>
   <string name="accessibility_sync_disabled">Synchronisatie is uitgeschakeld</string>
   <string name="accessibility_sync_enabled">Synchronisatie is ingeschakeld</string>
@@ -531,6 +530,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="bluetooth_ask_enablement_and_discovery_no_name">Een app wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten voor %1$d seconden.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">wil Bluetooth inschakelen en je telefoon zichtbaar maken voor andere apparaten. U kunt dit later wijzigen in de Bluetooth instellingen.</string>
+  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s wants to turn on Bluetooth and Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_ask_enablement_detected">wil Bluetooth inschakelen.</string>
   <string name="bluetooth_ask_lasting_discovery">An app wants to make your phone visible to other Bluetooth devices. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s wants to turn on Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
@@ -591,7 +591,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_dock_settings_remember">Instellingen onthouden</string>
   <string name="bluetooth_dock_settings_title">Dockstation gebruiken voor audio</string>
   <string name="bluetooth_dun_profile_summary_connected">Verbonden met DUN Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Gebruiken voor Dial-up netwerk toegang</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Gebruiken voor dial-up netwerk toegang</string>
   <string name="bluetooth_empty_list_bluetooth_off">Wanneer Bluetooth is ingeschakeld, kan uw apparaat communiceren met andere Bluetooth apparaten in de omgeving.</string>
   <string name="bluetooth_empty_list_user_restricted">U hebt geen toestemming om de Bluetooth instellingen te wijzigen.</string>
   <string name="bluetooth_enable">Bluetooth</string>
@@ -645,7 +645,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_pairing_shares_phonebook">Toestaan om toegang te krijgen tot uw contacten en oproepgeschiedenis</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppelen zorgt ervoor dat u toegang verleent tot uw contacten en belgeschiedenis wanneer verbonden.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Lokale internetverbinding delen met apparaat</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Gebruik voor internettoegang</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Gebruiken voor internettoegang</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Verbonden met apparaat voor internet</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s wil toegang tot uw contacten en gespreksgeschiedenis. Toegang verlenen aan %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Niet meer vragen</string>
@@ -982,8 +982,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="controls_subtitle">Energieverbruik aanpassen</string>
   <string name="convenience_key_category_title">Systeemcontrole</string>
   <string name="convert_to_fbe_warning">"Datapartitie omzetten naar bestands gebaseerde encryptie.
-Waarschuwing Dit zal alle gegevens wissen.
-Deze functie is alpha en werkt mogelijk niet goed.
+Waarschuwing: Dit zal alle gegevens wissen.
+Deze functie is in ontwikkeling en werkt mogelijk niet goed.
 Druk op 'Wissen en converteren…' om door te gaan."</string>
   <string name="convert_to_file_encryption_done">Files are encrypted</string>
   <string name="convert_to_file_encryption_enabled">Converteren…</string>
@@ -1205,6 +1205,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="default_admin_support_msg">Deze actie is uitgeschakeld. Neem contact op met de beheerder van uw organisatie om meer te weten te komen.</string>
   <string name="default_app">(Standaard)</string>
   <string name="default_apps_title">Standaardapps</string>
+  <string name="default_assist_none">None</string>
   <string name="default_assist_title">Assistapp</string>
   <string name="default_browser_title">Browserapp</string>
   <string name="default_browser_title_none">Geen standaardbrowser</string>
@@ -1214,8 +1215,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="default_keyboard_layout">Standaard</string>
   <string name="default_phone_title">Telefoonapp</string>
   <string name="default_sound">Standaardgeluid</string>
-  <string name="default_spell_checker">Standaard spellingscontrole</string>
-  <string name="default_theme">Standaard</string>
   <string name="default_usb_mode">USB verbinding</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_fingerprint_confirm_msg">Vingerafdruk verwijderen?</string>
@@ -1238,7 +1237,6 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="development_settings_not_available">Ontwikkelaaropties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="development_settings_summary">Opties instellen voor appontwikkeling</string>
   <string name="development_settings_title">Opties voor ontwikkelaars</string>
-  <string name="device_actionbar_title">Alle specificaties</string>
   <string name="device_admin_add_title">Apparaatbeheerder</string>
   <string name="device_admin_settings_title">Instellingen apparaatbeheerder</string>
   <string name="device_admin_status">Deze beheerder is actief en zorgt ervoor dat de app %1$s de volgende handelingen kan doen:</string>
@@ -1299,6 +1297,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="disabled_by_administrator_summary">Uitgeschakeld door beheerder</string>
   <string name="disabled_by_policy_title">Actie niet toegestaan</string>
   <string name="disconnect">Verbinding verbreken</string>
+  <string name="disconnected">Disconnected</string>
   <string name="display_auto_rotate_rotate">Aan</string>
   <string name="display_auto_rotate_stay_in_current">Uit</string>
   <string name="display_auto_rotate_stay_in_landscape">Landschapmodus vergrendelen</string>
@@ -1571,8 +1570,6 @@ Dit helpt bij de bescherming van gegevens van verloren of gestolen apparaten."</
   <string name="fingerprint_unlock_set_unlock_password">Vingeradruk + wachtwoord</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Vingeradruk + patroon</string>
   <string name="fingerprint_unlock_set_unlock_pin">Vingeradruk + PIN</string>
-  <string name="fingerprint_unlock_skip_fingerprint">Doorgaan zonder vingerafdruk</string>
-  <string name="fingerprint_unlock_title">Je kan je telefoon ontgrendelen met je vingerafdruk. Om veiligheidsredenen vereist deze optie een andere schermbeveiliging als back-up.</string>
   <string name="fingerprint_usage_category_title">Vingerafdruk gebruiken voor</string>
   <string name="finish_application">Gedwongen stoppen</string>
   <string name="finish_button">Voltooien</string>
@@ -1872,7 +1869,6 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="keywords_home">launcher</string>
   <string name="keywords_hotspot">Hotspot;Tether;Tethering;Persoonlijke hotspot;Draagbare hotspot</string>
   <string name="keywords_ignore_optimizations">negeren optimalisaties doze app standby</string>
-  <string name="keywords_install_other_apps">install apps unknown sources</string>
   <string name="keywords_keyboard_and_ime">yekst correctie juist geluid trillen auto taal genbaar voorstel suggestie thema aanstootgevend woord type emoji internationaal</string>
   <string name="keywords_location">dichtbij locatie geschiedenis rapporteren</string>
   <string name="keywords_location_mode">nauwkeurigheid</string>
@@ -2533,10 +2529,10 @@ Selecteer het OS van uw computer:"</string>
   <string name="night_light_color">Kleurtemperatuur nachtmodus</string>
   <string name="night_light_summary">Zet de schermhelderheid op het laagste niveau in een omgeving met weinig licht om nachtmodus in te schakelen.</string>
   <string name="no">Nee</string>
+  <string name="no_account_found">"Couldn't find apps which can add accounts"</string>
   <string name="no_application">Niets</string>
   <string name="no_applications">Geen apps.</string>
   <string name="no_battery_summary">Geen batterijverbruik sinds laatste keer volledig opladen</string>
-  <string name="no_channels">Deze app heeft nog geen meldingen gegeven</string>
   <string name="no_connected_devices">Geen verbonden apparaten</string>
   <string name="no_data_usage">Geen data gebruikt</string>
   <string name="no_default_apps">Geen standaardapps.</string>
@@ -2797,6 +2793,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS gebruik</string>
   <string name="power_hide_mode_title">Batterijverbruik van apps beheren</string>
   <string name="power_idle">Telefoon inactief</string>
+  <string name="power_mgr">Battery</string>
   <string name="power_mode">Energie-instellingen</string>
   <string name="power_mode_balanced_title">Gebalanceerde energie</string>
   <string name="power_optimize">Batterijbespaarder</string>
@@ -3003,7 +3000,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_warning_limited_support">De HTTP proxy wordt gebruikt door de browser, maar mag niet worden gebruikt door de andere apps.</string>
   <string name="query_hint_text">Zoeken in instellingen</string>
-  <string name="quick_settings_developer_tiles">Quick settings developer tiles</string>
   <string name="quiet">Niet storen</string>
   <string name="quiet_group">Niet storen</string>
   <string name="quiet_important_interruptions_mode">Alleen uitzonderingen toestaan</string>
@@ -3543,7 +3539,7 @@ Om schermpinning te gebruiken:
   <string name="security_encryption_title">Apparaat versleutelen met vergrendelschermwachtwoord</string>
   <string name="security_keyguard_category_name">Vergrendelscherm</string>
   <string name="security_password_category_name">Schermvergrendeling</string>
-  <string name="security_passwords_title">Privacy</string>
+  <string name="security_passwords_title">Wachtwoorden</string>
   <string name="security_patch">Android beveiligingspatch niveau</string>
   <string name="security_privacy_settings_title">Wachtwoorden</string>
   <string name="security_relative">Beveiliging</string>
@@ -3676,7 +3672,7 @@ Opmerking: Je kan je vingerafdruk niet gebruiken om dit apparaat te ontgrendelen
   <string name="show_connected_devices_summary">Bekijk de verbonden apparaten</string>
   <string name="show_connected_devices_title">Verbonden apparaten</string>
   <string name="show_cpu_usage">CPU-gebruik weergeven</string>
-  <string name="show_cpu_usage_summary">Schermoverlay met huidig CPU-gebruik</string>
+  <string name="show_cpu_usage_summary">Schermoverlay met huidig CPU-gebruik weergeven</string>
   <string name="show_dev_already">Niet nodig, u bent al ontwikkelaar.</string>
   <string name="show_dev_on">U bent nu ontwikkelaar!</string>
   <string name="show_fc">Geforceerd afgesloten apps</string>
@@ -3958,8 +3954,6 @@ Deze ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal niet werke
   <string name="storage_menu_format">Formatteren</string>
   <string name="storage_menu_format_private">Formatteren als intern</string>
   <string name="storage_menu_format_public">Formatteren als draagbaar</string>
-  <string name="storage_menu_free">Ruimte vrijmaken</string>
-  <string name="storage_menu_manage">Opslag beheren</string>
   <string name="storage_menu_migrate">Gegevens migreren</string>
   <string name="storage_menu_mount">Koppelen</string>
   <string name="storage_menu_rename">Hernoemen</string>
@@ -3983,7 +3977,7 @@ Deze ^1 is geformatteerd om alleen op dit apparaat te werken. Het zal niet werke
   <string name="storage_usb">USB opslag</string>
   <string name="storage_usb_settings">Geheugen &amp; USB</string>
   <string name="storage_used">Geheugen gebruikt</string>
-  <string name="storage_volume_total">Gebruikt van %1$s</string>
+  <string name="storage_volume_summary">%1$s used of %2$s</string>
   <string name="storage_volume_used">Gebruikt van %1$s</string>
   <string name="storage_volume_used_total">Totaal gebruikt van %1$s</string>
   <string name="storage_wizard_format_confirm_body">"Dit vereist de ^1 om te zijn geformatteerd om het veilig te maken. 
@@ -4041,11 +4035,10 @@ Overweeg een snellere ^1 voor betere prestaties."</string>
   <string name="strict_mode_summary">Knipperend scherm bij lange bewerkingen door apps</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Deze apps werken het beste in fullscreenmodus</string>
   <string name="suggested_fingerprint_lock_settings_summary">Ontgrendelen met uw vingerafdruk</string>
-  <string name="suggested_fingerprint_lock_settings_title">Vingerafdruk gebruiken</string>
   <string name="suggested_lock_settings_summary">Bescherm uw apparaat</string>
-   <string name="suggested_lock_settings_title">Schermvergrendeling instellen</string>
+   <string name="suggested_lock_settings_title">Schermvergrendeling</string>
   <string name="suggestion_additional_fingerprints">Nog een vingerafdruk toevoegen</string>
-  <string name="suggestion_additional_fingerprints_summary">Ontgrendelen met een andere vinger</string>
+  <string name="suggestion_additional_fingerprints_summary">Ontgrendelen met een andere vingerafdruk</string>
   <string name="suggestion_for_phone_recycled">Telefoonnummer toevoegen</string>
   <string name="suggestion_remove">Verwijderen</string>
   <string name="suggestions_title">Suggesties (%1$d)</string>
@@ -4087,11 +4080,11 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Alleen via Wi-Fi</string>
   <string name="system">Systeem</string>
-  <string name="system_alert_window_access_title">Weergeven boven andere apps</string>
+  <string name="system_alert_window_access_title">Tekenen over andere apps</string>
   <string name="system_alert_window_apps_title">Apps</string>
   <string name="system_alert_window_off">Nee</string>
   <string name="system_alert_window_on">Ja</string>
-  <string name="system_alert_window_settings">Weergeven boven andere apps</string>
+  <string name="system_alert_window_settings">Tekenen over andere apps</string>
   <string name="system_alert_window_summary" formatted="false">%d of %d apps allowed to draw on top of other apps</string>
   <string name="system_and_device_section_title">Systeem &amp; apparaat</string>
   <string name="system_app">(Systeem)</string>
@@ -4155,6 +4148,7 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="three_gesture_down">Met drie vingers naar beneden vegen</string>
   <string name="time_picker_title">Tijd</string>
   <string name="time_zone_auto_stub">Tijdzone selecteren</string>
+  <string name="timed_titlei">Timer %d</string>
   <string name="timer_switch_settings_title">Gepland in- of uitschakelen</string>
   <string name="timezone_settings">Tijdzone</string>
   <string name="title_color_calibration">Kleurcorrectie voorkeuze</string>
@@ -4766,9 +4760,6 @@ WLAN Assistant"</string>
   <string name="wifi_certificate">Certificaat</string>
   <string name="wifi_click_login_wlan">Connected. Verification is required.</string>
   <string name="wifi_click_share_wlan">Tik om wachtwoord te delen</string>
-  <string name="wifi_configure_settings_preference_summary_wakeup_off">Wi-Fi schakelt niet automatisch weer in</string>
-  <string name="wifi_configure_settings_preference_summary_wakeup_on">Wi-Fi schakelt automatisch weer in</string>
-  <string name="wifi_configure_settings_preference_title">Wi-Fi voorkeuren</string>
   <string name="wifi_config_info">Wi-Fi configureren</string>
   <string name="wifi_configure_titlebar">Wi-Fi configureren</string>
   <string name="wifi_configured_ap_list">Eerder geconfigureerde APs</string>
@@ -4990,7 +4981,7 @@ Tik op Terug om verbinding te maken met een ander Wi-Fi netwerk.</string>
   <string name="wifi_setup_title_add_network">Een netwerk toevoegen</string>
   <string name="wifi_setup_title_connected_network">Verbonden met Wi-Fi netwerk %s</string>
   <string name="wifi_setup_title_connecting_network">Verbinding maken met Wi-Fi netwerk %s…</string>
-  <string name="wifi_setup_title_editing_network">Verbinding maken met Wi-Fi netwerk%s</string>
+  <string name="wifi_setup_title_editing_network">Verbinding maken met Wi-Fi netwerk %s</string>
   <string name="wifi_setup_wizard_title">Selecteer Wi-Fi</string>
   <string name="wifi_setup_wps">Automatische configuratie (WPS)</string>
   <string name="wifi_share">Wi-Fi delen</string>

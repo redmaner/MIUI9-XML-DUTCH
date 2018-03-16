@@ -243,7 +243,6 @@
     </string-array>
     <string-array name="wifi_signal">
         <item>Poor</item>
-        <item>Slecht</item>
         <item>Redelijk</item>
         <item>Goed</item>
         <item>Uitstekend</item>
@@ -828,13 +827,8 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Apparaat opnieuw opstarten om deze instelling toe te passen?</item>
         <item>Apparaat opnieuw opstarten om deze instelling toe te passen?</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+	    <string-array name="max_number_titles">
+        <item>Unlimited</item>
     </string-array>
 	<string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>

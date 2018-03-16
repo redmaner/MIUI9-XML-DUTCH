@@ -19,6 +19,7 @@
   <string name="main_toggle_effects_title">Geluidseffecten</string>
   <string name="mediumhall">Gemiddelde hal</string>
   <string name="mediumroom">Gemiddelde kamer</string>
+  <string name="new_app_name">AudioEffect</string>
   <string name="no_effects">Effecten niet beschikbaar.</string>
   <string name="none">Geen</string>
   <string name="normal">Normaal</string>
