@@ -38,11 +38,6 @@
         <item>HDCP checking alleen gebruiken voor DRM content</item>
         <item>HDCP checking altijd gebruiken</item>
     </string-array>
-	<string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (standaard)</item>
-        <item>AVRCP 1.5</item>
-        <item>AVRCP 1.6</item>
-    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Uit</item>
         <item>64KB</item>
@@ -59,13 +54,6 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Uit</item>
-    </string-array>
-	<string-array name="select_logpersist_summaries">
-        <item>64KB per log buffer</item>
-        <item>256KB per log buffer</item>
-        <item>1MB per log buffer</item>
-        <item>4MB per log buffer</item>
-        <item>16MB per log buffer</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>

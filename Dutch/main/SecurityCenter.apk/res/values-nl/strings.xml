@@ -67,8 +67,7 @@
   <string name="add_done">Met succes toegevoegd</string>
   <string name="add_game">Game toevoegen</string>
   <string name="add_game_notification_summary">Tik om op te starten &amp; snelheid op te voeren</string>
-  <string name="add_miservice_dialog_content">"%s vereist dat je MIUI service framework toevoegt aan de lijst met uitzonderingen. 
-        U kunt meldingen ontvangen van ingebouwde MIUI apps en apps van derden."</string>
+  <string name="add_miservice_dialog_content">"%s vereist dat je MIUI service framework toevoegt aan de lijst met uitzonderingen. U kunt meldingen ontvangen van ingebouwde MIUI apps en apps van derden."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Uitzonderingen beheren</string>
   <string name="add_whitelist">Toevoegen aan uitzonderingen</string>
@@ -82,10 +81,6 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Gisteren bijgewerkt om %s</string>
   <string name="adjust_traffic_data">Dataverbruik instellen</string>
   <string name="after_the_lock_screen">Apps samen met het scherm vergrendelen.</string>
-  <string name="alarm_headsup_bottom">Mi telefoon is snel pak een rode envelop</string>
-  <string name="alarm_lock_screen_summary">Een grote golf rode regen onderweg…</string>
-  <string name="alarm_lockscreen_btn">Hij begon aan een rode envelop te pakken</string>
-  <string name="alarm_setting_title">Rode alarm instellingen</string>
   <string name="all_address_choose_hint">Alle nummers in deze provincie</string>
   <string name="already_close_gamebooster">Snelheidsboost voor gamen is uitgeschakeld</string>
   <string name="anti_disturb_msg_detail">Schakel alle aanmeldingen uit met uitzondering van inkomende oproepen</string>
@@ -149,6 +144,7 @@
   <string name="app_manager_appupdate_remind">Melden wanneer er updates zijn</string>
   <string name="app_manager_as_dlg_msg">Toestaan dat apps automatisch mogen opstarten kan voor extra RAM- en batterijgebruik zorgen. Toch toestaan?</string>
   <string name="app_manager_as_dlg_title">Opgelet</string>
+  <string name="app_manager_back">Back</string>
   <string name="app_manager_bipartition">Gedupliceerde apps</string>
   <string name="app_manager_card_permission_title">Toestemmingen</string>
   <string name="app_manager_clear_all_data">Alle gegevens wissen</string>
@@ -228,6 +224,7 @@
   <string name="app_manager_reset_app_preferences_title">Appvoorkeuren herstellen?</string>
   <string name="app_manager_search_prompt">Kon je geen resultaten vinden? Probeer resultaten van alle apps weer te geven.</string>
   <string name="app_manager_show_all_apps">Alle apps weergeven</string>
+  <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
   <string name="app_manager_show_detail_infos">Alles bekijken</string>
   <string name="app_manager_start_by">Gestart door %s</string>
   <string name="app_manager_system_mobile_disable">Data uitschakelen</string>
@@ -253,8 +250,7 @@
   <string name="application_item_already_permission">Toegestaan</string>
   <string name="application_item_disable">Beperkt</string>
   <string name="applock_add_account">Toevoegen</string>
-  <string name="applock_add_account_info">"Voeg Mi Account toe om in staat te zijn om je wachtwoord te herstellen
-in het geval je hem vergeten bent"</string>
+  <string name="applock_add_account_info">"Voeg Mi Account toe om in staat te zijn om je wachtwoord te herstellen in het geval je hem vergeten bent"</string>
   <string name="applock_add_account_setting">Account &amp; privacy</string>
   <string name="applock_bind_account_title">Wachtwoord vergeten</string>
   <string name="applock_close_dialog_summary">Apps zullen niet langer zijn beveiligd en je wachtwoord zal worden verwijderd nadat je appvergrendeling hebt uitgeschakeld.</string>
@@ -501,7 +497,6 @@ in het geval je hem vergeten bent"</string>
  3. Het zou kunnen dat uw provider het niet ondersteunt om berichten te versturen met de resterende data en belminuten. Neem contact op met uw provider om meer te weten te komen.
  4. Er zou een fout kunnen zitten in de gegevens van de provider. Probeer providerdiagnostiek om dit te verhelpen.
  5. Lijkt niets te helpen? Tik op \"Rapporteren via SMS\" om feedback naar Xiaomi te versturen in een SMS."</string>
-  <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Laatste keer opgeladen "</string>
   <string name="charging_text_battery_nearly_full">Bijna opgeladen</string>
   <string name="charging_text_battery_perfect">Volledig opgeladen</string>
@@ -587,7 +582,6 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="delete_from_manual_item_white_list">Verwijderen uit uitzonderingen</string>
   <string name="delete_input">Verwijderen</string>
   <string name="deleted_apps">Verwijderde apps</string>
-  <string name="demo_number">241</string>
   <string name="descx_quick_scan_cancel">Scan geannuleerd</string>
   <string name="descx_quick_scan_preparation">Een momentje…</string>
   <string name="detail_app_button">Appinfo</string>
@@ -686,6 +680,10 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="examination_score_80_100">Enkele items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_80_60">Sommige items kunnen geoptimaliseerd worden</string>
   <string name="examination_score_has_virus">Er werden verdachte apps gedetecteerd</string>
+  <string name="exception_dialog_message">"Data usage stats couldn't be calculated due to an error. Without accurate stats Security won't be able to monitor data usage. Reboot to restore this feature?"</string>
+  <string name="exception_dialog_ok_button">Reboot</string>
+  <string name="exception_notify_message">"Couldn't calculate data stats due to an error. Reboot to restore."</string>
+  <string name="exception_titile">An error occurred</string>
   <string name="exit">Sluiten</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
@@ -749,6 +747,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="game_booster_close">Snelheid opvoeren voor gamen is uitgeschakeld</string>
   <string name="game_booster_intro">Over Gamesnelheid opvoeren</string>
   <string name="game_booster_jump_webview">Een momentje…</string>
+  <string name="game_booster_tab_top">Top</string>
   <string name="game_booster_title">Snelheid opvoeren</string>
   <string name="game_bootser_tab_settings">Instellingen</string>
   <string name="game_improve_text1">Wis de achtergrondcache om geheugen vrij te maken voor gaming</string>
@@ -787,6 +786,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gdpr_msg">&lt;Data&gt;"Om de basisfuncties van Beveiliging te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt, inclusief informatie over de manier waarop u de functies van Beveiliging gebruikt (bijv. Statistieken voor mobiel gegevensgebruik, informatie over malware, evenals basisinformatie over uw apparaat) en andere soorten informatie die worden vermeld in onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Info verkrijgen…</string>
   <string name="gmscore_support_remind">Schakel deze functie in als je problemen ervaart met Gmail, Google Maps en andere Google apps. Het zal de accuduur iets verminderen.</string>
+  <string name="gmscore_support_service">Google Services</string>
   <string name="go_to">Doorgaan</string>
   <string name="go_to_setting_fingerprint">Instellingen</string>
   <string name="google_base_app_install_choice">\"%s\" vereist Google Services Framework om normaal te werken. Downloaden en installeren?</string>
@@ -827,7 +827,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="hide_mode_summary_text">De achtergrondactiviteit van apps beheren om batterij te besparen</string>
   <string name="hide_system_app">Systeemapps verbergen</string>
   <string name="hint_antispam_mode_edit">Aangepaste modus</string>
-  <string name="hints_handle_item_text_virus">Virussen: %d</string>
+  <string name="hints_handle_item_text_virus">Danger</string>
   <string name="hints_input_roaming_daily_limit">Voer limiet voor dataverbruik in</string>
   <string name="hints_loading_text">Laden…</string>
   <string name="hints_risk_descx_title">Beschrijving:</string>
@@ -860,6 +860,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="install_sucess">%s met succes geïnstalleerd</string>
   <string name="install_title">Installeren via USB</string>
   <string name="installing">Installeren</string>
+  <string name="international_Ad">Ad</string>
   <string name="international_roaming_setting">Internationale roaming</string>
   <string name="intro_improve">Versterk uw gamingervaring op een systeemniveau</string>
   <string name="intro_skip">Overslaan</string>
@@ -877,6 +878,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="keywords_auto_restart">Automatisch starten; Toestemmingen;Automatisch starten;Autostart; Autostart beheren; MIUI autostart; App autostart; autostart apps;Ketting start;geketende start;getriggerd start</string>
   <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
   <string name="keywords_cleanmaster">Afval;Wissen;Snelheid;Opslag;Cache</string>
+  <string name="keywords_gamebooster">Game;speed booster;King of Glory;Performance mode;DND;Games;Gaming;Gaming speed;boost</string>
   <string name="keywords_networkassistant_1">Data;Verkeer</string>
   <string name="keywords_networkassistant_2">Data;Kalibreren</string>
   <string name="keywords_networkassistant_4">Verbinding;Internet;Test</string>
@@ -1032,6 +1034,8 @@ om te reageren"</string>
   <string name="menu_bl_remove">Deblokkeren</string>
   <string name="menu_bl_sms_log">Geblokkeerde SMS bekijken</string>
   <string name="menu_call">Bellen</string>
+  <string name="menu_charge_bill">Top-up balance</string>
+  <string name="menu_charge_traffic">Buy data</string>
   <string name="menu_edit">Bewerken</string>
   <string name="menu_item_about_content">Versie: %s</string>
   <string name="menu_item_about_summary">Versie: %s</string>
@@ -1055,6 +1059,7 @@ om te reageren"</string>
   <string name="menu_item_virus_install_monitor_title">Scannen voor installeren</string>
   <string name="menu_item_virus_lib_auto_update_summary">Laatst geüpdatet: %s</string>
   <string name="menu_remove">Verwijderen</string>
+  <string name="menu_report">Report error</string>
   <string name="menu_sms">Bericht verzenden</string>
   <string name="menu_text_antispam">Zwarte lijst</string>
   <string name="menu_text_antivirus">Virusscanner</string>
@@ -1067,9 +1072,9 @@ om te reageren"</string>
   <string name="menu_text_optimize_manage">Snelheid opvoeren</string>
   <string name="menu_text_power_manager">Batterijgebruik</string>
   <string name="menu_text_power_percent_title">Batterij %s</string>
-  <string name="menu_text_power_percent_title_default">Batterij</string>
+  <string name="menu_text_power_percent_title_default">Batterij</string>  
+  <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>  
   <string name="menu_white">Toevoegen aan uitzonderingen</string>
-  <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
   <string name="mi_service_app_detail">Details dataverbruik</string>
   <string name="mi_service_traffic_detail">Frameworkdetails</string>
   <string name="mian_page_primary_txt">Internationaal roamen</string>
@@ -1304,6 +1309,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="path_auto_restart">Systeemapps/Veiligheid/Toestemmingen/Automatisch starten</string>
   <string name="path_buy_flow">Systeem apps/Veiligheid/Datagebruik/Koop mobiele data</string>
   <string name="path_cleanmaster">Systeemapps/Veiligheid/Opruimer</string>
+  <string name="path_gamebooster">System apps/Security/Game speed booster</string>
   <string name="path_networkassistant_1">Systeemapps/Veiligheid/Datagebruik</string>
   <string name="path_networkassistant_2">Systeemapps/Veiligheid/Datagebruik</string>
   <string name="path_networkassistant_4">Systeemapps/Veiligheid/Datagebruik/Netwerk testen</string>
@@ -1453,7 +1459,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="pref_pkg_begin_date">Resetdatum verbruik</string>
   <string name="pref_roaming_daily_limit_setting">Dagelijks dataroaminglimiet</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dagelijks datalimiet</string>
-  <string name="pref_roaming_setting_gategory">Dataroaming</string>
+  <string name="pref_roaming_setting_gategory">Settings</string>
   <string name="pref_special_package_setting">Aangepaste databundel</string>
   <string name="pref_special_package_setting_summary">Beheer data, opwaardeerpakketten, dagelijkse databundels en aangewezen data</string>
   <string name="pref_summary_upload_data_usage">Geef uw statistieken over dataverbruik door om MIUI te helpen verbeteren. Dit gaat volgens ons privacybeleid.</string>
@@ -1477,6 +1483,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="preferred_app_entries_messaging">Bericht maken</string>
   <string name="preferred_app_entries_music">Muziek</string>
   <string name="privacy_declare_dialog_title">Algemene voorwaarden</string>
+  <string name="privacy_dialog_message">"When you connect to the internet, this message along with the carrier info will be encrypted and uploaded to Mi's servers to help us improve data usage monitoring."</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_prompt_tc_sms_report_message">Uw telefoonnummer en providerdetails zullen gecodeerd en geüpload worden naar de servers van Mi om informatie over uw dataverbruik bij te werken.</string>
   <string name="privacy_prompt_traffic_adjust_message">Deze functie moet IMEI, telefoonnummer en providerinformatie van uw apparaat gecodeerd naar de servers van Mi verzenden om statistieken over dataverbruik van uw provider te verkrijgen.</string>
@@ -1529,6 +1536,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="resource_auto_restart">Automatisch starten beheren</string>
   <string name="resource_buy_flow">Koop mobiele data</string>
   <string name="resource_cleanmaster">Opruimer</string>
+  <string name="resource_gamebooster">Game speed booster</string>
   <string name="resource_networkassistant_1">Dataverbruik</string>
   <string name="resource_networkassistant_2">Databundel kalibreren</string>
   <string name="resource_networkassistant_4">Netwerk testen</string>
@@ -1635,6 +1643,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sms_contact_block">Blokkeer SMS van contacten</string>
   <string name="sms_delete_hint">Alle geblokkeerde berichten van dit nummer wissen?</string>
   <string name="sms_delete_title">Berichten wissen</string>
+  <string name="sms_detail_fragment_title_bill">Phone balance</string>
+  <string name="sms_detail_fragment_title_traffic">Remaining data</string>
   <string name="sms_filter">Slimme filter</string>
   <string name="sms_keywords">Trefwoord zwarte lijst</string>
   <string name="sms_malicious_url">Blokkeer SMS met kwaadaardige URL\'s</string>
@@ -1925,6 +1935,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
   <string name="tether_custom_dialog_title">Mobiel datalimiet</string>
   <string name="tether_limit_dialog_title">Mobiel datalimiet</string>
+  <string name="tether_limit_value_custom">Custom</string>
   <string name="tether_over_limit_dialog_cancle_btn">Hotspot resetten</string>
   <string name="tether_over_limit_dialog_message">Je hebt het datalimiet van de draagbare hotspot bereikt.</string>
   <string name="tether_over_limit_dialog_title">Waarschuwing dataverbruik</string>
@@ -2044,8 +2055,7 @@ Overgebrachte extra data"</string>
   <string name="traffic_correction_start_correction_failed">Verzoek mislukt, controleer de providerinstellingen</string>
   <string name="traffic_correction_success">Dataverbruik bijgewerkt</string>
   <string name="traffic_correction_success_notify_message">Tik om de details weer te geven.</string>
-  <string name="traffic_limit_error_alert_body">Uw resterende data voor deze maand (%1$s) is groter dan uw maandelijkse
-        bundel (%2$s). Maandelijkse bundel gewijzigd?</string>
+  <string name="traffic_limit_error_alert_body">Uw resterende data voor deze maand (%1$s) is groter dan uw maandelijkse bundel (%2$s). Maandelijkse bundel gewijzigd?</string>
   <string name="traffic_limit_error_alert_package">"
 
 Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
@@ -2138,6 +2148,7 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="wlan_change_protection_title">Voorkom overschakelen van netwerken</string>
   <string name="wrong_password">Wachtwoord onjuist</string>
   <string name="xunyou_net_booster">Netwerk versnellen</string>
-  <string name="xunyou_net_booster_detail">Xunyou services gebruiken om snelheid op te voeren voor gamen</string>
+  <string name="xunyou_net_booster_detail">Xunyou diensten gebruiken om snelheid op te voeren voor gamen</string>
+  <string name="xunyou_pay_webview">Xunyou diensten</string>
   <string name="xunyou_server_expired">De sessie is verlopen.</string>
 </resources>
