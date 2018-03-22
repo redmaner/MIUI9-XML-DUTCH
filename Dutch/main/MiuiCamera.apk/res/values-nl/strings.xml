@@ -14,7 +14,7 @@
   <string name="accessibility_setting_button">Extra instellingen knop</string>
   <string name="accessibility_shutter_button">Sluiterknop</string>
   <string name="accessibility_skin_beautify_button">HuidVerfraaiKnop</string>
-  <string name="accessibility_stereo_button">Dual camera mode</string>
+  <string name="accessibility_stereo_button">Dual camera modus</string>
   <string name="accessibility_video_capture_button">VideoOpnameKnop</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauzeKnop</string>
@@ -244,7 +244,7 @@ gezichtsuitdrukking om te synthetiseren in een foto"</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volume aanpassen</string>
   <string name="pref_camera_volumekey_function_entry_zoom">In- en uitzoomen</string>
   <string name="pref_camera_volumekey_function_title">Functie volumeknoppen</string>
-  <string name="pref_camera_watermark_title">Watermerk toevoegen aan foto\'s</string>
+  <string name="pref_camera_watermark_title">Tijdsmerk toevoegen in foto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bewolkt</string>
   <string name="pref_camera_whitebalance_entry_daylight">Daglicht</string>

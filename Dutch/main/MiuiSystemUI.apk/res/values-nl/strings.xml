@@ -11,7 +11,6 @@
   <string name="accessibility_action_divider_top_70">Boven 70%</string>
   <string name="accessibility_action_divider_top_full">Volledig scherm boven</string>
   <string name="accessibility_airplane_mode">Vliegmodus.</string>
-  <string name="accessibility_assistant">Quick ball</string>
   <string name="accessibility_back">Vorige</string>
   <string name="accessibility_battery_level">Batterij: %d procent.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth verbinding ingesteld.</string>
@@ -72,6 +71,7 @@
   <string name="accessibility_ringer_silent">Stil.</string>
   <string name="accessibility_ringer_vibrate">Trillen.</string>
   <string name="accessibility_search_light">Zoeken</string>
+  <string name="accessibility_search_scanner">Scanner</string>
   <string name="accessibility_settings">Instellingen</string>
   <string name="accessibility_tty_enabled">TeleTypewriter ingeschakeld.</string>
   <string name="accessibility_wifi_off">Wi-Fi uit.</string>
@@ -216,7 +216,9 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
-  <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt. Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
+  <string name="data_usage_disabled_dialog">"U heeft het ingestelde datalimiet bereikt. 
+  
+Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G/3G gegevens uitgeschakeld</string>
   <string name="data_usage_disabled_dialog_4g_title">4G gegevens uitgeschakeld</string>
   <string name="data_usage_disabled_dialog_enable">Gegevens opnieuw inschakelen</string>
@@ -319,6 +321,7 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="fs_gesture_right_back_ready_summary">Veeg naar links vanaf de rand</string>
   <string name="fs_gesture_skip">Terug</string>
   <string name="fs_gesture_switch_recents_summary">Veeg vanaf de onderkant en wacht een seconde</string>
+  <string name="fsg_demo_back">Back</string>
   <string name="fsg_demo_go_on">Leren</string>
   <string name="gps_notification_found_text">Locatie bepaald met GPS</string>
   <string name="gps_notification_searching_text">Zoeken naar GPS</string>
@@ -338,7 +341,8 @@ Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="inactive_app_active_summary">Actief. Tik om te wisselen.</string>
   <string name="inactive_app_inactive_summary">Inactief. Tik om te wisselen.</string>
   <string name="inactive_apps_title">Inactieve apps</string>
-  <string name="invalid_charger">Opladen via USB niet ondersteund. Gebruik alleen de bijgeleverde oplader.</string>
+  <string name="invalid_charger">Opladen via USB niet ondersteund. 
+Gebruik alleen de bijgeleverde oplader.</string>
   <string name="keep_screen_on">Scherm aanhouden</string>
   <string name="keep_screen_on_summary">Scherm zal nooit uitschakelen tijdens opladen</string>
   <string name="keyboard_key_back">Terug</string>
@@ -457,6 +461,7 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="no_application">Niks</string>
   <string name="no_multi_window_app">Geen enkele app die split-screen ondersteunt</string>
   <string name="no_notification_tips">Geen meldingen</string>
+  <string name="no_sim_card">No SIM card</string>
   <string name="no_weather_description">Weerinformatie ophalen &gt;</string>
   <string name="not_support_multi_window">Huidige app ondersteunt split-screenmodus niet</string>
   <string name="notification_header_title">Meldingen</string>
@@ -501,6 +506,13 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="power_discharging_duration">%1$s - approx. %2$s left</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_duration_only">Approx. %1$s left</string>
+  <string name="power_remaining_duration_only_short">%1$s left</string>
+  <string name="prompt_danger">Risk</string>
+  <string name="prompt_detecting">Detecting</string>
+  <string name="prompt_failure">Error</string>
+  <string name="prompt_return_to_split">Split screen</string>
+  <string name="prompt_safe">Safe</string>
+  <string name="prompt_unknown">Unknown</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Geen verbonden apparaten beschikbaar</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Verbonden</string>
@@ -626,7 +638,6 @@ d MMMM"</string>
   <string name="status_bar_network_flow_limit">"   Maandelijks limiet: %1$s"</string>
   <string name="status_bar_network_flow_purchase">"   Aankoop &gt;"</string>
   <string name="status_bar_network_flow_today">Vandaag: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Geen recente apps</string>
   <string name="status_bar_notification_inspect_item_title">Appinfo</string>
   <string name="status_bar_recent_guide_all">"Schuif omhoog om te sluiten 
@@ -702,7 +713,8 @@ d MMMM"</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="usb_debugging_always">Altijd toestaan vanaf deze computer</string>
-  <string name="usb_debugging_message">"De vingerafdruk voor de RSA sleutel van de computer is: %1$s"</string>
+  <string name="usb_debugging_message">"De vingerafdruk voor de RSA sleutel van de computer is: 
+%1$s"</string>
   <string name="usb_debugging_title">USB foutopsporing toestaan?</string>
   <string name="usb_device_confirm_prompt">%1$s openen wanneer dit USB apparaat wordt aangesloten?</string>
   <string name="usb_device_permission_prompt">De app %1$s toegang geven tot het USB apparaat?</string>
