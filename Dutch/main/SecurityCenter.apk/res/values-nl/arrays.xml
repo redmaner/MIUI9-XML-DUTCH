@@ -78,40 +78,10 @@
         <item>Datagebruik</item>
         <item>Belminuten</item>
     </string-array>
-    <string-array name="luckymoney_sound">
-        <item>静音</item>
-        <item>金币</item>
-        <item>红包来了</item>
-    </string-array>
     <string-array name="tether_limit_warn_type">
         <item>Uitschakelen en melden</item>
         <item>Alleen melden</item>
     </string-array>
-    <integer-array name="om_occupy_memory_percent">
-        <item>80</item>
-        <item>85</item>
-        <item>90</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="om_app_background_restrict">
-        <item>0</item>
-        <item>-1</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="pc_time_choice_items">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="pc_disconnect_data_time_choice_items">
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>

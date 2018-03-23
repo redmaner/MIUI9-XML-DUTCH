@@ -114,8 +114,4 @@
         <item>Nieuwsprogramma\'s</item>
         <item>Lifestyleprogramma\'s</item>
     </string-array>
-    <string-array name="user_notification_tab">
-        <item>\@与我相关</item>
-        <item>系统通知</item>
-    </string-array>
 </resources>

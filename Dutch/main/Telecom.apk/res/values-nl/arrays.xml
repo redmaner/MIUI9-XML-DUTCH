@@ -269,8 +269,4 @@
         <item>OpenGL (standaard)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
-    <integer-array name="batterymeter_color_levels">
-        <item>15</item>
-        <item>100</item>
-    </integer-array>
 </resources>
