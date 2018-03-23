@@ -21,6 +21,8 @@
   <string name="name_empty_error">Typ een naam.</string>
   <string name="no_cert_file_found">Geen certificaatbestand gevonden op de USB opslag.</string>
   <string name="no_cert_to_saved">Er is geen certificaat dat kan worden geïnstalleerd.</string>
+  <string name="one_cacrt">one CA certificate</string>
+  <string name="one_usercrt">one user certificate</string>
   <string name="one_userkey">Eén gebruikerssleutel</string>
   <string name="one_wapi_ascrt">one WAPI AS certificate</string>
   <string name="one_wapi_usercrt">one WAPI user certificate</string>

@@ -102,6 +102,7 @@
   <string name="cloud_state_storage_full">Niet genoeg ruimte op intern geheugen, back-up gepauzeerd</string>
   <string name="cloud_welcome_message">Nummers back-uppen</string>
   <string name="cloud_welcome_summary">Back-up uw nummers naar Mi Cloud om ernaar te luisteren op andere apparaten</string>
+  <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Inschakelen</string>
   <string name="common_google_play_services_enable_text">"%1$s zal niet werken tenzij je Google Play services inschakelt."</string>
   <string name="common_google_play_services_enable_title">Google Play services inschakelen</string>
@@ -123,6 +124,7 @@
   <string name="confirm">OK</string>
   <string name="connecting_apk">Verbinden…</string>
   <string name="continue_backup">Doorgaan</string>
+  <string name="count_format">%2$1.1fK</string>
   <string name="cp_info_first">Online muziekstreamingdienst wordt voornamelijk 
 verzorgd door Ultimate Inc.</string>
   <string name="create_order_fail">Kon bestellingen niet maken, probeer opnieuw</string>
@@ -287,6 +289,7 @@ of verwijderen uit de wachtrij?"</string>
   <string name="error_title">Sync. mislukt</string>
   <string name="error_unauthorized">Sync. is uitgeschakeld wegens een overschrijding van de inlogpogingen.</string>
   <string name="expired">Vervallen</string>
+  <string name="fail_to_fetch_payment_page_url">"Couldn't get payment info"</string>
   <string name="fail_to_play">Afspelen mislukt</string>
   <string name="fav_login_msg">Log in op je Mi Account om nummers te downloaden</string>
   <string name="favorite_canceled">Verwijderd uit favorieten</string>
@@ -309,6 +312,7 @@ of verwijderen uit de wachtrij?"</string>
   <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Verberg bestanden kleiner dan "</string>
   <string name="filter_by_size_summary">Kleine audiobestanden verbergen</string>
+  <string name="filter_size_unit">%dKB</string>
   <string name="follow">Volgen</string>
   <string name="followed">Volgend</string>
   <string name="font_family">miui</string>
@@ -340,6 +344,8 @@ of verwijderen uit de wachtrij?"</string>
   <string name="higher_quality_music_summary">Stream en download muziek op hogere bitrates</string>
   <string name="home_tab_local">Mijn muziek</string>
   <string name="home_tab_online">Ontdek</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
+  <string name="hungama">Hungama</string>
   <string name="hungama_subscribe_message">Je moet betalen om dit nummer te downloaden</string>
   <string name="hungama_subscribe_positive_button">Betalen</string>
   <string name="hungama_subscribe_title">Downloaden</string>
@@ -592,6 +598,7 @@ of verwijderen uit de wachtrij?"</string>
   <string name="search_history_clear_all">Wissen</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_title">Zoeken</string>
+  <string name="second_symbol">s</string>
   <string name="select_all">Alles selecteren</string>
   <string name="select_device">Kies apparaat</string>
   <string name="select_displayed_folders">Map kiezen om weer te geven</string>
@@ -689,6 +696,7 @@ of verwijderen uit de wachtrij?"</string>
   <string name="talkback_radar">Muziekherkenning</string>
   <string name="talkback_search">Zoeken</string>
   <string name="terms_of_service">Servicevoorwaarden</string>
+  <string name="text_separator">|</string>
   <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
   <string name="ticket_title">Tickets weergeven</string>
   <string name="time_to_upgrade">Mi Muziek updaten</string>

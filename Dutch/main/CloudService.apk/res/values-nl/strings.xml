@@ -135,6 +135,9 @@ Laatst geback-upt op %2$s"</string>
   <string name="ks_download_success">Gedownload</string>
   <string name="ks_fingerprint_payment">Vingerafdrukbetalingen</string>
   <string name="ks_fingerprint_status">Betalingstatus</string>
+  <string name="ks_name_alipay">IFAA</string>
+  <string name="ks_name_fido">FIDO</string>
+  <string name="ks_name_soter">Soter</string>
   <string name="ks_status_available">Beschikbaar</string>
   <string name="ks_status_unavailable">Niet beschikbaar</string>
   <string name="ks_update_certificate">Certificaat</string>
@@ -268,6 +271,8 @@ of apparaat te wissen."</string>
   <string name="micloud_find_device_verify_close">Apparaat vinden uitschakelen</string>
   <string name="micloud_find_device_verify_fail">Kon apparaat vinden niet heractiveren</string>
   <string name="micloud_find_device_verify_progress">Apparaat vinden heractiveren…</string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. Wanneer uw cloud vol is, zullen de oude gegevens niet verwijderd worden. Maar alle nieuwe gegevens die u toevoegt(bijvoorbeeld foto's, video's, notities en apps) worden niet meer geback-upt. Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_battery_low">Batterij te laag om te synchroniseren</string>
@@ -494,6 +499,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="search_finddevice_pref_desc">Apparaat vinden in- of uitschakelen</string>
   <string name="search_finddevice_pref_key_words">Apparaat vinden, Apparaat vinden</string>
   <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/Apparaat vinden</string>
+  <string name="secret_photo">Hidden photos</string>
   <string name="setting">Instellingen</string>
   <string name="settings_backup_title">Back-up systeeminstellingen</string>
   <string name="share_cancel">Delen geannuleerd</string>
@@ -557,9 +563,11 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
   <string name="unactivated_user">Gedeactiveerd</string>
   <string name="upgrade_space">Toevoegen ruimte</string>
+  <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Credits per jaar</string>
   <string name="upgrade_space_successful">Toegevoegd %sGB</string>
   <string name="upgrade_space_successful_total">%sGB beschikbaar</string>
+  <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Gebruikersovereenkomst</string>
   <string name="user_agreement_p5">"
 "</string>
@@ -578,5 +586,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
   <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op een plek</string>
+  <string name="xmpp_server_addr"/>
 </resources>

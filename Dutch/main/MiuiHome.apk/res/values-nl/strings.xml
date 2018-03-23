@@ -13,7 +13,7 @@
   <string name="announce_for_drag_enter_folder_grid">You can drop items into the folder</string>
   <string name="announce_for_drag_enter_workspace_thumbnail">Dragged items to screen preview number %1$d</string>
   <string name="announce_for_drop">%1$s verplaatst</string>
-<string name="announce_for_drop_folder_grid_view">Number %1$d in the folder</string>
+  <string name="announce_for_drop_folder_grid_view">Number %1$d in the folder</string>
   <string name="announce_for_drop_folder_icon">In the folder %1$s</string>
   <string name="announce_for_drop_hotseat">In the dock area</string>
   <string name="announce_for_drop_shortcut_icon">Created a folder with %1$s and %2$s</string>
@@ -81,6 +81,7 @@
   <string name="current_preview">Voorbeeld</string>
   <string name="current_wallpaper">Huidige</string>
   <string name="custom_wallpaper_picker">Bladeren</string>
+  <string name="defalut_launcher_title">Default launcher</string>
   <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Games</string>
   <string name="default_folder_title_microsoft">Microsoft</string>
@@ -89,12 +90,18 @@
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_screen_preview_title">Tik om startscherm in te stellen</string>
+  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_screen">Schermknop verwijderen</string>
   <string name="delete_wallpaper_message">%1$d achtergrond verwijderen?</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="disable_wallpaper_scroll">Opzij scrollen uitschakelen</string>
   <string name="download_action">Downloaden</string>
+  <string name="drag_multiple_item_name"/>
+  <string name="drag_single_item_name"/>
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <string name="durationformatshort">%2$2d:%5$02d</string>
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Mapnaam bewerken</string>
   <string name="edit_mode_group">Groep</string>
   <string name="edit_mode_group_error_full">Niet genoeg ruimte</string>
@@ -114,7 +121,6 @@
   <string name="failed_to_delete_temporary">Mislukt om te wissen, veranderingen teruggedraaid, probeer opnieuw</string>
   <string name="failed_to_drop">Verplaatsen mislukt. Icoon teruggeplaatst op originele positie</string>
   <string name="failed_to_drop_widget_invalid">Widget niet correct</string>
-  <string name="failed_to_drop_widget_nospace">Onvoldoende ruimte</string>
   <string name="failed_to_load_image">Kan afbeelding niet laden</string>
   <string name="folder_name">Map</string>
   <string name="frame_load_failed">Ongeldige fotoframe, frame laden mislukt.</string>
@@ -177,13 +183,16 @@
   <string name="invalid_contact_shortcut">Ongeldig contact</string>
   <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
   <string name="is_system_wallpaper_message">Kan systeembronnen niet verwijderen</string>
+  <string name="launcher_auto_fill_empty_title">Fill empty cells</string>
   <string name="launcher_not_exist">Er is een fout opgetreden, ga terug naar startpagina en probeer opnieuw.</string>
+  <string name="launcher_title">Home screen &amp; Recents</string>
   <string name="like">Favoriet</string>
   <string name="liked">Toegevoegd als favoriet</string>
   <string name="loading_desktop">Een momentje…</string>
   <string name="loading_wallpaper">Een momentje…</string>
   <string name="local_wallpaper">Lokaal</string>
   <string name="lock_screen">Vergrendelscherm</string>
+  <string name="lock_screen_cells_title">Lock Home screen layout</string>
   <string name="lock_screen_failed_message">Kan vergrendelschermachtergrond niet toepassen</string>
   <string name="lock_screen_success_message">Toegepast op vergrendelscherm</string>
   <string name="lock_screen_wallpaper">Vergrendelschermachtergrond</string>
@@ -210,6 +219,7 @@
   <string name="menu_wallpaper">Achtergrond</string>
   <string name="menu_workspace_preview">Voorbeelden startscherm</string>
   <string name="mi_wallpaper">MIUI Theme Store</string>
+  <string name="miui_screen_config_title">Home screen settings</string>
   <string name="mtzgadget_missing_text">Widget is niet beschikbaar</string>
   <string name="multi_selecting_tips">Om een app te verplaatsen tikt u op het icoon</string>
   <string name="no_detail_page">Geen detailpagina</string>
@@ -218,6 +228,11 @@
   <string name="notification_installed">Met succes geïnstalleerd</string>
   <string name="notification_open_button">Openen</string>
   <string name="online_wallpaper">Online</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Turn off</string>
+  <string name="open_personal_assistant_dialog_desc">"You won't be able to use App vault and receive its updates. Turn off now?"</string>
+  <string name="open_personal_assistant_dialog_title">Turn off App vault</string>
+  <string name="open_personal_assistant_title">Turn on App vault</string>
   <string name="out_of_space">Geen ruimte meer op dit startscherm</string>
   <string name="permdesc_install_shortcut">Een app toestaan snelkoppelingen toe te voegen zonder tussenkomst van de gebruiker.</string>
   <string name="permdesc_install_widget">Een app toestaan widgets toe te voegen zonder tussenkomst van de gebruiker.</string>
@@ -247,6 +262,10 @@
   <string name="pref_wallpaper_scroll_type_title">Achtergrondscroll</string>
   <string name="preferences_general_title">Standaardinstellingen</string>
   <string name="preferences_title">Launcherinstellingen</string>
+  <string name="preferred_app_settings_not_selected">Not selected</string>
+  <string name="process"/>
+  <string name="recents_config_title">Recents</string>
+  <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Leeg</string>
   <string name="recommend_apps_no_data">Geen gegevens</string>
   <string name="recommend_apps_notice">Aanbevolen apps</string>
@@ -255,6 +274,7 @@
   <string name="recommend_apps_tips">Deze functie moet verbonden zijn met internet om normaal te werken. Om deze functie uit te schakelen, raakt u de naam van deze map aan.</string>
   <string name="recommend_loading">Laden</string>
   <string name="reset_scene_prompt">Dit scherm wordt hersteld naar de standaard layout.</string>
+  <string name="screen_cells_config_title">Home screen layout</string>
   <string name="screen_locked_toast">Starpagina layout is vergrendeld</string>
   <string name="screen_number">Scherm %d</string>
   <string name="select_all">Alles selecteren</string>
@@ -264,7 +284,9 @@
   <string name="settings">Instellingen</string>
   <string name="settings_shortcut">Instellingen</string>
   <string name="share">Delen</string>
+  <string name="sharedUserId"/>
   <string name="show_all">Alles weergeven</string>
+  <string name="show_mem_info_title">Show memory status</string>
   <string name="sort_by_abc">Sorteren op naam</string>
   <string name="sort_by_frequency">Sorteren op gebruik</string>
   <string name="sort_by_not_defined">Automatisch sorteren</string>
@@ -275,6 +297,7 @@
   <string name="status_installing">Installeren</string>
   <string name="status_paused">Gepauzeerd</string>
   <string name="status_pending">In afwachting</string>
+  <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_select_live_folder">Map selecteren</string>
   <string name="title_select_shortcut">Snelkoppeling selecteren</string>
   <string name="toast_screen_icons_misplaced">Hersteld vanuit een andere bron, sommige iconen kunnen op de verkeerde plaats staan</string>

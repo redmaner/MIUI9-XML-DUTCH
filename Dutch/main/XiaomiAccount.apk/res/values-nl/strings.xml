@@ -19,6 +19,7 @@
   <string name="account_global_region">Buitenland</string>
   <string name="account_has_been_set">Wijzigen</string>
   <string name="account_limit_update_birthday">Kan verjaardagen momenteel niet updaten</string>
+  <string name="account_mibi_center">Mi Credits</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Geen</string>
   <string name="account_none">Geen</string>
@@ -66,6 +67,7 @@
   <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
   <string name="bind_facebook">Facebook account verbinden</string>
+  <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Voeg uw telefoonnummer toe om volgende keer in te loggen op uw Mi account.</string>
   <string name="bind_settings">Accounts</string>
   <string name="bind_sina_weibo">Sina Weibo Account verbinden</string>
@@ -392,6 +394,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
   <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>
   <string name="push_notify_dialog_title">Accountverificatie</string>
+  <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Het lijkt erop dat je telefoonnummer is gerecycled. Tik om te updaten.</string>
   <string name="recycle_phone_notification_title">Mi Account beveiligingsrisico</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
@@ -436,6 +439,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="trusted_browsers">Vertrouwde browsers</string>
   <string name="trusted_browsers_prompt">Deze browser zal niet langer vertrouwd zijn als u de cookies verwijderd.</string>
   <string name="turn_off_find_device_failed_title">"Kan apparaat vinden niet uitschakelen"</string>
+  <string name="turning_off_find_device">Turning off Find device…</string>
   <string name="unbind_sns_description">Na verbreking, kan je niet aanmelden op je Mi account met behulp van  %s</string>
   <string name="unlock_help_notice">"Help:
 1· Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
@@ -455,6 +459,5 @@ die verzonden is naar je Postvak In."</string>
   <string name="verify_phone_title">Telefoonnummer verifiëren</string>
   <string name="vip_account_settings">VIP instellingen</string>
   <string name="vip_settings_info">VIP instellingen</string>
-  <string name="vip_more_info">Meer vipinformatie</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

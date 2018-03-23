@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_vm_number_str">Voeg nummer toe</string>
   <string name="antispam_local_marked">Lokaal gemarkeerd</string>
   <string name="antispam_marked_count">Gemeld door %1$d MIUI gebruikers</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
@@ -51,7 +50,6 @@
   <string name="call_recording_notification_title_error">Kon gesprek niet opnemen</string>
   <string name="call_title_redialing_with_times">%d keer opnieuw gebeld</string>
   <string name="caller_manage_header">Groepsgesprek %s</string>
-  <string name="calling_via_template">Bellen via %s</string>
   <string name="can_not_call_oneself">Kan dit nummer niet bellen</string>
   <string name="can_not_use">Kan niet gebruiken</string>
   <string name="cancel">Annuleren</string>
@@ -154,12 +152,11 @@
   <string name="livetalk_dial">Herlaadpakket gebruiken</string>
   <string name="livetalk_hangup">Ophangen</string>
   <string name="manageConferenceLabel">Beheer groepsgesprekken</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="network_error_message">Huidig netwerk is onstabiel. Overschakelen naar normale oproep kan door de provider in rekening worden gebracht.</string>
   <string name="network_error_title">Onstabiel netwerk</string>
   <string name="no_call_back_message">Het duurt te lang om te verbinden. Overschakelen naar normale oproep die door de provider in rekening worden gebracht.</string>
   <string name="no_call_back_title">Waarschuwing</string>
-  <string name="no_vm_number">Ontbrekend voicemailnummer</string>
-  <string name="no_vm_number_msg">Geen voicemailnummer opgeslagen op de SIM kaart.</string>
   <string name="not_activate_sim_card_content">Verifieer uw telefoonnummer om met het herlaad pakket te beginnen. U kunt nog steeds een normale oproep maken die door de provider in rekening worden gebracht.</string>
   <string name="not_activate_sim_card_content_title">Telefoonnummer is niet geverifieerd</string>
   <string name="not_activate_sim_card_content_with_operator">Verifieer SIM %1$s (%2$s) om te bellen met behulp van het herlaad pakket. U kunt nog steeds een normale oproep maken die door  de provider in rekening worden gebracht.</string>

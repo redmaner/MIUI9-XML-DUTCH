@@ -51,6 +51,39 @@
         <item>Ouder bericht</item>
         <item>Postvak In</item>
     </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adres:</item>
+        <item>Tel:</item>
+        <item>Naam:</item>
+        <item>E-mail:</item>
+        <item>Mobiel:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Postcode:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Bedankt,</item>
+        <item>Met vriendelijke groet,</item>
+        <item>Verzonden van mijn</item>
+        <item>Originele e-mail</item>
+        <item>Verzonden van mijn</item>
+        <item>Verzonden van</item>
+        <item>Van</item>
+        <item>Deze e-mail</item>
+        <item>Gebruiksvoorwaarden</item>
+        <item>E-mail gebruiksvoorwaarden</item>
+    </string-array>
+    <string-array name="account_providers">
+        <item>content://com.android.email.provider/uiaccts</item>
+    </string-array>
+    <integer-array name="senders_lengths">
+        <item>27</item>
+        <item>27</item>
+    </integer-array>
+    <integer-array name="senders_with_attachment_lengths">
+        <item>25</item>
+        <item>25</item>
+    </integer-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
@@ -68,16 +101,6 @@
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
-    <string-array name="signature_normal_string_array_next">
-        <item>Adres:</item>
-        <item>Tel:</item>
-        <item>Naam:</item>
-        <item>E-mail:</item>
-        <item>Mobiel:</item>
-        <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Postcode:</item>
-    </string-array>
     <string-array name="signature_special_string_array">
         <item>Gebruiksvoorwaarden:</item>
         <item>E-mail gebruiksvoorwaarden</item>
@@ -87,16 +110,9 @@
         <item>Bedankt,</item>
         <item>Met vriendelijke groet</item>
     </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Bedankt,</item>
-        <item>Met vriendelijke groet,</item>
-        <item>Verzonden van mijn</item>
-        <item>Originele e-mail</item>
-        <item>Verzonden van mijn</item>
-        <item>Verzonden van</item>
-        <item>Van</item>
-        <item>Deze e-mail</item>
-        <item>Gebruiksvoorwaarden</item>
-        <item>E-mail gebruiksvoorwaarden</item>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
     </string-array>
 </resources>

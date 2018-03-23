@@ -10,6 +10,7 @@
   <string name="delete">Verwijderen</string>
   <string name="do_disclosure_generic">Dit apparaat wordt beheerd door uw bedrijf</string>
   <string name="do_disclosure_with_name">Dit apparaat wordt beheerd door %s</string>
+  <string name="doze_pickup_subtype_performs_proximity_check"/>
   <string name="emergency_call_string">Noodoproep</string>
   <string name="face_data_input_camera_fail">Kon camera niet laden</string>
   <string name="face_data_input_camera_ok">Camera laden…</string>
@@ -28,7 +29,7 @@
   <string name="face_data_manage_delete">Gezichtsgegevens verwijderen?</string>
   <string name="face_data_manage_delete_msg">Gezichtgegevens verwijderen</string>
   <string name="face_data_manage_delete_sure">Je zal het apparaat niet meer kunnen ontgrendelen met je gezicht als je de gegevens verwijderd.</string>
-  <string name="face_data_manage_delete_title">Gezichtgegevens</string>   
+  <string name="face_data_manage_delete_title">Gezichtgegevens</string>
   <string name="face_data_manage_unlock_msg">Apparaat ontgrendelen met je gezicht</string>
   <string name="face_data_manage_unlock_title">Ontgrendelen met je gezicht</string>
   <string name="face_data_siggesstion_next">Volgende</string>
@@ -67,16 +68,16 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">Kan tweede ruimte niet betreden in litemodus</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
   <string name="fingerprint_not_identified_msg">Teveel mislukte pogingen. Voer wachtwoord nu in of probeer je vingerafdruk te gebruiken over een paar seconden.</string>
+  <string name="fingerprint_not_identified_msg_lock">Too many unsuccessful attempts. Enter password now.</string>
   <string name="fingerprint_not_identified_title">Voer wachtwoord in</string>
   <string name="fingerprint_try_again_msg">Kon vingerafdruk niet herkennen</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw te ontgrendelen</string>
   <string name="forget_password_string">Wachtwoord vergeten</string>
   <string name="incorrect_pincode">Foute PIN code</string>
-  <string name="incorrect_pincode_remaining_attempts">Foute PIN code, %d pogingen resterend</string>
   <string name="incorrect_pukcode">Foute PUK code</string>
-  <string name="incorrect_pukcode_remaining_attempts">Foute PUK code, %d pogingen resterend</string>
   <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet betreden vanaf vergrendelscherm. Betreed vanuit eerste ruimte.</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
@@ -86,15 +87,12 @@
   <string name="invalid_confirm_pin_hint">PINs komen niet overeen </string>
   <string name="invalid_sim_pin_hint">PIN moet 4 tot 8 nummers bevatten</string>
   <string name="invalid_sim_puk_hint">PUK moet minstens 8 nummers lang zijn</string>
-  <string name="keyguard_charging_info_battery_temperature_text">Temperatuur van batterij</string>
   <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
   <string name="keyguard_charging_info_click_to_detail">Details bekijken</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">Ongeveer %d uur resterend</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">Ongeveer %d minuten resterend</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Ongeveer %d uur en %d minuten resterend</string>
-  <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
-  <string name="keyguard_charging_info_drained_hour_time_format">%d uur</string>
-  <string name="keyguard_charging_info_drained_min_time_format">%d minuten</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Leeggelopen</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>

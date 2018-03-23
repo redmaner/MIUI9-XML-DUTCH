@@ -101,6 +101,7 @@
   <string name="incompatible_dialog_ok">Begrepen</string>
   <string name="incompatible_dialog_title">Compatibileitsproblemen</string>
   <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
+  <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_alarm_ring">Alarmen</string>
   <string name="item_resource_audio_optional_color_ring">Ringbacktoon</string>
   <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -135,10 +136,15 @@
   <string name="online_precust_abstract">Abstract</string>
   <string name="online_precust_animal">Dieren</string>
   <string name="online_precust_asphalt">Asfalt</string>
+  <string name="online_precust_black_gold">Rhodium</string>
   <string name="online_precust_building">Gebouwen</string>
+  <string name="online_precust_chubby_dreamer">Chubby dreamer</string>
   <string name="online_precust_creative">Creatief</string>
+  <string name="online_precust_forest_stories">Forest stories</string>
   <string name="online_precust_geometry">Geometrie</string>
   <string name="online_precust_lifestyle">Lifestyle</string>
+  <string name="online_precust_mi_note2">Mi Note 2</string>
+  <string name="online_precust_paper_world">Paper world</string>
   <string name="online_precust_peach_blossom">Perzikbloesem</string>
   <string name="online_precust_plant">Planten</string>
   <string name="online_precust_scenery">Landschap</string>
@@ -182,6 +188,7 @@
   <string name="resource_comment_average_score">Beoordelingen</string>
   <string name="resource_comment_bad_comments">Negatief</string>
   <string name="resource_comment_current_version">Huidige versie</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Reactie toevoegen</string>
   <string name="resource_comment_edit_comment_waiting">Geschiedenis controleren…</string>
   <string name="resource_comment_edit_text_default">Schrijf een reactie</string>
@@ -289,6 +296,7 @@
   <string name="resource_pack_price_info">Originele prijs: %1$s</string>
   <string name="resource_pack_warning">"Waarschuwing! u heeft al %1$d items gekocht, huidige prijs is niet meer geldig voor overige items, koop ze individueel."</string>
   <string name="resource_present">Cadeau</string>
+  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit">Mi Credits</string>
   <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer opnieuw</string>
@@ -300,6 +308,10 @@
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betaald</string>
+  <string name="resource_ring_ranking_list_divider">-</string>
+  <string name="resource_ring_ranking_list_rank_1">1</string>
+  <string name="resource_ring_ranking_list_rank_2">2</string>
+  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">Beltonen</string>
   <string name="resource_ringtone_playing_error">Fout</string>
   <string name="resource_ringtone_volume_mute">Beltoonvolume gedempt</string>
@@ -351,6 +363,9 @@
   <string name="resource_trial_fail_go_settings">Instellingen</string>
   <string name="resource_trial_fail_message">Zorg dat je systeemklok juist staat.</string>
   <string name="resource_trial_fail_title">Kan de trialsessie niet instellen</string>
+  <string name="resource_trial_hours">(trial: %1$dh)</string>
+  <string name="resource_trial_hours_minutes">(trial: %1$dh %2$dm)</string>
+  <string name="resource_trial_minutes">(trial: %1$dm)</string>
   <string name="resource_unknow_error">Onbekende fout opgetreden</string>
   <string name="resource_update">Updaten</string>
   <string name="resource_user_know">OK</string>
@@ -445,13 +460,14 @@
   <string name="title_my_audio_resource">Mijn beltonen</string>
   <string name="title_my_miwallpaper_resource">Mijn live achtergronden</string>
   <string name="title_my_wallpaper_resource">Mijn achtergronden</string>
+  <string name="title_system_audio_notification_resource">Systeem meldingen</string>
   <string name="title_system_audio_resource">Systeembeltonen</string>
   <string name="title_system_wallpaper_resource">Systeemachtergronden</string>
   <string name="to_activate_the_account">Activeer uw Xiaomi account</string>
   <string name="uid_change_dialog_message">U hebt de updates verwijderd. Herstart het apparaat om deze thema\'s te kunnen gebruiken.</string>
   <string name="uid_change_dialog_ok">Begrepen</string>
   <string name="uid_change_dialog_title">Apparaat herstarten</string>
-  <string name="title_system_audio_notification_resource">Systeem meldingen</string>
+  <string name="up_to_the_end">"That's all for now. Come back later."</string>
   <string name="wallpaper_apply">Toepassen</string>
   <string name="wallpaper_crop">Bijsnijden</string>
   <string name="wallpaper_decoded_error">Kan achtergrond niet instellen</string>

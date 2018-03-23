@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="alphabet">Letters</string>
+  <string name="app_name">SIM toolkit</string>
   <string name="button_cancel">Annuleren</string>
   <string name="button_no">Nee</string>
   <string name="button_ok">OK</string>
@@ -19,9 +21,14 @@
   <string name="menu_end_session">Sessie beëindigen</string>
   <string name="no_sim_card_inserted">Voer SIM kaart om SIM toolkit te starten.</string>
   <string name="service_name">Servicenaam</string>
+  <string name="sim_type_sim_name">SIM toolkit</string>
+  <string name="sim_type_uim_name">UIM toolkit</string>
+  <string name="sim_type_usim_name">USIM toolkit</string>
   <string name="stk_app_state">Appstatus</string>
+  <string name="stk_channel_name">Mobile service messages</string>
   <string name="stk_dialog_accept">JA</string>
   <string name="stk_dialog_reject">NEE</string>
+  <string name="stk_dialog_title">SIM toolkit</string>
   <string name="stk_intent_permission">Toestemmingen zijn vereist</string>
   <string name="stk_no_service">Geen service beschikbaar</string>
 </resources>

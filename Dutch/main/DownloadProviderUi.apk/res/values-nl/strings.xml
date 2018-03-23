@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Enkel Wi-Fi gebruiken</string>
   <string name="about">Over</string>
   <string name="action_settings">Instellingen</string>
@@ -32,6 +37,7 @@
   <string name="cancle">Annuleren</string>
   <string name="choose_open_time">Kies wanneer je wilt beginnen</string>
   <string name="clear_data">Wissen</string>
+  <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
   <string name="complete_time">Voltooid:</string>
   <string name="confirm">Ok</string>
   <string name="confirm_delete_downloads_message">%d downloads worden verwijderd!</string>

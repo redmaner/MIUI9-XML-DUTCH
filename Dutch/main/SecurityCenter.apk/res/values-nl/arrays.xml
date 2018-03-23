@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="date_of_traffic_cmcc">
         <item>"Deze week "</item>
@@ -68,6 +68,28 @@
         <item>Sorteren op gebruikte opslag</item>
         <item>Sorteren op installatietijd</item>
     </string-array>
+    <string-array name="always_enabled_app_list">
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.miui.providers.userbook</item>
+        <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
+        <item>com.miui</item>
+        <item>com.google.android.packageinstaller</item>
+        <item>com.miui.core</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>Installatiebron</item>
         <item>Installatietijd</item>
@@ -78,10 +100,53 @@
         <item>Datagebruik</item>
         <item>Belminuten</item>
     </string-array>
+    <string-array name="luckymoney_sound">
+        <item>静音</item>
+        <item>金币</item>
+        <item>红包来了</item>
+    </string-array>
     <string-array name="tether_limit_warn_type">
         <item>Uitschakelen en melden</item>
         <item>Alleen melden</item>
     </string-array>
+    <string-array name="clean_cached_process_white_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.virtualsim</item>
+        <item>com.android.keyguard</item>
+        <item>com.android.keychain</item>
+        <item>com.miui.systemAdSolution</item>
+        <item>com.miui.msa.global</item>
+        <item>com.miui.securitycore</item>
+        <item>com.miui.personalassistant</item>
+        <item>com.android.updater</item>
+        <item>com.miui.analytics</item>
+        <item>com.miui.cleanmaster</item>
+    </string-array>
+    <integer-array name="om_occupy_memory_percent">
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="om_app_background_restrict">
+        <item>0</item>
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="pc_time_choice_items">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="pc_disconnect_data_time_choice_items">
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
         <item>Dagelijks</item>

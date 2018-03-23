@@ -13,6 +13,8 @@
   <string name="bugreport_info_dialog_title">Details bugrapport #%d</string>
   <string name="bugreport_info_name">Bestandsnaam</string>
   <string name="bugreport_info_title">Bug titel</string>
+  <string name="bugreport_intent_chooser_title">Share Bug report</string>
+  <string name="bugreport_notification_channel">Bug reports</string>
   <string name="bugreport_screenshot_action">Schermafdruk</string>
   <string name="bugreport_screenshot_failed">Er kon geen schermafdruk worden gemaakt.</string>
   <string name="bugreport_screenshot_taken">Schermafdruk gemaakt.</string>
