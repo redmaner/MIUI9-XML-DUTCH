@@ -411,18 +411,6 @@
   <string name="mw_abc_activitychooserview_choose_application">Kies een app</string>
   <string name="mw_abc_capital_off">UIT</string>
   <string name="mw_abc_capital_on">AAN</string>
-  <string name="mw_abc_font_family_body_1_material">sans-serif</string>
-  <string name="mw_abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="mw_abc_font_family_button_material">sans-serif-medium</string>
-  <string name="mw_abc_font_family_caption_material">sans-serif</string>
-  <string name="mw_abc_font_family_display_1_material">sans-serif</string>
-  <string name="mw_abc_font_family_display_2_material">sans-serif</string>
-  <string name="mw_abc_font_family_display_3_material">sans-serif</string>
-  <string name="mw_abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="mw_abc_font_family_headline_material">sans-serif</string>
-  <string name="mw_abc_font_family_menu_material">sans-serif</string>
-  <string name="mw_abc_font_family_subhead_material">sans-serif</string>
-  <string name="mw_abc_font_family_title_material">sans-serif-medium</string>
   <string name="mw_abc_search_hint">Zoeken…</string>
   <string name="mw_abc_searchview_description_clear">Zoekopdracht wissen</string>
   <string name="mw_abc_searchview_description_query">Zoeken</string>
@@ -1131,8 +1119,6 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
-  <string name="tae_sdk_login_qr_icon_close"></string>
-  <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
   <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="temp_refuse">Nee bedankt</string>

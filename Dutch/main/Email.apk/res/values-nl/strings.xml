@@ -598,12 +598,6 @@ Nu bijwerken?"</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Mail synchroniseren van</string>
   <string name="mailbox_settings_sync_enabled_label">Deze map synchroniseren</string>
   <string name="mailbox_settings_sync_enabled_summary">Gesynchroniseerde berichten in deze map</string>
-  <string name="maileditor_fontsize_textitem1">8pt</string>
-  <string name="maileditor_fontsize_textitem2">10pt</string>
-  <string name="maileditor_fontsize_textitem3">12pt</string>
-  <string name="maileditor_fontsize_textitem4">14pt</string>
-  <string name="maileditor_fontsize_textitem5">16pt</string>
-  <string name="maileditor_fontsize_textitem6">18pt</string>
   <string name="main_help_context">ttl</string>
   <string name="manual_sync">Nu synchroniseren</string>
   <string name="mark_important">Markeren als belangrijk</string>

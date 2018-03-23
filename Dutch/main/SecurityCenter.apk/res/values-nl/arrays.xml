@@ -68,28 +68,6 @@
         <item>Sorteren op gebruikte opslag</item>
         <item>Sorteren op installatietijd</item>
     </string-array>
-    <string-array name="always_enabled_app_list">
-        <item>com.android.providers.applications</item>
-        <item>com.android.providers.calendar</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.providers.downloads</item>
-        <item>com.android.providers.drm</item>
-        <item>com.android.providers.media</item>
-        <item>com.android.providers.telephony</item>
-        <item>com.android.providers.userdictionary</item>
-        <item>com.miui.providers.userbook</item>
-        <item>com.miui.providers.weather</item>
-        <item>com.miui.yellowpage</item>
-        <item>com.miui</item>
-        <item>com.google.android.packageinstaller</item>
-        <item>com.miui.core</item>
-    </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
-    </string-array>
     <string-array name="title_app_info">
         <item>Installatiebron</item>
         <item>Installatietijd</item>
@@ -108,19 +86,6 @@
     <string-array name="tether_limit_warn_type">
         <item>Uitschakelen en melden</item>
         <item>Alleen melden</item>
-    </string-array>
-    <string-array name="clean_cached_process_white_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.virtualsim</item>
-        <item>com.android.keyguard</item>
-        <item>com.android.keychain</item>
-        <item>com.miui.systemAdSolution</item>
-        <item>com.miui.msa.global</item>
-        <item>com.miui.securitycore</item>
-        <item>com.miui.personalassistant</item>
-        <item>com.android.updater</item>
-        <item>com.miui.analytics</item>
-        <item>com.miui.cleanmaster</item>
     </string-array>
     <integer-array name="om_occupy_memory_percent">
         <item>80</item>
