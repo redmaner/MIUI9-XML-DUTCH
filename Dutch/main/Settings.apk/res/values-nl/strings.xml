@@ -2337,7 +2337,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="local_backup_password_title">Wachtwoord desktop back-up</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Wachtwoorden komen niet overeen.</string>
   <string name="local_backup_password_toast_success">Nieuw back-up wachtwoord ingesteld</string>
-  <string name="local_backup_password_toast_validation_failure">&gt;"Couldn't set backup password"</string>
+  <string name="local_backup_password_toast_validation_failure">"Couldn't set backup password"</string>
   <string name="local_backup_section_summary">Back-up systeeminstellingen, accountgegevens en apps</string>
   <string name="local_backup_section_title">Lokale back-ups</string>
   <string name="locale_default">Standaard</string>
