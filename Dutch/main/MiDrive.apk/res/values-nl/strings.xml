@@ -8,6 +8,7 @@
   <string name="agree">Toestaan</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">Verbergen</string>
+  <string name="byteShort">B</string>
   <string name="cancel">Annuleren</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">Overdrachten bekjken</string>
@@ -110,10 +111,12 @@
   <string name="sd_full">Uw SD kaart is vol.</string>
   <string name="sd_invalid">Uw SD kaart is beschadigd.</string>
   <string name="send_to_midrive_failed">Dit type bestand wordt niet ondersteund</string>
+  <string name="slashes">/</string>
   <string name="source_file_missing">Het bestand mist.</string>
   <string name="space_full">Niet genoeg ruimte op de cloud.</string>
   <string name="start_use_xiaomi_account">Start met het gebruiken van Mi Drive</string>
   <string name="system_alert">Internetverbinding</string>
+  <string name="terabyteShort">TB</string>
   <string name="tools">Tools</string>
   <string name="trans_mobile_network_message">Het gebruik van mobiele data om bestanden te transfereren kan extra kosten meebrengen. Toch transfereren?</string>
   <string name="trans_task">Transfereeropdrachten</string>

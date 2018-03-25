@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Er worden te veel aanvragen verwerkt, probeer het later opnieuw.</string>
+  <string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
   <string name="ack_record">ACK record</string>
   <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
   <string name="airplane_error_msg">U kunt Bluetooth niet gebruiken in Vliegmodus.</string>
@@ -30,6 +31,7 @@
   <string name="bt_enable_line1">Als u Bluetooth services wilt gebruiken, moet u eerst Bluetooth inschakelen.</string>
   <string name="bt_enable_line2">Bluetooth nu inschakelen?</string>
   <string name="bt_enable_ok">Inschakelen</string>
+  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"Er is onvoldoende ruimte op de USB opslag beschikbaar om het bestand van '%1$s' op te slaan"</string>
@@ -41,6 +43,8 @@
   <string name="bt_toast_5">"%1$s bestanden verzenden naar '%2$s'"</string>
   <string name="bt_toast_6">"Verzenden van bestand naar '%1$s' is beëindigd"</string>
   <string name="btopp_live_folder">Ontvangen via Bluetooth</string>
+  <string name="defaultname">Carkit</string>
+  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Alle records verwijderen</string>
   <string name="delete_record">Record verwijderen</string>
   <string name="download_cancel">Stoppen</string>
@@ -51,6 +55,7 @@
   <string name="download_line1">"Van: '%1$s'"</string>
   <string name="download_line2">Bestand: %1$s</string>
   <string name="download_line3">Bestandsgrootte: %1$s</string>
+  <string name="download_line4"/>
   <string name="download_line5">Bestand ontvangen…</string>
   <string name="download_ok">Verbergen</string>
   <string name="download_succ_line5">Bestand ontvangen</string>
@@ -94,10 +99,12 @@
   <string name="notification_sent_fail">Delen via Bluetooth: bestand %1$s niet verzonden</string>
   <string name="notify_server">Melden aan TCP server</string>
   <string name="ok_button">OK</string>
+  <string name="opp_notification_group">Bluetooth Share</string>
   <string name="outbound_history_title">Uitgaande overdrachten</string>
   <string name="outbound_noti_title">Bluetooth delen: verzonden bestanden</string>
   <string name="pbap_acceptance_timeout_message">Er is een time-out opgetreden voor het accepteren van de verbinding met %1$s</string>
   <string name="pbap_authentication_timeout_message">Er is een time-out opgetreden tijdens het invoeren van de sessiesleutel met %1$s</string>
+  <string name="pbap_notification_group">Bluetooth Contact share</string>
   <string name="pbap_session_key_dialog_header">Bluetooth sessiesleutel is vereist</string>
   <string name="pbap_session_key_dialog_title">Typ de sessiesleutel voor %1$s</string>
   <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
@@ -108,6 +115,8 @@
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht uitzendingen.</string>
+  <string name="process"/>
+  <string name="sharedUserId"/>
   <string name="start_server">TCP server starten</string>
   <string name="status_canceled">Overdracht geannuleerd door gebruiker.</string>
   <string name="status_connection_error">Verbinding mislukt.</string>

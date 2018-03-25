@@ -64,13 +64,13 @@
         <item quantity="other">Zeer korte vertraging (%1$d ms)</item>
         <item quantity="one">Zeer korte vertraging (%1$d ms)</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Lange vertraging (%1$d ms)</item>
-        <item quantity="one">Lange vertragng (%1$d ms)</item>
-    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
         <item quantity="other">Korte vertraging (%1$d ms)</item>
         <item quantity="one">Korte vertraging (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Lange vertraging (%1$d ms)</item>
+        <item quantity="one">Lange vertragng (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
         <item quantity="other">Zeer lange vertraging (%1$d ms)</item>
@@ -213,4 +213,96 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
         <item quantity="other">Wacht %d seconden en probeer opnieuw.</item>
         <item quantity="one">Wacht %d seconde en probeer opnieuw.</item>
     </plurals> 
+    <plurals name="app_notification_listing_summary_others">
+        <item quantity="other">Turned off for %d apps</item>
+        <item quantity="one">Turned off for %d app</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item quantity="other">Camera apps</item>
+        <item quantity="one">Camera app</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item quantity="other">Email client apps</item>
+        <item quantity="one">Email client app</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item quantity="other">Phone apps</item>
+        <item quantity="one">Phone app</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item quantity="other">%d categories deleted</item>
+        <item quantity="one">%d category deleted</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item quantity="other">%d apps opening supported links</item>
+        <item quantity="one">One app opening supported links</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item quantity="other">Minimum %d CA certificates</item>
+        <item quantity="one">Minimum %d CA certificate</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d attempts</item>
+        <item quantity="one">%d attempt</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Minimum %d apps</item>
+        <item quantity="one">Minimum %d app</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">%d active trust agents</item>
+        <item quantity="one">1 active trust agent</item>
+    </plurals>
+    <plurals name="master_clear_with_account_summary">
+        <item quantity="other">%1$d accounts will be reset</item>
+        <item quantity="one">1 account will be reset</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item quantity="other">%1$d restrictions</item>
+        <item quantity="one">1 restriction</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item quantity="other">%d active apps</item>
+        <item quantity="one">%d active app</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d print jobs</item>
+        <item quantity="one">1 print job</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item quantity="other">%1$d print services on</item>
+        <item quantity="one">1 print service on</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">Show %d hidden items</item>
+        <item quantity="one">Show %d hidden item</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d apps can use unrestricted data</item>
+        <item quantity="one">1 app can use unrestricted data</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item quantity="other">%d networks</item>
+        <item quantity="one">1 network</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item quantity="other">%d automatic rules turned on</item>
+        <item quantity="one">1 automatic rule turned on</item>
+    </plurals>
 </resources>

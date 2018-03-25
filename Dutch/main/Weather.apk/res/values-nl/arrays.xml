@@ -17,6 +17,13 @@
         <item>Ernstig</item>
         <item>Zeer ernstig</item>
     </string-array>
+    <string-array name="breeze">
+        <item>&lt;Force 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
         <item>Shanghai</item>
@@ -107,16 +114,6 @@
         <item>Zuid-west</item>
         <item>West</item>
         <item>Noord-west</item>
-    </string-array>
-	<string-array name="wind_direction_simple">
-	    <item>N</item>
-        <item>NO</item>
-        <item>O</item>
-        <item>ZO</item>
-        <item>Z</item>
-        <item>ZW</item>
-        <item>W</item>
-        <item>NW</item>
     </string-array>
 	<string-array name="wind_unit_detail">
         <item>Beaufort</item>

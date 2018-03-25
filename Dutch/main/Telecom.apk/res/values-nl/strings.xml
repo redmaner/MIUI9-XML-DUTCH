@@ -32,11 +32,18 @@
   <string name="app_process_limit_title">Limiet achtergrondproces</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="battery_info_status_charging">Laden</string>
+  <string name="battery_info_status_charging_ac">Charging on AC</string>
+  <string name="battery_info_status_charging_ac_short">Charging</string>
   <string name="battery_info_status_charging_lower">opladen</string>
+  <string name="battery_info_status_charging_usb">Charging over USB</string>
+  <string name="battery_info_status_charging_usb_short">Charging</string>
+  <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
+  <string name="battery_info_status_charging_wireless_short">Charging</string>
   <string name="battery_info_status_discharging">Niet aan het opladen</string>
   <string name="battery_info_status_full">Volledig opgeladen</string>
   <string name="battery_info_status_not_charging">Niet aan het opladen</string>
   <string name="battery_info_status_unknown">Onbekend</string>
+  <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="block_button">Blokkeren</string>
   <string name="block_number">Nummer toevoegen</string>
   <string name="blocked_numbers">Geblokkeerde nummers</string>
@@ -83,6 +90,7 @@
   <string name="bluetooth_pairing_rejected_error_message">Koppeling geweigerd door %1$s.</string>
   <string name="bluetooth_pairing_will_share_phonebook">Koppelen verleent toegang tot uw contacten en belgeschiedenis wanneer deze is aangesloten.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Lokale internetverbinding delen met apparaat</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Verbonden met apparaat voor internet toegang</string>
   <string name="bluetooth_profile_a2dp">Media audio</string>
   <string name="bluetooth_profile_a2dp_high_quality">Hoge kwaliteit audio gebruiken: %1$s</string>
@@ -132,6 +140,7 @@ Sample Rate"</string>
   <string name="change_default_dialer_dialog_affirmative">Standaard instellen</string>
   <string name="change_default_dialer_dialog_negative">Annuleren</string>
   <string name="change_default_dialer_dialog_title">Standaard telefoonapp wijzigen?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
   <string name="change_default_dialer_warning_message">%s zal alle aspecten van oproepen kunnen plaatsen en controleren. Alleen apps die u vertrouwt, moeten worden ingesteld als de standaard telefoonapp.</string>
   <string name="change_default_dialer_with_previous_app_set_text">%1$s gebruiken i.p.v. %2$s als uw standaard bel app?</string>
   <string name="charge_length_format">%1$s geleden</string>
@@ -143,6 +152,7 @@ Sample Rate"</string>
   <string name="connected_via_network_scorer">Automatich verbonden via %1$s</string>
   <string name="connected_via_network_scorer_default">Automatisch verbonden via netwerkratingprovider</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
+  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Datapartitie omzetten naar bestandsgebaseerde encryptie.
  !!Waarschuwing!! Dit zal alle gegevens wissen.
@@ -201,6 +211,8 @@ Sample Rate"</string>
   <string name="enable_opengl_traces_title">OpenGL resten inschakelen</string>
   <string name="enable_terminal_summary">Terminal app inschakelen die lokale shelltoegang geeft</string>
   <string name="enable_terminal_title">Lokale terminal</string>
+  <string name="enable_webview_multiprocess">Multiprocess WebView</string>
+  <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
   <string name="enabled_by_admin">Ingeschakeld door beheerder</string>
   <string name="external_source_trusted">Toegestaan</string>
   <string name="external_source_untrusted">Niet toegestaan</string>
@@ -218,6 +230,8 @@ Sample Rate"</string>
   <string name="handle_restricted">BEPERKT</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
+  <string name="headset_plugin_view_text">Headset is plugged in.</string>
+  <string name="headset_plugin_view_title">Headset</string>
   <string name="help_feedback_label">Help &amp; feedback</string>
   <string name="home">Home instellingen</string>
   <string name="ime_security_warning">Deze invoermethode kan alle tekst die je typt verzamelen, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnumers. Het is afkomstig van de app %1$s. WIlt u deze invoermethode gebruiken?</string>
@@ -229,11 +243,14 @@ Sample Rate"</string>
   <string name="incall_error_call_failed">Kon geen gesprek maken</string>
   <string name="incall_error_power_off">Schakel vliegmodus uit om te bellen.</string>
   <string name="incall_error_supp_service_unknown">Deze service wordt niet ondersteund</string>
+  <string name="incoming_call_failed_low_battery">Incoming Call is failed due to low battery.</string>
   <string name="install_other_apps">Onbekende apps installeren</string>
   <string name="keep_screen_on">Scherm aanhouden</string>
   <string name="keep_screen_on_summary">Het scherm zal nooit uitgaan gaan tijdens het opladen</string>
   <string name="launch_defaults_none">Geen standaardwaarden ingesteld</string>
   <string name="launch_defaults_some">Enkele standaardwaarden ingesteld</string>
+  <string name="lch_dtmf_key">D</string>
+  <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-ups van de desktop</string>
   <string name="local_backup_password_summary_none">Desktop back-ups zijn momenteel niet beveiligd</string>
   <string name="local_backup_password_title">Desktop back-up wachtwoord</string>
@@ -254,6 +271,7 @@ Sample Rate"</string>
   <string name="notification_AllMissedCallTitle">Alle gemiste oproepen</string>
   <string name="notification_channel_incoming_call">Inkomende oproepen</string>
   <string name="notification_channel_missed_call">Gemiste oproepen</string>
+  <string name="notification_component"/>
   <string name="notification_incoming_call">%1$s oproep van %2$s</string>
   <string name="notification_incoming_video_call">%1$s video-oproep van %2$s</string>
   <string name="notification_missedCallTicker">Gemiste oproep van %s</string>
@@ -264,6 +282,8 @@ Sample Rate"</string>
   <string name="notification_missedCallsMsg">%s gemiste oproepen</string>
   <string name="notification_missedCallsTitle">Gemiste oproepen</string>
   <string name="notification_missedWorkCallTitle">Gemiste werkoproep</string>
+  <string name="notification_pullcall">Calls on Secondary</string>
+  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
   <string name="oem_unlock_enable_summary">Toestaan om bootloader te ontgrendelen</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Oproep niet verzonden, geen geldig nummer ingevoerd.</string>
@@ -275,11 +295,15 @@ Sample Rate"</string>
   <string name="pointer_location">Locatie aanwijzer</string>
   <string name="pointer_location_summary">Schermoverlay geeft huidige aanraakgegevens weer</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
+  <string name="power_charging_duration_ac">%1$s - %2$s until full on AC</string>
+  <string name="power_charging_duration_usb">%1$s - %2$s until full over USB</string>
+  <string name="power_charging_duration_wireless">%1$s - %2$s until full from wireless</string>
   <string name="power_discharging_duration">%1$s - ongeveer %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Nog ongeveer %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
+  <string name="pull_to_call_back">Tap to pull</string>
   <string name="remaining_length_format">%1$s resterend</string>
   <string name="respond_via_sms_canned_response_1">Kan nu niet praten. Wat is het probleem?</string>
   <string name="respond_via_sms_canned_response_2">Ik bel meteen terug.</string>
@@ -287,6 +311,7 @@ Sample Rate"</string>
   <string name="respond_via_sms_canned_response_4">Kan nu niet praten. Bel me later terug?</string>
   <string name="respond_via_sms_confirmation_format">Bericht verzonden naar %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Snel antwoord</string>
+  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Snelle antwoorden</string>
   <string name="respond_via_sms_setting_title_2">Snelle antwoorden bewerken</string>
   <string name="retail_demo_reset_message">Voer wachtwoord in om fabrieksreset uit te voeren in demomodus</string>
@@ -314,6 +339,8 @@ Sample Rate"</string>
   <string name="select_webview_provider_toast_text">Deze keuze is niet langer geldig. Probeer opnieuw.</string>
   <string name="show_all_anrs">Alle ANRs weergeven</string>
   <string name="show_all_anrs_summary">App reageert niet melding voor achtergrondapps weergeven</string>
+  <string name="show_cpu_usage">Show CPU usage</string>
+  <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
   <string name="show_hw_layers_updates">Hardwarelagen updates weergeven</string>
   <string name="show_hw_layers_updates_summary">Flash hardware lagen groen wanneer ze updaten</string>
   <string name="show_hw_screen_updates">GPU view updates weergeven</string>
@@ -331,9 +358,13 @@ Sample Rate"</string>
   <string name="telecommAppLabel">Telefoon</string>
   <string name="telephony_monitor_switch">Telefoonmonitor</string>
   <string name="telephony_monitor_switch_summary">Telefoonmonitor zal logs verzamelen wanneer het een probleem met telefoon/modem functionaliteit detecteert en de gebruiker vragen een bug te rapporteren</string>
+  <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Account bij Q Mobile</string>
+  <string name="test_account_1_label">Market Wireless</string>
   <string name="test_account_1_short_description">Account bij Market Wireless</string>
+  <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
   <string name="test_account_2_short_description">Praat met iedereen in uw omgeving!</string>
+  <string name="test_account_3_label">Bay Voice Chat Pro</string>
   <string name="test_account_3_short_description">Chat met Chat Network gebruikers</string>
   <string name="tether_settings_title_all">Tethering &amp; draagbare hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
@@ -343,7 +374,9 @@ Sample Rate"</string>
   <string name="tethering_hardware_offload">Tethering hardwareversnelling</string>
   <string name="tethering_hardware_offload_summary">Tethering hardwareversnelling gebruiken wanneer beschikbaar</string>
   <string name="tethering_settings_not_available">Tethering instellingen zijn niet beschikbaar voor deze gebruiker</string>
+  <string name="time_zone_gmt">GMT</string>
   <string name="title_convert_fbe">Omzetten naar bestandgebaseerde encryptie</string>
+  <string name="toast_make_video_call_failed">Can not make video call, incorrect number format</string>
   <string name="toast_personal_call_msg">De persoonlijke dialer gebruiken om de oproep te maken</string>
   <string name="track_frame_time">GPU rendering profiel</string>
   <string name="transition_animation_scale_title">Overgangsanimatieschaal</string>
@@ -422,8 +455,13 @@ Sample Rate"</string>
   <string name="wifi_disabled_wifi_failure">Wi-Fi verbindingsfout</string>
   <string name="wifi_display_certification">Draadloze display certificering</string>
   <string name="wifi_display_certification_summary">Opties voor draadloze weergavecertificering weergeven</string>
+  <string name="wifi_dns1_hint">8.8.8.8</string>
+  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
+  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certificaat</string>
+  <string name="wifi_ip_address_hint">192.168.1.128</string>
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">Geen internettoegang</string>
   <string name="wifi_no_internet_no_reconnect">Zal niet automatisch verbinden</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
@@ -436,6 +474,10 @@ Sample Rate"</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
   <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+  <string name="wifi_security_wapi_cert">WAPI-Cert</string>
+  <string name="wifi_security_wapi_psk">WAPI-PSK</string>
+  <string name="wifi_security_wapi_psk_ascii">ASCII</string>
+  <string name="wifi_security_wapi_psk_hexadecimal">Hexadecimal</string>
   <string name="wifi_security_wep">WEP</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>

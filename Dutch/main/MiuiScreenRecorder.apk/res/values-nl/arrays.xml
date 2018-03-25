@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="screenrecorder_settings_resolution">
-        <item>1080p</item>
-        <item>720p</item>
-        <item>480p</item>
-    </string-array>
     <string-array name="screenrecorder_settings_bit_rate">
         <item>200Mbps</item>
         <item>100Mbps</item>
@@ -26,6 +21,11 @@
         <item>Automatisch</item>
         <item>Portretmodus</item>
         <item>Landschapsmodus</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_resolution">
+        <item>1080p</item>
+        <item>720p</item>
+        <item>480p</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Dempen</item>

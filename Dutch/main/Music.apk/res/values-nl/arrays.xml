@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string-array name="aritst_gender_filter_api">
-        <item>alle</item>
-        <item>man</item>
-        <item>vrouw</item>
-        <item>groep</item>
-    </string-array>
-</resources>

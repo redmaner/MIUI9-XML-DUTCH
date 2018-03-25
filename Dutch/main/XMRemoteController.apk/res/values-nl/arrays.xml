@@ -70,6 +70,13 @@
         <item>TV kanalen</item>
         <item>CCTV kanalen</item>
     </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>All channels</item>
+        <item>Recently watched</item>
+        <item>HD channels</item>
+        <item>TV channels</item>
+        <item>CCTV channels</item>
+    </string-array>
     <string-array name="epg_channel_tab_v53">
 	    <item>Alles</item>
         <item>TV</item>

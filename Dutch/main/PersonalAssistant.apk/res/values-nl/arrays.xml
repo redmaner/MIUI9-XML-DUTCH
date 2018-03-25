@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="day_time_space">
         <item>Nacht</item>
@@ -9,9 +9,10 @@
         <item>Laat in de middag</item>
         <item>Avond</item>
     </string-array>
-    <string-array name="express_status_detail">
-        <item>Onderweg</item>
-        <item>Uitleveren</item>
+    <string-array name="detail_font_size">
+        <item>Small</item>
+        <item>Regular</item>
+        <item>Large</item>
     </string-array>
     <string-array name="express_status_all">
         <item>Onderweg</item>
@@ -22,5 +23,13 @@
         <item>Geweigerd</item>
         <item>Teruggestuurd</item>
         <item>Onbekend</item>
+    </string-array>
+    <string-array name="express_status_detail">
+        <item>Onderweg</item>
+        <item>Uitleveren</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Red - up, green - down</item>
+        <item>Green - up, red - down</item>
     </string-array>
 </resources>

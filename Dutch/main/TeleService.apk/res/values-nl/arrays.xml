@@ -38,6 +38,194 @@
         <item>HDCP controle alleen voor DRM inhoud gebruiken</item>
         <item>Altijd HDCP controle gebruiken</item>
     </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Uit</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Uit</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Uit</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animatie uit</item>
+        <item>Animatieschaal .5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1.5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Geen</item>
+        <item>480p</item>
+        <item>480p (veilig)</item>
+        <item>720p</item>
+        <item>720p (veilig)</item>
+        <item>1080p</item>
+        <item>1080p (veilig)</item>
+        <item>4K</item>
+        <item>4K (veilig)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, veilig)</item>
+        <item>720p, 1080p (dubbel scherm)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Geen</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafieken)</item>
+        <item>GlGetError aanroepen</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Uit</item>
+        <item>Teken een niet rechthoekige klemgebied in blauw</item>
+        <item>Markeer geteste tekenopdrachten in groen</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Uit</item>
+        <item>Op het scherm als balken</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Uit</item>
+        <item>Overdraaggebieden weergeven</item>
+        <item>Gebieden voor deuteranomalie weergeven</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standaardlimiet</item>
+        <item>Geen achtergrondprocessen</item>
+        <item>Maximaal 1 proces</item>
+        <item>Maximaal 2 processen</item>
+        <item>Maximaal 3 processen</item>
+        <item>Maximaal 4 processen</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Opladen</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audiobron</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Zeer traag</item>
+        <item>Traag</item>
+        <item>Normaal</item>
+        <item>Rap</item>
+        <item>Rapper</item>
+        <item>Zeer rap</item>
+        <item>Snel</item>
+        <item>Zeer snel</item>
+        <item>Snelst</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Levendig (standaard)</item>
+        <item>Naturel</item>
+        <item>Standaard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Verbeterde kleuren</item>
+        <item>Natuurlijke kleuren zoals gezien door het oog</item>
+        <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Globaal</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
+    <array name="config_support_tdscdma_roaming_on_networks" />
+    <string-array name="clir_display_values">
+        <item>Netwerkstandaard</item>
+        <item>Nummer verbergen</item>
+        <item>Nummer weergeven</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Engels</item>
+        <item>Frans</item>
+        <item>Spaans</item>
+        <item>Japans</item>
+        <item>Koreaans</item>
+        <item>Chinees</item>
+        <item>Hebreeuws</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Home only</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+    </string-array>
+	<string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Triple modus</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple modus</item>
+    </string-array>
 	    <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (standaard)</item>
         <item>AVRCP 1.5</item>
@@ -111,28 +299,6 @@
         <item>Geoptimaliseerd voor verbindingskwaliteit</item>
         <item>Best Effort (varierende bitrate)</item>
     </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Uit</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Uit</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Uit</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
-    </string-array>
 	<string-array name="select_logpersist_titles">
         <item>Uit</item>
         <item>Alle</item>
@@ -145,139 +311,8 @@
         <item>Alle behalve radio logbuffers</item>
         <item>Alleen kernel logbuffer</item>
     </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal .5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1.5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal .5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1.5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animatie uit</item>
-        <item>Animatieschaal .5x</item>
-        <item>Animatieschaal 1x</item>
-        <item>Animatieschaal 1.5x</item>
-        <item>Animatieschaal 2x</item>
-        <item>Animatieschaal 5x</item>
-        <item>Animatieschaal 10x</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Geen</item>
-        <item>480p</item>
-        <item>480p (veilig)</item>
-        <item>720p</item>
-        <item>720p (veilig)</item>
-        <item>1080p</item>
-        <item>1080p (veilig)</item>
-        <item>4K</item>
-        <item>4K (veilig)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, veilig)</item>
-        <item>720p, 1080p (dubbel scherm)</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Geen</item>
-        <item>Logcat</item>
-        <item>Systrace (Grafieken)</item>
-        <item>GlGetError aanroepen</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Uit</item>
-        <item>Teken een niet rechthoekige klemgebied in blauw</item>
-        <item>Markeer geteste tekenopdrachten in groen</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Uit</item>
-        <item>Op het scherm als balken</item>
-        <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Uit</item>
-        <item>Overdraaggebieden weergeven</item>
-        <item>Gebieden voor deuteranomalie weergeven</item>
-    </string-array>
 	<string-array name="debug_hw_renderer_entries">
         <item>OpenGL (standaard)</item>
         <item>OpenGL (Skia)</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Standaardlimiet</item>
-        <item>Geen achtergrondprocessen</item>
-        <item>Maximaal 1 proces</item>
-        <item>Maximaal 2 processen</item>
-        <item>Maximaal 3 processen</item>
-        <item>Maximaal 4 processen</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>Opladen</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Audiobron</item>
-        <item>MIDI</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Zeer traag</item>
-        <item>Traag</item>
-        <item>Normaal</item>
-        <item>Rap</item>
-        <item>Rapper</item>
-        <item>Zeer rap</item>
-        <item>Snel</item>
-        <item>Zeer snel</item>
-        <item>Snelst</item>
-    </string-array>
-    <string-array name="color_mode_names">
-        <item>Levendig (standaard)</item>
-        <item>Naturel</item>
-        <item>Standaard</item>
-    </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Verbeterde kleuren</item>
-        <item>Natuurlijke kleuren zoals gezien door het oog</item>
-        <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>Globaal</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
-    </string-array>
-    <array name="config_support_tdscdma_roaming_on_networks" />
-    <string-array name="clir_display_values">
-        <item>Netwerkstandaard</item>
-        <item>Nummer verbergen</item>
-        <item>Nummer weergeven</item>
-    </string-array>
-    <string-array name="list_language_entries">
-        <item>Engels</item>
-        <item>Frans</item>
-        <item>Spaans</item>
-        <item>Japans</item>
-        <item>Koreaans</item>
-        <item>Chinees</item>
-        <item>Hebreeuws</item>
-    </string-array>
-	<string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Triple modus</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Triple modus</item>
     </string-array>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_name">HybridAccessory</string>
   <string name="short_cut_dialog_cancel_button_text">Nee</string>
   <string name="short_cut_dialog_cotent">De volgende apps kunnen worden gebruikt zonder installatie. Snelkoppelingen opslaan?</string>
   <string name="short_cut_dialog_create_button_text">Ja</string>

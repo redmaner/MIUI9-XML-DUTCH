@@ -120,8 +120,8 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Snel verwijderen</string>
   <string name="recover_notes_hint">Er is een fout opgetreden, ga naar i.mi.com om notities te herstellen</string>
   <string name="redo">Opnieuw</string>
-  <string name="refuse_to_share_as_pic_because_of_content">Deze notitie is te groot om te delen.</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Wacht tot de notitie is geladen en probeer opnieuw.</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Deze notitie is te groot om te delen.</string>
   <string name="rename_folder_dialog_tile">Map hernoemen</string>
   <string name="root_folder_name">Snelle notities</string>
   <string name="search">Notities</string>

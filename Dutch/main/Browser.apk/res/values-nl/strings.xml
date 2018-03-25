@@ -86,6 +86,7 @@
   <string name="aqi_quality_index_moderate">Matig</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Ongezond</string>
+  <string name="at_miui_browser">\@小米浏览器</string>
   <string name="autoSwithcingSearchEngineTips">Gewisseld naar de zoekmachine die u het meest gebruikt</string>
   <string name="autologin_bar_error">Kon niet aanmelden</string>
   <string name="autologin_bar_hide_text">Verbergen</string>
@@ -160,8 +161,11 @@
   <string name="comment_description">Opmerking</string>
   <string name="comment_hint">Opmerking</string>
   <string name="comment_menu">Opmerking</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_text_next">Volgende</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Vorige</string>
+  <string name="context_menu_add_to_desk_id">Add to Home screen</string>
+  <string name="context_menu_orientation_portrait_swap_id">V/H screen</string>
   <string name="contextmenu_add_contact">Contact toevoegen</string>
   <string name="contextmenu_copy">Kopiëren</string>
   <string name="contextmenu_copylink">URL link kopiëren</string>
@@ -189,6 +193,7 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefoon</string>
+  <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="data_monitor">Data usage monitor</string>
   <string name="data_monitor_dialog_message">Het lijkt erop dat iets veel mobiele data gebruikt. Open de startpagina om dit te stoppen.</string>
   <string name="data_traffic_prompt_message">Mobiel internet gebruiken om video\'s te bekijken zal voor veel datagebruik zorgen. Als je je limiet overschrijdt kan je provider extra kosten in rekening brengen.</string>
@@ -326,6 +331,7 @@
   <string name="hint">Hint</string>
   <string name="history">Geschiedenis</string>
   <string name="home_description">Home</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Verwijderen</string>
   <string name="homepage_get_location">Locatie verkrijgen</string>
   <string name="homepage_get_location_failed">Kon info niet verkrijgen, kies een stad</string>
@@ -396,6 +402,8 @@
   <string name="more_description">Menu</string>
   <string name="more_option">Meer opties</string>
   <string name="mw_abc_action_bar_home_description">Naar startscherm</string>
+  <string name="mw_abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="mw_abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="mw_abc_action_bar_up_description">Omhoog navigeren</string>
   <string name="mw_abc_action_menu_overflow_description">Meer opties</string>
   <string name="mw_abc_action_mode_done">Gereed</string>
@@ -425,6 +433,8 @@
   <string name="mw_actionbar_share">Delen</string>
   <string name="mw_actionbar_textselection_title">Tekstselectie</string>
   <string name="mw_actionbar_web_search">Op het web zoeken</string>
+  <string name="mw_autofill_address_summary_separator">", "</string>
+  <string name="mw_autofill_card_unmask_expiration_date_separator">/</string>
   <string name="mw_autofill_card_unmask_new_card_link">Nieuwe kaart?</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">Controleer je CVC en probeer opnieuw</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc_and_expiration">Controleer de verloopdatum en CVC en probeer opnieuw</string>
@@ -438,6 +448,12 @@
   <string name="mw_autofill_cc_amex">American Express</string>
   <string name="mw_autofill_cc_diners">Diners Club</string>
   <string name="mw_autofill_cc_discover">Ontdekken</string>
+  <string name="mw_autofill_cc_elo">Elo</string>
+  <string name="mw_autofill_cc_jcb">JCB</string>
+  <string name="mw_autofill_cc_mastercard">Mastercard</string>
+  <string name="mw_autofill_cc_mir">Mir</string>
+  <string name="mw_autofill_cc_union_pay">China UnionPay</string>
+  <string name="mw_autofill_cc_visa">Visa</string>
   <string name="mw_autofill_clear_local_copy_button">kopie wissen</string>
   <string name="mw_autofill_from_google_account_long">Van Google Payments</string>
   <string name="mw_autofill_keyboard_accessory_content_description">Suggesties beschikbaar</string>
@@ -479,6 +495,7 @@
   <string name="mw_common_open_on_phone">Openen op telefoon</string>
   <string name="mw_common_signin_button_text">Inloggen</string>
   <string name="mw_common_signin_button_text_long">Inloggen met Google</string>
+  <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="mw_copy_to_clipboard_failure_message">Kopiëren naar klembord mislukt</string>
   <string name="mw_data_traffic_prompt_change">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
   <string name="mw_data_traffic_prompt_message">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
@@ -564,7 +581,8 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Verbinding is verbroken toen uw apparaat in standby was.</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Verbinding is verbroken vanwege een netwerkwijziging.</string>
   <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Kon bestand niet vinden. Het kan verplaatst of verwijderd zijn.</string>
-  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Couldn't read file. File permissions may be preventing access."</string><string name="mw_miuichromium_error_page_problem_gateway_timed_out">Het duurt te lang voordat %s0 reageert.</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Couldn't read file. File permissions may be preventing access."</string>
+  <string name="mw_miuichromium_error_page_problem_gateway_timed_out">Het duurt te lang voordat %s0 reageert.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">Netwerktoegang is beperkt.</string>
   <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Kon niet verbinden met het internet. Er is iets mis met de proxyserver of het proxyadres is onjuist.</string>
   <string name="mw_miuichromium_error_page_problem_page_moved">De pagina op %s0 kan verplaatst of verwijderd zijn.</string>
@@ -752,6 +770,9 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_search_menu_title">Zoeken</string>
   <string name="mw_snippets_disabled_generic_prompt">Krijg gepersonaliseerde inhoud</string>
   <string name="mw_snippets_disabled_signed_out_instructions">Om gepersonaliseerde inhoud van Google te krijgen, log in bij Chrome.</string>
+  <string name="mw_time_picker_dialog_am">AM</string>
+  <string name="mw_time_picker_dialog_pm">PM</string>
+  <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Tijd instellen</string>
   <string name="mw_updating_chrome">Chrome updaten…</string>
   <string name="mw_video_buffering_percent">"Bufferen "</string>
@@ -769,9 +790,8 @@ Wil je deze pagina verlaten?"</string>
   <string name="nav_screen_container_tab_normal">Normale tab</string>
   <string name="nav_screen_incognito_message">"Je browse- en zoekgeschiedenis wordt niet opgeslagen in incognitomodus.
 Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat wel worden bewaard."</string>
-  <string name="nav_screen_incognito_time">Na %s seconden wordt er automatisch een nieuwe pagina geopend</string>
   <string name="nav_screen_incognito_title">Incognitomodus</string>
-  <string name="navigation_delete_all">Swipe left and right to close all tabs</string>  
+  <string name="navigation_delete_all">Swipe left and right to close all tabs</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Annuleren</string>
   <string name="navigationbar_rightbutton_actiontext_go">Ga</string>
   <string name="navigationbar_rightbutton_actiontext_search">Zoeken</string>
@@ -779,13 +799,13 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi netwerk beschikbaar</string>
   <string name="next_button_label">Volgende</string>
   <string name="no_app_open_document">Geen app gevonden om deze actie te voltooien</string>
-  <string name="no_matches">Geen overeenkomsten</string>
   <string name="no_space_alert_cancel">Later</string>
   <string name="no_space_alert_clean">Ruimte vrijmaken</string>
   <string name="no_space_alert_text">Niet genoeg opslagruimte</string>
   <string name="no_space_alert_title">Download gepauzeerd</string>
   <string name="no_space_clean_failed">Kon geen ruimte vrijmaken op uw apparaat​</string>
   <string name="not_allowed_open">Kon browser niet gebruiken in boot-strap</string>
+  <string name="not_now">Not now</string>
   <string name="not_remind_again">Mijn keuze onthouden</string>
   <string name="notif_install_successful">Download voltooid</string>
   <string name="ok">OK</string>
@@ -933,6 +953,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="quicklinks_most_visited_title">Toevoegen aan startpagina</string>
   <string name="readmode_already_add_to_bookshelf">Toegevoegd aan boekenplank.</string>
   <string name="readmode_battery">Batterij</string>
+  <string name="readmode_font_size_setting_button">A</string>
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Volgende hoofdstukken vereisen inloggen voordat lezen kan worden ingeschakeld.</string>
   <string name="readmode_page_load_error">Pagina laden mislukt, klik vernieuwen om het opnieuw te proberen :(</string>
@@ -959,6 +980,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="retry_after_network_available">Kan niet verbinden met netwerk</string>
   <string name="retry_download">Opnieuw proberen</string>
   <string name="return_to_homepage">Terugkeren naar startpagina</string>
+  <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Geen</string>
   <string name="router_download_exist">Dit bestand bestaat reeds</string>
   <string name="router_download_failed">Kon niet downloaden</string>
@@ -983,16 +1005,26 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="scanner_uninstalled_title">Scanner is niet meer geïnstalleerd</string>
   <string name="sdcard_error">Controleer de SD kaart</string>
   <string name="search">Zoeken</string>
+  <string name="search_baidu">Baidu</string>
+  <string name="search_bing">Bing</string>
   <string name="search_button_text">Ga</string>
+  <string name="search_dianping">Cate</string>
+  <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Zoek of typ de URL</string>
   <string name="search_keyword_browser">Browser</string>
   <string name="search_label">Browser</string>
   <string name="search_path_browser">Instellingen/Geinstalleerde apps/Browser</string>
+  <string name="search_s139">139</string>
   <string name="search_settings_description">Bladwijzers en webgeschiedenis</string>
   <string name="search_shipin">Video</string>
+  <string name="search_sm">SM</string>
+  <string name="search_sogou">Sogou</string>
+  <string name="search_taobao">Taobao</string>
   <string name="search_title_browser">Browser</string>
   <string name="search_tupian">Afbeelding</string>
+  <string name="search_yahoo">Yahoo!</string>
+  <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Download in de App Store</string>
   <string name="secureaccess">Overschakelen naar veilige modus</string>
   <string name="secureaccess_cancel">Negeren</string>
@@ -1006,6 +1038,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
   <string name="sequence_bookmark_description">Houd ingedrukt om bladwijzers te herordenen</string>
+  <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Kijk wat ik heb gedeeld! @MIUI</string>
   <string name="share_page_text">Kijk wat ik heb gedeeld: %1$s @MIUI| %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">"We zullen je persoonlijke gegevens verzamelen en gebruiken als je onze diensten gebruikt.
@@ -1056,6 +1089,8 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggest_access_btn_play">Afspelen</string>
   <string name="suggest_access_btn_view">Bekijken</string>
   <string name="suggest_access_item_album_songs">%d nummers</string>
+  <string name="suggest_access_item_app_mark">APPS</string>
+  <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Update: %s</string>
   <string name="suggest_access_item_book_mark">BOEKEN</string>
   <string name="suggest_access_item_mina_mark">QUICK APPS</string>
@@ -1084,6 +1119,8 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
+  <string name="tae_sdk_qr_login_icon_password"></string>
+  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="temp_refuse">Nee bedankt</string>
   <string name="title_bar_loading">Laden…</string>
   <string name="too_many_windows_dialog_message">Kan geen nieuw tabblad openen totdat u er een sluit.</string>
@@ -1156,7 +1193,7 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="video_downloaded_group">Gedownload</string>
   <string name="video_downloading_group">Downloaden</string>
   <string name="video_edit">Bewerken</string>
-    <string name="video_float_window_text">Pop-up</string>
+  <string name="video_float_window_text">Pop-up</string>
   <string name="video_fragment_name_collections">Favorieten</string>
   <string name="video_fragment_name_download">Offline video</string>
   <string name="video_fragment_name_historys">Geschiedenis</string>

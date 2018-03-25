@@ -91,6 +91,7 @@
   <string name="app_name_view_picture">Foto\'s bekijken</string>
   <string name="app_name_view_video">Video\'s bekijken</string>
   <string name="apply">Toepassen</string>
+  <string name="assistant_page_label">Assistant</string>
   <string name="associate_face_album">Kies een album</string>
   <string name="auto_backup_introduce">Automatisch foto\'s en videos\'s back-uppen (Mi account is vereist)</string>
   <string name="auto_download_media_title">Download automatisch foto\'s van Mi Cloud</string>
@@ -176,6 +177,7 @@
   <string name="backuping_title_normal">Back-up maken…</string>
   <string name="begin_share">Baby-album \"%s\" aanmaken. U kan die nu delen</string>
   <string name="begin_share_toast">Een apart album voor dit kind aanmaken voordat u die deelt?</string>
+  <string name="blank_app_name"/>
   <string name="browse_category_title">Bladeren</string>
   <string name="buy_member_tip">Word lid</string>
   <string name="by_email">E-mail</string>
@@ -257,6 +259,11 @@
   <string name="collage_title_layout">Layout</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collaps_people">Verbergen</string>
+  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
+  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">Ok</string>
   <string name="confirm_download_video_message">U moet de download van de video voltooien voordat u deze kunt bekijken. De download zal hervatten bij een Wi-Fi verbinding.</string>
   <string name="confirm_download_video_title">Video downloaden</string>
@@ -301,7 +308,6 @@
   <string name="delete_from_devices">Alle gesynchroniseerde apparaten</string>
   <string name="delete_from_devices_album">Alle apparaten waar dit album mee is gesynchroniseerd</string>
   <string name="delete_from_homepage_album">Albums weergegeven in galerij</string>
-  <string name="delete_from_local_and_cloud">van dit apparaat en Mi Cloud</string>
   <string name="delete_from_this_album_and_cloud">van dit album en Mi Cloud</string>
   <string name="delete_from_web">Webalbums</string>
   <string name="delete_in_album">Wanneer je foto\'s of video\'s uit een album verwijdert, zullen ze ook verwijderd worden van:</string>
@@ -314,6 +320,8 @@
   <string name="delete_third_party_video">Deze video verwijderen?</string>
   <string name="delete_to_trash_tips">U kunt recent verwijderde foto\'s bekijken in Instellingen &gt; Vuilnisbak</string>
   <string name="deny">Weigeren</string>
+  <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
+  <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Details</string>
   <string name="disable_auto_upload_tip">Synchronisatie met Mi Cloud voor dit album uitschakelen?</string>
   <string name="disable_auto_upload_title">Synchronisatie met Mi Cloud uitschakelen</string>
@@ -334,6 +342,7 @@
   <string name="download_type_title">Downloadkwaliteit</string>
   <string name="download_without_wifi_msg">"Het gebruik van uw mobiele dataverbinding om bestanden te downloaden zal uw dataverbruik verhogen. Als je de datalimiet overschrijdt, kan uw provider extra kosten in rekening brengen."</string>
   <string name="download_without_wifi_title">Waarschuwing dataverbruik</string>
+  <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Je kan de kwaliteit van de gedownloade afbeeldingen instellen of automatische downloads uitschakelen in instellingen.</string>
   <string name="downloading_title">Foto\'s downloaden van Mi Cloud</string>
   <string name="edit_baby_info">Babyinfo weergeven</string>
@@ -348,7 +357,6 @@
   <string name="enable_cloud_for_sharing">Schakel Mi Cloud albums in om gedeelde foto\'s te bekijken.</string>
   <string name="enable_face_album_summary">Foto\'s automatisch sorteren op personen die erop staan</string>
   <string name="enable_face_album_title">Sorteren op personen</string>
-  <string name="enable_slim_title">Optimaliseren</string>
   <string name="enabling_face_feature">Een momentje…</string>
   <string name="enter_email_hint">Voer e-mailadres in</string>
   <string name="error_album_not_exist">Album bestaat niet</string>
@@ -499,6 +507,8 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="gallery_setting">Instellingen</string>
   <string name="gallery_sync_disable_toast">Synchronisatie van galerij is uitgeschakeld</string>
   <string name="get_album_info_in_process">Details van gedeelde album opvragen</string>
+  <string name="gif_tip">GIF</string>
+  <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Instellen</string>
   <string name="grant_permission_text">"Galerij heeft toegang nodig tot 
 %s
@@ -596,6 +606,7 @@ om de galerij te personaliseren"</string>
   <string name="mark_operation_processing">Verwerken…</string>
   <string name="mark_operation_succeeded">Toevoegen gelukt</string>
   <string name="mark_people_ignore_info_message">Houd foto\'s met mensen ingedrukt om ze toe te voegen aan groepen</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nieuw album</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_name">Naam</string>
@@ -693,14 +704,18 @@ om de galerij te personaliseren"</string>
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
+  <string name="petabyteShort">PB</string>
   <string name="photo">Foto\'s</string>
   <string name="photo_edit_file_not_exits_tip">Download de foto voor het bewerken</string>
   <string name="photo_editor_adjust">Aanpassen</string>
+  <string name="photo_editor_beautify">Beautify</string>
   <string name="photo_editor_beautify_auto">Auto</string>
   <string name="photo_editor_beauty_compare">Origineel</string>
   <string name="photo_editor_crop_and_rotate">Bijsnijden</string>
   <string name="photo_editor_crop_reset">Reset</string>
+  <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Tekenen</string>
+  <string name="photo_editor_filter">Filter</string>
   <string name="photo_editor_label">Bewerken</string>
   <string name="photo_editor_long_crop">Bijsnijden</string>
   <string name="photo_editor_miui_beauty">Beautify</string>
@@ -732,6 +747,7 @@ om de galerij te personaliseren"</string>
   <string name="photo_editor_remover">Wissen</string>
   <string name="photo_editor_rotate">Draaien</string>
   <string name="photo_editor_saving">Opslaan…</string>
+  <string name="photo_editor_sticker">Sticker</string>
   <string name="photo_editor_text">Tekst</string>
   <string name="photo_page_save_uri_image_fail">Kon niet opslaan naar galerij</string>
   <string name="photo_page_save_uri_image_ok">Foto opgeslagen in galerij</string>
@@ -798,7 +814,9 @@ om de galerij te personaliseren"</string>
   <string name="publish_failed">Publiceren mislukt</string>
   <string name="publish_succeeded">Album gepubliceerd</string>
   <string name="publishing">Publiceren…</string>
+  <string name="quotation">\"%s\"</string>
   <string name="recent_album_empty_title">Er zijn recent geen nieuwe foto\'s toegevoegd</string>
+  <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevelingen</string>
   <string name="recommanded_face_added_tip">Toegevoegd aan \"%s\"</string>
   <string name="recovery_merge">Samenvoegen</string>
@@ -866,9 +884,11 @@ om de galerij te personaliseren"</string>
   <string name="search_feedback_likely_check_title">Controleren</string>
   <string name="search_feedback_likely_title">Het lijkt erop dat deze foto\'s \"%s\" kunnen hebben</string>
   <string name="search_feedback_task_complete">Alle missies zijn voltooid</string>
+  <string name="search_feedback_task_progress">Missions %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">Kon beloning niet ontvangen. Probeer later opnieuw.</string>
   <string name="search_feedback_task_requesting_award">Beloning ontvangen​…</string>
   <string name="search_feedback_user_notice">Ik heb %s gelezen en ga ermee akkoord.</string>
+  <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
   <string name="search_hint">Tik om te zoeken​</string>
   <string name="search_image_result_title">Zoekresultaten</string>
   <string name="search_login_now">Aanmelden</string>
@@ -978,6 +998,9 @@ om de galerij te personaliseren"</string>
   <string name="sticker_spring">Lente</string>
   <string name="sticker_summer">Zomer</string>
   <string name="sticker_words">Woorden</string>
+  <string name="storage_description_primary">Internal storage</string>
+  <string name="storage_description_sdcard">SD card</string>
+  <string name="storage_description_xspace">Dual apps data</string>
   <string name="storage_no_space">Onvoldoende ruimte</string>
   <string name="sub_discard_confirm_message">Wijzigingen opslaan?</string>
   <string name="sub_discard_negative_btn">Wijzigingen annuleren</string>
@@ -1017,6 +1040,7 @@ om de galerij te personaliseren"</string>
   <string name="text_edit_dialog_style_transparent">Doorzichtigheid</string>
   <string name="text_edit_sub_menu_text">Bubbel</string>
   <string name="things_album_empty_title">Foto\'s kunnen worden gesorteerd op objecten die erop staan</string>
+  <string name="thumbnail_name">thumbnail</string>
   <string name="tip_capture_location">Locatie:</string>
   <string name="tip_capture_params">EXIF data:</string>
   <string name="tip_capture_time">Gemaakt op:</string>
@@ -1108,6 +1132,7 @@ om de galerij te personaliseren"</string>
   <string name="video_editor_text_edit_input_open_hint">Titel invoeren</string>
   <string name="video_editor_text_edit_start">Titel</string>
   <string name="video_editor_text_input_empty_tips">Je hebt nog geen tekst ingevoerd</string>
+  <string name="video_editor_text_preview_text">Aa</string>
   <string name="video_editor_trim">Trimmen</string>
   <string name="video_editor_unsupport_audio_file">Niet ondersteund audiobestand</string>
   <string name="video_err">Video afspelen mislukt.</string>

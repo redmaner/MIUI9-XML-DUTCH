@@ -230,6 +230,10 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="other">"Wacht %d seconden en probeer opnieuw. "</item>
         <item quantity="one">"Wacht %d seconde en probeer opnieuw. "</item>
 	</plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d geblokkeerde apps</item>
         <item quantity="one">%d geblokkeerde app</item>

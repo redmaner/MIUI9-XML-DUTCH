@@ -51,23 +51,6 @@
         <item>Ouder bericht</item>
         <item>Postvak In</item>
     </string-array>
-    <string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Site:</item>
-        <item>E-mail:</item>
-        <item>Mobiel:</item>
-        <item>Telefoon:</item>
-        <item>T:</item>
-        <item>www.</item>
-        <item>F:</item>
-        <item>E:</item>
-        <item>E-mail:</item>
-        <item>Tel:</item>
-        <item>Fax:</item>
-        <item>Mail:</item>
-        <item>QQ:</item>
-        <item>MSN:</item>
-    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adres:</item>
         <item>Tel:</item>
@@ -77,15 +60,6 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Postcode:</item>
-    </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Gebruiksvoorwaarden:</item>
-        <item>E-mail gebruiksvoorwaarden</item>
-        <item>Verzonden via WPSMail</item>
-        <item>Verzonden van</item>
-        <item>Verzonden met</item>
-        <item>Bedankt,</item>
-        <item>Met vriendelijke groet</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Bedankt,</item>
@@ -98,5 +72,17 @@
         <item>Deze e-mail</item>
         <item>Gebruiksvoorwaarden</item>
         <item>E-mail gebruiksvoorwaarden</item>
+    </string-array>
+    <string-array name="account_providers">
+        <item>content://com.android.email.provider/uiaccts</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Gebruiksvoorwaarden:</item>
+        <item>E-mail gebruiksvoorwaarden</item>
+        <item>Verzonden via WPSMail</item>
+        <item>Verzonden van</item>
+        <item>Verzonden met</item>
+        <item>Bedankt,</item>
+        <item>Met vriendelijke groet</item>
     </string-array>
 </resources>
