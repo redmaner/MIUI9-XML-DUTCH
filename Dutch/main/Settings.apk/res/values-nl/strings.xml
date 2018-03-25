@@ -1020,10 +1020,6 @@ Sample Rate"</string>
   <string name="carrier_enabled_summaryOn">APN ingeschakeld</string>
   <string name="carrier_show_in_lock_screen">Alleen weergeven op vergrendelscherm</string>
   <string name="carrier_show_none">Providernaam nooit weergeven</string>
-  <string name="category_key_device">com.android.settings.category.device</string>
-  <string name="category_key_personal">com.android.settings.category.personal</string>
-  <string name="category_key_system">com.android.settings.category.system</string>
-  <string name="category_key_wireless">com.android.settings.category.wireless</string>
   <string name="category_personal">Privé</string>
   <string name="category_work">Werk</string>
   <string name="cdma_security_settings_summary">"'Mijn locatie' instellen, scherm ontgrendelen, opslag van referenties vergrendelen"</string>
