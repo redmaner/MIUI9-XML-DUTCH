@@ -72,14 +72,14 @@
         <item>Morgen</item>
     </string-array>
 	<string-array name="weather_tips_value">
-        <item>Reduce outdoor activities</item>
-        <item>The roads are slippery</item>
-        <item>The weather is stormy, be careful!</item>
-        <item>The air is polluted, wear a mask!</item>
-        <item>Take an umbrella when you go out</item>
-        <item>Be careful on the road</item>
-        <item>Sandstorm is coming, wear a mask!</item>
-        <item>Have a nice day!</item>
+        <item>Verminder buitenactiviteiten</item>
+        <item>De wegen zijn glad</item>
+        <item>Het weer is stormachtig, wees voorzichtig!</item>
+        <item>De lucht is vervuild, draag een masker!</item>
+        <item>Neem een paraplu mee als je buitengaat</item>
+        <item>Wees voorzichtig op de weg</item>
+        <item>Er is een zandstorm op komst, draag een masker!</item>
+        <item>Fijne dag!</item>
     </string-array>
     <string-array name="stat_volume_button_behaviors">
         <item>Geen</item>

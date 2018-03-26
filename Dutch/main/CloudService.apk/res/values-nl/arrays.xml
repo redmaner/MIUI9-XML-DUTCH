@@ -2,14 +2,14 @@
 <resources>
     <string-array name="micloud_entrance_titleArray">
         <item>Sync app data</item>
-        <item>Back up Home screen layout</item>
-        <item>Back up system settings</item>
-        <item>Find device</item>
+        <item>Backup maken van startschermn layout</item>
+        <item>Backup maken van systeem instellingen</item>
+        <item>Apparaat zoeken</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
-        <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Synchroniseer uw contacten, berichten, notities, agenda en meer</item>
+        <item>Backup maken vanapps, startschermn layout en achtergrond</item>
+        <item>Backup maken van belangrijke instellingen, inclusief Wi-Fi en scherm</item>
+        <item>Vergrendel uw apparaat op afstand als het verloren is gegaan</item>
     </string-array>
 </resources>

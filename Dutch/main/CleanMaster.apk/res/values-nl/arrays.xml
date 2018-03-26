@@ -23,7 +23,4 @@
         <item>Automatisch wissen</item>
         <item>Wissen en melden</item>
     </string-array>
-    <string-array name="white_list_ad">
-        <item>/MIUI/debug_log</item>
-    </string-array>
 </resources>

@@ -141,8 +141,8 @@
         <item quantity="one">%1$d bestand is niet verzonden.</item>
     </plurals>
 	<plurals name="delete_folders">
-        <item quantity="other">Delete %1$d folders?</item>
-        <item quantity="one">Delete this folder?</item>
+        <item quantity="other">Deze %1$d mappen verwijderen?</item>
+        <item quantity="one">Deze map verwijderen?</item>
     </plurals>
     <plurals name="delete_files">
         <item quantity="other">%1$d bestanden verwijderen?</item>

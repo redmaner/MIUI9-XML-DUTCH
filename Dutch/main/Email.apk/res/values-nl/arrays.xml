@@ -73,9 +73,6 @@
         <item>Gebruiksvoorwaarden</item>
         <item>E-mail gebruiksvoorwaarden</item>
     </string-array>
-    <string-array name="account_providers">
-        <item>content://com.android.email.provider/uiaccts</item>
-    </string-array>
     <string-array name="signature_special_string_array">
         <item>Gebruiksvoorwaarden:</item>
         <item>E-mail gebruiksvoorwaarden</item>
