@@ -7,32 +7,27 @@
   <string name="button_queue_for_wifi">Wachtrij</string>
   <string name="button_start_now">Nu starten</string>
   <string name="button_wait_for_wifi">Wachten</string>
-  <string name="channel_active">下载中</string>
-  <string name="channel_complete">下载完成</string>
-  <string name="channel_insufficient_space">空间不足</string>
-  <string name="channel_waiting">等待中</string>
-  <string name="dialog_button_cancel">Cancel</string>
-  <string name="dialog_button_ok">OK</string>
-  <string name="dialog_content_limit0">Restrict downloads</string>
-  <string name="dialog_content_limit_max">Unlimited</string>
-  <string name="dialog_data_limit_button1">Wait for WLAN</string>
-  <string name="dialog_data_limit_button2">Download now</string>
-  <string name="dialog_data_limit_msg1">%s of mobile data will be used to download this file. Download now?</string>
-  <string name="dialog_data_limit_msg3">Change limit</string>
-  <string name="dialog_data_limit_title">Data usage warning</string>
+  <string name="dialog_button_cancel">Annuleren</string>
+  <string name="dialog_button_ok">Ok</string>
+  <string name="dialog_content_limit0">Downloads beperken</string>
+  <string name="dialog_content_limit_max">Onbeperkt</string>
+  <string name="dialog_data_limit_button1">Wachten op Wi-Fi</string>
+  <string name="dialog_data_limit_button2">Nu downloaden</string>
+  <string name="dialog_data_limit_msg1">%s van mobiele data zal worden gebruikt om dit bestand te downloaden. Nu downloaden?</string>
+  <string name="dialog_data_limit_msg3">Limiet wijzigen</string>
+  <string name="dialog_data_limit_title">Gegevensgebruikswaarschuwing</string>
   <string name="dialog_insufficient_space_on_cache">Niet genoeg ruimte op interne opslag</string>
   <string name="dialog_insufficient_space_on_external">Niet genoeg ruimte op externe opslag</string>
   <string name="dialog_not_show_again">Niet meer weergeven</string>
-  <string name="dialog_tip_limit">Warn when downloading file bigger than %s</string>
-  <string name="dialog_tip_limit0">Warn every time</string>
-  <string name="dialog_tip_no_limit">"Don't warn"</string>
+  <string name="dialog_tip_limit">Waarschuwen bij downloaden van een groter bestand dan %s</string>
+  <string name="dialog_tip_limit0">Elke keer waarschuwen</string>
+  <string name="dialog_tip_no_limit">Niet waarschuwen</string>
   <string name="download_apk_desktop_installing">Installeren</string>
   <string name="download_apk_desktop_pause">Gepauzeerd</string>
   <string name="download_apk_desktop_pending">In afwachting</string>
   <string name="download_apk_desktop_running">Bezig met downloaden</string>
   <string name="download_error">Mislukt</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_queued">In wachtrij</string>
   <string name="download_remaining">%s resterend</string>
   <string name="download_running">In uitvoering</string>
@@ -63,7 +58,7 @@
   <string name="permdesc_downloadCompletedIntent">Hiermee kan de app meldingen verzenden over voltooide downloads. Schadelijke apps kunnen dit gebruiken om andere apps die bestanden downloaden in verwarring te brengen.</string>
   <string name="permdesc_downloadManager">Hiermee heeft de app toegang tot downloadbeheer en kan de app via downloadbeheer bestanden downloaden. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
   <string name="permdesc_downloadManagerAdvanced">Hiermee heeft de app toegang tot de geavanceerde functies van downloadbeheer. Schadelijke apps kunnen dit gebruiken om downloads te verstoren en toegang te krijgen tot persoonlijke gegevens.</string>
-  <string name="permdesc_downloadWithoutNotification">Allows the app to download files through the download manager without any notification being shown to the user.</string>
+  <string name="permdesc_downloadWithoutNotification">Hiermee kan de app bestanden downloaden via de downloadmanager zonder dat er een melding aan de gebruiker wordt getoond.</string>
   <string name="permdesc_seeAllExternal">Hiermee kan de app alle downloads op de SD kaart zien, ongeacht welke app ze heeft gedownload.</string>
   <string name="permlab_accessAllDownloads">Toegang geven tot alle systeemdownloads</string>
   <string name="permlab_downloadCacheNonPurgeable">Ruimte in de downloadcache reserveren</string>
@@ -76,7 +71,7 @@
   <string name="privacy_notif_title">Xunlei Download Accelerator staat aan</string>
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">"Xunlei Accelerator gebruiken om je downloads te versnellen? De URL van de download gastheer  zal geüpload naar de servers van Xunlei's. Uw Mi Account gegevens zullen ook worden geüpload om te controleren of u een actieve abonnementen hebt op deze dienst."</string>
-  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_ok">Ok</string>
   <string name="privacy_tip_title">Xunlei Accelerator gebruiken?</string>
   <string name="recommended_file_size_download_in_mobile">%s mobiele data gebruiken om dit bestand te downloaden?</string>
   <string name="recommended_no_file_size_download_in_mobile">Mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>
@@ -86,7 +81,7 @@
   <string name="warning_tip_content">Je bent niet meer verbonden met Wi-Fi. Mobiel internet gebruiken om deze download te voltooien zal uw dataverbruik verhogen. Dit kan leiden tot extra kosten.</string>
   <string name="warning_tip_ok">Pauzeren</string>
   <string name="warning_tip_title">Waarschuwing dataverbruik</string>
-  <string name="wifi_recommended_body" formatted="false">"You must use Wi-Fi to complete this %s download. 
+  <string name="wifi_recommended_body" formatted="false">"Je moet wifi gebruiken om deze %s download te voltooien.. 
 
 Aanraken om '%s' om deze download te starten wanneer u verbinding heeft met een Wi-Fi netwerk."</string>
   <string name="wifi_recommended_title">In wachtrij plaatsen om later te downloaden?</string>

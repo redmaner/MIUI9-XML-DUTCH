@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="DOWNLOAD_UNIT_BIT">B</string>
-  <string name="DOWNLOAD_UNIT_GB">GB</string>
-  <string name="DOWNLOAD_UNIT_KB">KB</string>
-  <string name="DOWNLOAD_UNIT_MB">MB</string>
-  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Enkel Wi-Fi gebruiken</string>
   <string name="about">Over</string>
   <string name="action_settings">Instellingen</string>
@@ -37,7 +32,7 @@
   <string name="cancle">Annuleren</string>
   <string name="choose_open_time">Kies wanneer je wilt beginnen</string>
   <string name="clear_data">Wissen</string>
-  <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play services. Probeer het opnieuw.</string>
   <string name="complete_time">Voltooid:</string>
   <string name="confirm">Ok</string>
   <string name="confirm_delete_downloads_message">%d downloads worden verwijderd!</string>
@@ -245,7 +240,7 @@ op al je apparaten met Xunlei</string>
   <string name="preferences_title">Instellingen</string>
   <string name="privacy_tip_cancel">Annuleren</string>
   <string name="privacy_tip_content">"Xunlei Accelerator gebruiken om je downloads te versnellen? De URL van de download gastheer zal geüpload naar de servers van Xunlei's. Uw Mi Account gegevens zullen ook worden geupload om te controleren of u een actieve abonnementen hebt op deze dienst"</string>
-  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_ok">Ok</string>
   <string name="privacy_tip_title">Xunlei Accelerator gebruiken?</string>
   <string name="quit_btn">Afsluiten</string>
   <string name="rank">Rankings</string>
@@ -394,11 +389,7 @@ op al je apparaten met Xunlei</string>
   <string name="turn_off_xunlei_title">Xunlei uitschakelen</string>
   <string name="unbind_xunlei_2_success">Xunlei Account toegevoegd</string>
   <string name="unbind_xunlei_success">Uitgelogd bij Xunlei Account</string>
-  <string name="unit_cn_hundredmillions">00M</string>
   <string name="unit_cn_tenthousands">Ok</string>
-  <string name="unit_en_billion">B</string>
-  <string name="unit_en_million">M</string>
-  <string name="unit_en_thounsand">K</string>
   <string name="valid_in_this_month">Geldig in deze maand</string>
   <string name="version">Versie %s</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is ingeschakeld</string>

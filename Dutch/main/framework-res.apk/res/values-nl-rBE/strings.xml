@@ -121,8 +121,8 @@ Wilt u deze activiteit sluiten?"</string>
   <string name="autofill_area">Gebied</string>
   <string name="autofill_emirate">Emirate</string>
   <string name="autofill_error_cannot_autofill">Inhoud kan niet automatisch worden ingevuld</string>
-  <string name="autofill_island">Island</string>
-  <string name="autofill_parish">Parish</string>
+  <string name="autofill_island">Eiland</string>
+  <string name="autofill_parish">Parochie</string>
   <string name="autofill_picker_accessibility_title">Opties voor automatisch invullen</string>
   <string name="autofill_picker_no_suggestions">Geen suggesties voor automatisch invullen</string>
   <string name="autofill_postal_code">Postcode</string>
@@ -135,7 +135,7 @@ Wilt u deze activiteit sluiten?"</string>
   <string name="autofill_save_title_with_3types">%1$s, %2$s en %3$s opslaan naar %4$s?</string>
   <string name="autofill_save_title_with_type">%1$s opslaan naar %2$s?</string>
   <string name="autofill_save_type_address">adres</string>
-  <string name="autofill_save_type_credit_card">creditcard</string>
+  <string name="autofill_save_type_credit_card">kredietkaart</string>
   <string name="autofill_save_type_email_address">e-mailadres</string>
   <string name="autofill_save_type_password">wachtwoord</string>
   <string name="autofill_save_type_username">gebruikersnaam</string>
@@ -269,7 +269,7 @@ met %s"</string>
   <string name="display_manager_hdmi_display_name">HDMI scherm</string>
   <string name="display_manager_overlay_display_name">Overlay %1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, beveiligd</string>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">Ok</string>
   <string name="done_label">Klaar</string>
   <string name="double_tap_toast">Tip: dubbeltik om in en uit te zoomen.</string>
   <string name="dump_heap_notification">%1$s heeft geheugenlimiet overschreden</string>
@@ -311,8 +311,8 @@ met %s"</string>
   <string name="eventTypeBirthday">Verjaardag</string>
   <string name="eventTypeCustom">Aangepast</string>
   <string name="eventTypeOther">Overig</string>
-  <string name="expand_button_content_description_collapsed">Expand</string>
-  <string name="expand_button_content_description_expanded">Collapse</string>
+  <string name="expand_button_content_description_collapsed">Uitbreiden</string>
+  <string name="expand_button_content_description_expanded">Inklappen</string>
   <string name="expires_on">Verloopt op:</string>
   <string name="ext_media_badremoval_notification_message">%s ontkoppelen voordat u deze verwijdert om gegevensverlies te voorkomen</string>
   <string name="ext_media_badremoval_notification_title">%s onverwacht verwijderd</string>
@@ -383,14 +383,14 @@ Als je vragen hebt kan je contact opnemen met uw "</string>
   <string name="fingerprints">Vingerafdrukken:</string>
   <string name="floating_toolbar_close_overflow_description">Overloop sluiten</string>
   <string name="floating_toolbar_open_overflow_description">Meer opties</string>
-  <string name="force_close">OK</string>
+  <string name="force_close">Ok</string>
   <string name="foreground_service_app_in_background">%1$s is actief op de achtergrond</string>
   <string name="foreground_service_apps_in_background">%1$d apps zijn actief op de achtergrond</string>
   <string name="foreground_service_tap_for_details">Tik voor details over batterij- en gegevensgebruik</string>
   <string name="forward_intent_to_owner">U gebruikt deze app buiten uw werkprofiel</string>
   <string name="forward_intent_to_work">U gebruikt deze app in uw werkprofiel</string>
   <string name="gadget_host_error_inflating">Kan widget niet toevoegen.</string>
-  <string name="global_action_assist">Assist</string>
+  <string name="global_action_assist">Helpen</string>
   <string name="global_action_bug_report">Foutenrapport</string>
   <string name="global_action_emergency">Nood</string>
   <string name="global_action_lock">Schermvergrendeling</string>
@@ -434,7 +434,7 @@ Als je vragen hebt kan je contact opnemen met uw "</string>
   <string name="httpErrorFileNotFound">Kan het opgevraagde bestand niet vinden.</string>
   <string name="httpErrorIO">Kan niet communiceren met de server. Probeer het later opnieuw.</string>
   <string name="httpErrorLookup">Kan de URL niet vinden.</string>
-  <string name="httpErrorOk">OK</string>
+  <string name="httpErrorOk">Ok</string>
   <string name="httpErrorProxyAuth">Verificatie via de proxyserver is mislukt.</string>
   <string name="httpErrorRedirectLoop">De pagina bevat te veel serveromleidingen.</string>
   <string name="httpErrorTimeout">Er is een time-out voor de serververbinding opgetreden.</string>
@@ -564,9 +564,9 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="kg_wrong_password">Onjuist wachtwoord</string>
   <string name="kg_wrong_pattern">Onjuist patroon</string>
   <string name="kg_wrong_pin">Onjuiste PIN code</string>
-  <string name="language_picker_section_all">All languages</string>
-  <string name="language_picker_section_suggested">Suggested</string>
-  <string name="language_selection_title">Add a language</string>
+  <string name="language_picker_section_all">Alle talen</string>
+  <string name="language_picker_section_suggested">Voorgestelde</string>
+  <string name="language_selection_title">Taal toevoegen</string>
   <string name="last_month">Afgelopen maand</string>
   <string name="launchBrowserDefault">Browser starten?</string>
   <string name="launch_warning_original">%1$s was het eerst gestart.</string>
@@ -764,7 +764,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="number_picker_increment_button">Verhogen</string>
   <string name="number_picker_increment_scroll_action">Veeg omhoog om te verhogen en omlaag om te verlagen.</string>
   <string name="number_picker_increment_scroll_mode">%s blijven aanraken.</string>
-  <string name="ok">OK</string>
+  <string name="ok">Ok</string>
   <string name="old_app_action">Terug naar %1$s</string>
   <string name="old_app_description">De nieuwe app niet starten.</string>
   <string name="older">Ouder</string>
@@ -781,7 +781,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="package_updated_device_owner">Geupdatet door uw beheerder</string>
   <string name="passwordIncorrect">Onjuist wachtwoord.</string>
   <string name="paste">Plakken</string>
-  <string name="paste_as_plain_text">Paste as plain text</string>
+  <string name="paste_as_plain_text">Plak als platte tekst</string>
   <string name="peerTtyModeFull">Peer verzocht TTY modus VOL</string>
   <string name="peerTtyModeHco">Peer verzocht TTY modus HCO</string>
   <string name="peerTtyModeOff">Peer verzocht TTY modus UIT</string>
@@ -1166,7 +1166,7 @@ Te lang luisteren op een te hoog volume kan leiden tot gehoorbeschadiging."</str
   <string name="screen_lock">Schermvergrendeling</string>
   <string name="search_go">Zoeken</string>
   <string name="search_hint">Zoeken…</string>
-  <string name="search_language_hint">Type language name</string>
+  <string name="search_language_hint">Typ de naam van de taal</string>
   <string name="searchview_description_clear">Zoekopdracht wissen</string>
   <string name="searchview_description_query">Zoekopdracht</string>
   <string name="searchview_description_search">Zoeken</string>

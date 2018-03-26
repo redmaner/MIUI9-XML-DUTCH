@@ -96,8 +96,8 @@ Laatst geback-upt op %2$s"</string>
   <string name="find_device_error_password_changed">Account wachtwoord is recent gewijzigd.</string>
   <string name="find_device_error_server">Fout op onze servers.</string>
   <string name="find_device_error_unknown">Onbekende fout.</string>
-  <string name="find_device_gdpr_prompt">By turning on Find device, you agree to our Privacy Policy. If you need to revoke authorization, turn this feature off.</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">Privacy Policy</string>
+  <string name="find_device_gdpr_prompt">Door apparaat zoeken in te schakelen, gaat u akkoord met ons privacybeleid. Als u de autorisatie wenst in te trekken, schakelt u deze functie uit.</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">Privacybeleid</string>
   <string name="find_device_notice_p1">Ga naar</string>
   <string name="find_device_notice_p3">om je telefoon te lokaliseren, vergrendelen of te herstellen.</string>
   <string name="find_device_operation_failure_rpc">Kon deze actie niet uitvoeren door een RPC error.</string>
@@ -118,7 +118,6 @@ Laatst geback-upt op %2$s"</string>
   <string name="free_space_receive_fail">Kan niet upgraden</string>
   <string name="get_first_month_gb">Verkrijg %s aan gratis ruimte</string>
   <string name="get_this_month_gb">Verkrijg %s aan gratis ruimte deze maand</string>
-  <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Ongeveer RMB 143 per jaar</string>
@@ -135,9 +134,6 @@ Laatst geback-upt op %2$s"</string>
   <string name="ks_download_success">Gedownload</string>
   <string name="ks_fingerprint_payment">Vingerafdrukbetalingen</string>
   <string name="ks_fingerprint_status">Betalingstatus</string>
-  <string name="ks_name_alipay">IFAA</string>
-  <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_soter">Soter</string>
   <string name="ks_status_available">Beschikbaar</string>
   <string name="ks_status_unavailable">Niet beschikbaar</string>
   <string name="ks_update_certificate">Certificaat</string>
@@ -271,8 +267,6 @@ of apparaat te wissen."</string>
   <string name="micloud_find_device_verify_close">Apparaat vinden uitschakelen</string>
   <string name="micloud_find_device_verify_fail">Kon apparaat vinden niet heractiveren</string>
   <string name="micloud_find_device_verify_progress">Apparaat vinden heractiveren…</string>
-  <string name="micloud_first_login_summary"/>
-  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Al uw foto's, video's, notities en apps blijven op de cloud op deze manier, als je het toestel verliest of schade aan blijven uw gegevens veilig op Mi Cloud. Wanneer uw cloud vol is, zullen de oude gegevens niet verwijderd worden. Maar alle nieuwe gegevens die u toevoegt(bijvoorbeeld foto's, video's, notities en apps) worden niet meer geback-upt. Om dit te verhelpen, kunt aantal oude bestanden verwijderen om ruimte vrij te maken of u kunt extra opslagruimte aan te schaffen."</string>
   <string name="micloud_full_influence_title">Wanneer uw Mi Cloud vol is…</string>
   <string name="micloud_main_battery_low">Batterij te laag om te synchroniseren</string>
@@ -383,16 +377,16 @@ of apparaat te wissen."</string>
   <string name="micloud_notif_title_sync_progress">Bezig met synchroniseren</string>
   <string name="micloud_notif_title_sync_with_off">Synchroniseren met Mi Cloud</string>
   <string name="micloud_other_product_price">Vergelijk prijzen</string>
-  <string name="micloud_privacy_cloud_off">Sync is off</string>
-  <string name="micloud_privacy_cloud_sync">Turn on Mi Cloud services</string>
-  <string name="micloud_privacy_explanation">Grant authorization to turn on Mi Cloud services</string>
-  <string name="micloud_privacy_licence_agreed">Agree to Mi Cloud Privacy Policy.</string>
-  <string name="micloud_privacy_licence_privacy_policy">Privacy Policy</string>
-  <string name="micloud_privacy_more">More</string>
-  <string name="micloud_privacy_progress_content">Granting authorization…</string>
-  <string name="micloud_privacy_warning_button">Back</string>
-  <string name="micloud_privacy_warning_content">"Can't turn on Mi Cloud services. Wait a minute or two and try again."</string>
-  <string name="micloud_privacy_warning_title">Attention</string>
+  <string name="micloud_privacy_cloud_off">Synchronisatie is uitgeschakeld</string>
+  <string name="micloud_privacy_cloud_sync">Schakel Mi Cloud services in</string>
+  <string name="micloud_privacy_explanation">Toestemming verlenen om Mi Cloud services in te schakelen</string>
+  <string name="micloud_privacy_licence_agreed">Ga akkoord met het privacybeleid van Mi Cloud.</string>
+  <string name="micloud_privacy_licence_privacy_policy">Privacybeleid</string>
+  <string name="micloud_privacy_more">Meer</string>
+  <string name="micloud_privacy_progress_content">Toestemming verlenen…</string>
+  <string name="micloud_privacy_warning_button">Terug</string>
+  <string name="micloud_privacy_warning_content">Kan Mi Cloud services niet inschakelen. Wacht een minuut of twee en probeer opnieuw.</string>
+  <string name="micloud_privacy_warning_title">Aandacht</string>
   <string name="micloud_proceed">Doorgaan</string>
   <string name="micloud_request_permission_confirm">Begrepen</string>
   <string name="micloud_request_permission_content">Mi Cloud heeft toestemmingen nodig om gegevens te synchroniseren. Geef Mi Cloud toegang tot kalender, contacten, Mi Account, SIM kaartstatus, gespreksgeschiedenis en berichten.</string>
@@ -499,7 +493,7 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="search_finddevice_pref_desc">Apparaat vinden in- of uitschakelen</string>
   <string name="search_finddevice_pref_key_words">Apparaat vinden, Apparaat vinden</string>
   <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/Apparaat vinden</string>
-  <string name="secret_photo">Hidden photos</string>
+  <string name="secret_photo">Verborgen foto\'s</string>
   <string name="setting">Instellingen</string>
   <string name="settings_backup_title">Back-up systeeminstellingen</string>
   <string name="share_cancel">Delen geannuleerd</string>
@@ -563,17 +557,12 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
   <string name="unactivated_user">Gedeactiveerd</string>
   <string name="upgrade_space">Toevoegen ruimte</string>
-  <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Credits per jaar</string>
   <string name="upgrade_space_successful">Toegevoegd %sGB</string>
   <string name="upgrade_space_successful_total">%sGB beschikbaar</string>
-  <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Gebruikersovereenkomst</string>
-  <string name="user_agreement_p5">"
-"</string>
   <string name="user_agreement_p6">"Door gebruik te maken van deze service gaat u akkoord met "</string>
   <string name="user_agreement_p7">"Mi Cloud's Servicevoorwaarden"</string>
-  <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Mi Cloud's Servicevoorwaarden"</string>
   <string name="vcode">Code bevestigen</string>
   <string name="verify">Bevestigen</string>
@@ -583,10 +572,8 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="wipe_data_dialog_button_check_sync">Controleren of gesynchroniseerd</string>
   <string name="wipe_data_dialog_msg">"Sommige items %s zijn niet gesynchroniseerd. Ze worden opgeslagen op je apparaat en worden niet verwijderd."</string>
   <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
   <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op een plek</string>
-  <string name="xmpp_server_addr"/>
 </resources>

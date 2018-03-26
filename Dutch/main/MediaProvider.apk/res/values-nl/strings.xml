@@ -19,8 +19,8 @@
   <string name="sound_name_rise">Rise</string>
   <string name="sound_name_sway">Sway</string>
   <string name="sound_name_wag">Wag</string>
-  <string name="storage_description">Local storage</string>
+  <string name="storage_description">Lokale opslag</string>
   <string name="uid_label">Media</string>
-  <string name="unable_to_add_ringtone">Unable to add custom ringtone</string>
-  <string name="unable_to_delete_ringtone">Unable to delete custom ringtone</string>
+  <string name="unable_to_add_ringtone">Kan aangepaste beltoon niet toevoegen</string>
+  <string name="unable_to_delete_ringtone">Kan aangepaste beltoon niet verwijderen</string>
 </resources>

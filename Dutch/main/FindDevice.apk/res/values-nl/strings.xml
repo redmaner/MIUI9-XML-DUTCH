@@ -51,10 +51,10 @@ Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze fu
   <string name="phone_locked_account_phone">, gekoppeld telefoonnummer: %s</string>
   <string name="stop_on_empty_captcha">Captcha mag niet leeg zijn</string>
   <string name="stop_on_empty_password">"Wachtwoord mag niet leeg zijn</string>
-  <string name="sys_notification_async_open_failed_content">Tap to try again or cancel.</string>
-  <string name="sys_notification_async_open_failed_title">"Couldn't turn on Find device"</string>
-  <string name="sys_notification_async_verify_content">Our updated Security Policy requires that Find device should be reactivated.</string>
-  <string name="sys_notification_async_verify_title">Reactivate Find device</string>
+  <string name="sys_notification_async_open_failed_content">Tik om opnieuw te proberen of te annuleren.</string>
+  <string name="sys_notification_async_open_failed_title">Kan apparaat zoeken niet inschakelen</string>
+  <string name="sys_notification_async_verify_content">Ons bijgewerkte beveiligingsbeleid vereist dat apparaat zoeken opnieuw moet worden geactiveerd.</string>
+  <string name="sys_notification_async_verify_title">Apparaat zoeken reactiveren</string>
   <string name="time_correction_failure">Kan tijd niet aanpassen. %s</string>
   <string name="time_correction_success">Tijd aangepast</string>
   <string name="unlock">Activeren</string>

@@ -10,10 +10,10 @@
   <string name="back_up_task_in_process">Bezig met back-up…</string>
   <string name="back_up_task_unfinished">Back-up niet voltooid</string>
   <string name="backing_up_to_micloud">Bezig met back-up…</string>
-  <string name="backup_fail_wifi_needed">"Couldn't back up, WLAN needed."</string>
+  <string name="backup_fail_wifi_needed">Kon niet back-uppen, Wi-Fi nodig.</string>
   <string name="backup_finished_notification_content">Back-up gemaakt van apps van startscherm, systeeminstelllingen, enz.</string>
   <string name="backup_now">Nu back-uppen</string>
-  <string name="backup_size">Size: %s</string>
+  <string name="backup_size">Grootte: %s</string>
   <string name="backup_success">Back-up gelukt</string>
   <string name="backup_successfully">Back-up gelukt</string>
   <string name="backup_to_cloud">App back-uppen</string>
@@ -115,8 +115,6 @@
   <string name="menu_item_sort">Sorteren op</string>
   <string name="menu_item_sort_name">Naam</string>
   <string name="menu_item_sort_size">Grootte</string>
-  <string name="miui_device_name">Android</string>
-  <string name="name_model">"%1$s's %2$s"</string>
   <string name="network_error">Verbind met het netwerk</string>
   <string name="no_account">Niet ingelogd op Mi Account.</string>
   <string name="no_backup">Geen back-ups op Mi Cloud.</string>
