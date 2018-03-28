@@ -3369,11 +3369,11 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_authorize_privacy_policy">Privacybeleid</string>
   <string name="privacy_authorize_revoke">Intrekken</string>
   <string name="privacy_authorize_revoke_dialog_msg">Nadat je autorisatie intrekt zal de app stoppen met gegevens verzamelen, en alle gerelateerde gegevens worden verwijderd van de servers. Dit kan de app onbruikbaar maken. Toch de autorisatie intrekken?</string>
-  <string name="privacy_authorize_revoke_dialog_title">Autorisaite intrekken</string>
+  <string name="privacy_authorize_revoke_dialog_title">Autorisatie intrekken</string>
   <string name="privacy_authorize_revoke_failed">Kon autorisatie niet intrekken</string>
   <string name="privacy_authorize_revoke_success">Autorisatie ingetrokken</string>
   <string name="privacy_authorize_revoke_time">Intrekken (%1$ds)</string>
-  <string name="privacy_authorize_revoke_title">Autorisaite &amp; intrekken</string>
+  <string name="privacy_authorize_revoke_title">Autorisatie &amp; intrekken</string>
   <string name="privacy_authorize_revoking">Toestemming intrekken…</string>
   <string name="privacy_authorize_success">Toestemming gegeven</string>
   <string name="privacy_authorize_title">Toestemming gegeven</string>
