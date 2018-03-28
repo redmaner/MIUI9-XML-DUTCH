@@ -312,7 +312,7 @@ Als je mobiele data opnieuw inschakelt kan je provider extra kosten in rekening 
         <item quantity="one">%d dag resterend tot sessie van netwerkversnelling eindigt. Verleng de sessie om snelheidsproblemen te voorkomen.</item>
     </plurals>
 	    <plurals name="gb_signed_days_sum">
-        <item quantity="other">Checked in %d days in a row</item>
-        <item quantity="one">Checked in %d time</item>
+        <item quantity="other">%d dagen op rij gecontroleert</item>
+        <item quantity="one">%d geleden gecontroleert</item>
     </plurals>
 </resources>

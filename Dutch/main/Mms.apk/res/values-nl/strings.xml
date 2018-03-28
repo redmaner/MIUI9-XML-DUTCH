@@ -6,7 +6,7 @@
   <string name="addBlackList">Blokkeren</string>
   <string name="add_attachment">Bijlagen toevoegen</string>
   <string name="add_contact">vCard</string>
-  <string name="add_miui_contact">Mi Card</string>
+  <string name="add_miui_contact">Mi kaart</string>
   <string name="add_music">Muziek toevoegen</string>
   <string name="add_number_to_sender">Nummer toeoegen aan %s</string>
   <string name="add_picture">Foto toevoegen</string>
@@ -23,7 +23,7 @@
   <string name="adding_attachments_title">Bijlagen toevoegen</string>
   <string name="adding_recipients">Ontvangers toevoegen…</string>
   <string name="alert_dlg_cancel_button">Annuleren</string>
-  <string name="alert_dlg_ok_button">OK</string>
+  <string name="alert_dlg_ok_button">Ok</string>
   <string name="app_label">Berichten</string>
   <string name="app_name">Apparatenbeheer</string>
   <string name="attach_image">Foto\'s</string>
@@ -33,18 +33,16 @@
   <string name="attach_sound">Audio</string>
   <string name="attach_subject">Onderwerp</string>
   <string name="attach_take_photo">Foto maken</string>
-  <string name="attach_transaction">Send money</string>
+  <string name="attach_transaction">Stuur geld</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">Kon audio niet downloaden</string>
   <string name="audio_message_expired">Dit spraakbericht is verlopen.</string>
   <string name="audio_message_mx_offline">Kon audio niet downloaden. Mi Message is offline of niet beschikbaar</string>
-  <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">Geen netwerkverbinding of verkeerde SIM kaart geïnstalleerd. Installeer de SIM kaart vanwaar het bericht verzonden is en verbind met het netwerk.</string>
   <string name="back_to_message_list">Terug naar berichtenlijst</string>
   <string name="batch_adding_progress_message">Toevoegen…</string>
   <string name="batch_deleting_message_progress_message">Berichten verwijderen…</string>
   <string name="batch_deleting_progress_message">Berichten verwijderen…</string>
-  <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">Geblokkeerde SMS</string>
   <string name="block_support_text">Ondersteund door Antiy.</string>
   <string name="bookmark">Favorieten</string>
@@ -67,7 +65,6 @@
   <string name="cloud_state_disabled">Schakel synchronisatie met Mi Cloud in om berichten te synchroniseren</string>
   <string name="cloud_state_sync_finished">Gesynchroniseerd met Mi Cloud</string>
   <string name="cloud_state_syncing">Synchroniseren met Mi Cloud…</string>
-  <string name="cmcc_key">43a489fcb42b4372b10f0586fe6dbf88</string>
   <string name="compressing">Afbeelding is te groot. Comprimeren…</string>
   <string name="confirm">Bevestigen</string>
   <string name="confirm_add_blacklist_dialog_dspt">Nummer toevoegen aan zwarte lijst?</string>
@@ -160,7 +157,6 @@
   <string name="error_timed_msg">Kan geen tijdstip in verleden instellen.</string>
   <string name="ex_type_guide">Informatie</string>
   <string name="ex_type_mx">Cloudbericht</string>
-  <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Limiet berichtgrootte bereikt.</string>
   <string name="exceed_message_size_limitation_add_slide">Grootte van bericht is niet groot genoeg om nog een dia toe te voegen</string>
   <string name="exceed_message_text_limitation">Tekstlimiet van bericht bereikt.</string>
@@ -214,7 +210,7 @@
   <string name="hybrid_pull_to_refresh_release_label">Loslaten om te vernieuwen…</string>
   <string name="hybrid_service_unavailiable">Dienst is niet beschikbaar</string>
   <string name="hybrid_try_again">Probeer opnieuw</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">Ok</string>
   <string name="importing_progress_private_message">Berichten importeren naar privé Berichtenbox…</string>
   <string name="in_sms">Bericht</string>
   <string name="insufficient_drm_rights">Onvoldoende DRM rechten gedetecteerd.</string>
@@ -222,7 +218,6 @@
   <string name="invalid_destination">Ongeldig adres van bestemming.</string>
   <string name="invalid_private_contact">Ongeldig privé contact</string>
   <string name="invalid_recipient_message">Corrigeer de ontvangers, anders ontvangen ze het bericht niet</string>
-  <string name="kilobyte">KB</string>
   <string name="layout_selector_title">Layout van diavoorstelling</string>
   <string name="loading_all_messages">Een momentje…</string>
   <string name="loading_conversations">Een momentje…</string>
@@ -270,13 +265,9 @@
   <string name="message_too_big_for_video">Dit bericht is te groot om er een video aan te koppelen.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Ik</string>
-  <string name="mms">MMS</string>
   <string name="move_down">Naar beneden</string>
   <string name="move_up">Naar boven</string>
   <string name="msg_type_hint_mms">Multimediabericht (MMS)</string>
-  <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx">Mi Message</string>
-  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Tekstbericht</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Naar beneden trekken om meer weer te geven</string>
@@ -285,7 +276,6 @@
   <string name="msglist_release_to_more">Loslaten om meer weer te geven</string>
   <string name="multimedia_message">MMS bericht</string>
   <string name="multimedia_notification">Melding van MMS</string>
-  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_allow_notice">Uw provider kan kosten aanrekenen voor een SMS bericht die gebruikt wordt om de gratis bericht- en spraakdienst te activeren. Bovendien heeft deze dienst toegang tot het netwerk nodig om normaal te werken.</string>
   <string name="mx_activate_dlg_title">Activeer Mi Message</string>
   <string name="mx_activate_dlg_title_ex">Activeer Mi Message &amp; Stem</string>
@@ -319,14 +309,12 @@
   <string name="mx_dspt_listview">Berichten versturen naar andere MIUI apparaten zonder bijkomende kosten</string>
   <string name="mx_dspt_provision">Met Mi Message kunt u berichten over internet naar andere MIUI gebruikers sturen zonder SMS kosten. Uw provider kan kosten aanrekenen voor een SMS bericht dat wordt gebruikt om deze dienst te activeren. Daarnaast heeft deze service toegang tot mobiele data nodig om normaal te kunnen werken</string>
   <string name="mx_dspt_provision_ex2">Privacybeleid</string>
-  <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Stem</string>
   <string name="mx_enable_popup_msg">Met Mi Message kan je berichten sturen naar andere MIUI apparaten zonder kosten</string>
   <string name="mx_filter_message_from_stranger">Mi Messages blokkeren van onbekende nummers</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">U zal wel nog in staat zijn om gewone SMS berichten te ontvangen van onbekende nummers. U kan deze functie altijd in- en uitschakelen in berichten &gt; Instellingen."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Mi Messages blokkeren van onbekende nummers</string>
   <string name="mx_filter_message_from_stranger_summary">U zal nog wel in staat zijn om gewone SMS berichten te ontvangen van onbekende nummers.</string>
-  <string name="mx_msg">Mi Message</string>
   <string name="mx_msg_pageview_setting_title">Mi Message instellingen</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Mi Messaging met SIM slot 1</string>
@@ -355,7 +343,6 @@
   <string name="nosend_message">Niet versturen</string>
   <string name="notification_failed_multiple">[%s]</string>
   <string name="notification_failed_multiple_title">Berichten niet verzonden</string>
-  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nieuwe berichten</string>
   <string name="number_add_hint">Voer nummer in om toe te voegen aan privécontact</string>
   <string name="open_audio_record_panel">Paneel om geluid op te nemen openen</string>
@@ -462,7 +449,6 @@
   <string name="rate_limit_surpassed">Bevestigen</string>
   <string name="received_at_time">Ontvangen op: %1s</string>
   <string name="received_label">"Ontvangen: "</string>
-  <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Ontvanger: "</string>
   <string name="recipients_over_size">Teveel onvangers.</string>
   <string name="recording_failed">Kan niet opnemen</string>
@@ -559,7 +545,6 @@
   <string name="slide_up_to_cancel">Omhoog vegen om te annuleren</string>
   <string name="slideshow_activity">Diavoorstelling</string>
   <string name="sms_card_partner_label">"SMS kaartpartner: "</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Inhoud bericht:</string>
   <string name="sms_full_body">Inkomend bericht geweigerd: niet genoeg ruimte op dit apparaat.</string>
   <string name="sms_full_title">SMS geheugen vol</string>
@@ -576,7 +561,6 @@
   <string name="snippet_timed">[Getimed]</string>
   <string name="sp_category_all">Alle dienstberichten</string>
   <string name="sp_category_bank">Bankmeldingsberichten</string>
-  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Meldingsberichten</string>
   <string name="sp_mark_as_read_menu_title">Markeren als gelezen</string>
   <string name="sqlite_disk_full">Opslagruimte van het apparaat is vol</string>
@@ -594,9 +578,7 @@
   <string name="storage_dialog_attachments">MMS bijlagen:</string>
   <string name="storage_dialog_available_space">Beschikbare ruimte:</string>
   <string name="storage_dialog_database">Database:</string>
-  <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">MMS grootte:</string>
-  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Opslaglimiet</string>
   <string name="storage_limits_message">Het aantal berichten beperken dat u kunt opslaan per conversatie?</string>
   <string name="storage_limits_setting">Ingesteld limiet</string>
@@ -652,7 +634,6 @@
   <string name="url_fraud_visit">&lt;u&gt;Toch bezoeken&lt;/u&gt;</string>
   <string name="url_result_safe">Deze URL is veilig</string>
   <string name="url_scanning">URL controleren…</string>
-  <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Verificatiecodes</string>
   <string name="view">Weergeven</string>
   <string name="view_bookmark">Origineel bericht weergeven</string>
@@ -662,6 +643,6 @@
   <string name="wild_msg_processing">Bezig…</string>
   <string name="wild_msg_title">Telefoonnummers kiezen om te sync.</string>
   <string name="yellowpage_recommend_msg">Bekijk de MIUI bericht functies</string>
-  <string name="yes">OK</string>
+  <string name="yes">Ok</string>
   <string name="yesterday">Gisteren</string>
 </resources>

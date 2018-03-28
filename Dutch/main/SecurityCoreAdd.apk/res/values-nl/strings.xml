@@ -15,7 +15,7 @@ zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
   <string name="appData">Geïnstalleerde apps</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Terug</string>
-  <string name="bind_device">Add devices</string>
+  <string name="bind_device">Apparaten toevoegen</string>
   <string name="can_not_delete_when_calling">Kan geen ruimtes verwijderen tijdens een oproep</string>
   <string name="can_not_switch_when_calling">Kan niet wisselen tussen ruimtes tijdens een oproep</string>
   <string name="can_not_switch_when_green_kid_active">Switching to Second space is restricted by parental controls</string>
@@ -73,7 +73,7 @@ kan op elk moment bekeken worden"</string>
   <string name="dialog_title">Opgelet</string>
   <string name="dir_switch_out_all_photos">Galerij tweede ruimte</string>
   <string name="disable">Uitschakelen</string>
-  <string name="do_not_ask">"Don't ask again"</string>
+  <string name="do_not_ask">Niet meer vragen</string>
   <string name="dont_import">Niet nu</string>
   <string name="downloading_space">Downloaden…</string>
   <string name="enable">Inschakelen</string>
@@ -91,25 +91,25 @@ kan op elk moment bekeken worden"</string>
   <string name="err_unknown">Onbekende fout</string>
   <string name="err_volume_not_enough">Niet genoeg opslagruimte</string>
   <string name="exit_private_space">Overschakelen</string>
-  <string name="experience_more_features">Add a device to view all features</string>
+  <string name="experience_more_features">Voeg een apparaat toe om alle functies te bekijken</string>
   <string name="finger_print_num">Vingerafdruk %d</string>
   <string name="finger_print_of_use">Vingerafdruk gebruiken</string>
   <string name="fingerprint_number_upper_limit">Teveel mislukte inlogpogingen</string>
   <string name="fingerprint_removal_failed">Kon vingerafdruk niet verwijderen</string>
   <string name="function_not_support">Niet ondersteund op dit apparaat</string>
-  <string name="gms_message">Creating dual apps requires working with Google services. Create a dual app for Google services?</string>
-  <string name="gms_open_button">Turn on</string>
-  <string name="gms_title">Turn on Google services</string>
+  <string name="gms_message">Het maken van dubbele apps vereist werken met Google services. Een dubbele app aanmaken voor Google services?</string>
+  <string name="gms_open_button">Inschakelen</string>
+  <string name="gms_title">Google services inschakelen</string>
   <string name="goToSecondSpacce">Ga naar de tweede ruimte</string>
   <string name="go_on_import">Doorgaan met importeren</string>
-  <string name="gpg_message">Creating dual apps for games requires working with Google Play Games. Create a dual app for Google Play Games?</string>
-  <string name="gpg_title">Dual app for Google Play Games</string>
-  <string name="green_guard">Parental controls</string>
-  <string name="green_guard_des1">Add devices to manage them remotely</string>
-  <string name="green_guard_des2">Know where exactly all managed devices are</string>
-  <string name="green_guard_des3">Control installed apps and restrict usage</string>
-  <string name="green_guard_title2">View location info</string>
-  <string name="green_guard_title3">Manage apps</string>
+  <string name="gpg_message">Het maken van dubbele apps vereist werken met Google Play Games. Een dubbele app aanmaken voor Google Play Games?</string>
+  <string name="gpg_title">Dubbele app voor Google Play Games</string>
+  <string name="green_guard">Ouderlijk toezicht</string>
+  <string name="green_guard_des1">Apparaten toevoegen om ze op afstand te beheren</string>
+  <string name="green_guard_des2">Weet waar precies alle beheerde apparaten zich bevinden</string>
+  <string name="green_guard_des3">Beheer geïnstalleerde apps en beperk het gebruik</string>
+  <string name="green_guard_title2">Bekijk locatiegegevens</string>
+  <string name="green_guard_title3">Apps beheren</string>
   <string name="guide_contact_sub_title_desc">"Toegevoegde contacten aan de tweede ruimte zullen privé zijn.
 Berichten worden enkel weergegeven op de tweede ruimte."</string>
   <string name="guide_contact_suc_sub_title_desc">Enkel privécontacten en berichten zullen worden weergegeven op de tweede ruimte</string>
@@ -150,7 +150,7 @@ U kan ze ook apart downloaden."</string>
   <string name="msg_switch_photo">Deze foto\'s verwijderen op de eerste ruimte na verplaatsen?</string>
   <string name="needSetKeyguardFirst">Wachtwoord voor eerste ruimte instellen</string>
   <string name="needSetKeyguardFirstDes">Eerst het eerste ruimte wachtwoord instellen voordat u een wachtwoord insteld voor de tweede ruimte</string>
-  <string name="need_network_when_bind">Connect to the network before Adding devices</string>
+  <string name="need_network_when_bind">Maak eerst verbinding met het netwerk voordat u apparaten toevoegd</string>
   <string name="need_network_when_create">Verbind met het netwerk voordat u een werkruimte aanmaakt</string>
   <string name="need_reset_passwd">Reset het wachtwoord voor werkruimte voordat u de werkruimte betreedt</string>
   <string name="need_set_second_space_desc">Eerst tweede ruimte wachtwoord instellen voordat u de vingerafdruk voor de tweede ruimte insteld</string>
@@ -223,7 +223,6 @@ Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</stri
   <string name="sdcradfs_dialog_in_sec_message">"Om te updaten, moet je de tweede ruimte verwijderen en opnieuw aanmaken. Verplaats de gegevens van tweede ruimte naar de eerste ruimte, start uw apparaat opnieuw op om de update af te ronden.
 Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</string>
   <string name="sdcradfs_dialog_in_sec_title">Belangrijke update</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="secondSpace">Tweede ruimte</string>
   <string name="second_owner_finger_print">Vingerafdruk tweede ruimte</string>
@@ -277,7 +276,7 @@ Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</stri
   <string name="show_noti_from_owner_detail">Meldingen van de andere ruimte ontvangen in de huidige ruimte</string>
   <string name="show_noti_quick_switch_icon">Snelkoppeling in het meldingsscherm</string>
   <string name="show_noti_quick_switch_icon_detail">Een snelkoppeling in het meldingsscherm weergeven om tussen ruimtes te schakelen</string>
-  <string name="show_private_content">Privé-items weergeven</string>
+  <string name="show_private_content">Privé items weergeven</string>
   <string name="show_private_msg">Privéberichten weergeven</string>
   <string name="show_private_msg_summary">Privéberichten in de tweede ruimte weergeven</string>
   <string name="skip">Overslaan</string>
@@ -344,8 +343,7 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="tryNow">Nu proberen</string>
   <string name="wating">Een momentje…</string>
   <string name="weibo_send">Versturen naar Weibo</string>
-  <string name="weixin_pay">WeChat Pay</string>
-  <string name="weixin_share_sign">Inloggen en delen</string>
+  <string name="weixin_share_sign">Aanmelden en delen</string>
   <string name="xpsace_guide_button">Aanmaken</string>
   <string name="xspace_account">Accounts van gedupliceerde apps</string>
   <string name="xspace_chocie">Ondersteuning om te dupliceren</string>
@@ -369,12 +367,9 @@ Sommige gedupliceerde apps vereisen Google Services Framework. In zulke gevallen
   <string name="xspace_introduce">Aanbevolen</string>
   <string name="xspace_label">Gedupliceerde apps</string>
   <string name="xspace_loading_msg">Apps laden…</string>
-  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Instellingen gedupliceerde apps</string>
   <string name="xspace_uninstall_completed">Gedupliceerde app met succes verwijderd</string>
   <string name="xspace_uninstall_dialog_content">Gedupliceerde app verwijderen zal alle data verwijderen.</string>
   <string name="xspace_uninstall_dialog_title">Gedupliceerde app verwijderen</string>
   <string name="xspace_uninstalling">Verwijderen…</string>
-  <string name="xspace_weibo_title">Weibo</string>
-  <string name="xspace_weixin_title">WeChat</string>
 </resources>

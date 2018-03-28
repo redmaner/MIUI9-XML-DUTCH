@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Tik om muziek te openen</string>
-  <string name="btn_camera">Enter your face</string>
+  <string name="btn_camera">Uw gezicht invoeren</string>
   <string name="change_to_ac_charging">Switched to wireless charging</string>
   <string name="click_to_enter_text">Tik om weer te geven</string>
   <string name="confirm_pin_msg">PIN opnieuw invoeren</string>
@@ -68,7 +68,7 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">Kan tweede ruimte niet betreden in litemodus</string>
   <string name="fingerprint_enter_second_psw_title">Wachtwoord tweede ruimte invoeren</string>
   <string name="fingerprint_not_identified_msg">Teveel mislukte pogingen. Voer wachtwoord nu in of probeer je vingerafdruk te gebruiken over een paar seconden.</string>
-  <string name="fingerprint_not_identified_msg_lock">Too many unsuccessful attempts. Enter password now.</string>
+  <string name="fingerprint_not_identified_msg_lock">Teveel mislukte pogingen. Voer wachtwoord nu in.</string>
   <string name="fingerprint_not_identified_title">Voer wachtwoord in</string>
   <string name="fingerprint_try_again_msg">Kon vingerafdruk niet herkennen</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw te ontgrendelen</string>
@@ -77,7 +77,7 @@
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan niet schakelen tussen ruimten als green guard actief is</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet betreden vanaf vergrendelscherm. Betreed vanuit eerste ruimte.</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
@@ -89,10 +89,6 @@
   <string name="invalid_sim_puk_hint">PUK moet minstens 8 nummers lang zijn</string>
   <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
   <string name="keyguard_charging_info_click_to_detail">Details bekijken</string>
-  <string name="keyguard_charging_info_data_c">%s℃</string>
-  <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%s%%</string>
-  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Leeggelopen</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
@@ -139,20 +135,20 @@ Probeer het opnieuw over %d seconden.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Selecteer \"Wissen &amp; Resetten\" en wacht tot het apparaat opnieuw opstart.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Hoe moet ik gegevens verwijderen?</string>
   <string name="phone_locked_string">Telefoon is vergrendeld</string>
-  <string name="reset_device_detail_tip">Place your device on the wireless charger correctly to ensure high charging speed.</string>
-  <string name="reset_device_tip">Charging is slow. Readjust your device.</string>
-  <string name="unlock_camera_steady">Please keep steady</string>
-  <string name="unlock_failed">Internal error</string>
-  <string name="unlock_failed_face_not_found">Detecting</string>
+  <string name="reset_device_detail_tip">Plaats uw apparaat correct op de draadloze oplader om een hoge oplaadsnelheid te garanderen.</string>
+  <string name="reset_device_tip">Het opladen gaat langzaam. Plaats apparaat goed.</string>
+  <string name="unlock_camera_steady">Stabiel houden</string>
+  <string name="unlock_failed">Interne fout</string>
+  <string name="unlock_failed_face_not_found">Detecteren</string>
   <string name="unlock_string">Ontgrendelen</string>
   <string name="unlocking_sim_card">SIM kaart ontgrendelen</string>
   <string name="unlockscreen_low_battery">Sluit oplader nu aan</string>
   <string name="unlockscreen_recharge_completed">Batterij vol</string>
   <string name="unlockscreen_recharging_message">Opladen %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Laat los om details te bekijken</string>
-  <string name="wireless_charge_dialog_cancel">Cancel</string>
-  <string name="wireless_charge_dialog_title">Readjust your device on the wireless charger</string>
-  <string name="wireless_charge_stop">Stopped wireless charging</string>
-  <string name="wireless_current_charge">Current Charge</string>
+  <string name="wireless_charge_dialog_cancel">Annuleren</string>
+  <string name="wireless_charge_dialog_title">Plaats uw apparaat goed op de draadloze oplader</string>
+  <string name="wireless_charge_stop">Draadloos opladen is gestopt</string>
+  <string name="wireless_current_charge">Huidige lading</string>
   <string name="wrong_password">Verkeerd wachtwoord</string>
 </resources>

@@ -28,7 +28,6 @@
   <string name="failed_to_enable_bt">Kon Bluetooth niet inschakelen</string>
   <string name="inbound_me_profile_text">Aanraken om deze persoon toe te voegen als contact.</string>
   <string name="inbound_me_profile_title">Contact onvangen over NFC</string>
-  <string name="nfcUserLabel">NFC</string>
   <string name="nfc_enabled_dialog">"NFC is op dit moment uitgeschakeld. 
 Wenst u die in te schakelen voor NFC services?"</string>
   <string name="no">NEE</string>
@@ -41,7 +40,7 @@ Wenst u die in te schakelen voor NFC services?"</string>
   <string name="pairing_peripheral_failed">Kon %1$s niet koppelen</string>
   <string name="pay_with">Betalen met</string>
   <string name="permdesc_nfcReceiveEvent">Hiermee kan de applicatie informatie ontvangen over de uitgevoerde NFC transactie</string>
-  <string name="permlab_nfcReceiveEvent">NFC Transaction awareness</string>
+  <string name="permlab_nfcReceiveEvent">NFC Transactiebewustzijn</string>
   <string name="prompt_connect_to_network">%1$s verbinden met netwerk?</string>
   <string name="status_unable_to_connect">Onmogelijk om te verbinden met netwerk</string>
   <string name="status_wifi_connected">Verbonden</string>

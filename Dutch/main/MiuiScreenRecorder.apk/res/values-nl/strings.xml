@@ -10,14 +10,11 @@
   <string name="bubble_text">Tik om te beginnen met opnemen</string>
   <string name="button_back">Terug</string>
   <string name="button_clear_storage">Ruimte vrijmaken</string>
-  <string name="button_confirm">OK</string>
+  <string name="button_confirm">Ok</string>
   <string name="button_goon_recorder">Hervatten</string>
   <string name="cancel_edit">Annuleren</string>
   <string name="cannot_change_parames">Kan instellingen niet wijzigen tijdens opnemen</string>
   <string name="cannot_record">Kon niet opnemen, probeer later opnieuw</string>
-  <string name="date_day"/>
-  <string name="date_month">/</string>
-  <string name="date_year">/</string>
   <string name="description_content">Met schermrecorder kan je op systeemniveau opnemen. Deze actie zorgt ervoor dat je de schermrecorderfunctie uitschakelt. Verdergaan?</string>
   <string name="description_title">Over schermrecorder</string>
   <string name="deselect_all">Alles deselecteren</string>
@@ -70,5 +67,4 @@
   <string name="stop_record_while_locking">Scherm vergrendelen om te stoppen</string>
   <string name="stop_record_while_locking_summary">Opnemen stoppen en video opslaan als het scherm wordt vergrendeld</string>
   <string name="stop_recording">Opname stoppen</string>
-  <string name="timer_format">%s</string>
 </resources>

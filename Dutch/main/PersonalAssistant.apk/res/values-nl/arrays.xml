@@ -29,7 +29,7 @@
         <item>Uitleveren</item>
     </string-array>
     <string-array name="stock_color_schema">
-        <item>Red - up, green - down</item>
-        <item>Green - up, red - down</item>
+        <item>Rood - boven, groen - beneden</item>
+        <item>Groen - boven, rood - beneden</item>
     </string-array>
 </resources>

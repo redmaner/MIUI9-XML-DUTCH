@@ -442,16 +442,7 @@ Als je vragen hebt kan je contact opnemen met uw "</string>
   <string name="httpErrorUnsupportedAuthScheme">Het schema voor de siteverificatie wordt niet ondersteund.</string>
   <string name="httpErrorUnsupportedScheme">Het protocol wordt niet ondersteund.</string>
   <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
-  <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Aangepast</string>
-  <string name="imProtocolGoogleTalk">Hangouts</string>
-  <string name="imProtocolIcq">ICQ</string>
-  <string name="imProtocolJabber">Jabber</string>
-  <string name="imProtocolMsn">Windows Live</string>
-  <string name="imProtocolNetMeeting">NetMeeting</string>
-  <string name="imProtocolQq">QQ</string>
-  <string name="imProtocolSkype">Skype</string>
-  <string name="imProtocolYahoo">Yahoo</string>
   <string name="imTypeCustom">Aangepast</string>
   <string name="imTypeHome">Thuis</string>
   <string name="imTypeOther">Overig</string>
@@ -463,7 +454,6 @@ Als je vragen hebt kan je contact opnemen met uw "</string>
   <string name="ime_action_previous">Vorige</string>
   <string name="ime_action_search">Zoeken</string>
   <string name="ime_action_send">Verzenden</string>
-  <string name="imei">IMEI</string>
   <string name="immersive_cling_description">Om af te sluiten, veeg naar beneden vanaf de bovenkant.</string>
   <string name="immersive_cling_positive">Begrepen</string>
   <string name="immersive_cling_title">Op volledig scherm aan het bekijken</string>

@@ -11,8 +11,6 @@
   <string name="activate_fail_notification_title">Heractiveren synchronisatie</string>
   <string name="activating">Activeren…</string>
   <string name="address">Adres</string>
-  <string name="afternoon">PM</string>
-  <string name="am">AM</string>
   <string name="birthday">Verjaardag</string>
   <string name="check_phone_error_title">Synchronisatie is uit</string>
   <string name="check_phone_io_error">Kan geen verbinding maken met het netwerk</string>
@@ -53,13 +51,11 @@
   <string name="date_time_done">Klaar</string>
   <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
   <string name="deselect_all">Deselecteren</string>
-  <string name="early_morning">AM</string>
   <string name="email">E-mail</string>
   <string name="error_forbidden">Synchroniseren is uitgeschakeld vanwege problemen met uw Mi Account.</string>
   <string name="error_not_acceptable">Synchroniseren is uitgeschakeld.</string>
   <string name="error_title">Kan niet synchroniseren</string>
   <string name="error_unauthorized">Synchroniseren is uitgeschakeld vanwege te veel aanmeldingspogingen.</string>
-  <string name="evening">PM</string>
   <string name="fmt_chinese_date">Maand</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
@@ -161,13 +157,10 @@
   <string name="month_september_short">sep</string>
   <string name="month_september_shortest">S</string>
   <string name="more">Meer</string>
-  <string name="morning">AM</string>
   <string name="name">Naam</string>
   <string name="nickname">Roepnaam</string>
-  <string name="night">PM</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_sim">Geen SIM kaart gedetecteerd.</string>
-  <string name="noon">PM</string>
   <string name="note">Notitie</string>
   <string name="organization">Organisatie</string>
   <string name="perm_payment_dspt">Laat app betalen door gebruik van Mi Pay Service</string>
@@ -175,7 +168,6 @@
   <string name="permdesc_sendSmsNoConfirmation">App kan SMS berichten versturen zonder eerst te vragen. Uw provider kan kosten aanrekenen voor deze berichten.</string>
   <string name="permlab_sendSmsNoConfirmation">Laat SMS berichten toe op de achtergrond</string>
   <string name="phone">Telefoon</string>
-  <string name="pm">PM</string>
   <string name="privacy_policy">Privacybeleid</string>
   <string name="sar">RF Exposure Information</string>
   <string name="saturday">Zaterdag</string>
@@ -198,7 +190,7 @@
   <string name="solar_term_autumn_begins">De herfst begint</string>
   <string name="solar_term_autumn_equinox">Herfst Equinox</string>
   <string name="solar_term_clear_and_bright">Helder en klaar</string>
-  <string name="solar_term_cold_dews">Cold Dews</string>
+  <string name="solar_term_cold_dews">Koude dauw</string>
   <string name="solar_term_grain_buds">Grain Buds</string>
   <string name="solar_term_grain_in_ear">Grain in Ear</string>
   <string name="solar_term_grain_rain">Grain Rain</string>
