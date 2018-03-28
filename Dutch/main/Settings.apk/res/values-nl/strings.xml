@@ -1,20 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APN_NAME_CMMMS">CMMMS</string>
-  <string name="APN_NAME_CMNET">CMNET</string>
-  <string name="APN_NAME_CMWAP">CMWAP</string>
-  <string name="APN_NAME_CTLTE">ctlte</string>
-  <string name="APN_NAME_CTMMS">CTWAP</string>
-  <string name="APN_NAME_CTNET">CTNET</string>
-  <string name="APN_NAME_CTWAP">CTWAP</string>
-  <string name="APN_NAME_CUMMS">China Unicom MMS</string>
-  <string name="APN_NAME_CUNET">China Unicom NET</string>
-  <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
-  <string name="APN_NAME_CUWAP">China Unicom WAP</string>
   <string name="Accounts_settings_title">Accounts</string>
   <string name="abc_action_bar_home_description">Navigeer naar startscherm</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Navigeer omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Klaar</string>
@@ -62,19 +49,19 @@
   <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimental) May affect performance</string>
   <string name="accessibility_display_inversion_preference_title">Kleurinversie</string>
-  <string name="accessibility_display_title">Display</string>
+  <string name="accessibility_display_title">Scherm</string>
   <string name="accessibility_enable">Toegankelijkheid</string>
   <string name="accessibility_feature_state_off">Uit</string>
   <string name="accessibility_feature_state_on">Aan</string>
-  <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly activate accessibility features in two steps:
+  <string name="accessibility_global_gesture_preference_description">"Wanneer deze functie is ingeschakeld, kunt u toegankelijkheidsfuncties snel in twee stappen activeren:
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Stap 1: Houd de aan/ it-knop ingedrukt totdat u een geluid hoort of een trilling voelt.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Stap 2: Raak met twee vingers aan en houd deze vast totdat u een bevestiging van de audio hoort.
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-  <string name="accessibility_global_gesture_preference_summary_on">On</string>
+Als het apparaat meerdere gebruikers heeft, kan met deze snelkoppeling op het vergrendelingsscherm de toegankelijkheid tijdelijk worden ingeschakeld totdat het apparaat is ontgrendeld."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Uit</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Aan</string>
   <string name="accessibility_global_gesture_preference_title">Snelkoppeling voor toegankelijkheid</string>
   <string name="accessibility_lock_screen_progress">%1$d van %2$d karakters gebruikt</string>
   <string name="accessibility_long_press_timeout_preference_title">Vertraging voor blijven aanraken</string>
@@ -86,23 +73,23 @@ If the device has multiple users, using this shortcut on the lock screen tempora
   <string name="accessibility_power_button_ends_call_prerefence_title">Aan/uit knop beëindigt oproep</string>
   <string name="accessibility_preference_magnification_summary">Zoom in on screen</string>
   <string name="accessibility_screen_magnification_enable">Zoombewegingen</string>
-  <string name="accessibility_screen_magnification_gestures_title">Magnify with triple-tap</string>
-  <string name="accessibility_screen_magnification_navbar_configuration_warning">The Accessibility button is set to %1$s. To use magnification, touch &amp; hold the Accessibility button, then select magnification.</string>
-  <string name="accessibility_screen_magnification_navbar_short_summary">Tap a button to zoom</string>
-  <string name="accessibility_screen_magnification_navbar_summary">"When magnification is turned on, use the Accessibility button at the bottom of the screen to quickly magnify.
+  <string name="accessibility_screen_magnification_gestures_title">Vergroten met drievoudig tikken</string>
+  <string name="accessibility_screen_magnification_navbar_configuration_warning">De knop Toegankelijkheid is ingesteld o p%1$s. Als u de vergroting wilt gebruiken, raakt u &amp; aan Houd de knop Toegankelijkheid ingedrukt en selecteer vervolgens Vergroting.</string>
+  <string name="accessibility_screen_magnification_navbar_short_summary">Tik op een knop om te zoomen</string>
+  <string name="accessibility_screen_magnification_navbar_summary">"Wanneer de vergroting is ingeschakeld, gebruikt u de knop Toegankelijkheid onderaan het scherm om snel te vergroten.
 
-"&lt;b&gt;To zoom&lt;/b&gt;", tap the Accessibility button, then tap anywhere on the screen.
-"&lt;ul&gt;&lt;li&gt;Drag 2 or more fingers to scroll&lt;/li&gt;"
-"&lt;li&gt;Pinch 2 or more fingers to adjust zoom&lt;/li&gt;&lt;/ul&gt;"
+"&lt;b&gt;Om te vergroten&lt;/b&gt;", tik op de knop Toegankelijkheid en tik vervolgens ergens op het scherm.
+"&lt;ul&gt;&lt;li&gt;Sleep met twee of meer vingers om te bladeren&lt;/li&gt;"
+"&lt;li&gt;Knijp met twee of meer vingers om de zoom in te stellen&lt;/li&gt;&lt;/ul&gt;"
 
-"&lt;b&gt;To zoom temporarily&lt;/b&gt;", tap the Accessibility button, then touch &amp;amp; hold anywhere on the screen.
-"&lt;ul&gt;&lt;li&gt;Drag to move around the screen&lt;/li&gt;"
-"&lt;li&gt;Lift finger to zoom out&lt;/li&gt;&lt;/ul&gt;"
+"&lt;b&gt;Om tijdelijk te zoomen&lt;/b&gt;", tik op de knop Toegankelijkheid en tik vervolgens op &amp;amp; overal op het scherm vasthouden.
+"&lt;ul&gt;&lt;li&gt;Sleep om over het scherm te bewegen&lt;/li&gt;"
+"&lt;li&gt;Til de vinger op om uit te zooment&lt;/li&gt;&lt;/ul&gt;"
 
-You can&amp;#8217;t zoom in on the keyboard or navigation bar."</string>
-  <string name="accessibility_screen_magnification_navbar_title">Magnify with button</string>
+U kan&amp;#8217;t inzoomen op het toetsenbord of de navigatiebalk."</string>
+  <string name="accessibility_screen_magnification_navbar_title">Vergroten met knop</string>
   <string name="accessibility_screen_magnification_short_summary">Tik 3 keer om te zoomen</string>
-  <string name="accessibility_screen_magnification_state_navbar_gesture">Magnify with button &amp; triple-tap</string>
+  <string name="accessibility_screen_magnification_state_navbar_gesture">Vergroten met knop &amp; drievoudig tikken</string>
   <string name="accessibility_screen_magnification_summary">Om te zoomen tik je driemaal op het scherm.
 Sleep twee of meer vingers om te slepen
 Maak een knijpbeweging met twee of meer vingers om de zoom aan te passen
@@ -110,18 +97,17 @@ Maak een knijpbeweging met twee of meer vingers om de zoom aan te passen
 U kunt ook de inhoud onder uw vinger tijdelijk vergroten door drie keer te tikken en vast te houden. In deze vergrote staat kunt u slepen met uw vinger om verschillende gedeelten van het scherm te verkennen. Til uw vinger op om terug te keren naar de vorige staat.
 
 Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toetsenbord en de navigatiebalk."</string>
-  <string name="accessibility_screen_magnification_title">Magnification gesture</string>
+  <string name="accessibility_screen_magnification_title">Vergroting gebaar</string>
   <string name="accessibility_service_default_description">Geen beschrijving opgegeven.</string>
   <string name="accessibility_services_title">Services</string>
   <string name="accessibility_settings">Toegankelijkheid</string>
-  <string name="accessibility_settings_summary">Screen readers, display, interaction controls</string>
-  <string name="accessibility_settings_title">Accessibility settings</string>
-  <string name="accessibility_shortcut_description">When the shortcut is on, you can press both volume buttons for 3 seconds to start an accessibility feature.</string>
-  <string name="accessibility_shortcut_service_on_lock_screen_title">Allow from lock screen</string>
-  <string name="accessibility_shortcut_service_title">Shortcut service</string>
-  <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
-  <string name="accessibility_summary_state_disabled">OFF</string>
-  <string name="accessibility_summary_state_enabled">ON</string>
+  <string name="accessibility_settings_summary">Schermlezers, weergave, interactiebedieningen</string>
+  <string name="accessibility_settings_title">Toegankelijkheidsinstellingen</string>
+  <string name="accessibility_shortcut_description">Wanneer de snelkoppeling is ingeschakeld, kunt u beide volumeknoppen 3 seconden ingedrukt houden om een toegankelijkheidsfunctie te starten.</string>
+  <string name="accessibility_shortcut_service_on_lock_screen_title">Toestaan vanop vergrendelscherm</string>
+  <string name="accessibility_shortcut_service_title">Snelkoppelingsservice</string>
+  <string name="accessibility_summary_state_disabled">UIT</string>
+  <string name="accessibility_summary_state_enabled">AAN</string>
   <string name="accessibility_sync_disabled">Synchronisatie is uitgeschakeld</string>
   <string name="accessibility_sync_enabled">Synchronisatie is ingeschakeld</string>
   <string name="accessibility_sync_error">Synchronisatiefout</string>
@@ -133,7 +119,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_toggle_master_mono_title">Mono audio</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Schermvergroting bijwerken bij app-overgangen</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Schermvergroting automatisch bijwerken</string>
-  <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Spreek wachtwoorden uit</string>
   <string name="accessibility_wifi_off">Wi-Fi uit.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi één streepje.</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi vol signaal.</string>
@@ -142,7 +128,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_work_account_title">Werkaccount - %s</string>
   <string name="account_add">Toevoegen</string>
   <string name="account_autostar_label">Automatisch starten</string>
-  <string name="account_dashboard_title">Users &amp; accounts</string>
+  <string name="account_dashboard_title">Gebruikers &amp; accounts</string>
   <string name="account_for_section_header">Accounts for %1$s</string>
   <string name="account_list">Andere accounts</string>
   <string name="account_other">Andere</string>
@@ -161,7 +147,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="activating">Activeren…</string>
   <string name="active_device_admin_msg">Apparaatbeheerder</string>
   <string name="active_input_method_subtypes">Actieve invoermethoden</string>
-  <string name="activity_list_empty">No matching activities found.</string>
+  <string name="activity_list_empty">Geen overeenkomende activiteiten gevonden.</string>
   <string name="activity_not_found">Deze app is niet geïnstalleerd op uw apparaat.</string>
   <string name="activity_picker_label">Een activiteit kiezen</string>
   <string name="ad_service">Diensten toevoegen</string>
@@ -201,8 +187,6 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="additional_battery_info">Usage alerts</string>
   <string name="additional_permissions">Extra toestemmingen</string>
   <string name="additional_permissions_more">%1$d meer</string>
-  <string name="additional_system_update"/>
-  <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Aanvullende systeemupdates</string>
   <string name="adjust_3d_depth_title">3D diepte aanpassen voor games</string>
   <string name="admin_device_owner_message">Uw beheerder kan apps en gegevens die bij dit apparaat zijn geassocieerd, waaronder instellingen, machtigingen, bedrijfs toegang, netwerkactiviteit en de locatiegegevens van het apparaat beheren.</string>
@@ -212,7 +196,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="admin_profile_owner_user_message">Uw beheerder kan apps en gegevens die met deze gebruiker zijn geassocieerd, waaronder instellingen, machtigingen, bedrijfs toegang, netwerkactiviteit en de locatiegegevens van het apparaat beheren.</string>
   <string name="admin_support_more_info">Meer details</string>
   <string name="advanced_apps">Geavanceerd</string>
-  <string name="advanced_battery_title">Advanced battery usage</string>
+  <string name="advanced_battery_title">Geavanceerd batterijgebruik</string>
   <string name="advanced_section_header">Geavanceerd</string>
   <string name="advanced_security_title">Geavanceerd</string>
   <string name="advanced_settings">Extra instellingen</string>
@@ -238,20 +222,18 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="allow_mock_location">Neplocaties toestaan</string>
   <string name="allow_mock_location_summary">Neplocaties toestaan</string>
   <string name="allow_overlay_description">This permission allows an app to display on top of other apps you’re using and may interfere with your use of the interface in other applications, or change what you think you are seeing in other applications.</string>
-  <string name="allow_sound">Allow sound</string>
-  <string name="alpha_build">" | Alpha"</string>
+  <string name="allow_sound">Sta geluid toe</string>
   <string name="always">Altijd</string>
   <string name="always_allow_bind_appwidgets_text">Je hebt ervoor gekozen om deze app toe te staan widgets te maken en toegang te krijgen tot hun gegevens.</string>
   <string name="always_running">Altijd actief (%s)</string>
   <string name="amber_alerts_summary">Ontvang mededelingen over kinderontvoeringen</string>
-  <string name="amber_alerts_title">AMBER alerts</string>
-  <string name="ambient_display_pickup_summary">To quickly check your notifications, pick up your phone.</string>
-  <string name="ambient_display_pickup_title">Lift to check phone</string>
-  <string name="ambient_display_summary">To quickly check your notifications, double-tap your screen.</string>
-  <string name="ambient_display_title">Double-tap to check phone</string>
+  <string name="amber_alerts_title">AMBER alarmen</string>
+  <string name="ambient_display_pickup_summary">Om snel uw meldingen wilt te bekijken, til uw telefoon op.</string>
+  <string name="ambient_display_pickup_title">Optillen om de telefoon te controleren</string>
+  <string name="ambient_display_summary">Om snel uw meldingen wilt te bekijken, dubbeltik op je scherm.</string>
+  <string name="ambient_display_title">Dubbeltikken om telefoon te controleren</string>
   <string name="android_beam_disabled_summary">Schakel NFC in om deze functie te gebruiken</string>
   <string name="android_beam_explained">Je kan een webpagina, een video of andere inhoud beamen naar een ander apparaat, door de apparaten elkaar aan te laten raken (achterkanten tegen elkaar aan).</string>
-  <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">NFC inhoud delen is uitgeschakeld</string>
   <string name="android_beam_on_summary">NFC inhoud delen is ingeschakeld</string>
   <string name="android_beam_settings_title">Android Beam</string>
@@ -262,11 +244,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="anti_spam">Zwarte lijst</string>
   <string name="aod_mode_summary">Tijd, datum en berichten altijd weergeven wanneer het scherm is uitgeschakeld.</string>
   <string name="aod_mode_title">Altijd aan modus</string>
-  <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Verificatietype</string>
-  <string name="apn_auth_type_chap">CHAP</string>
   <string name="apn_auth_type_none">Geen</string>
-  <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP of CHAP</string>
   <string name="apn_chinaunicom_3gnet_general">Vruchtbare 3G internetverbinding</string>
   <string name="apn_chinaunicom_3gwap_general">Vruchtbare 3G mobiel internet</string>
@@ -274,12 +253,8 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="apn_general">Algemeen</string>
   <string name="apn_http_port">Poort</string>
   <string name="apn_http_proxy">Proxy</string>
-  <string name="apn_mcc">MCC</string>
-  <string name="apn_mms">MMS</string>
   <string name="apn_mms_port">MMS poort</string>
   <string name="apn_mms_proxy">MMS proxy</string>
-  <string name="apn_mmsc">MMSC</string>
-  <string name="apn_mnc">MNC</string>
   <string name="apn_name">Naam</string>
   <string name="apn_new">Nieuw toegangspunt</string>
   <string name="apn_not_set">Niet ingesteld</string>
@@ -294,11 +269,11 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="apn_settings_not_available">APN instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="apn_type">APN type</string>
   <string name="apn_user">Gebruikersnaam</string>
-  <string name="app_and_notification_dashboard_summary">Permissions, default apps</string>
-  <string name="app_and_notification_dashboard_title">Apps &amp; notifications</string>
+  <string name="app_and_notification_dashboard_summary">Toestemmingen, standaard apps</string>
+  <string name="app_and_notification_dashboard_title">Apps &amp; meldingen</string>
   <string name="app_backup">Back-up</string>
   <string name="app_data_usage">App dataverbruik</string>
-  <string name="app_default_dashboard_title">Default apps</string>
+  <string name="app_default_dashboard_title">Standaard apps</string>
   <string name="app_disable_dlg_positive">App uitschakelen</string>
   <string name="app_disable_dlg_text">Als je deze app uitschakelt deze app en andere apps mogelijk niet werken zoals bedoeld.</string>
   <string name="app_disable_dlg_title">Ingebouwde app uitschakelen?</string>
@@ -310,8 +285,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_floating_window_dlg_disable">"Het uitschakelen van %1$s's floating scherm zal de app doen stoppen. Floating schermen uitschakelen?"</string>
   <string name="app_floating_window_dlg_enable">"Het inschakelen van %1$s's floating scherm instellingen benodigd een herstart van de app. U kunt de app ook handmatig stoppen. Floating schermen inschakelen?"</string>
   <string name="app_forward_locked">App is beveiligd tegen kopiëren.</string>
-  <string name="app_info_storage_title">Space used</string>
-  <string name="app_install_details_group_title">Store</string>
+  <string name="app_info_storage_title">Ruimte gebruikt</string>
   <string name="app_install_details_summary">App geïnstalleerd van %1$s</string>
   <string name="app_install_details_title">Appdetails</string>
   <string name="app_install_location_summary">De voorkeursinstallatielocatie voor nieuwe apps wijzigen</string>
@@ -329,10 +303,7 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_list_preference_none">Geen</string>
   <string name="app_memory_use">Geheugengebruik</string>
   <string name="app_name_label">App</string>
-  <string name="app_names_concatenation_template_2">%1$s, %2$s</string>
-  <string name="app_names_concatenation_template_3">%1$s, %2$s, %3$s</string>
   <string name="app_not_found_dlg_text">De app is niet gevonden in de lijst met geïnstalleerde apps.</string>
-  <string name="app_not_found_dlg_title"/>
   <string name="app_notification_block_summary">Nooit meldingen van deze app tonen</string>
   <string name="app_notification_block_title">Alles blokkeren</string>
   <string name="app_notification_importance_title">Belangrijk</string>
@@ -354,14 +325,14 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="app_ops_settings">Appbewerkingen</string>
   <string name="app_overlay_permission_preference">Toestemming om bovenop weer te geven</string>
   <string name="app_permissions">Apptoestemmingen</string>
-  <string name="app_permissions_group_summary" formatted="false">%d of %d apps allowed</string>
-  <string name="app_permissions_summary" formatted="false">%d of %d apps allowed additional access</string>
+  <string name="app_permissions_group_summary" formatted="false">%d van %d apps toegestaan</string>
+  <string name="app_permissions_summary" formatted="false">%d van %d apps toegestane extra toegang</string>
   <string name="app_process_limit_title">Achtergrondproceslimiet</string>
   <string name="app_restrictions_custom_label">Appbeperkingen instellen</string>
   <string name="app_sees_restricted_accounts">Deze app heeft toegang tot uw accounts</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Deze app heeft toegang tot uw accounts. Gecontroleerd door %1$s</string>
-  <string name="app_settings_link">Additional settings in the app</string>
-  <string name="app_special_disable_dlg_text">If you disable this app, other apps may no longer function as intended. Your data will also be deleted.</string>
+  <string name="app_settings_link">Extra instellingen in de app</string>
+  <string name="app_special_disable_dlg_text">Als u deze app uitschakelt, werken andere apps mogelijk niet meer zoals bedoeld. Uw gegevens worden ook verwijderd.</string>
   <string name="app_special_disable_dlg_title">Gegevens verwijderen en app uitschakelen?</string>
   <string name="app_switch_key">Menu</string>
   <string name="app_usage_preference">Appgebruik voorkeuren</string>
@@ -396,12 +367,11 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="assist_access_screenshot_summary">Sta de assistapp toe om toegang te krijgen tot een afbeelding van het scherm</string>
   <string name="assist_access_screenshot_title">Gebruik schermafdruk</string>
   <string name="assist_and_voice_input_title">Hulp &amp; spraakinvoer</string>
-  <string name="assist_flash_summary">Flash edges of screen when assist app accesses text from screen or screenshot</string>
-  <string name="assist_flash_title">Flash screen</string>
+  <string name="assist_flash_summary">Flitsranden van het scherm wanneer de hulp app toegang heeft tot tekst van het scherm of schermafdruk</string>
+  <string name="assist_flash_title">Flash scherm</string>
   <string name="assist_footer">Assist-apps kunnen u helpen gebaseerd op de informatie van het scherm dat u bekijkt. Sommige apps ondersteunen launcher en spraakinvoerservices om u geintegrerde hulp te geven.</string>
-  <string name="assist_gesture_sensitivity_title">Sensitivity</string>
-  <string name="assist_gesture_summary"/>
-  <string name="assist_gesture_title">Assist gesture</string>
+  <string name="assist_gesture_sensitivity_title">Gevoeligheid</string>
+  <string name="assist_gesture_title">Help gebaar</string>
   <string name="assistant_security_warning">De assistent zal informatie kunnen lezen over apps in in gebruik door het systeem, inclusief informatie zichtbaar op het scherm of toegankelijk vanuit de apps.</string>
   <string name="assistant_security_warning_agree">Instemmen</string>
   <string name="assistant_security_warning_disagree">Niet instemmen</string>
@@ -410,29 +380,29 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="assisted_gps_disabled">Server gebruiken ter ondersteuning van GPS (uitschakelen om GPS prestaties te verbeteren)</string>
   <string name="assisted_gps_enabled">Server gebruiken ter ondersteuning van GPS (uitschakelen om het netwerkgebruik te beperken)</string>
   <string name="attempt_other_network">Netwerk wisselen</string>
-  <string name="audio_and_captions_category_title">Audio &amp; on-screen text</string>
-  <string name="audio_files_title">Audio files</string>
-  <string name="audio_list_loading">Loading…</string>
+  <string name="audio_and_captions_category_title">Audio &amp; tekst op het scherm</string>
+  <string name="audio_files_title">Audio bestanden</string>
+  <string name="audio_list_loading">Laden…</string>
   <string name="audio_profile_settings_title">Audioprofielen</string>
   <string name="audio_record_proc_title">Geluidsdemping</string>
-  <string name="auto_brightness_default_title">Default</string>
-  <string name="auto_brightness_disclaimer">Optimize brightness level for available light. When this feature is on, you can still adjust brightness temporarily.</string>
-  <string name="auto_brightness_high_title">High</string>
-  <string name="auto_brightness_low_title">Low</string>
-  <string name="auto_brightness_off_summary">"Don't adjust for available light"</string>
-  <string name="auto_brightness_off_title">Off</string>
-  <string name="auto_brightness_subtitle">Your preferred brightness level</string>
+  <string name="auto_brightness_default_title">Standaard</string>
+  <string name="auto_brightness_disclaimer">Optimaliseer het helderheidsniveau voor beschikbaar licht. Wanneer deze functie is ingeschakeld, kunt u de helderheid nog steeds tijdelijk aanpassen.</string>
+  <string name="auto_brightness_high_title">Hoog</string>
+  <string name="auto_brightness_low_title">Laag</string>
+  <string name="auto_brightness_off_summary">Niet aanpassen aan beschikbaar licht</string>
+  <string name="auto_brightness_off_title">Uit</string>
+  <string name="auto_brightness_subtitle">Uw voorkeurshelderheidsniveau</string>
   <string name="auto_brightness_summary">Optimaliseer het helderheidsniveau voor het beschikbare licht</string>
-  <string name="auto_brightness_summary_default">Preferred brightness is default</string>
-  <string name="auto_brightness_summary_high">Preferred brightness is high</string>
-  <string name="auto_brightness_summary_low">Preferred brightness is low</string>
-  <string name="auto_brightness_summary_off">Off</string>
-  <string name="auto_brightness_summary_very_high">Preferred brightness is very high</string>
-  <string name="auto_brightness_summary_very_low">Preferred brightness is very low</string>
+  <string name="auto_brightness_summary_default">Voorkeurshelderheid is standaard</string>
+  <string name="auto_brightness_summary_high">Voorkeurshelderheid is hoog</string>
+  <string name="auto_brightness_summary_low">Voorkeurshelderheid is laag</string>
+  <string name="auto_brightness_summary_off">Uit</string>
+  <string name="auto_brightness_summary_very_high">Voorkeurshelderheid is zeer hoog</string>
+  <string name="auto_brightness_summary_very_low">Voorkeurshelderheid is zeer laag</string>
   <string name="auto_brightness_title">Aanpasbare helderheid</string>
-  <string name="auto_brightness_very_high_summary">Increased battery usage</string>
-  <string name="auto_brightness_very_high_title">Very high</string>
-  <string name="auto_brightness_very_low_title">Very low</string>
+  <string name="auto_brightness_very_high_summary">Verhoogd batterijgebruik</string>
+  <string name="auto_brightness_very_high_title">Zeer hoog</string>
+  <string name="auto_brightness_very_low_title">Zeer laag</string>
   <string name="auto_caps">Automatisch hoofdlettergebruik</string>
   <string name="auto_caps_summary">Eerste letters in zinnen met hoofdletter</string>
   <string name="auto_disable_screenbuttons_ask">Vragen om uit te schakelen</string>
@@ -456,23 +426,23 @@ Uw beheerder heeft de mogelijkheid om instellingen te controleren en te beheren,
   <string name="auto_rule">Timer</string>
   <string name="auto_silent">Automatisch inschakelen instellen</string>
   <string name="auto_startup_application_manage">Automatisch starten</string>
-  <string name="auto_sync_account_summary">Let apps refresh data automatically</string>
-  <string name="auto_sync_account_title">Automatically sync data</string>
-  <string name="auto_sync_personal_account_title">Automatically sync personal data</string>
-  <string name="auto_sync_work_account_title">Automatically sync work data</string>
-  <string name="autofill_app">Autofill service</string>
-  <string name="autofill_confirmation_message">"&lt;b&gt;Make sure you trust this app&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; uses what's on your screen to determine what can be autofilled."</string>
-  <string name="autofill_keywords">auto, fill, autofill</string>
+  <string name="auto_sync_account_summary">Laat apps data automatisch vernieuwen</string>
+  <string name="auto_sync_account_title">Data automatisch synchroniseren</string>
+  <string name="auto_sync_personal_account_title">Synchroniseer automatisch persoonlijke data</string>
+  <string name="auto_sync_work_account_title">Werk data automatisch synchroniseren</string>
+  <string name="autofill_app">Automatisch aanvullen service</string>
+  <string name="autofill_confirmation_message">"&lt;b&gt;Zorg dat je deze app vertrouwt&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; uses what's on your screen to determine what can be autofilled."</string>
+  <string name="autofill_keywords">auto, aanvullen, automatisch aanvullen</string>
   <string name="automatic_brightness">Automatische helderheid</string>
-  <string name="automatic_storage_manager_activation_warning">Your storage is now being managed by the storage manager</string>
-  <string name="automatic_storage_manager_days_title">Remove photos &amp; videos</string>
-  <string name="automatic_storage_manager_deactivation_warning">Turn off the storage manager?</string>
-  <string name="automatic_storage_manager_freed_bytes">"%1$s total made available
+  <string name="automatic_storage_manager_activation_warning">Uw opslag wordt nu beheerd door de opslagmanager</string>
+  <string name="automatic_storage_manager_days_title">Verwijder foto\'s &amp; video\'s</string>
+  <string name="automatic_storage_manager_deactivation_warning">De opslagmanager uitschakelen?</string>
+  <string name="automatic_storage_manager_freed_bytes">"%1$s totaal beschikbaar gesteld
 
-Last ran on %2$s"</string>
-  <string name="automatic_storage_manager_preference_title">Storage manager</string>
-  <string name="automatic_storage_manager_settings">Manage storage</string>
-  <string name="automatic_storage_manager_text">To help free up storage space, storage manager removes backed up photos and videos from your device.</string>
+Laatst gelopen op %2$s"</string>
+  <string name="automatic_storage_manager_preference_title">Opslag manager</string>
+  <string name="automatic_storage_manager_settings">Opslag beheren</string>
+  <string name="automatic_storage_manager_text">Om opslagruimte vrij te maken, verwijdert opslagbeheer een back-up van foto\'s en video\'s van uw apparaat.</string>
   <string name="available_size">%s beschikbaar</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="available_virtual_keyboard_category">Beschikbaar virtueel toetsenbord</string>
@@ -482,11 +452,11 @@ Last ran on %2$s"</string>
   <string name="awake">Stand-bytijd apparaat</string>
   <string name="back_button">Terug</string>
   <string name="back_key">Terug</string>
-  <string name="background_activity_summary">Allow the app to run in the background</string>
-  <string name="background_activity_summary_disabled">App not allowed to run in background</string>
-  <string name="background_activity_summary_off">"App's background activity is limited when not in use"</string>
-  <string name="background_activity_summary_on">App can run in the background when not in use</string>
-  <string name="background_activity_title">Background activity</string>
+  <string name="background_activity_summary">Toestaan dat de app op de achtergrond wordt uitgevoerd</string>
+  <string name="background_activity_summary_disabled">App niet toestaan om op de achtergrond wordt uitgevoerd</string>
+  <string name="background_activity_summary_off">De achtergrondactiviteit van de app is beperkt wanneer deze niet wordt gebruikt</string>
+  <string name="background_activity_summary_on">App kan op de achtergrond worden uitgevoerd wanneer deze niet in gebruik is</string>
+  <string name="background_activity_title">Achtergrond activiteit</string>
   <string name="background_check_pref">Achtergrondcontrole</string>
   <string name="background_check_title">Volledige achtergrondtoegang</string>
   <string name="background_data">Achtergrondgegevens</string>
@@ -501,7 +471,6 @@ Last ran on %2$s"</string>
   <string name="backup_data_title">Back-up maken van mijn gegevens</string>
   <string name="backup_disabled">Back-up uitgeschakeld</string>
   <string name="backup_erase_dialog_message">Weet u zeker dat u het maken van back-ups van uw Wi-Fi wachtwoorden, bladwijzers, andere instellingen en appgegevens wilt stoppen en alle kopieën op Google servers wilt verwijderen?</string>
-  <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">Back-upservice is niet actief.</string>
   <string name="backup_pw_cancel_button_text">Annuleren</string>
   <string name="backup_pw_set_button_text">Wachtwoord voor back-up instellen</string>
