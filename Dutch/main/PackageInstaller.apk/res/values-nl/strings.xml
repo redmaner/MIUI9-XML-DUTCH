@@ -215,7 +215,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="external_source_trusted">Toegestaan</string>
   <string name="external_source_untrusted">Niet toegestaan</string>
   <string name="external_sources_settings">Instellingen</string>
-  <string name="failed_to_open_app_settings_toast">Instellingen voor openen van %1$s mislukt<</string>
+  <string name="failed_to_open_app_settings_toast">Instellingen voor openen van %1$s mislukt</string>
   <string name="force_allow_on_external">Toestaan van apps op externe opslag forceren</string>
   <string name="force_allow_on_external_summary">Maakt elke app geschikt om naar externe opslag te worden geschreven, ongeacht de duidelijke waarden</string>
   <string name="force_hw_ui">GPU rendering forceren</string>
