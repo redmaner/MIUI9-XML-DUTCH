@@ -53,7 +53,6 @@
   <string name="device_owner_error_reset">Reset</string>
   <string name="device_owner_error_wifi">Kon niet vebinden met Wi-Fi</string>
   <string name="device_owner_exists">Werkprofielen kunnen niet worden ingesteld op een beheerd apparaat</string>
-  <string name="device_owner_info">Dit apparaat wordt beheerd en beveiligd door%1$s. % 1 $ s. Voorwaarden zijn van toepassing.. %2$s</string>
   <string name="device_owner_info_with_terms_headers">Dit apparaat wordt beheerd en beveiligd door %1$s. Voorwaarden van %2$s zijn van toepassing.. %3$s</string>
   <string name="dismiss">Afwijzen</string>
   <string name="encrypt">Versleutelen</string>

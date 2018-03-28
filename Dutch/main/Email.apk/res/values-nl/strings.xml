@@ -52,7 +52,7 @@ Nu bijwerken?"</string>
   <string name="account_settings_policies">Beveiligingsbeleid</string>
   <string name="account_settings_preference_add_account">E-mailaccount toevoegen</string>
   <string name="account_settings_preference_att_save_path">Standaardlocatie voor bijlagen</string>
-  <string name="account_settings_preference_head_icon">Profiel foto'\s</string>
+  <string name="account_settings_preference_head_icon">Profiel foto\'s</string>
   <string name="account_settings_preference_notify">Melding</string>
   <string name="account_settings_retry_label">Poging tot synchroniseren</string>
   <string name="account_settings_retry_summary">Raak aan om account te synchroniseren</string>
