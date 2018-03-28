@@ -70,13 +70,13 @@
         <item>Animatieschaal 10x</item>
     </string-array>
 	<string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale 0.5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animatie uit</item>
+        <item>Animatieschaal 0,5x</item>
+        <item>Animatieschaal 1x</item>
+        <item>Animatieschaal 1,5x</item>
+        <item>Animatieschaal 2x</item>
+        <item>Animatieschaal 5x</item>
+        <item>Animatieschaal 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animatie uit</item>
@@ -149,22 +149,6 @@
         <item>Zeer snel</item>
         <item>Snelst</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
     <string-array name="color_mode_names">
         <item>Levendig (standaard)</item>
         <item>Naturel</item>
@@ -174,11 +158,6 @@
         <item>Verbeterde kleuren</item>
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
         <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
     </string-array>
 	<string-array name="status_bar_style_entries">
         <item>Gecombineerd</item>
@@ -207,9 +186,6 @@
         <item>Australië</item>
         <item>Stille Oceaan</item>
         <item>Alles</item>
-    </string-array>
-    <string-array name="no_cache_clear_package_list">
-        <item></item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 seconden</item>
@@ -247,25 +223,6 @@
         <item>Groot</item>
         <item>Extra groot</item>
     </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa2</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knop indrukken</item>
         <item>PIN code van peer apparaat</item>
@@ -285,7 +242,7 @@
         <item>Geen time-out</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Poor</item>
+        <item>Slecht</item>
         <item>Redelijk</item>
         <item>Goed</item>
         <item>Uitstekend</item>
@@ -314,12 +271,6 @@
         <item>Aantal keer gestart</item>
         <item>Appnaam</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>Geen</item>
         <item>MSCHAPV2</item>
@@ -346,11 +297,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP of CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>Ongespecifiëerd</item>
@@ -552,12 +498,6 @@
 	    <item>Verhoogd</item>
         <item>Verlaagd</item>
     </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
 	<string-array name="captioning_preset_selector_titles">
         <item>Gebruik appstandaard</item>
         <item>Wit op zwart</item>
@@ -565,14 +505,6 @@
         <item>Geel op zwart</item>
         <item>Geel op blauw</item>
         <item>Aangepast</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -706,14 +638,6 @@
         <item>Wit</item>
         <item>Violet</item>
     </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim_for_cmcc">
-        <item>PEAP</item>
-        <item>SIM</item>
-    </string-array>
 	<string-array name="screen_key_position_action">
         <item>Menuknop links, terugknop rechts</item>
         <item>Terugknop links, menuknop rechts</item>
@@ -761,7 +685,7 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>USB mass storage will open automatically when connected to a computer.</item>
+        <item>USB massaopslag wordt automatisch geopend wanneer deze is aangesloten op een computer.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -803,10 +727,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>Toestaan</item>
         <item>Weigeren</item>
-    </string-array>
-	<string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Native</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Enkele micro geluidsonderdrukking</item>
@@ -873,11 +793,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Thuisnetwerk</item>
         <item>Alle netwerken</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inches</item>
-        <item>4.0 inches</item>
-        <item>3.5 inches</item>
-    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Onmiddellijk</item>
         <item>Na 30 seconden</item>
@@ -898,16 +813,8 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Apparaat opnieuw opstarten om deze instelling toe te passen?</item>
         <item>Apparaat opnieuw opstarten om deze instelling toe te passen?</item>
     </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
-    </string-array>
 	    <string-array name="max_number_titles">
-        <item>Unlimited</item>
+        <item>Onbeperkt</item>
     </string-array>
 	<string-array name="common_password_business_names">
         <item>Vergrendelscherm</item>
@@ -946,11 +853,6 @@ Note: Alleen voor Ubuntu 8.04!"</item>
 		<item>Weekend</item>
         <item>Aangepast</item>
     </string-array>
-    <string-array name="standard_configuration_version">
-        <item>3.00GB</item>
-        <item>32GB</item>
-        <item>Quad-core Max 2.15GHz</item>
-    </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Berichten</item>
         <item>Foto\'s</item>
@@ -958,110 +860,106 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>Notities</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
-        <item>Over 30 days old</item>
-        <item>Over 60 days old</item>
-        <item>Over 90 days old</item>
+        <item>Meer dan 30 dagen oud</item>
+        <item>Meer dan 60 dagen oud</item>
+        <item>Meer dan 90 dagen oud</item>
     </string-array>
-    <integer-array name="batterymeter_color_levels">
-        <item>15</item>
-        <item>100</item>
-    </integer-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard))</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Geoptimaliseerd voor audiokwaliteit</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit</item>
+        <item>Beste poging (Adaptive Bit Rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
+        <item>Geoptimaliseerd voor audiokwaliteit (990kbps/909kbps)</item>
         <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
+        <item>Beste poging (Adaptive Bit Rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.4 (Standaard)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
+        <item>OpenGL (Standaard)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Uit</item>
+        <item>Alle log buffers</item>
+        <item>Alle uitgezonderd radio log buffers</item>
+        <item>Alleen kernel log buffer</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Alle</item>
+        <item>Alle uitgezonderd radio</item>
+        <item>Alleen kernel</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
-        <item>WLAN</item>
-        <item>Mobile</item>
-        <item>WLAN only</item>
+        <item>Wi-Fi</item>
+        <item>Mobiel</item>
+        <item>Alleen Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-        <item>WLAN</item>
-        <item>Mobile</item>
+        <item>Wi-Fi</item>
+        <item>Mobiel</item>
     </string-array>
 </resources>

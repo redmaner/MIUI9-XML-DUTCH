@@ -77,8 +77,8 @@
         <item quantity="one">Zeer lange vertraging (%1$d ms)</item>
     </plurals>    
 	<plurals name="print_settings_title">
-        <item quantity="other">%d print jobs</item>
-        <item quantity="one">1 print job</item>
+        <item quantity="other">%d afdruktaken</item>
+        <item quantity="one">1 afdruktaak</item>
     </plurals>
 	<plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Certificaten vertrouwen of verwijderen</item>
@@ -129,13 +129,13 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
         <item quantity="one">%d extra toestemming</item>
     </plurals>
 	<plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d apps can open their supported links</item>
-        <item quantity="zero">No app can open any supported link</item>
-        <item quantity="one">One app can open its supported links</item>
+        <item quantity="other">%d apps kunnen hun ondersteunde links openen</item>
+        <item quantity="zero">Geen enkel app kunnen hun ondersteunde links openen</item>
+        <item quantity="one">Eén app kunnen hun ondersteunde links openen</item>
     </plurals>
 	    <plurals name="high_power_count">
-        <item quantity="other">%d apps allowed to ignore battery optimization</item>
-        <item quantity="one">1 app allowed to ignore battery optimization</item>
+        <item quantity="other">%d apps mogen de batterij optimalisatie negeren</item>
+        <item quantity="one">1 app mag de batterij optimalisatie negeren</item>
     </plurals>
 	<plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d apps hebben geheugen gebruikt in de laatste %2$s</item>
@@ -178,8 +178,8 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
         <item quantity="one">"Je bent %1$d stap verwijderd van de telefooninfo."</item>
     </plurals>
 	<plurals name="show_cit_countdown">
-        <item quantity="other">"You're %1$d steps away from entering CIT."</item>
-        <item quantity="one">"You're %1$d step away from entering CIT."</item>
+        <item quantity="other">U bent %1$d stappen verwijderd van het invoeren van CIT.</item>
+        <item quantity="one">U bent %1$d stap verwijderd van het invoeren van CIT.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">"Je bent %1$d stappen verwijderd van het rapporteren van een bug."</item>
@@ -214,32 +214,32 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
         <item quantity="one">Wacht %d seconde en probeer opnieuw.</item>
     </plurals> 
     <plurals name="app_notification_listing_summary_others">
-        <item quantity="other">Turned off for %d apps</item>
-        <item quantity="one">Turned off for %d app</item>
+        <item quantity="other">Uitgeschakeld voor %d apps</item>
+        <item quantity="one">Uitgeschakeld voor %d app</item>
     </plurals>
     <plurals name="default_camera_app_title">
         <item quantity="other">Camera apps</item>
         <item quantity="one">Camera app</item>
     </plurals>
     <plurals name="default_email_app_title">
-        <item quantity="other">Email client apps</item>
-        <item quantity="one">Email client app</item>
+        <item quantity="other">E-mail client apps</item>
+        <item quantity="one">E-mail client app</item>
     </plurals>
     <plurals name="default_phone_app_title">
-        <item quantity="other">Phone apps</item>
-        <item quantity="one">Phone app</item>
+        <item quantity="other">Telefoon apps</item>
+        <item quantity="one">Telefoon app</item>
     </plurals>
     <plurals name="deleted_channels">
-        <item quantity="other">%d categories deleted</item>
-        <item quantity="one">%d category deleted</item>
+        <item quantity="other">%d categorieën verwijderd</item>
+        <item quantity="one">%d categorie verwijderd</item>
     </plurals>
     <plurals name="domain_urls_apps_summary_on">
-        <item quantity="other">%d apps opening supported links</item>
-        <item quantity="one">One app opening supported links</item>
+        <item quantity="other">%d apps openen ondersteunde links</item>
+        <item quantity="one">Eén apps opend ondersteunde links</item>
     </plurals>
     <plurals name="enterprise_privacy_number_ca_certs">
-        <item quantity="other">Minimum %d CA certificates</item>
-        <item quantity="one">Minimum %d CA certificate</item>
+        <item quantity="other">Minimum %d CA certificaten</item>
+        <item quantity="one">Minimum %d CA certificaat</item>
     </plurals>
     <plurals name="enterprise_privacy_number_failed_password_wipe">
         <item quantity="other">%d attempts</item>
@@ -254,55 +254,55 @@ Voor meer informatie over dit certificaat, neem contact op met uw beheerder."</i
         <item quantity="one">Minimum %d app</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%s hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%s uur</item>
+        <item quantity="one">1 uur</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d active trust agents</item>
-        <item quantity="one">1 active trust agent</item>
+        <item quantity="other">%d actieve vertrouwenspersonen</item>
+        <item quantity="one">1 actieve vertrouwenspersoon</item>
     </plurals>
     <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d accounts will be reset</item>
-        <item quantity="one">1 account will be reset</item>
+        <item quantity="other">%1$d accounts worden gereset</item>
+        <item quantity="one">1 accounts wordtgereset</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%s minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%s minuten</item>
+        <item quantity="one">1 minuut</item>
     </plurals>
     <plurals name="network_restrictions_summary">
-        <item quantity="other">%1$d restrictions</item>
-        <item quantity="one">1 restriction</item>
+        <item quantity="other">%1$d beperkingen</item>
+        <item quantity="one">1 beperking</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d active apps</item>
         <item quantity="one">%d active app</item>
     </plurals>
     <plurals name="print_jobs_summary">
-        <item quantity="other">%1$d print jobs</item>
-        <item quantity="one">1 print job</item>
+        <item quantity="other">%1$d afdruktaken</item>
+        <item quantity="one">1 afdruktaak</item>
     </plurals>
     <plurals name="print_settings_summary">
-        <item quantity="other">%1$d print services on</item>
-        <item quantity="one">1 print service on</item>
+        <item quantity="other">%1$d afdruk diensten ingeschakeld</item>
+        <item quantity="one">1 afdruk dienst ingeschakeld</item>
     </plurals>
     <plurals name="seconds">
-        <item quantity="other">%s seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%s seconden</item>
+        <item quantity="one">1 seconde</item>
     </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
-        <item quantity="other">Show %d hidden items</item>
-        <item quantity="one">Show %d hidden item</item>
+        <item quantity="other">%d verborgen items weergeven</item>
+        <item quantity="one">%d verborgen item weergeven</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d apps can use unrestricted data</item>
         <item quantity="one">1 app can use unrestricted data</item>
     </plurals>
     <plurals name="wifi_saved_access_points_summary">
-        <item quantity="other">%d networks</item>
+        <item quantity="other">%d netwerken</item>
         <item quantity="one">1 network</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d automatic rules turned on</item>
-        <item quantity="one">1 automatic rule turned on</item>
+        <item quantity="other">%d automatische regels ingeschakeld</item>
+        <item quantity="one">1 automatische regel ingeschakeld</item>
     </plurals>
 </resources>

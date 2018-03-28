@@ -149,22 +149,6 @@
         <item>Zeer vlug</item>
         <item>Vlugst</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
     <string-array name="color_mode_names">
         <item>Levendig (standaard)</item>
         <item>Naturel</item>
@@ -175,15 +159,6 @@
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
         <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
-    <integer-array name="batterymeter_color_levels">
-        <item>15</item>
-        <item>100</item>
-    </integer-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Use System Selection (Default)</item>
         <item>16 bits/sample</item>
@@ -191,86 +166,86 @@
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard))</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Geoptimaliseerd voor audiokwaliteit</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit</item>
+        <item>Beste poging (Adaptive Bit Rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimized for Audio Quality (990kbps/909kbps)</item>
-        <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
-        <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Geoptimaliseerd voor audiokwaliteit (990kbps/909kbps)</item>
+        <item>Gebalanceerde audio- en verbindingskwaliteit (660kbps/606kbps)</item>
+        <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
+        <item>Beste poging (Adaptive Bit Rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Gebruik systeem selectie (Standaard)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Optionele codecs inschakelen</item>
+        <item>Optionele codecs uitschakelen</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.4 (Standaard)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
+        <item>OpenGL (Standaard)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Uit</item>
+        <item>Alle log buffers</item>
+        <item>Alle uitgezonderd radio log buffers</item>
+        <item>Alleen kernel log buffer</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Uit</item>
+        <item>Alle</item>
+        <item>All uitgezonderd radio</item>
+        <item>Alleen kernel</item>
     </string-array>
 </resources>

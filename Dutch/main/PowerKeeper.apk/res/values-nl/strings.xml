@@ -20,7 +20,7 @@
   <string name="config_scenario_policies_title">Scenario\'s</string>
   <string name="config_suggest_description">Voor apps, gebruik verschillende batterijbesparingsconfiguraties</string>
   <string name="config_suggest_suffix_title">Batterijbespaarder (aanbevolen)</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">Ok</string>
   <string name="current_cloud_addr_is">Het cloudserveradres is:</string>
   <string name="disable_hide_mode">Batterijbesparing uitschakelen</string>
   <string name="disable_hide_mode_warning">Batterijbesparing uitschakelen kan meer stroomverbruik veroorzaken</string>
@@ -65,7 +65,6 @@
   <string name="scenario_policies_summary">Verschillende besparingsmodi instellen voor verschillende scenario\'s.</string>
   <string name="scenario_policies_title">Slimme scenario\'s</string>
   <string name="scenario_policies_warmcontrol">Temperatuurcontrole</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="show_system_app">Systeemapps weergeven</string>
   <string name="sleep_config_enhance_description">Wanneer MIUI detecteert dan u slaapt, zal het apps in de achtergrond sluiten, NFC, Bluetooth, GPS, mobiele data en Wi-Fi gebruik beperken en het scherm zal niet ontwaken bij meldingen.</string>
