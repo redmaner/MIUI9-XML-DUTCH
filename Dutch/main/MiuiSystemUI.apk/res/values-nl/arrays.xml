@@ -144,7 +144,6 @@
         <item>Zeer vlug</item>
         <item>Vlugst</item>
     </string-array>
-    </string-array>
     <string-array name="color_mode_names">
         <item>Levendig (standaard)</item>
         <item>Naturel</item>
