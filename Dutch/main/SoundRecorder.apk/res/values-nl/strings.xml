@@ -17,18 +17,15 @@
   <string name="cloud_status_full_dialog_ok">Upgraden</string>
   <string name="cloud_status_full_dialog_title">Mi Cloud opslag is vol</string>
   <string name="data_connection_body">Door te downloaden met mobiel internet kunnen er kosten in aanrekening worden gebracht</string>
-  <string name="data_connection_button_text">OK</string>
+  <string name="data_connection_button_text">Ok</string>
   <string name="data_connection_title">Tip</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_dialog_message">Wilt u de huidige opname verwijderen?</string>
   <string name="deleting_message">Verwijderen…</string>
   <string name="details">Details</string>
   <string name="dialog_content_storage_full">Opname is gestopt omdat er te weinig opslagruimte is op uw apparaat.</string>
-  <string name="dialog_privacy_revoke_tips">"After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Revoke authorization anyway?To ensure your account's security, sign in to i.mi.com before revoking authorization for Mi Cloud services."</string>
+  <string name="dialog_privacy_revoke_tips">Nadat u de autorisatie intrekt, stopt de app met het verzamelen van gegevens en worden alle gerelateerde gegevens van de servers verwijderd. Hierdoor kan de app praktisch onbruikbaar worden. Toestemming intrekken? Om u te verzekeren van de veiligheid van uw account, logt u in op i.mi.com voordat u de autorisatie voor Mi Cloud services intrekt.</string>
   <string name="dialog_title_storage_full">Opslag vol</string>
-  <string name="duration_format_hour">%sh</string>
-  <string name="duration_format_minute">%sm</string>
-  <string name="duration_format_second">%ss</string>
   <string name="empty_recognition_tip">Leeg</string>
   <string name="error_app_internal">Interne toepassingsfout</string>
   <string name="error_app_internal_title">Geluidsrecorder fout</string>
@@ -46,7 +43,7 @@
   <string name="keywords_search_record">Nieuwe opname;Opname toevoegen;Opname;Opnames;Transcript;Transcribe;Recorder;Spraakrecorder;Geluidrecorder;Recorderapp;Recording app;Hoe neem ik op;Hoe neem ik geluid op;Waar is de recorder;MIUI Recorder</string>
   <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Opnemen;Opname delen;Opnames delen;Opname;Opnames</string>
   <string name="low_battery_error">Minder dan 5% batterij over. Stop en sla uw opname op om er zeker van te zijn dat deze niet verloren gaat.</string>
-  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_confirm">Ok</string>
   <string name="low_battery_error_title">Batterij laag</string>
   <string name="mark_point_list_title">Markeringen</string>
   <string name="menu">Menu</string>
@@ -105,8 +102,6 @@
   <string name="record_list_cloud_fm">Cloud FM opnames</string>
   <string name="record_list_fm">FM opnames</string>
   <string name="record_mark_point">Markering %s</string>
-  <string name="record_name_hour">.</string>
-  <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Opnamekwaliteit</string>
   <string name="recording">Opnemen</string>
   <string name="recording_quality_high">Hoge kwaliteit</string>
@@ -146,8 +141,6 @@
   <string name="text_btn_recording">Opnemen</string>
   <string name="text_btn_wave">Golven</string>
   <string name="text_finish">Bevestigen</string>
-  <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s kan ongeveer %2$s opnemen</string>
   <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd!</string>
   <string name="wifi_recommended_body" formatted="false">Het downloaden van dit bestand (%s) over mobiele data kan leiden tot hogere datakosten. Om te wachten op een Wi-Fi verbinding om dit bestand te downloaden, tik op %s.</string>

@@ -149,22 +149,6 @@
         <item>Zeer snel</item>
         <item>Snelst</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
     <string-array name="color_mode_names">
         <item>Levendig (standaard)</item>
         <item>Naturel</item>
@@ -174,15 +158,6 @@
         <item>Verbeterde kleuren</item>
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
         <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
-    <string-array name="transport_types">
-        <item>UDP</item>
-        <item>TCP</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globaal</item>
@@ -205,12 +180,8 @@
         <item>Hebreeuws</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
+        <item>Alleen Home</item>
+        <item>Automatisch</item>
     </string-array>
     <string-array name="tty_mode_entries">
     </string-array>
