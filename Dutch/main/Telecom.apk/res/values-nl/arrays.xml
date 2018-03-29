@@ -149,22 +149,6 @@
         <item>Zeer snel</item>
         <item>Snelst</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
     <string-array name="color_mode_names">
         <item>Levendig (standaard)</item>
         <item>Naturel</item>
@@ -174,11 +158,6 @@
         <item>Verbeterde kleuren</item>
         <item>Natuurlijke kleuren zoals gezien door het oog</item>
         <item>Kleuren geoptimaliseerd voor digitale inhoud</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
     </string-array>
 	<string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (standaard)</item>
@@ -220,7 +199,7 @@
         <item>96.0 kHz</item>
     </string-array>
 	    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Systeemselectie gebruiken (standaard))</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
@@ -245,13 +224,13 @@
         <item>Geoptimaliseerd voor audiokwaliteit (990kbps/909kbps)</item>
         <item>Gebalanceerde audio- en verbindingskwaliteit (660kbps/606kbps)</item>
         <item>Geoptimaliseerd voor verbindingskwaliteit (330kbps/303kbps)</item>
-        <item>Best Effort (varierende bitrate)</item>
+        <item>Beste poging (varierende bitrate)</item>
     </string-array>
 	<string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Geoptimaliseerd voor audiokwaliteit</item>
         <item>Gebalanceerde audio- en verbindingskwaliteit</item>
         <item>Geoptimaliseerd voor verbindingskwaliteit</item>
-        <item>Best Effort (varierende bitrate)</item>
+        <item>Beste poging (varierende bitrate)</item>
     </string-array>
 	<string-array name="select_logpersist_titles">
         <item>Uit</item>
