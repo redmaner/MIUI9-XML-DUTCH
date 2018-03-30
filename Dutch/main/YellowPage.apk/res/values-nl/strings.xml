@@ -45,7 +45,6 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Uitgaand: "</string>
   <string name="check_network">Netwerkinstellingen</string>
   <string name="choose_upload">Bestand kiezen om te uploaden</string>
-  <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">Verwijderen van gespreksgeschiedenis bevestigen?</string>
   <string name="confirm_delete_call_log_title">Gespreksgeschiedenis verwijderen?</string>
   <string name="confirm_to_add_blacklist">Geselecteerd nummer toevoegen aan zwarte lijst?</string>
@@ -55,7 +54,6 @@
   <string name="contact_detail_calllog_call_record_tips">Gespreksopnames</string>
   <string name="content_desc_send_sms">SMS verzenden</string>
   <string name="coupon_bought_count">%d gekocht</string>
-  <string name="currency_character">RMB</string>
   <string name="custom_mark_category">Aangepast</string>
   <string name="data_error">Er is een fout opgetreden</string>
   <string name="data_error_w">Er is een fout opgetreden</string>
@@ -95,21 +93,16 @@
   <string name="general_recent_title">Recente</string>
   <string name="general_unfollow_hint">%1$s stoppen met volgen?</string>
   <string name="general_yellow_page_title">Algemeen</string>
-  <string name="group_name_banner"/>
-  <string name="group_name_basic"/>
   <string name="group_name_data_source">Bron</string>
-  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Galerij</string>
   <string name="group_name_management">Beheer</string>
   <string name="group_name_more">Andere</string>
   <string name="group_name_service">Diensten</string>
   <string name="group_name_shop_info">Informatie</string>
   <string name="group_name_shop_recommendation">Dichtbij</string>
-  <string name="group_name_title"/>
   <string name="hms_no_subject_view">(geen onderwerp)</string>
   <string name="hms_notification">Berichten</string>
   <string name="homepage_barcode_prompt">Scannen naar open startpagina.</string>
-  <string name="info_divider">|</string>
   <string name="locating_fail">Locatie vinden mislukt</string>
   <string name="login_before_use">Je moet eerst aanmelden</string>
   <string name="login_ok">Aanmelden</string>
@@ -161,7 +154,6 @@
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
   <string name="miuishare_wechat_timeline_title">WeChat Tijdlijn</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Alle kortingsbonnen</string>
   <string name="navigation_search_all_cities">Alle steden</string>
   <string name="navigation_search_automatically_positioned_city">Huidige stad</string>
@@ -222,9 +214,7 @@
   <string name="recharge_history_empty">Leeg</string>
   <string name="recharge_input_phone_title">Voer telefoonnummer in(China Mobile, China Unicom, or China Telecom)</string>
   <string name="recharge_my_phone_number">Mijn nummer</string>
-  <string name="recharge_order_actual_price">¥%s</string>
   <string name="recharge_order_id">"Bestel #: "</string>
-  <string name="recharge_order_original_price">RMB %s</string>
   <string name="recharge_order_pay">Afrekenen</string>
   <string name="recharge_pay">Opwaardeerrekening</string>
   <string name="recharge_pay_hint_license">Opwaardeerbericht</string>
@@ -251,7 +241,6 @@ Totaalbedrag: RMB %3$s"</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">Wees voorzichtig: Controleer altijd de identiteit van de beller via de telefoon of video voordat u uw persoonlijke gegevens deelt.</string>
   <string name="remind_user_suspect_number_title">Kijk uit voor verdachte oproepen</string>
-  <string name="rmb">RMB</string>
   <string name="scan">Scannen</string>
   <string name="select_package_before_buy">Selecteer pakket</string>
   <string name="send_shortcut_already_exists">Startschermsnelkoppeling bestaat al</string>
@@ -260,8 +249,6 @@ Totaalbedrag: RMB %3$s"</string>
   <string name="sending_shortcut">Verzenden…</string>
   <string name="service_unavailiable">Service niet bereikbaar</string>
   <string name="share">Delen</string>
-  <string name="sim1">SIM 1</string>
-  <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Kon niet verzenden</string>
   <string name="sina_share_fail_content_repeat">Je hebt dit al gedeeld.</string>
   <string name="sina_share_pendding">Verzenden…</string>
@@ -269,8 +256,6 @@ Totaalbedrag: RMB %3$s"</string>
   <string name="sina_token_expired_warning">Weibo account is verlopen, voeg het account opnieuw toe</string>
   <string name="sina_token_invalid_warning">Weibo account is ongeldig, voeg het account opnieuw toe</string>
   <string name="smart_antispam">Onbekende nummers identificeren</string>
-  <string name="tag_follow_status">tag_follow_status</string>
-  <string name="tag_follow_yp_id">tag_follow_yp_id</string>
   <string name="toast_finish_delete_call_log">Gespreksgeschiedenis is verwijderd</string>
   <string name="toast_text_copied">Tekst gekopiëerd</string>
   <string name="try_again">Opnieuw proberen</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept">OK</string>
+  <string name="accept">Ok</string>
   <string name="app_name">Xiaomi service framework</string>
   <string name="error_device_id_message">"Ongeldig apparaat ID: %s
 Apparaat ID moet een geldig IMEI of MAC-adres hebben. Zonder apparaat ID, zullen sommige Mi account en Mi Cloud functies niet beschikbaar zijn."</string>
