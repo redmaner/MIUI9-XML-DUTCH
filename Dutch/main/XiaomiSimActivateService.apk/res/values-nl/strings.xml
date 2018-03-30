@@ -7,7 +7,7 @@
   <string name="activate_auto_sms_notification_title">SIM kaart activatie</string>
   <string name="activate_feature_call_log_sync">Oproepgeschiedenis synchroniseren</string>
   <string name="activate_feature_default_name">Mi services</string>
-  <string name="activate_feature_find_device">Vind apparaat</string>
+  <string name="activate_feature_find_device">Apparaat zoeken</string>
   <string name="activate_feature_live_talk">Herlaadpakket</string>
   <string name="activate_feature_mi_roaming">Mi Roaming</string>
   <string name="activate_feature_mms_sync">Berichten synchroniseren</string>
@@ -115,7 +115,7 @@ Voer het telefoonnummer in verband met uw nieuwe SIM kaart om te heractiveren %s
   <string name="phone_verify_processing">Verifiëren…</string>
   <string name="phone_verify_text">%1$s zal uw telefoonnummer niet krijgen. Het zal alleen controleren of het nummer geldig is. Akkoord?.</string>
   <string name="phone_verify_title">%1$s toestaan om uw telefoonnummer te verifiëren</string>
-  <string name="privacy_revoke_failed_msg">Activation requires granting authorization so that Messaging could get your phone number.</string>
-  <string name="privacy_revoke_tips">After you revoke authorization, Messaging will stop collecting your data and delete all your data from its servers. Sync with Mi Cloud, Mi Message, and other Messaging features will no longer be available. Revoke authorization anyway?</string>
+  <string name="privacy_revoke_failed_msg">Activering vereist het verlenen van autorisatie, zodat Messaging uw telefoonnummer kan verkrijgen.</string>
+  <string name="privacy_revoke_tips">Nadat u de autorisatie intrekt, stopt Messaging met het verzamelen van uw gegevens en worden al uw gegevens van de servers verwijderd. Synchronisatie met Mi Cloud, Mi Message en andere Messaging functies zijn niet langer beschikbaar. Toestemming intrekken?</string>
   <string name="sim_unactivated_title">Uw SIM kaart is niet geactiveerd</string>
 </resources>

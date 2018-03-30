@@ -19,8 +19,6 @@
   <string name="account_global_region">Buitenland</string>
   <string name="account_has_been_set">Wijzigen</string>
   <string name="account_limit_update_birthday">Kan verjaardagen momenteel niet updaten</string>
-  <string name="account_mibi_center">Mi Credits</string>
-  <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Geen</string>
   <string name="account_none">Geen</string>
   <string name="account_none_binded_info">Geen</string>
@@ -42,7 +40,7 @@
   <string name="account_user_birthday">Verjaardag</string>
   <string name="account_user_details">Persoonlijke info</string>
   <string name="account_user_education">Opleiding</string>
-  <string name="account_user_email">Email</string>
+  <string name="account_user_email">E-mail</string>
   <string name="account_user_gender">Geslacht</string>
   <string name="account_user_id">Mi account ID</string>
   <string name="account_user_income">Inkomen</string>
@@ -67,7 +65,6 @@
   <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
   <string name="authorize_title">Autorisatie</string>
   <string name="bind_facebook">Facebook account verbinden</string>
-  <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Voeg uw telefoonnummer toe om volgende keer in te loggen op uw Mi account.</string>
   <string name="bind_settings">Accounts</string>
   <string name="bind_sina_weibo">Sina Weibo Account verbinden</string>
@@ -113,7 +110,6 @@
   <string name="error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een ander Mi account.</string>
   <string name="error_invalid_bind_address">Het ingevoerde e-mailadres is ongeldig.</string>
   <string name="exceed_binded_phone_times_notice">Dit telefoonnummer is al gekoppeld aan een ander Mi account.</string>
-  <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al gekoppeld aan een ander Mi account</string>
   <string name="find_device_access_denied">"Kan status niet verkrijgen, toegang geweigerd"</string>
   <string name="find_device_account_error">"Kan status niet verkrijgen door een accountfout"</string>
@@ -159,7 +155,7 @@
   <string name="mi_vip_info">Privileges bekijken</string>
   <string name="mipay">Betalen</string>
   <string name="mipay_balance">Balans</string>
-  <string name="mipay_bank_card">Bankpas</string>
+  <string name="mipay_bank_card">Bankkaart</string>
   <string name="mipay_identitiy_no">Niet geverifieerd</string>
   <string name="mipay_identity">ID verificatie</string>
   <string name="mipay_indentity_done">Geverifieerd</string>
@@ -261,7 +257,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_getting_activator_phone">SIMinformatie verkrijgen…</string>
   <string name="passport_getting_verify_code">Verkrijgen</string>
   <string name="passport_i_know">Begrepen</string>
-  <string name="passport_identification_expired">Verification code expired, start over</string>
+  <string name="passport_identification_expired">Verificatiecode is verlopen, opnieuw beginnen</string>
   <string name="passport_imei_permission_denied_message">We vragen toestemming om de IMEI van je apparaat te krijgen. Mi account gebruikt IMEI om de identiteit van het apparaat waarop u zich aanmeldt/inschrijft te achterhalen, om  uw Mi account veilig te houden.</string>
   <string name="passport_imei_permission_denied_title">IMEI verzoek toestemming</string>
   <string name="passport_input_captcha_hint">Voer code in</string>
@@ -381,7 +377,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="passport_vcode_sms_send_prompt">Verificatiecode naar %s verzenden</string>
   <string name="passport_verification_failed">Authenticatie mislukt</string>
   <string name="passport_verify">Bevestigen</string>
-  <string name="passport_verifying_activator_phone">Verifying phone security…</string>
+  <string name="passport_verifying_activator_phone">Telefoonbeveiliging controleren…</string>
   <string name="passport_wait_for_sms_prompt">Nu opnieuw beginnen? Het kan tot 10 minuten duren om bevestigingsberichten af te leveren wanneer uw telefoon zich binnen het bereik bevindt van het netwerk van uw provider.</string>
   <string name="passport_wrong_captcha">De ingevoerde code is fout</string>
   <string name="passport_wrong_phone_number_format">De opmaak van het telefoonnummer dat u hebt ingevoerd is ongeldig</string>
@@ -394,7 +390,6 @@ die verzonden is naar je Postvak In."</string>
   <string name="push_notification_title">Je bent ingelogd op je Mi account op een onbekend apparaat</string>
   <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om in te loggen op je account. Voer deze verificatiecode in op het apparaat. Als jij het niet was, verander dan meteen het wachtwoord. Geef deze verificatiecode niet aan andere mensen.</string>
   <string name="push_notify_dialog_title">Accountverificatie</string>
-  <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Het lijkt erop dat je telefoonnummer is gerecycled. Tik om te updaten.</string>
   <string name="recycle_phone_notification_title">Mi Account beveiligingsrisico</string>
   <string name="remove_device_success_notice">Als u dit apparaat uit je vertrouwde apparaten verwijdert, moet u opnieuw het verificatieproces doorlopen wanneer u zich aanmeldt.​</string>
@@ -432,14 +427,13 @@ die verzonden is naar je Postvak In."</string>
   <string name="sign_in">Inloggen</string>
   <string name="sim_changed_notification_msg">Tik om je hersteltelefoon bij te werken om je account veilig te houden.</string>
   <string name="sim_changed_notification_title">Telefoonnummer veranderd?</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Verzenden</string>
   <string name="sns_access_token_expired_warning">Account aanmelding is verlopen. Meld opnieuw aan om dit account opnieuw te koppelen.</string>
   <string name="talkback_scan_barcode">Scan de QR code</string>
   <string name="trusted_browsers">Vertrouwde browsers</string>
   <string name="trusted_browsers_prompt">Deze browser zal niet langer vertrouwd zijn als u de cookies verwijderd.</string>
   <string name="turn_off_find_device_failed_title">"Kan apparaat vinden niet uitschakelen"</string>
-  <string name="turning_off_find_device">Turning off Find device…</string>
+  <string name="turning_off_find_device">Zoeken naar apparaat uitschakelen…</string>
   <string name="unbind_sns_description">Na verbreking, kan je niet aanmelden op je Mi account met behulp van  %s</string>
   <string name="unlock_help_notice">"Help:
 1· Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
@@ -459,5 +453,4 @@ die verzonden is naar je Postvak In."</string>
   <string name="verify_phone_title">Telefoonnummer verifiëren</string>
   <string name="vip_account_settings">VIP instellingen</string>
   <string name="vip_settings_info">VIP instellingen</string>
-  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

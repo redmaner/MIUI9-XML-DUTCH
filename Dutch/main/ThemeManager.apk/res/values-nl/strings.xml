@@ -101,7 +101,6 @@
   <string name="incompatible_dialog_ok">Begrepen</string>
   <string name="incompatible_dialog_title">Compatibileitsproblemen</string>
   <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
-  <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_alarm_ring">Alarmen</string>
   <string name="item_resource_audio_optional_color_ring">Ringbacktoon</string>
   <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -188,7 +187,6 @@
   <string name="resource_comment_average_score">Beoordelingen</string>
   <string name="resource_comment_bad_comments">Negatief</string>
   <string name="resource_comment_current_version">Huidige versie</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Reactie toevoegen</string>
   <string name="resource_comment_edit_comment_waiting">Geschiedenis controleren…</string>
   <string name="resource_comment_edit_text_default">Schrijf een reactie</string>
@@ -234,7 +232,6 @@
   <string name="resource_detail_recommend_desiner_other_themes">Andere thema\'s ontworpen door %1$s</string>
   <string name="resource_detail_recommend_other_themes">Gebruikers vonden dit ook leuk</string>
   <string name="resource_detail_update_log_title">Updates</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Downloaden</string>
   <string name="resource_download_notification_title_many">"%1$s thema\'s gedownload"</string>
@@ -308,10 +305,6 @@
   <string name="resource_ranking">Populair</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Betaald</string>
-  <string name="resource_ring_ranking_list_divider">-</string>
-  <string name="resource_ring_ranking_list_rank_1">1</string>
-  <string name="resource_ring_ranking_list_rank_2">2</string>
-  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">Beltonen</string>
   <string name="resource_ringtone_playing_error">Fout</string>
   <string name="resource_ringtone_volume_mute">Beltoonvolume gedempt</string>
@@ -359,7 +352,7 @@
   <string name="resource_trial_end_time">（trial tot %1$s）</string>
   <string name="resource_trial_end_time_format">hh:mma MMM d</string>
   <string name="resource_trial_end_title">Trial verlopen</string>
-  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_cancel">Ok</string>
   <string name="resource_trial_fail_go_settings">Instellingen</string>
   <string name="resource_trial_fail_message">Zorg dat je systeemklok juist staat.</string>
   <string name="resource_trial_fail_title">Kan de trialsessie niet instellen</string>
@@ -368,7 +361,7 @@
   <string name="resource_trial_minutes">(trial: %1$dm)</string>
   <string name="resource_unknow_error">Onbekende fout opgetreden</string>
   <string name="resource_update">Updaten</string>
-  <string name="resource_user_know">OK</string>
+  <string name="resource_user_know">Ok</string>
   <string name="resource_waiting_download">Wachten op download</string>
   <string name="resource_waiting_pause">Pauze</string>
   <string name="ringtone_set_success">Instellen gelukt</string>
@@ -448,7 +441,6 @@
   <string name="theme_user_agreement_content2">Gebruikersovereenkomst</string>
   <string name="theme_user_agreement_content3">" en "</string>
   <string name="theme_user_agreement_content4">Privacybeleid</string>
-  <string name="theme_user_agreement_content5">.</string>
   <string name="theme_user_agreement_exit">Afwijzen</string>
   <string name="theme_user_agreement_remind_again">De gebruiksvoorwaarden meteen weergeven</string>
   <string name="theme_user_agreement_remind_never">Niet meer weergeven</string>
@@ -467,7 +459,7 @@
   <string name="uid_change_dialog_message">U hebt de updates verwijderd. Herstart het apparaat om deze thema\'s te kunnen gebruiken.</string>
   <string name="uid_change_dialog_ok">Begrepen</string>
   <string name="uid_change_dialog_title">Apparaat herstarten</string>
-  <string name="up_to_the_end">"That's all for now. Come back later."</string>
+  <string name="up_to_the_end">Dat is het voor nu. Kom later terug.</string>
   <string name="wallpaper_apply">Toepassen</string>
   <string name="wallpaper_crop">Bijsnijden</string>
   <string name="wallpaper_decoded_error">Kan achtergrond niet instellen</string>
