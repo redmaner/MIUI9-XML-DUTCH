@@ -1,16 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="folder_operations">
-        <item>Hernoemen</item>
-        <item>Verwijderen</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>Camera</item>
         <item>Galerij</item>
-    </string-array>
-	<string-array name="note_sort_way">
-        <item>Sorteren op aangemaakte datum</item>
-        <item>Sorteren op aangepaste datum</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Naam</item>
@@ -25,11 +17,19 @@
         <item>Adres</item>
         <item>Notities</item>
     </string-array>
+	    <string-array name="folder_operations">
+        <item>Hernoemen</item>
+        <item>Verwijderen</item>
+    </string-array>
     <string-array name="font_size_names">
         <item>Klein</item>
         <item>Medium</item>
         <item>Groot</item>
         <item>Enorm</item>
+    </string-array>
+	    <string-array name="note_sort_way">
+        <item>Op opmaak datum</item>
+        <item>Op aangepaste datum</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Welkom bij Notities

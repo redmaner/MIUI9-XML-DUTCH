@@ -32,7 +32,7 @@
   <string name="account_security_info_pref_title">Veiligheidsinfo</string>
   <string name="account_token_expired_msg">"Verificatiecode verlopen, begin opnieuw of log uit
  Uw account ID: %s"</string>
-  <string name="account_token_expired_title">Authenticatie mislukt</string>
+  <string name="account_token_expired_title">Kon niet verifiëren</string>
   <string name="account_user_avatar">Profielfoto</string>
   <string name="account_user_avatar_from_album">Foto kiezen</string>
   <string name="account_user_avatar_from_camera">Foto nemen</string>
@@ -437,7 +437,7 @@ die verzonden is naar je Postvak In."</string>
   <string name="unbind_sns_description">Na verbreking, kan je niet aanmelden op je Mi account met behulp van  %s</string>
   <string name="unlock_help_notice">"Help:
 1· Als u uw wachtwoord vergeten bent, ga naar id.mi.com om het te resetten.
-2· Als u uw apparaat niet kan ontgrendelen, ga naar i.mi.com om apparaat vinden uit te schakelen.
+2· Als u uw wachtwoord niet opnieuw kunt instellen of iemand uw apparaat heeft vergrendeld, gaat u naar i.mi.com om het te ontgrendelen.
 3· Uw ontgrendelingsnummer: %s"</string>
   <string name="update_contacts">Contacten bijwerken</string>
   <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>

@@ -77,7 +77,7 @@
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan niet tussen ruimtes wisselen tijdens een oproep</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan niet schakelen tussen ruimten als green guard actief is</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan niet schakelen tussen ruimten als ouderlijk toezicht ingeschakeld is</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">U moet de eerste ruimte betreden nadat het apparaat opnieuw is opgestart</string>
   <string name="input_password_handle_sdcard_fs">Kan tweede ruimte niet betreden vanaf vergrendelscherm. Betreed vanuit eerste ruimte.</string>
   <string name="input_password_hint_text">Voer wachtwoord in</string>
