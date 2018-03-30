@@ -77,6 +77,13 @@ kan op elk moment bekeken worden"</string>
   <string name="dont_import">Niet nu</string>
   <string name="downloading_space">Downloaden…</string>
   <string name="enable">Inschakelen</string>
+  <string name="encrypt_space_delete_dialog_click_message">"*Als u geen gegevens hoeft te verplaatsen, %s"</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">verwijder en maak tweede ruimte aan.</string>
+  <string name="encrypt_space_delete_dialog_message">U staat op het punt Android te updaten. Na de update worden gegevens in de tweede ruimte incompatibel. Om dit te voorkomen, verplaatst u alle gegevens naar de eerste ruimte, verwijdert u tweede ruimte en maakt deze opnieuw aan.</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Data verplaatsen</string>
+  <string name="encrypt_space_delete_dialog_title">Attentie</string>
+  <string name="encrypt_space_delete_notification_message">Verwijder uw tweede ruimteen maak een nieuwe om uw apparaat met bij te werken.</string>
+  <string name="encrypt_space_delete_notification_title">Tw ruimte</string>
   <string name="enter_air_space">Ga naar werkruimte</string>
   <string name="err_copy_contacts">Kon contacten niet kopiëren</string>
   <string name="err_copy_files">Kon bestanden niet kopiëren</string>

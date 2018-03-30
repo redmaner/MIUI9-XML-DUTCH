@@ -223,7 +223,8 @@ Sample Rate"</string>
   <string name="choose_profile">Profiel kiezen</string>
   <string name="clear_adb_keys">USB foutopsporing authorisaties intrekken</string>
   <string name="click_expand">Tik om uit te breiden</string>
-  <string name="click_to_return_multi_window">Tik om terug te keren naar splitscreen</string>
+  <string name="click_to_return_multi_window">Tik om terug te keren naar gesplitst scherm</string>
+  <string name="click_to_return_multi_window_of_notch">keer terug naar het gesplitst scherm</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeveiligingsfuncties werken niet op dit apparaat wanneer deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendeling toestaan?</string>
   <string name="connected_via_network_scorer">Automatisch verbonden via %1$s</string>

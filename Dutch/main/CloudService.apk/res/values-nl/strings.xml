@@ -340,10 +340,7 @@ of apparaat te wissen."</string>
   <string name="micloud_manage_space_data">Mi Cloud gegevens beheren</string>
   <string name="micloud_member">Mi Cloud lidmaatschap</string>
   <string name="micloud_member_advantage">Verkrijg meer opslagruimte.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Geldig tot %s-%s-%s
-
-%s Mi Credits"</string>
-  <string name="micloud_member_buy_title">Bevestig bestelling</string>
+op uw computer om uw gegevens te beheren  <string name="micloud_member_buy_title">Bevestig bestelling</string>
   <string name="micloud_member_net_error_alert_message">Je hebt geen internetverbinding"</string>
   <string name="micloud_member_net_error_alert_title">Kan niet verbinden met netwerk</string>
   <string name="micloud_member_pay_fail_toast">Kon de betaling niet voltooien</string>
@@ -561,8 +558,8 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="upgrade_space_successful">Toegevoegd %sGB</string>
   <string name="upgrade_space_successful_total">%sGB beschikbaar</string>
   <string name="user_agreement">Gebruikersovereenkomst</string>
-  <string name="user_agreement_p6">"Door gebruik te maken van deze service gaat u akkoord met "</string>
-  <string name="user_agreement_p7">"Mi Cloud's Servicevoorwaarden"</string>
+  <string name="user_agreement_content">"Door deze service te gebruiken, gaat u akkaard met %s."</string>
+  <string name="user_agreement_link">Mi Cloud\'s Servicevoorwaarden</string>
   <string name="user_agreement_title">"Mi Cloud's Servicevoorwaarden"</string>
   <string name="vcode">Code bevestigen</string>
   <string name="verify">Bevestigen</string>

@@ -81,12 +81,12 @@
         <item quantity="many"> %1$d items</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d min geleden</item>
-        <item quantity="zero">%1$d min geleden</item>
-        <item quantity="one">%1$d min geleden</item>
-        <item quantity="two">%1$d min geleden</item>
-        <item quantity="few">%1$d min geleden</item>
-        <item quantity="many">%1$d min geleden</item>
+        <item quantity="other">%1$d minuten geleden</item>
+        <item quantity="zero">%1$d minuten geleden</item>
+        <item quantity="one">%1$d minuut geleden</item>
+        <item quantity="two">%1$d minuten geleden</item>
+        <item quantity="few">%1$d minuten geleden</item>
+        <item quantity="many">%1$d minuten geleden</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d uur geleden</item>
@@ -113,12 +113,12 @@
         <item quantity="many">%1$d seconden</item>
     </plurals>
     <plurals name="mins">
-        <item quantity="other">%1$d min</item>
-        <item quantity="zero">%1$d min</item>
-        <item quantity="one">%1$d min</item>
-        <item quantity="two">%1$d min</item>
-        <item quantity="few">%1$d min</item>
-        <item quantity="many">%1$d min</item>
+        <item quantity="other">%1$d minuten</item>
+        <item quantity="zero">%1$d minuten</item>
+        <item quantity="one">%1$d minuut</item>
+        <item quantity="two">%1$d minuten</item>
+        <item quantity="few">%1$d minuten</item>
+        <item quantity="many">%1$d minuten</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d uur</item>

@@ -4,7 +4,7 @@
   <string name="abort_restore_confirm">Herstel is nog niet afgerond. Toch stoppen?</string>
   <string name="account_contact_backup_info">Gegevens (back-up Xiaomi en Gmail-info)</string>
   <string name="account_login">Inloggen</string>
-  <string name="account_summary">Back-up Xiaomi accounts, Google accounts en andere gebruikersgegevens</string>
+  <string name="account_summary">Back-up Google Account, Mi Account en andere gebruikersgegevens</string>
   <string name="alert_button_agree_and_continue">Toestaan</string>
   <string name="alert_button_deny">Weigeren</string>
   <string name="alert_message_backup_to_miasist">Mi PC Suite vraagt toestemming om een back-up te maken op een computer. Toestaan?</string>

@@ -26,6 +26,7 @@
   <string name="disable_hide_mode_warning">Batterijbesparing uitschakelen kan meer stroomverbruik veroorzaken</string>
   <string name="empty_title_apps_container_list">Geen apps</string>
   <string name="enable_hide_mode">Batterijbesparing inschakelen</string>
+  <string name="enable_sleep_mode">Slaapstand inschakelen om de nachtstand te optimaliseren</string>
   <string name="error_filename_too_long">De bestandsnaam die je invoerde is te lang.</string>
   <string name="extreme_power_config_mode_category">Extreme modus</string>
   <string name="extreme_power_config_mode_desc">Wissel naar extreme modus om synchronisatie, bluetooth, GPS, NFC, dubbeltikken, knopverlichting, ontwaken van scherm bij meldingen en LED laten knipperen uit te schakelen. MIUI zal focussen op batterijbesparing.</string>
@@ -58,6 +59,7 @@
   <string name="power_config_apps">Batterijbespaarder</string>
   <string name="power_config_event_delete">Verwijderen</string>
   <string name="power_config_select_apps_title">Apps</string>
+   <string name="power_consume_abnormal_night">In de nacht is er abnormaal stroom verbruik </string>
   <string name="power_hide_mode_app_list_summary">Bespaart batterij op de achtergrond</string>
   <string name="power_hide_mode_title">Batterij &amp; prestaties</string>
   <string name="power_mode">Batterij-instellingen</string>
@@ -70,6 +72,11 @@
   <string name="sleep_config_enhance_description">Wanneer MIUI detecteert dan u slaapt, zal het apps in de achtergrond sluiten, NFC, Bluetooth, GPS, mobiele data en Wi-Fi gebruik beperken en het scherm zal niet ontwaken bij meldingen.</string>
   <string name="sleep_config_enhance_description_non_nfc">Wanneer MIUI detecteert dan u slaapt, zal het apps in de achtergrond sluiten, Bluetooth, GPS, mobiele data en Wi-Fi gebruik beperken en het scherm zal niet ontwaken bij meldingen.</string>
   <string name="sleep_config_enhance_title">Slaapmodus</string>
+   <string name="sleepmode_disclaimer_agree">Akkoord</string>
+  <string name="sleepmode_disclaimer_cancel">Annuleren</string>
+  <string name="sleepmode_privacy_content">Deze functie gebruikt uw telefoonsysteem en apparaatinformatiegegevens, die niet naar de server worden geüpload</string>
+  <string name="sleepmode_privacy_link">Gedetailleerde beveiliging en privacy</string>
+  <string name="sleepmode_privacy_title">Slaapmodus</string>
   <string name="sucess">Gereed</string>
   <string name="update_profile_failture_not_connect_wifi">Kon niet updaten. Verbind met Wi-Fi en probeer opnieuw.</string>
   <string name="update_profile_sucess">Update vanaf server gelukt</string>

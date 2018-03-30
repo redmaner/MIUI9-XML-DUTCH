@@ -14,6 +14,7 @@ Neem contact op met uw verkoopagent voor meer informatie."</string>
   <string name="disable_find_device_error">"Kan apparaat niet uitschakelen. %1$s"</string>
   <string name="disable_find_device_success">Apparaat vinden is uitgeschakeld</string>
   <string name="doing_extra_login_steps">Aanmelden verifiëren…</string>
+  <string name="emergency_call">Noodoproep</string>
   <string name="enable_find_device_error">"Kan apparaat vinden niet inschakelen. %1$s"</string>
   <string name="enable_find_device_success">Apparaat vinden is ingeschakeld</string>
   <string name="find_device">Apparaat vinden</string>
@@ -49,6 +50,7 @@ Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze fu
   <string name="phone_locked">Dit apparaat is misschien gekoppeld aan een bestaand Mi Account (%s). Aanmelden om dit apparaat te activeren.</string>
   <string name="phone_locked_account_email">, gekoppeld e-mailadres: %s</string>
   <string name="phone_locked_account_phone">, gekoppeld telefoonnummer: %s</string>
+  <string name="return_to_call">Teruggaan naar gesprek</string>
   <string name="stop_on_empty_captcha">Captcha mag niet leeg zijn</string>
   <string name="stop_on_empty_password">"Wachtwoord mag niet leeg zijn</string>
   <string name="sys_notification_async_open_failed_content">Tik om opnieuw te proberen of te annuleren.</string>
