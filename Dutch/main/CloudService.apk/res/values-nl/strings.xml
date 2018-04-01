@@ -340,6 +340,7 @@ of apparaat te wissen."</string>
   <string name="micloud_manage_space_data">Mi Cloud gegevens beheren</string>
   <string name="micloud_member">Mi Cloud lidmaatschap</string>
   <string name="micloud_member_advantage">Verkrijg meer opslagruimte.</string>
+  <string name="micloud_member_buy_title">Bestelling bevestigen</string>
   <string name="micloud_member_net_error_alert_message">Je hebt geen internetverbinding"</string>
   <string name="micloud_member_net_error_alert_title">Kan niet verbinden met netwerk</string>
   <string name="micloud_member_pay_fail_toast">Kon de betaling niet voltooien</string>
