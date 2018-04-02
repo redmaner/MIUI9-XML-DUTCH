@@ -4,7 +4,6 @@
   <string name="antispam_marked_count">Gemeld door %1$d MIUI gebruikers</string>
   <string name="antispam_notification_title">Onbekend nummer</string>
   <string name="antispam_provider">Geïdentificeerd door %s</string>
-  <string name="areacode_set_default">Instellen als standaard</string>
   <string name="callFailed_cb_enabled">Je kunt geen uitgaande gesprekken voeren, terwijl het blokkeren van gesprekken is ingeschakeld.</string>
   <string name="callFailed_congestion">Netwerk bezet</string>
   <string name="callFailed_dialToDial">KIES verzoek aangepast om met ander nummer te bellen.</string>
@@ -50,7 +49,6 @@
   <string name="call_recording_notification_title_error">Kon gesprek niet opnemen</string>
   <string name="call_title_redialing_with_times">%d keer opnieuw gebeld</string>
   <string name="caller_manage_header">Groepsgesprek %s</string>
-  <string name="can_not_call_oneself">Kan dit nummer niet bellen</string>
   <string name="can_not_use">Kan niet gebruiken</string>
   <string name="cancel">Annuleren</string>
   <string name="card_title_answering">Oproep beantwoorden</string>
@@ -85,7 +83,9 @@
   <string name="conference_caller_info_name">"%1$s's groepsgesprek"</string>
   <string name="conference_callers_exceeded">Maximaal aantal deelnemers bereikt</string>
   <string name="contacts_icon_label">Contacten</string>
-  <string name="default_area_code_setting">Standaard netnummer</string>
+  <string name="crbt_second_hold_prompt">%s in wacht…</string>
+  <string name="crbt_second_hold_prompt_conference">Groepgesprek in wacht…</string>
+  <string name="crbt_second_hold_prompt_no_name">Vorige oproep in wacht…</string>
   <string name="description_image_button_answer">Omhoog schuiven om te antwoorden</string>
   <string name="description_image_button_dialpad">Toetsenblok</string>
   <string name="description_image_button_eight">Acht</string>
@@ -107,9 +107,6 @@
   <string name="description_image_button_video_answer">Video oproep</string>
   <string name="description_image_button_zero">nul</string>
   <string name="description_target_answer">Antwoorden</string>
-  <string name="dialog_activate_livetalk">Nummer verifiëren</string>
-  <string name="dialog_call_ordinary_telephone">Normale oproep</string>
-  <string name="do_not_ask">Niet meer tonen</string>
   <string name="do_not_support_video_calls_by_remote">Video-oproepen worden niet ondersteund op het andere apparaat</string>
   <string name="emergency_call_dialog_number_for_display">Noodnummer</string>
   <string name="inCallLabel">InCallUI</string>
@@ -130,20 +127,7 @@
   <string name="incoming_circle_text_message_p">Omhoog schuiven</string>
   <string name="incoming_circle_text_reject">Loslaten</string>
   <string name="incoming_circle_text_reject_p">Omhoog schuiven</string>
-  <string name="keep_wait_call_back">Wachten</string>
-  <string name="livetalk_dial">Herlaadpakket gebruiken</string>
-  <string name="livetalk_hangup">Ophangen</string>
   <string name="manageConferenceLabel">Beheer groepsgesprekken</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
-  <string name="network_error_message">Huidig netwerk is onstabiel. Overschakelen naar normale oproep kan door de provider in rekening worden gebracht.</string>
-  <string name="network_error_title">Onstabiel netwerk</string>
-  <string name="no_call_back_message">Het duurt te lang om te verbinden. Overschakelen naar normale oproep die door de provider in rekening worden gebracht.</string>
-  <string name="no_call_back_title">Waarschuwing</string>
-  <string name="not_activate_sim_card_content">Verifieer uw telefoonnummer om met het herlaad pakket te beginnen. U kunt nog steeds een normale oproep maken die door de provider in rekening worden gebracht.</string>
-  <string name="not_activate_sim_card_content_title">Telefoonnummer is niet geverifieerd</string>
-  <string name="not_activate_sim_card_content_with_operator">Verifieer SIM %1$s (%2$s) om te bellen met behulp van het herlaad pakket. U kunt nog steeds een normale oproep maken die door  de provider in rekening worden gebracht.</string>
-  <string name="not_support_message">Kan dit nummer niet bellen. Overschakelen naar een normale oproep wordt door de provider in rekening worden gebracht.</string>
-  <string name="not_support_title">Dit nummer wordt niet ondersteund</string>
   <string name="notification_action_accept">Aanvaarden</string>
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Stem</string>
@@ -182,6 +166,7 @@
   <string name="payphone">Betaaltelefoon</string>
   <string name="picking_participant">Contactinfo verkrijgen…</string>
   <string name="private_num">Privénummer</string>
+  <string name="prompt_no_volte_when_failed">VoLTE services zijn niet beschikbaar.</string>
   <string name="remind_unlock_message">Uw apparaat is nu vergrendeld. \"%s\" zal beschikbaar zijn nadat u het apparaat ontgrendelt. Nu ontgrendelen?</string>
   <string name="respond_via_sms_custom_message">Aangepaste SMS</string>
   <string name="select_audio_dialog_title">Selecteer beantwoordmethode</string>

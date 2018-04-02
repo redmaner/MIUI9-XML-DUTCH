@@ -70,6 +70,7 @@
   <string name="change_alert">Controleer uw netwerkverbinding en probeer opnieuw</string>
   <string name="china_version_first_start_network_msg">Door dit product te gebruiken ga je akkoord met Xiaomi\'s %1$s en %2$s. Deze app heeft verbinding met internet en toegang tot uw locatie nodig om normaal te werken.</string>
   <string name="city_exceeded_warning">U kan tot 10 steden toevoegen</string>
+  <string name="clear_net_mock_success">Net nep duidelijk succes</string>
   <string name="commercial">Reclame</string>
   <string name="common_loading_text">Een momentje…</string>
   <string name="connect_fail">Kon niet verbinden met netwerk. Probeer later opnieuw.</string>
@@ -190,6 +191,7 @@ Tik op het scherm om handmatig een stad toe te voegen"</string>
   <string name="realtime_aqi_title">Luchtkwaliteitindex</string>
   <string name="realtime_humidity_title">Relatieve vochtigheid</string>
   <string name="realtime_wind_default_title">Wind</string>
+  <string name="receive_net_mock_success">Net nep ontvangt succes</string>
   <string name="refresh_fail">Kon niet verbinden met netwerk</string>
   <string name="reminder_from_xiaomi_weather_app">Mi weeralarm</string>
   <string name="retry">Opieuw proberen</string>

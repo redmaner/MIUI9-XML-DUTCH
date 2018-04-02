@@ -952,7 +952,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="search_contacts_display">Contacten;Weergave</string>
   <string name="search_contacts_more">Organiseren;Contacten</string>
   <string name="search_contacts_recovery">Contacten</string>
-  <string name="search_contacts_setting">Contacteninstellingen;foto\'s en info weergeven;Contactfoto\'s toewijzen;Importeren en exporteren;Delen; Importeren van SD kaart;Importeren van SIM kaart;Importeren van andere telefoon;Exporteren van SD kaart;Exporteren van SIM kaart;Zichtbare contacten delen; Contacten weergeven;Incomplete nummers verbergen;SIM contacten weergeven;Contactlijsten configureren;Slimme groepen;Contacten organiseren; Dubbele contacten samenvoegen;Batch verwijderen;Data wissen;Indexdata herbouwen;t9;SIM kaarten;SIM kaart opslag;Contactenherstel introductie</string>
+  <string name="search_contacts_setting">Contactinstellingen; Foto\'s en info weergeven; Contactfoto\'s toewijzen; Importeren en exporteren; Delen; Importeren uit opslag; Importeren van SIM kaart; Importeren van andere telefoon; Exporteren naar opslag; Exporteren naar SIM kaart; Contacten delen; Voorkeuren weergeven; onvolledige nummers verbergen; SIM contacten weergeven; Contactlijsten configureren; Slimme groepen; Contacten organiseren; Dubbele contactpersonen samenvoegen; batch verwijderen; gegevens wissen; indexgegevens opnieuw opbouwen; t9; simkaarten; opslag van simkaarten; implementatie van contactherstel; neem contact op met foto\'s</string>
   <string name="search_display_only_phones">Contacten;Weergave</string>
   <string name="search_display_sim_contacts">Contacten;Weergave</string>
   <string name="search_export_to_sdcard">Contacten;Exporteren;SD kaart</string>
@@ -975,7 +975,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="search_simple_mode">Weergave;info;foto\'s;Contacten</string>
   <string name="search_smart_group_title">Contacten;Weergave</string>
   <string name="search_wipe_data">Organiseren;Contacten</string>
-  <string name="searching_vcard_message">Zoeken naar vCardgegevens op SD kaart…</string>
+  <string name="searching_vcard_message">Zoeken naar vCardgegevens op apparaat…</string>
   <string name="select_all">Selecteer alles</string>
   <string name="select_all_exceed">Teveel items geselecteerd. Selecteer er maximaal %1$d.</string>
   <string name="select_exceed">Je kan maximaal %1$d items selecteren.</string>

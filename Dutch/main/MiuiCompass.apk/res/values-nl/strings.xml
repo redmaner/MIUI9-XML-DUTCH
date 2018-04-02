@@ -47,6 +47,7 @@
   <string name="pressure_title">Druk</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Schud om te kalibreren</string>
+  <string name="unit_degree">Graden</string>
   <string name="using_camera_confirm_cancel">Afsluiten</string>
   <string name="using_camera_confirm_ok">Akkoord</string>
 </resources>
