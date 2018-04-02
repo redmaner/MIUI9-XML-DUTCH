@@ -308,7 +308,7 @@ Maak tenminste %s vrij."</string>
   <string name="select_empty">Selecteer items om te importeren</string>
   <string name="select_item_calendar">Kalender</string>
   <string name="select_item_contacts">Contacten</string>
-  <string name="select_item_empty_summary">Geen inhoud</string>
+  <string name="select_item_empty_summary">Geen items</string>
   <string name="select_item_notes">Notities</string>
   <string name="select_item_photos">Foto\'s</string>
   <string name="select_item_summary_loading">Gegevens laden…</string>

@@ -1636,7 +1636,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="enabled_authorised_apps_summary">Je autorisatie wordt ingetrokken nadat je schakelaars omzet voor individuele apps.</string>
   <string name="enabled_authorised_apps_title">Toestemming gegeven</string>
   <string name="enabled_by_admin">Ingeschakeld door beheerder</string>
-  <string name="enalbe_identify_iPhone">AP identificatie</string>
+  <string name="enalbe_identify_iPhone">Apparaat identificatie</string>
   <string name="encrypt_dont_require_password">Nee bedankt</string>
   <string name="encrypt_dont_require_pattern">Nee bedankt</string>
   <string name="encrypt_dont_require_pin">Nee bedankt</string>
@@ -2445,6 +2445,7 @@ U kunt een nieuwe schermvergrendeling instellen voor zowel uw apparaat als uw we
   <string name="lockscreen_glogin_password_hint">Wachtwoord</string>
   <string name="lockscreen_glogin_submit_button">Inloggen</string>
   <string name="lockscreen_magazine">Achtergrondcarrousel</string>
+  <string name="lockscreen_magazine_summary">Hoge kwaliteit achtergrondcarrousel</string>
   <string name="lockscreen_magazine_title">Achtergrondcarrousel</string>
   <string name="lockscreen_remote_input">Als het apparaat vergrendeld is , voorkomen dat u antwoorden of andere tekst in meldingen typt</string>
   <string name="lockscreen_settings_title">Lock screen preferences</string>
@@ -3105,6 +3106,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="phone_language">Taal</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">Fysiek toetsenbord</string>
+  <string name="pick_up_gesture_wakeup_title">Opneem gebaar om te ontwaken</string>
   <string name="pick_up_gesture_wakeup_title">Apparaat optillen om te ontwaken</string>
   <string name="picture_color_mode">Beeldkleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
@@ -3600,6 +3602,7 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
   <string name="screen_paper_mode_apps_title">Leesmodus gebruiken</string>
   <string name="screen_paper_mode_global_summary">Leesmodus gebruiken voor alle apps</string>
   <string name="screen_paper_mode_global_title">Alle apps</string>
+   <string name="screen_paper_mode_hdr_toast">De leesmodus wordt uitgeschakeld terwijl u HDR video\'s afspeelt. Het wordt automatisch weer ingeschakeld nadat het afspelen is voltooid.</string>
   <string name="screen_paper_mode_local_summary">Leesmodus gebruiken voor geselecteerde apps</string>
   <string name="screen_paper_mode_local_title">Geselecteerde apps</string>
   <string name="screen_paper_mode_off_apps_title">Leesmodus niet gebruiken</string>

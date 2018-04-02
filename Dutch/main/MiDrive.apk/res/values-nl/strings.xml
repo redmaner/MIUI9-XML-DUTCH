@@ -98,7 +98,7 @@
   <string name="operation_task_manage">Overdrachten bekijken</string>
   <string name="operation_upload">Uploaden</string>
   <string name="paused">Gepauzeerd</string>
-  <string name="pick_from_fileexplor_failed">Eerst explorer updaten.</string>
+  <string name="pick_from_fileexplor_failed">Eerst File Manager updaten.</string>
   <string name="quota_info">Mi Drive: %1$s beschikbaar, %2$s totaal</string>
   <string name="rename_alert">Als u de extentie van het bestand wijzigt, is het mogelijk dat u deze niet meer kan openen.</string>
   <string name="rename_failed">Een bestand met dezelfde naam bestaat reeds.</string>

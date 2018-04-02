@@ -861,7 +861,6 @@ Sample Rate"</string>
   <string name="list_language_dtitle">Talen</string>
   <string name="list_language_summary">De taal voor het nieuws selecteren</string>
   <string name="list_language_title">Taal</string>
-  <string name="livetalk_setting">Herlaadpakket</string>
   <string name="load_networks_progress">Zoeken…</string>
   <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-up van de desktop</string>
   <string name="local_backup_password_summary_none">Desktop back-ups zijn momenteel niet beveiligd</string>
@@ -923,6 +922,7 @@ Sample Rate"</string>
   <string name="modem_dialog_body">Mobiel netwerk is onstabiel wat kan zorgen voor onderbrekingen en netwerkproblemen. Feedback verzenden aan Xiaomi voor analyse? Dit rapport kan persoonlijk identificeerbare informatie bevatten. Uw rapport wordt alleen gebruikt om deze bug op te lossen en wordt nooit gedeeld in een commerciele context.</string>
   <string name="modem_dialog_title">Mobiele netwerk is onstabiel</string>
   <string name="msim_apn_not_set">Niet ingesteld</string>
+  <string name="msim_cmcc_dds_switch_not_support">Kan niet wisselen tussen SIM kaarten vanwege beperkingen van de provider.</string>
   <string name="msim_default_setting">Standaard instellingen</string>
   <string name="msim_disable_sim_card_btn_text">Ok</string>
   <string name="msim_disable_sim_card_summary_default_card">Deze kaart is momenteel ingesteld als standaard SIM. Als u stopt met deze te gebruiken, zal het niet meer mogelijk zijn om oproepen te maken en uw mobilele verbinding te gebruiken. U kan deze SIM kaart stoppen nadat u een andere SIM als standaard kaart hebt ingesteld.</string>

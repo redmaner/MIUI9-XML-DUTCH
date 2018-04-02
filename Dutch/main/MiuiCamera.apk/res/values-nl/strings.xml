@@ -192,9 +192,12 @@ en maak vervolgens een foto waarop iedereen er het beste uitziet."</string>
   <string name="portait_effect_entry_japanese">Blauwe lucht</string>
   <string name="portait_effect_entry_maze">Doolhof</string>
   <string name="portait_effect_entry_mood">Emoties</string>
+  <string name="portait_effect_entry_movie">Film</string>
   <string name="portait_effect_entry_nature">Natuur</string>
   <string name="portait_effect_entry_pink">Blozen</string>
+  <string name="portait_effect_entry_riddle">Raadsel</string>
   <string name="portait_effect_entry_romance">Romantisch</string>
+  <string name="portait_effect_entry_story">Verhaal</string>
   <string name="portrait_mode_depth_effect_success_hint">Diepte effect</string>
   <string name="portrait_mode_lowlight_hint">Het is te donker</string>
   <string name="portrait_mode_too_close_hint">Verplaats je verder van het object</string>
