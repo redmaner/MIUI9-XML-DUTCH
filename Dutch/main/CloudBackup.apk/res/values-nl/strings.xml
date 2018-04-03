@@ -88,7 +88,6 @@
   <string name="desktop_installing">Installeren</string>
   <string name="desktop_wait_wifi">Wachten</string>
   <string name="desktop_waiting">Wachten</string>
-  <string name="device_corrupt">Mi telefoon (gegevens zijn corrupt)</string>
   <string name="device_delete_prompt">Back-up verwijderen van %s?</string>
   <string name="device_xiaomi">Mi Telefoon</string>
   <string name="dialog_btn_next">Volgende</string>
@@ -108,6 +107,8 @@
   <string name="download_settings">Downloaden van startscherminstellingen: %s%%</string>
   <string name="download_settings_fail">Kon startscherm instellingen niet downloaden</string>
   <string name="error_unknown">Er liep iets fout</string>
+  <string name="get_device_id_error">Verkrijgen apparaat ID mislukt</string>
+  <string name="home_restore_error">Herstel startscherm mislukt</string>
   <string name="lack_of_storage">Niet genoeg opslagruimte</string>
   <string name="latest_backup_time_loading">Laden…</string>
   <string name="managespace_delete_backup">Verwijderen</string>
@@ -151,6 +152,7 @@
   <string name="restore_unfinished">Herstellen, probeer later opnieuw</string>
   <string name="retry">Probeer opnieuw</string>
   <string name="self_phone">Deze telefoon</string>
+  <string name="self_phone_home">Deze telefoon: %s</string>
   <string name="settings_backup">Systeeminstellingen</string>
   <string name="size_unknown">Grootte onbekend</string>
   <string name="start_backup_to_micloud">Back-up apps naar Mi Cloud</string>

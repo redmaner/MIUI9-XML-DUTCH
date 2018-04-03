@@ -281,7 +281,7 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="deleteConfirmation_title">Dit contact verwijderen?</string>
   <string name="delete_call_log_message">Oproepgeschiedenis wissen?</string>
   <string name="delete_call_log_selected_title">Geselecteerde oproepgeschiedenis wissen?</string>
-  <string name="delete_call_log_title">Oproepgeschiedenis kiezen</string>
+  <string name="delete_call_log_title">Oproepgeschiedenis wissen</string>
   <string name="delete_contact_calllog_title">Oproepgeschiedenis wissen?</string>
   <string name="delete_dial_input">Verwijderen</string>
   <string name="delete_duplicate">Samenvoegen</string>
@@ -830,6 +830,9 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="pref_key_photo_word_title">Foto\'s toewijzen aan contacten</string>
   <string name="pref_key_rebuild_t9_index_message">Index herbouwen om zoekresultaten te optimaliseren</string>
   <string name="pref_key_rebuild_t9_index_title">Indexdata herbouwen</string>
+  <string name="pref_key_sdn_manage">Bekijk SDN</string>
+  <string name="pref_key_sdn_manage1">Bekijk SDN kaart 1</string>
+  <string name="pref_key_sdn_manage2">Bekijk SDN kaart 2</string>
   <string name="pref_key_sim_manage">SIM kaarten</string>
   <string name="pref_key_sim_manage1">Instellen SIM kaart 1</string>
   <string name="pref_key_sim_manage2">Instellen SIM kaart 2</string>
@@ -1068,6 +1071,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="social_widget_label">Contacten</string>
   <string name="social_widget_loading">Laden…</string>
   <string name="solar_calendar">Kalender</string>
+  <string name="special_code_security_exception">Bewerking geweigerd: geen standaardkiezer</string>
   <string name="splitConfirmation">Dit contact wordt gesplitst in meerdere contacten.</string>
   <string name="splitConfirmation_title">Contact opsplitsen?</string>
   <string name="starredList">Favoriet</string>

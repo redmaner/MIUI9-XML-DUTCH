@@ -156,7 +156,7 @@
   <string name="comment_app_menu">Opmerking</string>
   <string name="comment_description">Opmerking</string>
   <string name="comment_hint">Opmerking</string>
-  <string name="comment_max_length">Sorry, De input box is vol.</string>
+  <string name="comment_max_length">Je reactie is te lang.</string>
   <string name="comment_menu">Opmerking</string>
   <string name="comment_num_description">Opmerkingsnummer</string>
   <string name="common_use_phrase_bottom_bar_text_next">Volgende</string>
@@ -289,6 +289,7 @@
   <string name="error_unauthorized">Synchroniseren is uitgeschakeld als gevolg van te veel aanmeldingspogingen.</string>
   <string name="exit">Afsluiten</string>
   <string name="exit_browser_warning">Browser nu afsluiten?</string>
+  <string name="favorite">Toevoegen aan favorieten</string>
   <string name="file_dir">Locatie wijzigen</string>
   <string name="file_name">"Naam: "</string>
   <string name="file_picker">Map kiezen</string>
@@ -364,7 +365,7 @@
   <string name="media_error_video_not_exist">Video bestaat niet</string>
   <string name="menu_preferences">Instellingen</string>
   <string name="menu_title_clear_all">Alles wissen</string>
-  <string name="menu_title_open_file_management">File Explorer openen</string>
+  <string name="menu_title_open_file_management">File Manager openen</string>
   <string name="menu_title_pause_all">Alles pauzeren</string>
   <string name="menu_title_resume_all">Alles starten</string>
   <string name="miui_autologin_bar_error">Kan niet aanmelden</string>
@@ -1060,14 +1061,14 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggest_item_delete_text">Verwijderen</string>
   <string name="suggest_open_app_failed">Kon deze app niet openen</string>
   <string name="suggestion_express_button_query_more">MEER WEERGEVEN</string>
-  <string name="suggestion_express_button_text_query">QUERY</string>
-  <string name="suggestion_express_exception_net">Het netwerk is abnormaal. Controleer de netwerkverbinding</string>
-  <string name="suggestion_express_exception_number">Het nummer is onjuist, controleer het betreffende nummer</string>
-  <string name="suggestion_express_exception_server">Abnormale server, bekijk het later</string>
+  <string name="suggestion_express_button_text_query">CONTROLEREN</string>
+  <string name="suggestion_express_exception_net">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer opnieuw.</string>
+  <string name="suggestion_express_exception_number">Het nummer is onjuist, Controleer uw nummer en probeer opnieuw.</string>
+  <string name="suggestion_express_exception_server">Er is een serverfout opgetreden. Wacht een minuut of twee en probeer opnieuw.</string>
   <string name="suggestion_express_input_empty">Het volgnummer mag niet leeg zijn</string>
   <string name="suggestion_express_input_hint_inside">Voer het volgnummer in</string>
   <string name="suggestion_express_input_hint_out">Volgnummer:</string>
-  <string name="suggestion_express_title">Express single number query</string>
+  <string name="suggestion_express_title">Volg uw pakket</string>
   <string name="suggestion_lottery_detail_pour">%s OPMERKING</string>
   <string name="suggestion_lottery_detail_price">ELKE OPMERKING IS%s YUAN WAARD</string>
   <string name="suggestion_lottery_detail_text">DEZE RONDE %s</string>
