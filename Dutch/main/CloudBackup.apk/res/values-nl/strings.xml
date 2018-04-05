@@ -84,7 +84,7 @@
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarmen</string>
   <string name="desktop_downloading">Downloaden</string>
-  <string name="desktop_failed">Mislukt</string>
+  <string name="desktop_failed">Fout</string>
   <string name="desktop_installing">Installeren</string>
   <string name="desktop_wait_wifi">Wachten</string>
   <string name="desktop_waiting">Wachten</string>
@@ -107,8 +107,8 @@
   <string name="download_settings">Downloaden van startscherminstellingen: %s%%</string>
   <string name="download_settings_fail">Kon startscherm instellingen niet downloaden</string>
   <string name="error_unknown">Er liep iets fout</string>
-  <string name="get_device_id_error">Verkrijgen apparaat ID mislukt</string>
-  <string name="home_restore_error">Herstel startscherm mislukt</string>
+  <string name="get_device_id_error">Kon apparaat ID niet verkrijgen</string>
+  <string name="home_restore_error">Kon startscherm niet herstellen</string>
   <string name="lack_of_storage">Niet genoeg opslagruimte</string>
   <string name="latest_backup_time_loading">Laden…</string>
   <string name="managespace_delete_backup">Verwijderen</string>

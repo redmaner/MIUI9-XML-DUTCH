@@ -3,6 +3,7 @@
   <string name="about_hide_mode">Over batterijbespaarder</string>
   <string name="app_list_title">Kies apps</string>
   <string name="app_name">Batterij en prestaties</string>
+  <string name="app_preload_policies_summary">Gebruik het ML model om apps te voorspellen die u wilt gebruiken en laad bronnen van tevoren, uiteraard om de prestaties van de app lancering te verbeteren</string>
   <string name="base_info">Basisinfo</string>
   <string name="cloud_addr_info">Cloudinfo</string>
   <string name="cloud_china_addr">China serverdata updaten</string>
