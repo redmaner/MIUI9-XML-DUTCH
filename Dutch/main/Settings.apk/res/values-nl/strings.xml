@@ -4614,7 +4614,6 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="tether_devices_management_title">Apparaten beheren</string>
   <string name="tether_devices_max_number">Limiet van aangesloten apparaten</string>
   <string name="tether_limit_dialog_title">Mobile data limit</string>
-  <string name="tether_limit_value_custom">Custom</string>
   <string name="tether_over_limit_dialog_cancle_btn">Hotspot resetten</string>
   <string name="tether_over_limit_dialog_message">U hebt de datalimiet van draagbare hotspot bereikt.</string>
   <string name="tether_over_limit_dialog_title">Gegevensgebruikswaarschuwing</string>
