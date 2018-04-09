@@ -684,6 +684,15 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="exception_notify_message">Kon gegevensstatistieken niet berekenen vanwege een fout. Herstarten om te herstellen.</string>
   <string name="exception_titile">Er is een fout opgetreden</string>
   <string name="exit">Sluiten</string>
+  <string name="exit_dialog_garbage_clean_message">De hoeveelheid afval op uw apparaat is meer dan%s. Afval opruimen?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Opruimen</string>
+  <string name="exit_dialog_garbage_clean_title">Afval opruimen</string>
+  <string name="exit_dialog_release_storage_message">Meer dan 80% van de opslag op uw apparaat is bezet. Maak ruimte vrij door apps te verwijderen die u nooit gebruikt.</string>
+  <string name="exit_dialog_release_storage_positive_button">Ruimte vrijmaken</string>
+  <string name="exit_dialog_release_storage_title">Ruimte vrijmaken</string>
+  <string name="exit_dialog_scan_message">De prestatiescore van uw apparaat is lager dan 75 punten. Nu optimaliseren?</string>
+  <string name="exit_dialog_scan_positive_button">Optimaliseer</string>
+  <string name="exit_dialog_scan_title">Prestaties optimaliseren</string>
   <string name="finger_remind_message">U kan ook uw vingerafdruk gebruiken voor appvergrendeling</string>
   <string name="fingerprint_identify_msg">Scan uw vingerafdruk</string>
   <string name="fingerprint_not_identified_msg">Om het apparaat te ontgrendelen, voert u uw wachtwoord in.</string>
