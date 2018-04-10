@@ -2645,6 +2645,7 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="miui_lab_taplus_desc">Houd items ingedrukt om acties te triggeren</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Wist alle gegevens op de telefoon</string>
+  <string name="miui_touch_filtered_warning">Als een app een machtigingsdialoogvenster blokkeert, sleept u het overlappende item weg of sluit u de app.</string>
   <string name="miui_updater">Systeemupdate</string>
   <string name="mms_breathing_light_color_title">Kleur bij berichten</string>
   <string name="mms_breathing_light_freq_title">Knipperfrequentie berichten</string>
@@ -5706,6 +5707,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifiap_title">Wi-Fi hotspot</string>
   <string name="wifiap_turn_on_hint">Om Wi-Fi wifiap te gebruiken, schakel het in.</string>
   <string name="window_animation_scale_title">Vensteranimatieschaal</string>
+  <string name="wireless_connected">Verbonden</string>
   <string name="wireless_networks_settings_title">Draadloos en netwerken</string>
   <string name="wireless_off">Uit</string>
   <string name="wireless_on">Aan</string>

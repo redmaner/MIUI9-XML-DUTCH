@@ -6,10 +6,12 @@
   <string name="HIPS_Perm_Location">Locatiegegevens verkrijgen</string>
   <string name="HIPS_Perm_PhoneID">Apparaatinfo verkrijgen</string>
   <string name="HIPS_Perm_Settings">Systeeminstellingen wijzigen</string>
+  <string name="HIPS_Perm_SystemAlert">Pop-up venster weergeven</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi verbinding aanpassen</string>
   <string name="HIPS_Perm_background_start_activity">Starten op de achtergrond</string>
   <string name="HIPS_Perm_get_accounts">Toegang tot accounts op apparaat</string>
   <string name="HIPS_Perm_get_installed_apps">Info over geinstalleerde apps verkrijgen</string>
+  <string name="HIPS_Perm_show_when_locked">Weergeven op vergrendelscherm</string>
   <string name="Register">Aanmelden</string>
   <string name="Start">Starten</string>
   <string name="StartScan">Scan starten</string>
