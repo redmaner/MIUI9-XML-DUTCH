@@ -129,6 +129,7 @@
   <string name="cancel">Annuleren</string>
   <string name="cancle_sync_cloud_tabs">Synchroniseren annuleren</string>
   <string name="cannot_download">"Kan alleen URL's met\ "http \" of \ "https \" downloaden"</string>
+  <string name="cast_video">Video casten</string>
   <string name="check_security_tip_privacy_policy">Privacybeleid</string>
   <string name="check_security_tip_user_agreement">Gebruikersovereenkomst</string>
   <string name="choosertitle_sharevia">Delen via</string>
@@ -153,6 +154,7 @@
   <string name="cloud_tabs_sync_off">Synchronisatie uitgeschakeld</string>
   <string name="cloud_time_tips">Laatste synchronisatie</string>
   <string name="cloud_up_to_loading_tips">Laat los om te synchroniseren</string>
+  <string name="collect_video">Video ophalen</string>
   <string name="comment_app_menu">Opmerking</string>
   <string name="comment_description">Opmerking</string>
   <string name="comment_hint">Opmerking</string>
@@ -262,6 +264,7 @@
   <string name="download_status_pending">Wachten</string>
   <string name="download_success">Voltooid</string>
   <string name="download_title">Downloads</string>
+  <string name="download_video">Video downloaden</string>
   <string name="download_wait_connect">Wachten op verbinding</string>
   <string name="edit">Bewerken</string>
   <string name="edit_bookmark">Bladwijzer bewerken</string>
@@ -289,6 +292,7 @@
   <string name="error_unauthorized">Synchroniseren is uitgeschakeld als gevolg van te veel aanmeldingspogingen.</string>
   <string name="exit">Afsluiten</string>
   <string name="exit_browser_warning">Browser nu afsluiten?</string>
+  <string name="exit_fullscreen">Volledig scherm verlaten</string>
   <string name="favorite">Toevoegen aan favorieten</string>
   <string name="file_dir">Locatie wijzigen</string>
   <string name="file_name">"Naam: "</string>
@@ -492,13 +496,13 @@
   <string name="mw_find_previous">Vorige vinden</string>
   <string name="mw_http_post_warning">De pagina die je zoekt heeft informatie gebruikt die je hebt ingevoerd. Teruggaan naar de pagina kan ervoor zorgen dat elke stap die je hebt uitgevoerd wordt herhaald. Wil je doorgaan?</string>
   <string name="mw_http_post_warning_resend">Doorgaan</string>
-  <string name="mw_js_dialog_before_unload">"%s 
+  <string name="mw_js_dialog_before_unload">"%s
 
 Wil je deze pagina verlaten?"</string>
   <string name="mw_js_dialog_before_unload_negative_button">Op deze pagina blijven</string>
   <string name="mw_js_dialog_before_unload_positive_button">Deze pagina verlaten</string>
   <string name="mw_js_dialog_before_unload_title">Bevestigen</string>
-  <string name="mw_js_dialog_title">De pagina \" %s \" zegt:</string>
+  <string name="mw_js_dialog_title">De pagina \"%s\" zegt:</string>
   <string name="mw_last_month">Vorige maand</string>
   <string name="mw_license_activity_title">System WebView licenties</string>
   <string name="mw_login_dialog_ok_button_label">Inloggen</string>
@@ -634,6 +638,16 @@ Wil je deze pagina verlaten?"</string>
         
 		           "</string>
   <string name="mw_no_matches">Geen overeenkomsten</string>
+  <string name="mw_notification_category_browser">Browser</string>
+  <string name="mw_notification_category_content_suggestions">Inhoudsuggesties</string>
+  <string name="mw_notification_category_downloads">Downloads</string>
+  <string name="mw_notification_category_fullscreen_controls">Besturingselementen op volledig scherm</string>
+  <string name="mw_notification_category_group_general">Algemeen</string>
+  <string name="mw_notification_category_incognito">Incognito</string>
+  <string name="mw_notification_category_media">Media</string>
+  <string name="mw_notification_category_screen_capture">Schermopname</string>
+  <string name="mw_notification_category_sites">Sites</string>
+  <string name="mw_notification_hidden_text">Verborgen inhoud </string>
   <string name="mw_ntp_title_no_suggestions">Dat is het voor nu</string>
   <string name="mw_older">Ouder</string>
   <string name="mw_opening_file_error">Kon geselecteerde bestand niet openen</string>
@@ -804,6 +818,9 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pay_success_toast">Betaling voltooid</string>
   <string name="permission_notification">meldingen sturen.</string>
   <string name="permissions_prompt_message">%s wil</string>
+  <string name="play_pause_video">Video afspelen of pauzeren</string>
+  <string name="play_video">Video afspelen</string>
+  <string name="popup_video">Popup video</string>
   <string name="popup_window_attempt">Deze site toestaan een pop-upvenster te openen?</string>
   <string name="positive_confirm_message">Toch uitschakelen</string>
   <string name="pref_accept_quicklink_push">Nieuwsfeed</string>
@@ -999,6 +1016,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="sequence_bookmark_description">Houd ingedrukt om bladwijzers te herordenen</string>
   <string name="share_image_text">Kijk wat ik heb gedeeld! @MIUI</string>
   <string name="share_page_text">Kijk wat ik heb gedeeld: %1$s @MIUI| %2$s</string>
+  <string name="share_video">Video delen</string>
   <string name="show_check_security_url_check_tip_dialog_description">"We zullen je persoonlijke gegevens verzamelen en gebruiken als je onze diensten gebruikt.
 De gegevens die we verzamelen zijn:
 1. URL links: We verzamelen de URLs van de websites die je bezoekt.
