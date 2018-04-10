@@ -199,6 +199,8 @@ U kan ze ook apart downloaden."</string>
   <string name="radio_button_icon_switch_title">Snelkoppeling gebruiken</string>
   <string name="radio_button_password_switch_title">Wachtwoord gebruiken</string>
   <string name="removeSuccess">Met succes verwijderd</string>
+  <string name="remove_button">Verwijderen  en herstarten</string>
+  <string name="remove_button_time">Verwijderen  en herstarten(%ds)</string>
   <string name="remove_second_space_msg">Alle appgegevens van de tweede ruimte zal verloren gaan nadat je de tweede ruimte wist. Tweede ruimte nu wissen?</string>
   <string name="remove_user_click_message">"*Als u geen belangrijke bestanden hebt in de tweede ruimte, %s"</string>
   <string name="remove_user_click_message_action">kan je de tweede ruimte verwijderen en uw apparaat nu opnieuw opstarten.</string>
@@ -307,6 +309,8 @@ Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</stri
   <string name="start_new_fingerprint_tips">"Tweede ruimte vingerafdruk gebruiken
 om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="start_setting_guide_desc_title">Er zijn een paar dingen om in te stellen</string>
+  <string name="stop_xspace_alert_content">Je hebt alle dubbele apps verwijderd. Dubbele app accounts en app gegevens ook verwijderen? Hierna moet je opnieuw dual apps maken als je ze nodig hebt.</string>
+  <string name="stop_xspace_alert_title">Dubbele app accounts verwijderen</string>
   <string name="summary_switch_apps_settings">Apps selecteren die gebruikt worden in de huidige ruimte</string>
   <string name="support_desc">Beveiligingsdiensten verzorgd door Spaces Mobile</string>
   <string name="sure_to_use">Bevestigen</string>
