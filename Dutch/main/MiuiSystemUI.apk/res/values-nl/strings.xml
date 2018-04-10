@@ -224,7 +224,7 @@ Sample Rate"</string>
   <string name="clear_adb_keys">USB foutopsporing authorisaties intrekken</string>
   <string name="click_expand">Tik om uit te breiden</string>
   <string name="click_to_return_multi_window">Tik om terug te keren naar gesplitst scherm</string>
-  <string name="click_to_return_multi_window_of_notch">keer terug naar het gesplitst scherm</string>
+  <string name="click_to_return_multi_window_of_notch">Terug naar het gesplitst scherm</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeveiligingsfuncties werken niet op dit apparaat wanneer deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendeling toestaan?</string>
   <string name="connected_via_network_scorer">Automatisch verbonden via %1$s</string>
@@ -557,7 +557,7 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Ongeveer. %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
-  <string name="prompt_danger">Risico</string>
+  <string name="prompt_danger">Gevaar</string>
   <string name="prompt_detecting">Detecteren</string>
   <string name="prompt_failure">Fout</string>
   <string name="prompt_return_to_split">Gesplitst scherm</string>
