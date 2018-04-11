@@ -1218,7 +1218,7 @@ U hebt nog %d pogingen over."</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE services zijn niet beschikbaar. Schakel VoLTE uit om te bellen.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Service is niet beschikbaar. Schakel VoLTE uit in instellingen.</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Selecteer LTE als uw favoriete netwerktype voordat u VoLTE inschakelt.</string>
-  <string name="prompt_when_turnon_volte_without_lte">LTE netwerken zijn nu niet beschikbaar. Als u VoLTE inschakelt, kan het voorkomen om normale oproepen te maken.</string>
+  <string name="prompt_when_turnon_volte_without_lte">VoLTE netwerken zijn nu niet beschikbaar. Als u VoLTE inschakelt, kan het voorkomen om normale oproepen te maken.</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adres voor uitgaande proxy</string>
   <string name="pstn_connection_service_label">Ingebouwde SIM kaarten</string>
@@ -1420,7 +1420,7 @@ U hebt nog %d pogingen over."</string>
   <string name="sum_select_automatically">Voorkeursnetwerk automatisch selecteren</string>
   <string name="sum_show_caller_id">Nummer weergegeven bij uitgaande oproepen</string>
   <string name="sum_voicemail_choose_provider">Service voor voicemail selecteren</string>
-  <string name="switch_dds_to_sub_alert">Wissel mobiele data naar SIM</string>
+  <string name="switch_dds_to_sub_alert">Stel deze kaart in als uw standaard datakaart.</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">T9 invoer</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
@@ -1550,6 +1550,7 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="verify_apps_over_usb_title">Verifieer apps via USB</string>
   <string name="vibrate_after_connected_summary">Trillen bij opnemen</string>
   <string name="vibrate_after_connected_title">Trillen nadat verbinding tot stand is gebracht</string>
+  <string name="vice_card_data_in_use_alert">Er kunnen extra data kosten worden aangerekend.</string>
   <string name="vice_slot_volte_data_switch_prompt">Het apparaat zal verbinden met een mobiel datanetwerk van de tweede SIM tijdens VoLTE oproepen. Dit kan voor extra kosten zorgen. Neem contact op met je provider voor meer informatie over je databundels.</string>
   <string name="vice_slot_volte_data_switch_summary">Tijdens VoLTE oproepen zal het apparaat verbinden met een mobiel datanetwerk met de tweede SIM</string>
   <string name="vice_slot_volte_data_switch_title">Gebruik mobiel internet tijdens VoLTE oproepen op de tweede SIM</string>
@@ -1595,7 +1596,8 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="volte_switch_summary">Gebruik VoLTE om de kwaliteit van spraak- en video-oproepen te verbeteren</string>
   <string name="volte_switch_summary2">Bevestig dat uw provider deze functie ondersteunt voordat deze wordt ingeschakeld. Anders kunnen normale oproepen worden beïnvloed.</string>
   <string name="volte_switch_title">VoLTE ingeschakeld</string>
-  <string name="volte_tips_when_turn_on">China Telecom VoLTE diensten worden alleen aangeboden in de gebieden met LTE netwerkdekking.</string>
+  <string name="volte_switch_title_ct">VoLTE ingeschakeld</string>
+  <string name="volte_tips_when_turn_on">China Telecom VoLTE diensten worden alleen aangeboden in de gebieden met VoLTE netwerkdekking. VoLTE diensten worden aangeboden door de provider.</string>
   <string name="vpn_settings_not_available">VPN instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="vvm_unsupported_message_format">Niet ondersteunde bericht type, bel %s om te luisteren.</string>
   <string name="wait_for_debugger">Wachten op debugger</string>

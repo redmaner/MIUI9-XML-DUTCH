@@ -687,6 +687,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="exit_dialog_garbage_clean_message">De hoeveelheid afval op uw apparaat is meer dan%s. Afval opruimen?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Opruimen</string>
   <string name="exit_dialog_garbage_clean_title">Afval opruimen</string>
+  <string name="exit_dialog_homepage_optimise_message">De prestatiescore van uw apparaat is lager dan 80 punten. Nu optimaliseren?</string>
   <string name="exit_dialog_release_storage_message">Meer dan 80% van de opslag op uw apparaat is bezet. Maak ruimte vrij door apps te verwijderen die u nooit gebruikt.</string>
   <string name="exit_dialog_release_storage_positive_button">Ruimte vrijmaken</string>
   <string name="exit_dialog_release_storage_title">Ruimte vrijmaken</string>
@@ -779,6 +780,12 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gb_description_image_button_video_answer">Video-oproep</string>
   <string name="gb_get_gift_right_now">Nu aanmelden</string>
   <string name="gb_have_signed">Vandaag aangemeld</string>
+  <string name="gb_msg_completely_shielded">Berichten verbergen</string>
+  <string name="gb_msg_completely_shielded_summary">Verbergen</string>
+  <string name="gb_msg_quickly_answer">Snelle antwoorden toestaan</string>
+  <string name="gb_msg_quickly_answer_summary">Snelle antwoorden</string>
+  <string name="gb_msg_transparent_dispaly">Meldingen met transparante achtergrond</string>
+  <string name="gb_msg_transparent_dispaly_summary">Transparant</string>
   <string name="gb_network_status_bad">Er is een verbindingsfout opgetreden.</string>
   <string name="gb_new_feature">Nieuwe functie</string>
   <string name="gb_sign_gift">Aanmelden om beloningen te ontvangen</string>

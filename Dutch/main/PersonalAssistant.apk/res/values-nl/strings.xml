@@ -65,7 +65,6 @@
   <string name="ball_football_recent_text_show">Commentaar</string>
   <string name="ball_football_title">Voetbal</string>
   <string name="ball_football_total_rank">Statistieken</string>
-  <string name="ball_hupu">HuPu Sports</string>
   <string name="ball_net_errot">Kon niet verbinden met het netwerk.</string>
   <string name="ball_recent_no_data">Geen informatie over de komende wedstrijden.</string>
   <string name="beijing">Peking</string>
@@ -813,7 +812,6 @@ Controleer het trackingnummer."</string>
   <string name="setting_football_edit">Wijzigen</string>
   <string name="setting_football_fav">Teams</string>
   <string name="setting_football_fav_null">Je volgt nog geen teams</string>
-  <string name="setting_football_hupu">HuPu Sports</string>
   <string name="setting_football_loading">Een momentje…</string>
   <string name="setting_football_select_title">Selecteer teams om te volgen</string>
   <string name="setting_football_toast_max">Je kan tot 4 teams volgen</string>

@@ -122,6 +122,8 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_toggle_speak_password_preference_title">Spreek wachtwoorden uit</string>
   <string name="accessibility_wifi_off">Wi-Fi uit.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi één streepje.</string>
+  <string name="accessibility_wifi_security_type_none">Open netwerk</string>
+  <string name="accessibility_wifi_security_type_secured">Beveiligd netwerk</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi vol signaal.</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi drie streejes.</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi twee streepjes.</string>
@@ -1103,6 +1105,9 @@ Sample Rate"</string>
   <string name="confirm_erase">Wissen</string>
   <string name="confirm_fingerprint_icon_content_description">Gebruik uw vingerafdruk om verder te gaan.</string>
   <string name="confirm_fingerprint_msg">Plaats uw vinger op de sensor</string>
+  <string name="confirm_frp_credential_message">Uw apparaat is terug gezet naar fabrieksinstellingen, je kunt het ontgrendelen met je vorige geheim code.</string>
+  <string name="confirm_frp_credential_skip_txt">GEBRUIK MIJN GOOGLE ACCOUNT IN PLAATS</string>
+  <string name="confirm_frp_credential_title">Fabriekinstellingen beveiliging</string>
   <string name="confirm_new_backup_pw_prompt">Typ hier nogmaals uw nieuwe wachtwoord voor volledige back-up</string>
   <string name="confirm_privacy_password">Voer privacy wachtwoordbeveiliging in</string>
   <string name="confirm_privacy_password_fingerprint">Scan vingerafdruk of voer privacy wachtwoordbeveiliging in</string>
@@ -5642,9 +5647,9 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_switch_to_gsm_title">GSM gebruiken?</string>
   <string name="wifi_tether_checkbox_text">Draagbare Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Draagbare Wi-Fi hotspot instellen</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s draagbare Wi-Fi hotspot</string>
   <string name="wifi_tether_enabled_subtext">Draagbare Wi-Fi hotspot %1$s is actief</string>
+  <string name="wifi_tether_enabled_summary">%1$s is actief</string>
   <string name="wifi_tether_failed_subtext">Portable WLAN hotspot error</string>
   <string name="wifi_tether_first_use_message">Draagbare hotspot opzetten bij eerste gebruik</string>
   <string name="wifi_tether_setting_title">Instellingen</string>
