@@ -200,7 +200,7 @@ U kan ze ook apart downloaden."</string>
   <string name="radio_button_password_switch_title">Wachtwoord gebruiken</string>
   <string name="removeSuccess">Met succes verwijderd</string>
   <string name="remove_button">Verwijderen  en herstarten</string>
-  <string name="remove_button_time">Verwijderen  en herstarten(%ds)</string>
+  <string name="remove_button_time">Verwijderen en herstarten (%ds)</string>
   <string name="remove_second_space_msg">Alle appgegevens van de tweede ruimte zal verloren gaan nadat je de tweede ruimte wist. Tweede ruimte nu wissen?</string>
   <string name="remove_user_click_message">"*Als u geen belangrijke bestanden hebt in de tweede ruimte, %s"</string>
   <string name="remove_user_click_message_action">kan je de tweede ruimte verwijderen en uw apparaat nu opnieuw opstarten.</string>
