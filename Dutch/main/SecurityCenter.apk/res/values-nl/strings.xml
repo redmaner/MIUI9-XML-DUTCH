@@ -1002,6 +1002,7 @@ om te reageren"</string>
   <string name="main_toolbar_purchase">Herladen</string>
   <string name="main_toolbar_statistic">Statistieken</string>
   <string name="man_add_application">Apps voor automatisch starten handmatig toevoegen</string>
+  <string name="managed_user_title">Alle werk apps</string>
   <string name="manual_input_free_traffic">Dataverbruik daluren instellen</string>
   <string name="manual_input_traffic">Dataverbruik instellen</string>
   <string name="manual_item_white_list_summary">Voorkom dat geselecteerde apps worden geoptimaliseerd</string>

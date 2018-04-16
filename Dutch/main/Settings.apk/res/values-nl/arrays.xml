@@ -651,6 +651,14 @@ Note: Alleen voor Ubuntu 8.04!"</item>
         <item>4M</item>
         <item>16M</item>
     </string-array>
+	<string-array name="select_logd_system_levels">
+        <item>Uit</item>
+        <item>Fout</item>
+        <item>Waarschuwen</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Uit</item>
         <item>Alle log buffers</item>

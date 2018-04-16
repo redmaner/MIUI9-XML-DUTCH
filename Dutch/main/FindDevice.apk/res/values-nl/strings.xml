@@ -28,8 +28,8 @@ Neem contact op met uw verkoopagent voor meer informatie."</string>
   <string name="find_device_error_unknown">Onbekende fout (%s).</string>
   <string name="find_device_noise_title">Alarm apparaat vinden</string>
   <string name="find_device_notice_p1">Ga naar</string>
-  <string name="find_device_notice_p3">"om te lokaliseren, blokkeren of om telefoon te herstellen.
-Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze functie te heractiveren.</string>
+  <string name="find_device_notice_p3">"om te lokaliseren, blokkeren of om telefoon te herstellen.</string>
+  <string name="find_device_notice_sms_alert">Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze functie te heractiveren.</string>
   <string name="find_device_stop_noise">Tik op Ok om te dempen</string>
   <string name="find_device_storage_corrupted">Vind Apparaat opslag is beschadigd. Uw apparaat is nu onveilig.</string>
   <string name="find_device_success_title">Apparaat vinden</string>
@@ -74,7 +74,7 @@ Als u van SIM kaart wisselt, zal automatisch een SMS verzonden worden om deze fu
   <string name="unlock_error_user_name">Ongeldige gebruikersnaam</string>
   <string name="unlock_error_wrong_vcode">De ingevoerde code is fout</string>
   <string name="unlock_help">"Blijf verbonden met het netwerk
-Zorg ervoor dat u een werkende SIM kaart hebt geïnstalleerd en dat uw apparaat niet is verbonden met een ineffectief Wi-Fi netwerk
+Zorg ervoor dat u een werkende SIM kaart hebt geïnstalleerd (als uw apparaatdit ondersteunt) en dat uw apparaat niet is verbonden met een ineffectief Wi-Fi netwerk
 
 Wachtwoord vergeten?
 Gan naar id.mi.com om uw wachtwoord te resetten

@@ -73,6 +73,9 @@
   <string name="fingerprint_try_again_msg">Kon vingerafdruk niet herkennen</string>
   <string name="fingerprint_try_again_text">Probeer opnieuw te ontgrendelen</string>
   <string name="forget_password_string">Wachtwoord vergeten</string>
+  <string name="gxzw_press_harder">Harder drukken</string>
+  <string name="gxzw_try_more_again">Probeer opnieuw</string>
+  <string name="gxzw_use_password">Gebruik uw wachtwoord om te ontgrendelen</string>
   <string name="incorrect_pincode">Foute PIN code</string>
   <string name="incorrect_pukcode">Foute PUK code</string>
   <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
