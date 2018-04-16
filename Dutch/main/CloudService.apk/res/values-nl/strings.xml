@@ -242,8 +242,6 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
   <string name="micloud_find_device_guide_alert_title">Onthoud je Mi Account ID en wachtwoord</string>
   <string name="micloud_find_device_guide_button">Apparaat vinden inschakelen</string>
-  <string name="micloud_find_device_guide_content">Wanneer u van SIM kaart wisselt zal er automatisch een bericht verzonden worden
-om deze functie te heractiveren.</string>
   <string name="micloud_find_device_guide_fail_reopen">Apparaat vinden inschakelen in Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Controleer uw netwerkverbinding en probeer opnieuw.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Verbinding time-out. Probeer later opnieuw.</string>
@@ -263,6 +261,7 @@ of apparaat te wissen."</string>
   <string name="micloud_find_device_open_fail">Kon apparaat vinden niet inschakelen</string>
   <string name="micloud_find_device_opened">Apparaat vinden ingeschakeld</string>
   <string name="micloud_find_device_opened_content">Vind uw apparaat op %s</string>
+  <string name="micloud_find_device_sms_alert">Er i s een uitgaand SMS bericht vereist om deze service te activeren. Uw provider brengt u dit bericht in rekening. Wanneer u van SIM kaart wisselt, wordt mogelijk automatisch een bericht verzonden om deze functie opnieuw te activeren.</string>
   <string name="micloud_find_device_verify_button">Apparaat vinden heractiveren</string>
   <string name="micloud_find_device_verify_close">Apparaat vinden uitschakelen</string>
   <string name="micloud_find_device_verify_fail">Kon apparaat vinden niet heractiveren</string>

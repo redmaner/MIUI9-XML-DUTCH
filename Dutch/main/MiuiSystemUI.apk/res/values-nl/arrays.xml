@@ -55,6 +55,14 @@
     <string-array name="select_logd_size_summaries">
         <item>Uit</item>
     </string-array>
+	<string-array name="select_logd_system_levels">
+        <item>Uit</item>
+        <item>Fout</item>
+        <item>Waarschuwen</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
         <item>Animatieschaal 0.5x</item>

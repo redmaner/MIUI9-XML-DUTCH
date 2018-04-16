@@ -655,6 +655,7 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="screenshot_toalbum_txt">Voorbeeld</string>
   <string name="search_hint">Zoek naar websites, apps, contacten en video\'s</string>
   <string name="select_application">Selecteer applicatie</string>
+  <string name="select_logd_level">Selecteer log niveau</string>
   <string name="select_logd_size_dialog_title">Selecteer groottes per logbuffer</string>
   <string name="select_logd_size_title">Log buffergroottes</string>
   <string name="select_logpersist_dialog_title">Logbuffers selecteren om permanent op het apparaat op te slaan</string>

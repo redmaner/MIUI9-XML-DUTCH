@@ -154,6 +154,7 @@ U kan ze ook apart downloaden."</string>
   <string name="lock_screen_open_second_space">Naar tweede ruimte gaan vanaf vergrendelscherm</string>
   <string name="messageData">Berichten</string>
   <string name="msg_switch_file">Deze bestanden verwijderen op de eerste ruimte na verplaatsen?</string>
+  <string name="msg_switch_file_second">Deze bestanden verwijderen op de tweede ruimte na verplaatsen?</string>
   <string name="msg_switch_photo">Deze foto\'s verwijderen op de eerste ruimte na verplaatsen?</string>
   <string name="needSetKeyguardFirst">Wachtwoord voor eerste ruimte instellen</string>
   <string name="needSetKeyguardFirstDes">Eerst het eerste ruimte wachtwoord instellen voordat u een wachtwoord insteld voor de tweede ruimte</string>
