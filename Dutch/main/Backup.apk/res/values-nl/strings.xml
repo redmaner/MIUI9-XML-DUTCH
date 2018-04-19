@@ -56,11 +56,14 @@
   <string name="btn_got_it">Begrepen</string>
   <string name="button_backup">Back-up</string>
   <string name="button_cancel">Annuleren</string>
+  <string name="button_clean_garbage">Maak ruimte vrij</string>
   <string name="button_continue">Doorgaan</string>
   <string name="button_finish">Beëindigen</string>
+  <string name="button_got_it">Ok</string>
   <string name="button_import">Importeren</string>
   <string name="button_next">Volgende</string>
-  <string name="button_ok">OK</string>
+  <string name="button_ok">Ok</string>
+  <string name="button_quit">Afsluiten</string>
   <string name="button_return">Terug</string>
   <string name="button_send">Verzenden</string>
   <string name="call_title">Oproepgeschiedenis</string>
@@ -118,19 +121,21 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="enable_encrypt_description">Versleutelen</string>
   <string name="enable_encrypt_fail">Encryptie inschakelen mislukt</string>
   <string name="enable_encrypt_indicator">Druk voor encryptie</string>
-  <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">Om de gecodeerde back-ups op te halen moet u ingelogd zijn op uw Mi Account.</string>
   <string name="enable_encrypt_summery2">De nieuwe back-up wordt automatisch gecodeerd. U moet inloggen op uw Xiaomi account om gegevens te wissen of back-ups te herstellen op andere toestellen.</string>
   <string name="enable_encrypt_title">Back-ups coderen</string>
   <string name="enable_encrypt_xiaomi_account">Deze back-up is gemaakt door %1$s. Verwijder het huidige account en log in op %2$s om de gegevens te herstellen.</string>
   <string name="err_authentication_failed">Authenticatie mislukt</string>
   <string name="err_bakfile_broken">Kan deze back-up niet gebruiken</string>
+  <string name="err_bakfile_not_exist">Back-upbestand bestaat niet.</string>
+  <string name="err_binder_died">App is onverwacht gestopt.</string>
   <string name="err_filesystem_mount">Kan geen toegang krijgen tot routeropslag</string>
   <string name="err_low_storage">Niet genoeg ruimte</string>
   <string name="err_not_allow">Niet ondersteund</string>
   <string name="err_router_disconnected">Controleer de routerverbinding en probeer opnieuw</string>
   <string name="err_router_files_delete">Kon back-up bestanden op de router niet verwijderen</string>
   <string name="err_unknown">Onbekende fout</string>
+  <string name="err_user_abort">Geannuleerd door gebruiker.</string>
   <string name="err_version_too_old">Back-up is te oud.</string>
   <string name="err_version_unsupported">Back-up versie wordt niet ondersteund.</string>
   <string name="error_permissions">Deze app heeft geen toestemming om toegang te krijgen tot kalendergegevens. Ga naar instellingen en controleer toestemmingen om verder te gaan.</string>
@@ -400,7 +405,10 @@ Maak tenminste %s vrij."</string>
   <string name="trans_device_wait_for_reconnecting">Verbinding is verbroken. Verbind opnieuw om verder te gaan.</string>
   <string name="trans_disconnected_tips_message">Verbinding met apparaat verboken. Maak handmatig opnieuw verbinding of annuleer de overdracht.</string>
   <string name="trans_disconnected_tips_title">Verbinding met apparaat verboken</string>
+  <string name="trans_failed_details_page_title">Mislukte transfers</string>
   <string name="trans_generate_qr_code_failed">Kon geen QR code aanmaken</string>
+  <string name="trans_generate_qrcode_failed">Kan QR code niet aanmaken. Probeer opnieuw.</string>
+  <string name="trans_generating_qrcode">QR code aanmaken…</string>
   <string name="trans_intro_desc_1">"Op een Xiaomi apparaat, verbind met Wi-Fi en tik op \"Ik ben een ontvanger\", selecteer je iOS apparaat, log in op iCloud en importeeer gegevens."</string>
   <string name="trans_intro_desc_3">Annuleer de overdracht, sluit Mi Mover af en start opnieuw. Bestanden die meerdere keren voorkomen worden overschreven tijdens de overdracht.</string>
   <string name="trans_intro_desc_4">"Mi Mover gebruikt Wi-Fi om bestanden te versturen. Daarom kan je niet verbinden met internet met Wi-Fi op beide apparaten tijdens een overdracht. Wel kan je nog steeds mobiel internet gebruiken. Sommige nieuwe apparaten (bijv. Mi 6) kunnen nog wel verbinding maken met internet met Wi-Fi tijdens een overdracht."</string>
@@ -432,8 +440,10 @@ Maak tenminste %s vrij."</string>
   <string name="trans_intro_title_private">Verborgen album:</string>
   <string name="trans_main_tutor">Contacten, oproepgeschiedenis, berichten, startschermlayout, apps, instellingen, enz. verplaatsen naar een nieuw apparaat</string>
   <string name="trans_my_device">Mijn apparaat</string>
-  <string name="trans_native_no_space">"Dit apparaat heeft niet genoeg ruimte
-Verwijder tenminste %s"</string>
+  <string name="trans_native_no_space">"Er is onvoldoende opslagruimte op het oude apparaat(%s beschikbaar).
+Maak opslagruimte vrij of verplaats alleen belangrijke items."</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Mover heeft wat opslagruimte nodig om de overgedragen gegevens te verpakken, maar het lijkt erop dat er onvoldoende ruimte beschikbaar is op het oude apparaat. Maak ruimte vrij in "\Beveiliging\" of verplaats alleen belangrijke items."</string>
+  <string name="trans_old_phone_low_space_title">Not enough storage space</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
@@ -474,8 +484,8 @@ Wi-Fi Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</stri
   <string name="trans_security_tips_message">Sommige apps ondersteunen Mi Mover niet.</string>
   <string name="trans_security_tips_title">Mi Mover compatibiliteit</string>
   <string name="trans_select_data">Selecteer items om te verzenden</string>
-  <string name="trans_select_data_no_space">"Niet genoeg ruimte op nieuw apparaat
-Selecteer de bestanden opnieuw of maak %s ruimte vrij op nieuw apparaat"</string>
+  <string name="trans_select_data_no_space">"Er is onvoldoende opslagruimte op het nieuwe apparaat (%s  (% s beschikbaar).).
+Maak opslagruimte vrij of verplaats alleen belangrijke items."</string>
   <string name="trans_select_data_tips">"Selecteer bestanden om te transfereren
 Gelijkaardige bestanden op het nieuwe apparaat zullen overschreven worden"</string>
   <string name="trans_select_data_too_large">"U hebt te veel items geselecteerd om te transfereren.
@@ -496,8 +506,7 @@ Wi-Fi niet uitschakelen. Beide apparaten dicht bij elkaar houden."</string>
   <string name="trans_start_failed_title">Kon transfer niet starten</string>
   <string name="trans_switching_5g">Wisselen naar 5GHz Wi-Fi…</string>
   <string name="trans_time_format_second">Minder dan 1 minuut</string>
-  <string name="trans_time_spent">"
-Tijd besteed: %s"</string>
+  <string name="trans_time_spent">"Tijd besteed: %s"</string>
   <string name="trans_wait_trans_data">"Verbonden met het oude apparaat.
 Wachten om te transfereren…"</string>
   <string name="trans_waiting_ensurance">"Maak u er van bewust dat uw oude apparaat ingeschakeld is

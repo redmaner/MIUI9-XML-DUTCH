@@ -45,6 +45,7 @@
   <string name="accessibility_captioning_title">Ondertiteling</string>
   <string name="accessibility_category_personal">Persoonlijke profielaccounts</string>
   <string name="accessibility_category_work">Werkprofielaccounts - %s</string>
+  <string name="accessibility_close_tab">Huidige tab sluiten</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Deze functie is experimenteel en kan de prestaties beïnvloeden.</string>
   <string name="accessibility_display_daltonizer_preference_title">Kleurcorrectie</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimental) May affect performance</string>
@@ -66,6 +67,7 @@ Als het apparaat meerdere gebruikers heeft, kan met deze snelkoppeling op het ve
   <string name="accessibility_lock_screen_progress">%1$d van %2$d karakters gebruikt</string>
   <string name="accessibility_long_press_timeout_preference_title">Vertraging voor blijven aanraken</string>
   <string name="accessibility_menu_item_settings">Instellingen</string>
+  <string name="accessibility_more_settings">Extra instellingen</string>
   <string name="accessibility_no_service_selected">No service selected</string>
   <string name="accessibility_no_services_installed">Geen services geïnstalleerd</string>
   <string name="accessibility_no_wifi">Wi-Fi verbinding verbroken.</string>
@@ -120,12 +122,13 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Schermvergroting bijwerken bij app-overgangen</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Schermvergroting automatisch bijwerken</string>
   <string name="accessibility_toggle_speak_password_preference_title">Spreek wachtwoorden uit</string>
+  <string name="accessibility_vpn_settings_info">VPN configuratie</string>
   <string name="accessibility_wifi_off">Wi-Fi uit.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi één streepje.</string>
   <string name="accessibility_wifi_security_type_none">Open netwerk</string>
   <string name="accessibility_wifi_security_type_secured">Beveiligd netwerk</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi vol signaal.</string>
-  <string name="accessibility_wifi_three_bars">Wi-Fi drie streejes.</string>
+  <string name="accessibility_wifi_three_bars">Wi-Fi drie streepjes.</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi twee streepjes.</string>
   <string name="accessibility_work_account_title">Werkaccount - %s</string>
   <string name="account_add">Toevoegen</string>
@@ -541,7 +544,7 @@ Laatst gelopen op %2$s"</string>
   <string name="battery_info_status_charging">Opladen</string>
   <string name="battery_info_status_charging_ac">Opladen op AC</string>
   <string name="battery_info_status_charging_ac_short">Opladen</string>
-  <string name="battery_info_status_charging_lower">opladen</string>
+  <string name="battery_info_status_charging_lower">Opladen</string>
   <string name="battery_info_status_charging_usb">Opladen over USB</string>
   <string name="battery_info_status_charging_usb_short">Opladen</string>
   <string name="battery_info_status_charging_wireless">Draadloos opladen</string>
@@ -1036,7 +1039,8 @@ Sample Rate"</string>
   <string name="close_demo_mode">Annuleren</string>
   <string name="close_gesture">Sluiten door middel van gebaar</string>
   <string name="close_miui_optimization_title">MIUI optimalisatie uitschakelen</string>
-  <string name="close_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
+  <string name="close_optimization_message">Tekstindeling, accounts en andere delen van MIUI kunnen worden beïnvloed nadat u deze functie uitschakelt.</string>
+  <string name="close_optimization_option">Uitschakelen</string>
   <string name="close_sdcard_optimization_title">Fake SD optimalisatie uitschakelen</string>
   <string name="close_sdcard_optimization_warning_message">Uw apparaat zal opnieuw opstarten om deze wijziging toe te passen.</string>
   <string name="cloud_backup_section_title">Mi Cloud backup</string>
@@ -1135,7 +1139,7 @@ Waarschuwing: Dit zal alle gegevens wissen.
 Deze functie is in ontwikkeling en werkt mogelijk niet goed.
 Druk op 'Wissen en converteren…' om door te gaan."</string>
   <string name="convert_to_file_encryption">Converteren naar bestandsencryptie</string>
-  <string name="convert_to_file_encryption_done">Bestanden zijn gecodeerd</string>
+  <string name="convert_to_file_encryption_done">Bestanden zijn versleuteld</string>
   <string name="convert_to_file_encryption_enabled">Converteren…</string>
   <string name="cool_color">Cool</string>
   <string name="copyright_title">Auteursrecht</string>
@@ -1345,8 +1349,8 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="debug_hw_renderer">GPU Renderer instellen</string>
   <string name="debug_input_category">Invoer</string>
   <string name="debug_intent_sender_label">Debug opzettelijke afzender</string>
-  <string name="debug_layout">Indelingsgrenzen weergeven</string>
-  <string name="debug_layout_summary">Clipgrenzen, marges en meer weergeven.</string>
+  <string name="debug_layout">Layout grenzen weergeven</string>
+  <string name="debug_layout_summary">Clipgrenzen, marges etc. weergeven.</string>
   <string name="debug_monitoring_category">Controleren</string>
   <string name="debug_networking_category">Verbindingen</string>
   <string name="debug_view_attributes">Attributen bekijken inschakelen</string>
@@ -1457,7 +1461,7 @@ Deze instelling heeft effect op alle gebruikers van deze telefoon
   <string name="dialog_yes">Ja</string>
   <string name="direct_boot_unaware_dialog_message">Opmerking: na een herstart kan deze app pas starten nadat je je telefoon hebt ontgrendeld</string>
   <string name="disableNetwork">Netwerk uitschakelen</string>
-  <string name="disable_overlays">HW-overlay uitschakelen</string>
+  <string name="disable_overlays">HW overlay uitschakelen</string>
   <string name="disable_overlays_summary">GPU altijd gebruiken voor schermweergave</string>
   <string name="disable_power_key_long_press_under_keyguard">Aan/uitknop menu uitschakelen</string>
   <string name="disable_service_message">"Als u 'OK' aanraakt, wordt %1$s beëindigd."</string>
@@ -2053,7 +2057,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="high_power_prompt_title">Batterij optimalisaties negeren?</string>
   <string name="high_power_system">Batterij-optimalisatie niet beschikbaar</string>
   <string name="history_details_title">Geschiedenisdetails</string>
-  <string name="home">Startscherm-instellingen</string>
+  <string name="home">Startscherm instellingen</string>
   <string name="home_app">Startscherm-app</string>
   <string name="home_app_uninstall_button">Verwijder deze applicatie</string>
   <string name="home_key">Startscherm</string>
@@ -2070,7 +2074,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="imei_information_summary">IMEI gerelateerde informatie</string>
   <string name="imei_information_title">IMEI informatie</string>
   <string name="immediately_destroy_activities">Activiteiten niet behouden</string>
-  <string name="immediately_destroy_activities_summary">End every activity as soon as the user leaves it</string>
+  <string name="immediately_destroy_activities_summary">Elke activiteit beëindigen zodra de gebruiker deze verlaat</string>
   <string name="importance_reset">Resetten</string>
   <string name="inactive_app_active_summary">Actief. Druk om te schakelen.</string>
   <string name="inactive_app_inactive_summary">Inactief. Druk om te schakelen.</string>
@@ -2264,12 +2268,12 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="local_auto_backup_off">Uit</string>
   <string name="local_auto_backup_on">Aan</string>
   <string name="local_auto_backup_section_title">Auto back-ups</string>
-  <string name="local_backup_password_summary_change">Raak dit aan om het wachtwoord voor volledige back-ups naar desktops te wijzigen of te verwijderen</string>
-  <string name="local_backup_password_summary_none">Volledige back-ups naar desktops zijn momenteel niet beveiligd</string>
-  <string name="local_backup_password_title">Wachtwoord desktop back-up</string>
+  <string name="local_backup_password_summary_change">>Tik om het wachtwoord voor volledige startpagina back-up te wijzigen of te verwijderen</string>
+  <string name="local_backup_password_summary_none">Volledige startpagina zijn momenteel niet beveiligd</string>
+  <string name="local_backup_password_title">Startscherm back-up wachtwoord</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Wachtwoorden komen niet overeen.</string>
   <string name="local_backup_password_toast_success">Nieuw back-up wachtwoord ingesteld</string>
-  <string name="local_backup_password_toast_validation_failure">Kon geen back-upwachtwoord instellen</string>
+  <string name="local_backup_password_toast_validation_failure">Kon geen back-up wachtwoord instellen</string>
   <string name="local_backup_section_summary">Back-up systeeminstellingen, accountgegevens en apps</string>
   <string name="local_backup_section_title">Lokale back-ups</string>
   <string name="locale_default">Standaard</string>
@@ -3039,7 +3043,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="open_demo_mode">Inschakelen</string>
   <string name="open_demo_mode_warning_message">Wanneer demomodus is ingeschakeld stopt de klok in de statusbalk en worden de batterij- en signaalicoontjes weergegeven als vol. Je kan demomodus uitschakelen of het apparaat opnieuw opstarten om het te beëindigen.</string>
   <string name="open_miui_optimization_title">MIUI optimalisatie inschakelen</string>
-  <string name="open_miui_optimization_warning_message">Uw apparaat zal herstarten om deze verandering toe te passen.</string>
+ <string name="open_optimization_message">Schakel de optimalisatie in om te genieten van een soepeler en snellere gebruikersinterface.</string>
+  <string name="open_optimization_option">Inschakelen</string>
   <string name="open_sdcard_optimization_title">Fake SD kaartoptimalisatie inschakelen</string>
   <string name="open_sdcard_optimization_warning_message">Uw apparaat zal opnieuw opstarten om deze wijziging toe te passen.</string>
   <string name="open_wifi_connect_summary">Tik om details weer te geven</string>
@@ -3047,14 +3052,12 @@ Selecteer het OS van uw computer:"</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Dit werkprofiel wordt beheerd door:</string>
   <string name="operator_warning">De hoeveelheid gebruikte data berekend door uw provider kan verschillen met de getoonde gegevens op uw apparaat</string>
   <string name="optimization_cancel">Annuleren</string>
-  <string name="optimization_close">Uitschakelen &amp; herstarten</string>
-  <string name="optimization_open">Aanzetten</string>
   <string name="ota_disable_automatic_update">Automatische systeemupdates</string>
   <string name="other_advanced_settings">Extra instellingen</string>
   <string name="other_device_info">Andere</string>
   <string name="other_personal_settings">Extra instellingen</string>
   <string name="other_relative">Andere</string>
-  <string name="other_sound_category_preference_title">Other sounds and vibrations</string>
+  <string name="other_sound_category_preference_title">Andere geluiden en trillingen</string>
   <string name="other_sound_settings">Andere geluiden</string>
   <string name="overlay_display_devices_title">Secundaire beeldschermen simuleren</string>
   <string name="overlay_settings">Draw over other apps</string>
@@ -4124,7 +4127,7 @@ Opmerking: Je kan je vingerafdruk niet gebruiken om dit apparaat te ontgrendelen
   <string name="show_dev_on">U bent nu ontwikkelaar!</string>
   <string name="show_fc">Geforceerd afgesloten apps</string>
   <string name="show_fc_summary">Toon apps die geforceerd afgesloten zijn</string>
-  <string name="show_hw_layers_updates">Updates op hardwareniveau weergeven</string>
+  <string name="show_hw_layers_updates">Updates op hardware niveau weergeven</string>
   <string name="show_hw_layers_updates_summary">Hardware items die worden bijgewerkt, knipperen groen</string>
   <string name="show_hw_screen_updates">Visualiseer GPU rendering</string>
   <string name="show_hw_screen_updates_summary">Flash vensters waarin video\'s door de GPU worden weergegeven</string>
@@ -4619,9 +4622,9 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="talkback_title">Talkback</string>
   <string name="tap_to_wake">Tikken om te ontwaken</string>
   <string name="tap_to_wake_summary">Dubbeltikken op het scherm om apparaat te ontwaken</string>
-  <string name="telephony_monitor_switch">Telephony Monitor</string>
-  <string name="telephony_monitor_switch_summary">TelephonyMonitor will collect logs when it detects a problem with telephony/modem functionality and prompt notification to user to file a bug</string>
-  <string name="telephony_monitor_toast">To apply telephony monitor change, reboot device</string>
+  <string name="telephony_monitor_switch">Telephony monitor</string>
+  <string name="telephony_monitor_switch_summary">Telephony monitor verzamelt logs wanneer een probleem met telefonie/modem functionaliteit wordt gedetecteerd en de gebruiker wordt gevraagd om een bug in te dienen</string>
+  <string name="telephony_monitor_toast">Om telefonie monitor wijziging toe te passen, start het apparaat opnieuw</string>
   <string name="terms_title">Algemene voorwaarden</string>
   <string name="testing">Testen</string>
   <string name="testing_phone_info">Telefooninformatie</string>
@@ -4973,10 +4976,10 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="usb_use_power_only_desc">Supply power to the other connected device</string>
   <string name="use_location_summary">Google toestaan uw locatie te gebruiken om zoekresultaten en andere services te verbeteren</string>
   <string name="use_location_title">Locatie en Google Zoeken</string>
-  <string name="use_open_wifi_automatically_summary">Automatically connect to high‑quality public networks</string>
-  <string name="use_open_wifi_automatically_title">Connect to open networks</string>
-  <string name="use_personalized_ad_service">Personalized Ad Recommendation</string>
-  <string name="use_personalized_ad_service_summary">When the recommendation feature is switched off, you will still see the same quantity of ads as when it’s on, but not based on your behavior data or your personal information.</string>
+  <string name="use_open_wifi_automatically_summary">Automatisch verbinding maken met openbare netwerken van hoge kwaliteit</string>
+  <string name="use_open_wifi_automatically_title">Verbinden met open netwerken</string>
+  <string name="use_personalized_ad_service">Gepersonaliseerde advertentie aanbeveling</string>
+  <string name="use_personalized_ad_service_summary">Wanneer de aanbevelingsfunctie is uitgeschakeld, ziet u nog steeds hetzelfde aantal advertenties als wanneer deze is ingeschakeld, maar niet op basis van uw gedragsgegevens of uw persoonlijke gegevens.</string>
   <string name="use_privacy_password_immediate">Gebruiken</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="use_this_wlan">Verbonden blijven</string>
@@ -5323,9 +5326,9 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="wifi_advanced_toggle_description_collapsed">DVervolgkeuzelijst Geavanceerde opties. Dubbeltik om uit te vouwen.</string>
   <string name="wifi_advanced_toggle_description_expanded">Vervolgkeuzelijst Geavanceerde opties. Dubbeltik om in te klappen.</string>
   <string name="wifi_aggressive_handover">Aggressive Wi-Fi to mobiele handover</string>
-  <string name="wifi_aggressive_handover_summary">Indien ingeschakeld, zal Wi-Fi agressiever zijn bij het overhandigen van de gegevensverbinding aan mobiel, wanneer het Wi-Fi signaal laag is</string>
+  <string name="wifi_aggressive_handover_summary">Indien ingeschakeld, schakelt de verbinding actiever over naar mobiele gegevens wanneer het Wi-Fi signaal laag is.</string>
   <string name="wifi_allow_scan_with_traffic">Altijd Wi-Fi roam scans toestaan</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Wi-Fi roam scans op basis van de hoeveelheid dataverkeer aanwezig op het grensvlak toestaan of niet toestaan</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Toestaan of beperken van Wi-Fi roam scans op basis van de hoeveelheid dataverkeer aanwezig in de interface</string>
   <string name="wifi_and_mobile_skipped_message">"Als u Wi-Fi overslaat:
 
 Zal uw telefoon geen verbinding met internet hebben.
@@ -5455,6 +5458,7 @@ Wi-Fi assistent"</string>
   <string name="wifi_forget">Vergeten</string>
   <string name="wifi_frequency">Frequentie</string>
   <string name="wifi_gateway">Gateway</string>
+  <string name="wifi_hide_password">Wachtwoord verbergen</string>
   <string name="wifi_hotspot_checkbox_text">Wi-Fi hotspot</string>
   <string name="wifi_hotspot_checkbox_text_summary">Gebruik mobiele verbinding om een Wi-Fi netwerk te voorzien</string>
   <string name="wifi_hotspot_configure_ap_text">Wi-Fi hotspot instellen</string>
@@ -5680,7 +5684,7 @@ als u uw publieke netwerk deelt."</string>
   <string name="wifi_update">Statistieken vernieuwen</string>
   <string name="wifi_use_system_certs">Systeemcertificaten gebruiken</string>
   <string name="wifi_verbose_logging">Wi-Fi Verbose Logging inschakelen</string>
-  <string name="wifi_verbose_logging_summary">Wi-Fi logging niveau verhogen, weergeven per SSID RSSI in Wi-Fi Picker</string>
+  <string name="wifi_verbose_logging_summary">Wi-Fi logging level verhogen, weergeven SSID voor elke RSSI Wi-Fi netwerk in lijst</string>
   <string name="wifi_wakeup">Wi-Fi automatisch inschakelen</string>
   <string name="wifi_wakeup_summary">Wi-Fi wordt weer ingeschakelt in de buurt van hoogkwalitatieve opgeslagen netwerken, zoals uw thuisnetwerk</string>
   <string name="wifi_wakeup_summary_scanning_disabled">Niet beschikbaar omdat WI-Fi scannen is uitgeschakeld</string>

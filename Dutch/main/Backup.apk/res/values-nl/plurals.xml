@@ -20,6 +20,14 @@
         <item quantity="other">%d items</item>
         <item quantity="one">%d item</item>
     </plurals>
+	<plurals name="trans_failed_summary">
+        <item quantity="other">"Kon %d items transferen. Tik om details weer te geven."</item>
+        <item quantity="one">"Kon %d item transferen. Tik om details weer te geven."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Kon %d items transferen."</item>
+        <item quantity="one">"Kon %d item transferen."</item>
+    </plurals>
 	<plurals name="trans_time_format_minute">
         <item quantity="other">%d minuten</item>
         <item quantity="one">%d minuut</item>

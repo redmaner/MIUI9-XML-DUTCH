@@ -9,11 +9,12 @@
         <item quantity="one">%1$d achtergrond verwijderen?</item>
     </plurals>
     <plurals name="editing_mode_title">
-        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="other">Selecteer %1$d items</item>
+        <item quantity="one">Selecteer %1$d item</item>
     </plurals>
 	<plurals name="scroll_tip_format_when_announce_accessibility">
-        <item quantity="other">pagina %1$d, %2$d apps</item>
-        <item quantity="one">pagina %1$d, %2$d app</item>
+        <item quantity="other">Pagina %1$d, %2$d apps</item>
+        <item quantity="one">Pagina %1$d, %2$d app</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">%1$d apps verwijderen?</item>
