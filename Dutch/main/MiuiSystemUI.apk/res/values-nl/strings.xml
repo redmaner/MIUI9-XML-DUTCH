@@ -108,7 +108,7 @@
   <string name="battery_info_status_charging">Opladen</string>
   <string name="battery_info_status_charging_ac">Opladen op AC</string>
   <string name="battery_info_status_charging_ac_short">Opladen</string>
-  <string name="battery_info_status_charging_lower">opladen</string>
+  <string name="battery_info_status_charging_lower">Opladen</string>
   <string name="battery_info_status_charging_usb">Opladen over USB</string>
   <string name="battery_info_status_charging_usb_short">Opladen</string>
   <string name="battery_info_status_charging_wireless">Draadloos laden</string>
@@ -135,7 +135,7 @@
   <string name="bluetooth_connected_no_map">Verbonden (geen toegang tot berichten)</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disable_absolute_volume">Absoluut volume uitschakelen</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Disable absolute volume for Bluetooth in case of volume issues with remote devices, such as unacceptably loud volume or inability to control it.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Schakel het absolute volume voor Bluetooth uit in het geval van volumeproblemen met externe apparaten, zoals een onaanvaardbaar groot volume of de onmogelijkheid om het te bedienen.</string>
   <string name="bluetooth_disconnected">Verbinding verbroken</string>
   <string name="bluetooth_disconnecting">Verbinding verbreken…</string>
   <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
@@ -233,7 +233,7 @@ Sample Rate"</string>
   <string name="connected_via_wfa">Verbonden via Wi-Fi assistent</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Datapartitie omzetten naar bestandsbegaseerde versleuteling.
-Waarschuwing Dit zal alle gegevens wissen.
+Waarschuwing: Dit zal alle gegevens wissen.
 Deze functie is in ontwikkeling, en werkt misschien niet correct.
 Tik 'Wissen en converteren…' om verder te gaan."</string>
   <string name="convert_to_file_encryption">Omzetten naar bestandsversleuteling</string>
@@ -269,7 +269,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="debug_layout_summary">Clipgrenzen, marges etc. weergeven</string>
   <string name="debug_monitoring_category">Toezicht houden</string>
   <string name="debug_networking_category">Netwerk</string>
-  <string name="debug_view_attributes">Attribuut weergeven inschakelen</string>
+  <string name="debug_view_attributes">Attributen weergeven inschakelen</string>
   <string name="demo_mode">Demomodus</string>
   <string name="description_direction_left">Veeg links voor %s.</string>
   <string name="description_direction_up">Veeg omhoog voor %s.</string>
@@ -284,7 +284,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="development_settings_not_available">Ontwikkelaarsopties zijn niet beschikbaar voor deze gebruiker</string>
   <string name="development_settings_summary">Opties voor appontwikkeling instellen</string>
   <string name="development_settings_title">Opties voor ontwikkelaars</string>
-  <string name="direct_boot_unaware_dialog_message">Opmerking: na een herstart kan deze app pas starten nadat je je telefoon hebt ontgrendeld</string>
+  <string name="direct_boot_unaware_dialog_message">Opmerking: u kunt dit toetsenbord alleen gebruiken na een herstart als u uw apparaat ontgrendelt.</string>
   <string name="disable_notification_summary">Nooit meldingen weergeven van geselecteerde apps</string>
   <string name="disable_notification_title">Meldingen verbergen</string>
   <string name="disable_overlays">HW overlay uitschakelen</string>
@@ -308,7 +308,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="enable_adb_summary">Debugmodus wanneer verbonden met USB</string>
   <string name="enable_freeform_support">Freeform windows inschakelen</string>
   <string name="enable_freeform_support_summary">Ondersteuning voor experimentele freeform windows inschakelen.</string>
-  <string name="enable_opengl_traces_title">OpenGL sporing inschakelen</string>
+  <string name="enable_opengl_traces_title">OpenGL opsporen inschakelen</string>
   <string name="enable_power_save_mode">Batterijbespaarder inschakelen</string>
   <string name="enable_terminal_summary">Terminal app die lokale shell toegang biedt inschakelen</string>
   <string name="enable_terminal_title">Lokale terminal</string>
@@ -334,7 +334,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="ext_media_unmountable_notification_title">Beschadigde USB opslag</string>
   <string name="external_source_trusted">Toegestaan</string>
   <string name="external_source_untrusted">Niet toegestaan</string>
-  <string name="failed_to_open_app_settings_toast">Instellingen voor openen van %1$s mislukt</string>
+  <string name="failed_to_open_app_settings_toast">Instellingen openen van %1$s mislukt</string>
   <string name="float_incall_ignore">Negeren</string>
   <string name="float_incall_message">Bericht</string>
   <string name="force_allow_on_external">Forceer toestaan dat apps schrijven op externe opslag</string>
@@ -365,14 +365,14 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="hdcp_checking_dialog_title">HDCP checking instellen</string>
   <string name="hdcp_checking_title">HDCP checking</string>
   <string name="help_feedback_label">Hulp &amp; feedback</string>
-  <string name="home">Startscherminstellingen</string>
+  <string name="home">Startscherm instellingen</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">Naar startscherm gaan</string>
   <string name="how_to_switch_recents">Recente apps tonen</string>
   <string name="how_to_use_drawer">Hoe het schuif menu te openen</string>
   <string name="how_to_use_drawer_summary">Veeg naar rechts in het bovenste gedeelte van het scherm</string>
   <string name="how_to_use_fsg">Je kan deze acties uitvoeren met gebaren:</string>
-  <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+  <string name="ime_security_warning">%1$s kan alles wat u typt opnemen, inclusief wachtwoorden, creditcardnummers en andere persoonlijke gegevens.</string>
   <string name="immediately_destroy_activities">Activiteiten niet behouden</string>
   <string name="immediately_destroy_activities_summary">Elke activiteit beëindigen zodra de gebruiker deze verlaat.</string>
   <string name="important_desc">Alle belangrijke meldingen zullen direct worden getoond in het meldingsscherm.</string>
@@ -431,11 +431,11 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="legacy_dhcp_client_summary">Gebruik de DHCP client van Lollipop in plaats van de nieuwe Android DHCP client.</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Een momentje…</string>
-  <string name="local_backup_password_summary_change">Tik om het wachtwoord voor desktopback-ups te wijzigen of te verwijderen</string>
-  <string name="local_backup_password_summary_none">Desktopback-ups zijn momenteel niet beveiligd</string>
-  <string name="local_backup_password_title">Desktop back-upwachtwoord</string>
+  <string name="local_backup_password_summary_change">Tik om het wachtwoord voor volledige startpagina back-up te wijzigen of te verwijderen</string>
+  <string name="local_backup_password_summary_none">Volledige startpagina zijn momenteel niet beveiligd</string>
+  <string name="local_backup_password_title">Startscherm back-up wachtwoord</string>
   <string name="local_backup_password_toast_confirmation_mismatch">De wachtwoorden komen niet overeen</string>
-  <string name="local_backup_password_toast_success">Nieuwe back-upwachtwoord ingesteld</string>
+  <string name="local_backup_password_toast_success">Nieuwe back-up wachtwoord ingesteld</string>
   <string name="local_backup_password_toast_validation_failure">Kon back-up wachtwoord niet instellen</string>
   <string name="lockscreen_carrier_default">Geen service</string>
   <string name="long_screenshot_not_support_msg">Huidige app ondersteunt geen scrollende schermafdrukken.</string>
@@ -656,7 +656,7 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="search_hint">Zoek naar websites, apps, contacten en video\'s</string>
   <string name="select_application">Selecteer applicatie</string>
   <string name="select_logd_level">Selecteer log niveau</string>
-  <string name="select_logd_size_dialog_title">Selecteer groottes per logbuffer</string>
+  <string name="select_logd_size_dialog_title">Selecteer groottes voor logbuffer</string>
   <string name="select_logd_size_title">Log buffergroottes</string>
   <string name="select_logpersist_dialog_title">Logbuffers selecteren om permanent op het apparaat op te slaan</string>
   <string name="select_logpersist_title">Logger data permanent opslaan op het apparaat</string>
@@ -671,14 +671,12 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="settings_toggle_position_reset">Schakelaars herstellen</string>
   <string name="share">Delen</string>
   <string name="show_all_anrs">Alle ANR\'s weergeven</string>
-  <string name="show_all_anrs_summary">Show \"App not responding\" dialog for background apps</string>
-  <string name="show_cpu_usage">CPU gebruik weergeven</string>
-  <string name="show_cpu_usage_summary">CPU gebruik weergeven met behulp van scherm overlay</string>
+  <string name="show_all_anrs_summary">\"App reageert niet\" dialoogvenster weergeven voor achtergrond apps</string>
   <string name="show_demo_mode">Demomodus weergeven</string>
-  <string name="show_hw_layers_updates">Updates op hardwarelaag weeergeven</string>
-  <string name="show_hw_layers_updates_summary">Hardwarelagen groen kleuren wanneer deze worden bijgewerkt</string>
-  <string name="show_hw_screen_updates">GPU updates weergeven</string>
-  <string name="show_hw_screen_updates_summary">Onderdelen laten flikkeren wanneer getekend door de GPU</string>
+  <string name="show_hw_layers_updates">Updates op hardware niveau weergeven</string>
+  <string name="show_hw_layers_updates_summary">Hardware items die worden bijgewerkt, knipperen groen</string>
+  <string name="show_hw_screen_updates">Visualiseer GPU rendering</string>
+  <string name="show_hw_screen_updates_summary">Flash vensters waarin video\'s door de GPU worden weergegeven</string>
   <string name="show_non_rect_clip">Niet-rechthoekige clipoperaties debuggen</string>
   <string name="show_notification_channel_warnings">Waarschuwingen voor meldingskanalen weergeven</string>
   <string name="show_notification_channel_warnings_summary">Geeft een waarschuwing op het scherm weer wanneer een app een melding plaatst zonder een geldig kanaal</string>
@@ -720,8 +718,8 @@ d MMMM"</string>
   <string name="strict_mode">Strikte modus ingeschakeld</string>
   <string name="strict_mode_summary">Flits scherm wanneer apps lange bewerkingen uitvoeren op de hoofdthread</string>
   <string name="task_access_locked_app_msg">Appvergrendeling inschakelen</string>
-  <string name="telephony_monitor_switch">Telephony Monitor</string>
-  <string name="telephony_monitor_switch_summary">TelephonyMonitor verzamelt logboeken wanneer het een probleem detecteert met telefonie/modemfunctionaliteit en prompt melding aan de gebruiker om een bug in te dienen</string>
+  <string name="telephony_monitor_switch">Telephony monitor</string>
+  <string name="telephony_monitor_switch_summary">Telephony monitor verzamelt logs wanneer een probleem met telefonie/modem functionaliteit wordt gedetecteerd en de gebruiker wordt gevraagd om een bug in te dienen</string>
   <string name="tether_settings_title_all">Tethering &amp; draagbare hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
@@ -801,7 +799,7 @@ d MMMM"</string>
   <string name="usb_storage_stop_notification_title">Schakel USB opslag uit</string>
   <string name="usb_storage_stop_title">USB opslag in gebruik</string>
   <string name="usb_storage_title">USB verbonden</string>
-  <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="user_guest">Gast</string>
   <string name="user_guide_for_notification">Veeg omlaag om de notificatiebalk te bekijken</string>
   <string name="user_guide_for_toggle">Er kan horizontaal door de lijst met schakelaars gescrold worden</string>
@@ -817,9 +815,9 @@ d MMMM"</string>
   <string name="wait_for_debugger_summary">Gedebugte applicatie wacht op aansluiten van debugger voor uitvoering</string>
   <string name="weather_publish_time">%1$s bijgewerkt</string>
   <string name="wifi_aggressive_handover">Automatische overdracht via Wi-Fi naar mobiel</string>
-  <string name="wifi_aggressive_handover_summary">Indien ingeschakeld, schakelt de verbinding over naar meer actievere mobiele data wanneer het wifi-signaal laag is.</string>
-  <string name="wifi_allow_scan_with_traffic">Wi-Fi scans altijd toestaan</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Sta Wi‑Fi roamscans toe of beperk deze op basis van de hoeveelheid dataverkeer in de interface.</string>
+  <string name="wifi_aggressive_handover_summary">Indien ingeschakeld, schakelt de verbinding actiever over naar mobiele gegevens wanneer het Wi-Fi signaal laag is.</string>
+  <string name="wifi_allow_scan_with_traffic">Altijd Wi-Fi roam scans toestaan</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Toestaan of beperken van Wi-Fi roam scans op basis van de hoeveelheid dataverkeer aanwezig in de interface.</string>
   <string name="wifi_connected_no_internet">Verbonden, geen internet</string>
   <string name="wifi_disabled_by_recommendation_provider">Niet verbonden vanwege netwerk met lage kwaliteit</string>
   <string name="wifi_disabled_generic">Uitgeschakeld</string>
@@ -829,13 +827,13 @@ d MMMM"</string>
   <string name="wifi_display_certification">Draadloos scherm certificatie</string>
   <string name="wifi_display_certification_summary">Opties voor draadloos scherm certificatie weergeven</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
-  <string name="wifi_no_internet">Geen internettoegang, zal niet automatisch opnieuw verbinding maken.</string>
-  <string name="wifi_no_internet_no_reconnect">Zal niet automatisch opnieuw verbinding maken</string>
+  <string name="wifi_no_internet">Kan niet verbinden met internet.</string>
+  <string name="wifi_no_internet_no_reconnect">Kan niet automatisch vebinden</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_remembered">Opgeslagen</string>
   <string name="wifi_security_none">Geen</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_verbose_logging">Wi-Fi verbose logging inschakelen</string>
-  <string name="wifi_verbose_logging_summary">Wi-Fi logging level verhogen, weergeven per SSID RSSI in netwerklijst</string>
+  <string name="wifi_verbose_logging_summary">Wi-Fi logging level verhogen, weergeven SSID voor elke RSSI Wi-Fi netwerk in lijst</string>
   <string name="window_animation_scale_title">Scherm-animatieschaal</string>
 </resources>

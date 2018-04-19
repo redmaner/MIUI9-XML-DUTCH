@@ -167,6 +167,7 @@
   <string name="default_cache_type">Databestanden</string>
   <string name="delete_confirm">Verwijderen</string>
   <string name="delete_confirm_msg">Alle geselecteerde bestanden permanent verwijderen?</string>
+  <string name="desc_image">afbeelding</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Foto\'s ook van Mi Cloud verwijderen</string>
   <string name="dialog_content_select_all_confirm">Kopie bewaren van deze foto?</string>
   <string name="dialog_msg_add_white_list_error">Kan dit bestand niet toevoegen aan uitzonderingen</string>

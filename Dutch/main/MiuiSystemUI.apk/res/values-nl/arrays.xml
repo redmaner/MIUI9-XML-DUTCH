@@ -197,7 +197,7 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Standaard)</item>
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
@@ -207,7 +207,7 @@
         <item>Optionele codecs uitschakelen</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Gebruik Systeem Selectie (Standaard)</item>
+        <item>Gebruik systeem voorkeur (Standaard)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
@@ -217,38 +217,38 @@
         <item>Optionele codecs uitschakelen</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Gebruik Systeem Selectie (Standaard)</item>
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Gebruik Systeem Selectie (Standaard)</item>
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Gebruik Systeem Selectie (Standaard)</item>
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Gebruik Systeem Selectie (Standaard)</item>
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Gebruik Systeem Selectie (Standaard)</item>
+        <item>Gebruik systeem voorkeur  (Standaard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Gebruik Systeem Selectie (Standaard)</item>
+        <item>Gebruik systeem voorkeur (Standaard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>

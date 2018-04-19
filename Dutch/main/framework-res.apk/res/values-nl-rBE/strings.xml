@@ -697,6 +697,7 @@ Probeer het over %d seconden opnieuw."</string>
   <string name="mmiErrorWhileRoaming">Kan instellingen voor oproepdoorschakeling niet wijzigen tijdens roaming.</string>
   <string name="mmiFdnError">Bewerking is beperkt tot vaste nummers.</string>
   <string name="more_item_label">Meer</string>
+  <string name="move_button_text">Wisselen</string>
   <string name="muted_by">Gedempt door %1$s</string>
   <string name="needPuk">Uw SIM kaart is vergrendeld met de PUK code. Typ de PUK code om te ontgrendelen.</string>
   <string name="needPuk2">Voer de PUK2 code in om de SIM kaart te ontgrendelen.</string>

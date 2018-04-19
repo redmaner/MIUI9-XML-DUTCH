@@ -3,8 +3,8 @@
   <string name="accessibility_calllog_detail">Details oproepgeschiedenis</string>
   <string name="accessibility_contact_detail">Details contact</string>
   <string name="account_container_title">Geïmporteerd van</string>
-  <string name="account_default">Telefoon</string>
-  <string name="account_phone">Alleen voor telefoon, niet gesynchroniseerd</string>
+  <string name="account_default">Lokaal</string>
+  <string name="account_phone">Alleen apparaat, niet gesynchroniseerd</string>
   <string name="account_sim">SIM kaart</string>
   <string name="account_sim2">SIM kaart %d</string>
   <string name="account_type_format">%1$s contact</string>
@@ -55,7 +55,7 @@
   <string name="button_join_service_number">Servicenummer toevoegen</string>
   <string name="button_my_center">Profiel</string>
   <string name="button_scan">Opnieuw scannen</string>
-  <string name="caching_vcard_message">Bezig met opslaan van vCard(s) in de lokale tijdelijke opslag. Het daadwerkelijke importeren begint binnenkort.</string>
+  <string name="caching_vcard_message">Caching vCard op apparaat…</string>
   <string name="caching_vcard_title">In cachegeheugen opslaan</string>
   <string name="callAgain">Opnieuw bellen</string>
   <string name="callBack">Terugbellen</string>
@@ -179,7 +179,7 @@
   <string name="cloud_state_sync_finished">Synchroniseren met Mi Cloud</string>
   <string name="cloud_state_syncing">Gesynchroniseerd met Mi Cloud</string>
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
-  <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw telefoon heeft opgeslagen staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
+  <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw apparaat heeft opgeslagen staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard editor is niet correct gestart.</string>
   <string name="confirm_delete_contact_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_selected_all_call_logs">Oproepgeschiedenis wissen?</string>
@@ -352,8 +352,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="device_import_progress_toast">%1$d contacten geïmporteerd</string>
   <string name="device_import_title">Importeren</string>
   <string name="device_list_title">Apparaat kiezen</string>
-  <string name="device_other_guide">Ondersteunt de andere telefoon bluetooth?</string>
-  <string name="device_other_title">Importeren van andere telefoons</string>
+  <string name="device_other_guide">Ondersteunt de andere apparaat bluetooth?</string>
+  <string name="device_other_title">Importeren van andere apparaten</string>
   <string name="device_paired_dialog_message">Contacten ophalen…</string>
   <string name="device_paired_dialog_title">Contacten ophalen…</string>
   <string name="device_pairing_dialog_message">Koppelen…</string>
@@ -520,7 +520,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="import_contact_card_button">Contact importeren</string>
   <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden in opslag.</string>
   <string name="import_from_onekey_migrate">Importeren met Mi Mover</string>
-  <string name="import_from_other_phone">Importeren uit een andere telefoon</string>
+  <string name="import_from_other_phone">Importeren uit een ander apparaat</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
   <string name="import_from_sim">Importeren van SIM kaart</string>
   <string name="import_from_sim1">Importeren van SIM kaart 1</string>
@@ -537,7 +537,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="import_to_xiaomi_account_progress_message">Importeren…</string>
   <string name="import_to_xiaomi_account_progress_title">Importeren naar Mi Account</string>
   <string name="import_to_xiaomi_account_title">Importeer onderstaande contacten naar uw Mi Account?</string>
-  <string name="import_vcard_description">Importeer contacten van de interne opslag van telefoon</string>
+  <string name="import_vcard_description">Importeer contacten van de interne opslag van het apparaat</string>
   <string name="import_vcard_dialog_message">VCard importeren?</string>
   <string name="importing_sim_contacts_miui">Importeren van SIM contacten…</string>
   <string name="importing_sim_contacts_miui_prepare">Voorbereiden van contacten…</string>
@@ -548,7 +548,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="insertGroupDescription">Groep maken</string>
   <string name="invalidContactMessage">Het contact bestaat niet.</string>
   <string name="keep_local">Niet synchroniseren</string>
-  <string name="keep_local_btn">Gebruik de interne opslag van de telefoon</string>
+  <string name="keep_local_btn">Gebruik de interne opslag van het apparaat</string>
   <string name="label_custom_type">Aangepast</string>
   <string name="label_no_duplicate_contacts">Geen duplicaten gevonden</string>
   <string name="label_notes">Opmerkingen</string>
@@ -797,7 +797,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="phoneLabelsGroup">Telefoon</string>
   <string name="phone_number_too_long_toast">Nummer is te lang</string>
   <string name="phone_primary">Primaire</string>
-  <string name="photoPickerNotFoundText">Er zijn geen foto\'s beschikbaar op de telefoon.</string>
+  <string name="photoPickerNotFoundText">Er zijn geen foto\'s beschikbaar op het apparaat.</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_load_failed">Kon foto niet laden</string>
   <string name="pick_new_photo">Kies een foto uit %s</string>
@@ -983,7 +983,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="select_all_exceed">Teveel items geselecteerd. Selecteer er maximaal %1$d.</string>
   <string name="select_exceed">Je kan maximaal %1$d items selecteren.</string>
   <string name="select_groups">Kies groepen</string>
-  <string name="select_none">Niets geselecteerd</string>
+  <string name="select_none">Geen geselecteerde items</string>
   <string name="select_show_contacts">Contactenlijst</string>
   <string name="select_vcard_title">vCard bestand kiezen</string>
   <string name="send_contact_shortcut_todesktop_success">Toegevoegd aan startscherm</string>
@@ -1071,7 +1071,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="social_widget_label">Contacten</string>
   <string name="social_widget_loading">Laden…</string>
   <string name="solar_calendar">Kalender</string>
-  <string name="special_code_security_exception">Bewerking geweigerd: geen standaardkiezer</string>
+  <string name="special_code_security_exception">Kon actie niet voltooien. Dit is niet uw toetsenbord.</string>
   <string name="splitConfirmation">Dit contact wordt gesplitst in meerdere contacten.</string>
   <string name="splitConfirmation_title">Contact opsplitsen?</string>
   <string name="starredList">Favoriet</string>
@@ -1099,8 +1099,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="toast_copy_done">Gereed</string>
   <string name="toast_copying">Kopiëren…</string>
   <string name="toast_displaying_all_contacts">Alle contacten worden weergegeven</string>
-  <string name="toast_finish_delete_call_log">Gespreksgeschiedenis gewist</string>
-  <string name="toast_finish_delete_selected_call_log">Gespreksgeschiedenis gewist</string>
+  <string name="toast_finish_delete_call_log">Met succes gewist</string>
+  <string name="toast_finish_delete_selected_call_log">Met succes gewist</string>
   <string name="toast_for_failed_saving_nickname">Bijnaam kon niet opgeslagen worden</string>
   <string name="toast_for_saving_nickname">Bijnaam opgeslagen</string>
   <string name="toast_join_with_empty_contact">Geef een contactnaam op voordat u dit contact samenvoegt met een ander contact.</string>
