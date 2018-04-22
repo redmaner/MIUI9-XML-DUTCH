@@ -1,0 +1,15 @@
+#!/bin/bash
+# Copyright (c) 2018, redmaner
+
+up=$PWD
+git pull origin master
+
+if [ ! -d $up/merge ]; then
+	git clone git@github.com:Redmaner/MIUI-MERGER-NL.git -b master merge
+else
+	cd $up/merge
+	git pull origin master
+	cd $up
+fi
+
+$up/merge/merge
