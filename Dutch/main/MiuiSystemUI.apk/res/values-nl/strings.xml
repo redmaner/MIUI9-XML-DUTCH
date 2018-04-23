@@ -106,13 +106,7 @@
   <string name="audio_effect_settings">Kies type hoofdtelefoon</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="battery_info_status_charging">Opladen</string>
-  <string name="battery_info_status_charging_ac">Opladen op AC</string>
-  <string name="battery_info_status_charging_ac_short">Opladen</string>
   <string name="battery_info_status_charging_lower">Opladen</string>
-  <string name="battery_info_status_charging_usb">Opladen over USB</string>
-  <string name="battery_info_status_charging_usb_short">Opladen</string>
-  <string name="battery_info_status_charging_wireless">Draadloos laden</string>
-  <string name="battery_info_status_charging_wireless_short">Opladen</string>
   <string name="battery_info_status_discharging">Niet aangesloten</string>
   <string name="battery_info_status_full">Volledig opgeladen</string>
   <string name="battery_info_status_not_charging">Niet aan het opladen</string>
@@ -230,7 +224,6 @@ Sample Rate"</string>
   <string name="connected_via_network_scorer">Automatisch verbonden via %1$s</string>
   <string name="connected_via_network_scorer_default">Automatisch verbonden via netwerkbeoordelaar</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
-  <string name="connected_via_wfa">Verbonden via Wi-Fi assistent</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Datapartitie omzetten naar bestandsbegaseerde versleuteling.
 Waarschuwing: Dit zal alle gegevens wissen.
@@ -312,8 +305,6 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="enable_power_save_mode">Batterijbespaarder inschakelen</string>
   <string name="enable_terminal_summary">Terminal app die lokale shell toegang biedt inschakelen</string>
   <string name="enable_terminal_title">Lokale terminal</string>
-  <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-  <string name="enable_webview_multiprocess_desc">WebView renderers apart laten lopen</string>
   <string name="enabled_by_admin">Ingeschakeld door administrator</string>
   <string name="expanded_confirm_disable_notification">Verbergen</string>
   <string name="expanded_notification_manager">Meldingen beheren</string>
@@ -428,8 +419,6 @@ Gebruik alleen de bijgeleverde oplader.</string>
   <string name="label_view">Weergeven</string>
   <string name="launch_defaults_none">Geen standaardapps ingesteld</string>
   <string name="launch_defaults_some">Sommige standaardwaarden ingesteld</string>
-  <string name="legacy_dhcp_client_summary">Gebruik de DHCP client van Lollipop in plaats van de nieuwe Android DHCP client.</string>
-  <string name="lland">L Land</string>
   <string name="loading_desktop">Een momentje…</string>
   <string name="local_backup_password_summary_change">Tik om het wachtwoord voor volledige startpagina back-up te wijzigen of te verwijderen</string>
   <string name="local_backup_password_summary_none">Volledige startpagina zijn momenteel niet beveiligd</string>
@@ -549,9 +538,6 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="pointer_location">Aanwijzerlocatie</string>
   <string name="pointer_location_summary">Schermoverlay toont huidige aanraakgegevens</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s tot volledig opgeladen op AC</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s tot volledig opgeladen over USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig opgeladen op draadloos</string>
   <string name="power_discharging_duration">%1$s - ongeveer. %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
@@ -704,7 +690,7 @@ d MMMM"</string>
   <string name="status_bar_recent_guide_top">Schuif omhoog om te sluiten</string>
   <string name="status_bar_recent_inspect_item_title">Appinfo</string>
   <string name="status_bar_recent_memory_info1">%1$sB van %2$sB beschikbaar</string>
-  <string name="status_bar_recent_memory_info2"/> <string name="status_bar_recent_remove_item_title">Verwijderen van lijst</string>
+  <string name="status_bar_recent_remove_item_title">Verwijderen van lijst</string>
   <string name="status_bar_recording_back">Terugkeren naar recorder</string>
   <string name="status_bar_recording_pause">Recorder is gepauzeerd. Klik om terug te gaan naar de recorder.</string>
   <string name="status_bar_safepay_risk">Betalingsrisico\'s gevonden</string>

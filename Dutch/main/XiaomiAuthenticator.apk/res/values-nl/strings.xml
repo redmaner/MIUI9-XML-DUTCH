@@ -160,7 +160,8 @@ De datum &amp; Tijd instellingen op dit apparaat zijn niet gewijzigd."</string>
   <string name="title_updatepattern">Wachtwoord wijzigen</string>
   <string name="title_visible_pattern">Maak patroon zichtbaar</string>
   <string name="type_prompt">Type van de sleutel</string>
-   <string name="version_preference_title">Versie</string>
+  <string name="update_pattern_jump">&lt;u&gt;Wachtwoord verwijderen&lt;/u&gt;</string>
+  <string name="version_preference_title">Versie</string>
   <string name="welcome_page_alert">&lt;font color=#fb3500&gt;* &lt;/font&gt;Als u uw Mi Veiligheids token verwijdert, zult u niet in staat zijn om in te loggen op uw account.</string>
   <string name="welcome_page_details">"- Houd uw account veilig.
 Voorkom dat vreemden gebruik  maken van uw apparaat om aan te melden op uw account."</string>

@@ -206,13 +206,7 @@
   <string name="bad_puk">De ingevoerde PUK code is fout.</string>
   <string name="bad_puk2">De ingevoerde PUK2 code is fout.</string>
   <string name="battery_info_status_charging">Opladen</string>
-  <string name="battery_info_status_charging_ac">Opladen op AC</string>
-  <string name="battery_info_status_charging_ac_short">Opladen</string>
-  <string name="battery_info_status_charging_lower">opladen</string>
-  <string name="battery_info_status_charging_usb">Opladen over USB</string>
-  <string name="battery_info_status_charging_usb_short">Opladen</string>
-  <string name="battery_info_status_charging_wireless">Draadloos opladen</string>
-  <string name="battery_info_status_charging_wireless_short">Opladen</string>
+  <string name="battery_info_status_charging_lower">Opladen</string>
   <string name="battery_info_status_discharging">Niet opladen</string>
   <string name="battery_info_status_full">Volledig opgeladen</string>
   <string name="battery_info_status_not_charging">Niet opladen</string>
@@ -532,7 +526,6 @@ Sample Rate"</string>
   <string name="connected_via_network_scorer">Automatisch verbonden via %1$s</string>
   <string name="connected_via_network_scorer_default">Automatisch verbinden via netwerkratingprovider</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
-  <string name="connected_via_wfa">Verbonden via Wi-Fi assistent</string>
   <string name="connection_service_default_label">Ingebouwde verbindingsdienst</string>
   <string name="contactAddFailed">Kan contactpersoon niet toevoegen aan SIM kaart.</string>
   <string name="contactAddSuccess">Contactpersoon toegevoegd aan SIM kaart.</string>
@@ -704,8 +697,6 @@ Sample Rate"</string>
   <string name="enable_video_calling_dialog_msg">Om video-oproepen in te schakelen, moet u geavanceerde 4G LTE modus inschakelen in de netwerkinstellingen.</string>
   <string name="enable_video_calling_dialog_settings">Netwerkinstellingen</string>
   <string name="enable_video_calling_title">Video-oproepen inschakelen</string>
-  <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-  <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
   <string name="enabled_by_admin">Ingeschakeld door beheerder</string>
   <string name="enhanced_4g_lte_mode_off_failed">Kon VoLTE niet uitschakelen.</string>
   <string name="enhanced_4g_lte_mode_on_failed">Kon VoLTE niet inschakelen.</string>
@@ -857,7 +848,6 @@ Sample Rate"</string>
   <string name="lafs_enable">Vluchttijden voor lokaal vliegveld ingeschakeld</string>
   <string name="launch_defaults_none">Geen standaardinstellingen ingesteld</string>
   <string name="launch_defaults_some">Sommige standaardinstellingen ingesteld</string>
-  <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="list_language_dtitle">Talen</string>
   <string name="list_language_summary">De taal voor het nieuws selecteren</string>
   <string name="list_language_title">Taal</string>
@@ -1142,9 +1132,6 @@ U hebt nog %d pogingen over."</string>
   <string name="pointer_location_summary">Schermoverlay met huidige aanraakgegevens</string>
   <string name="port_title">Poortnummer</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s tot volledig opgelade op AC</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s tot volledig opgeladel over USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig draadloos opgelade</string>
   <string name="power_discharging_duration">%1$s - ongeveer %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
@@ -1171,7 +1158,6 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_mode_cdma_summary">Voorkeursnetwerkmodus: CDMA</string>
   <string name="preferred_network_mode_cdma_wo_evdo_choice">CDMA zonder EvDo</string>
   <string name="preferred_network_mode_dialogtitle">Voorkeursnetwerktype</string>
-  <string name="preferred_network_mode_dialogtitle_cmcc">Network mode</string>
   <string name="preferred_network_mode_evdo_only_choice">Alleen EvDo</string>
   <string name="preferred_network_mode_evdo_only_summary">Voorkeursnetwerkmodus: Alleen EvDo</string>
   <string name="preferred_network_mode_global_choice">Wereldwijd</string>
@@ -1185,18 +1171,9 @@ U hebt nog %d pogingen over."</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Voorkeursnetwerkmodus: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Voorkeursnetwerkmodus: GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Voorkeursnetwerkmodus: LTE</string>
-  <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Voorkeursnetwerkmodus: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Voorkeursnetwerkmodus: LTE/GSM/TDSCDMA</string>
-  <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Voorkeursnetwerkmodus: LTE/TDSCDMA/GSM/WCDMA</string>
-  <string name="preferred_network_mode_lte_tdscdma_summary">Voorkeursnetwerkmodus: LTE / TDSCDMA</string>
-  <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Voorkeursnetwerkmodus: LTE/TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Voorkeursnetwerkmodus: LTE/WCDMA</string>
   <string name="preferred_network_mode_summary">De netwerkgebruiksmodus wijzigen</string>
-  <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Voorkeursnetwerkmodus: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_tdscdma_gsm_summary">Voorkeursnetwerkmodus: TDSCDMA / GSM</string>
-  <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Voorkeursnetwerkmodus: TDSCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_tdscdma_summary">Voorkeursnetwerkmodus: TDSCDMA</string>
-  <string name="preferred_network_mode_tdscdma_wcdma_summary">Voorkeursnetwerkmodus: TDSCDMA / WCDMA</string>
   <string name="preferred_network_mode_title">Voorkeursnetwerktype</string>
   <string name="preferred_network_mode_wcdma_only_choice">Alleen WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Voorkeursnetwerkmodus: Alleen WCDMA</string>
@@ -1326,8 +1303,6 @@ U hebt nog %d pogingen over."</string>
   <string name="settings_label">Netwerkinstellingen</string>
   <string name="show_all_anrs">Alle ANRs weergeven</string>
   <string name="show_all_anrs_summary">App niet reageren dialoog voor achtergrond apps weergeven</string>
-  <string name="show_cpu_usage">Show CPU usage</string>
-  <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
   <string name="show_hw_layers_updates">Hardwarelagen updates weergeven</string>
   <string name="show_hw_layers_updates_summary">Flash hardware lagen groen wanneer ze updaten</string>
   <string name="show_hw_screen_updates">GPU view updates weergeven</string>
@@ -1574,8 +1549,6 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="voicemail_change_pin_dialog_title">PIN wijzigen</string>
   <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
   <string name="voicemail_default">Uw provider</string>
-  <string name="voicemail_notification_ringtone_title">Geluid</string>
-  <string name="voicemail_notification_vibarte_when_dialog_title">Trillen</string>
   <string name="voicemail_notification_vibrate_when_title">Trillen</string>
   <string name="voicemail_notifications_preference_title">Meldingen</string>
   <string name="voicemail_number_not_set">Niet ingesteld</string>
@@ -1587,6 +1560,7 @@ Volgende periode start in %2$d dagen (%3$s)"</string>
   <string name="voicemail_settings_number_label">Voicemailnummer</string>
   <string name="voicemail_settings_number_title">Voicemailnummer</string>
   <string name="voicemail_settings_with_label">Voicemail (%s)</string>
+  <string name="voicemail_visual_voicemail_switch_title">Visuele Voicemail</string>
   <string name="voip_setting">VoIP instellingen</string>
   <string name="volte_provision_notification_activate">Activeren</string>
   <string name="volte_provision_text">VoLTE oproepen zijn van betere kwaliteit dan normale oproepen. SMS versturen om te activeren?</string>

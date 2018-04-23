@@ -4,7 +4,6 @@
   <string name="account_related">Uw toestel is gekoppeld aan een bestaand Mi account (%s). Maak verbinding met netwerk om het apparaat te controleren.</string>
   <string name="activate_find_device_success">Apparaat vinden is geactiveerd</string>
   <string name="activate_finddevice">Verbinden met netwerk om apparaat te activeren</string>
-  <string name="activate_number_change_dialog_message">Kies telefoonnr. die zichtbaar zal zijn voor anderen wanneer je met VoIP belt</string>
   <string name="activating">Activeren…</string>
   <string name="add_short_cut">Toevoegen</string>
   <string name="added_successfully">Toegevoegd</string>
@@ -255,7 +254,6 @@ of apparaat te wissen."</string>
   <string name="micloud_setting_music_summary">Afspeellijsten en favorieten and favorites</string>
   <string name="micloud_setting_sms_summary">SMS en MMS berichten</string>
   <string name="micloud_setting_wifi_summary">WiFi instellingen</string>
-  <string name="micloud_single_dspt">Gebruik Mi Cloud om data te sync., je apparaat te zoeken en dingen te delen met je vrienden.</string>
   <string name="micloud_space_applist_detail">Beheer apps op je Startscherm</string>
   <string name="micloud_space_applist_title">Beheer apps</string>
   <string name="micloud_space_duokan_detail">Download en beheer e-books met de Duokan app.</string>
@@ -334,8 +332,6 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder zal geen mobiele data gebruiken om opnames te downloaden of te uploaden</string>
   <string name="soundrecorder_sync_records">Synchroniseren met Mi Cloud</string>
   <string name="sub_alert_notif_content">Schakel synchronisatie met Mi Cloud in om uw gegevens te back-uppen</string>
-  <string name="sub_alert_notif_dspt_add">Items wachten om te synchroniseren: %s</string>
-  <string name="sub_alert_notif_dspt_no">Gesynchroniseerd</string>
   <string name="sub_alert_notif_title">Synchroniseren met Mi Cloud</string>
   <string name="sub_sync_item_sms_summary">"Synchroniseer alleen berichten met foto's, audio of andere media over het Wi-Fi netwerk "</string>
   <string name="sub_sync_item_sms_title_wifi_only">Enkel Wi-Fi gebruiken om MMS te synchroniseren</string>

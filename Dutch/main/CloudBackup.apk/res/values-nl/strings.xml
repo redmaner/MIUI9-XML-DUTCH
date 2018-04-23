@@ -108,6 +108,7 @@
   <string name="download_settings_fail">Kon startscherm instellingen niet downloaden</string>
   <string name="error_unknown">Er liep iets fout</string>
   <string name="get_device_id_error">Kon apparaat ID niet verkrijgen</string>
+  <string name="home_hint_global_launcher">Poco startscherm</string>
   <string name="home_restore_error">Kon startscherm niet herstellen</string>
   <string name="lack_of_storage">Niet genoeg opslagruimte</string>
   <string name="latest_backup_time_loading">Laden…</string>

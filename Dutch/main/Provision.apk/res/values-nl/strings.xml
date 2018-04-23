@@ -62,6 +62,7 @@ Bekijk het privacybeleid van het geselecteerde toetsenbord."</string>
   <string name="shut_down">Uitschakelen</string>
   <string name="sim_card_detecting">Controleren op SIM kaart…</string>
   <string name="sim_card_detecting_check">Kon SIM kaart niet vinden. Zorg ervoor dat de SIM kaart goed is bevestigd en dat je voldoende saldo hebt.</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Sta verbinding toe met mobiele datanetwerken? Als u dat doet, wordt de SIM kaart die u invoegt, gebruikt om verbinding te maken met mobiele datanetwerken.</string>
   <string name="sim_card_detecting_title">Controleren op SIM kaart</string>
   <string name="sim_card_detection">SIM kaart invoeren</string>
   <string name="sim_card_detection_info">Om uw SIM kaart in te voeren, lees de instructies die bij het apparaat geleverd zijn.</string>

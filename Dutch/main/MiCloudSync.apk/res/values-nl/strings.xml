@@ -5,4 +5,4 @@
   <string name="error_not_acceptable">Synchronisatie is uitgeschakeld.</string>
   <string name="error_title">Kon niet synchroniseren</string>
   <string name="error_unauthorized">Synchronisatie is uitgeschakeld vanwege te veel aanmeldingspogingen.</string>
-</resources>
+  </resources>

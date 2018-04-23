@@ -121,7 +121,6 @@ Het object mag niet verder dan 2 meter zijn."</string>
   <string name="edit_skin_white">Toon</string>
   <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
   <string name="face_age_info">Leeftijd: %d</string>
-  <string name="face_analyze_info">Leeftijd: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Vrouw</string>
   <string name="face_analyze_info_male">Man</string>
   <string name="face_beauty_advanced">Pro</string>
@@ -153,8 +152,6 @@ Het object mag niet verder dan 2 meter zijn."</string>
   <string name="front_camera_hint_text_place">"Selfies nemen zal gemakkelijker zijn
 als je je telefoon draait"</string>
   <string name="front_camera_hint_text_rotate">Draai je telefoon</string>
-  <string name="groupshot_mode_use_hint">"Meerdere foto's zullen worden genomen om het beste te selecteren
-gezichtsuitdrukking om te synthetiseren in een foto"</string>
   <string name="hine_hht">"Bij weinig licht maakt de camera meerdere foto's
 en maak vervolgens een opname met een minimale hoeveelheid ruis."</string>
   <string name="hint_device_water_mark">Foto watermerk worden automatisch toegevoegd.</string>
@@ -256,6 +253,9 @@ brengt de mensen naar voren."</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Mat</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_title">Contrast</string>
+  <string name="pref_camera_delay_capture_entry_10s">10s vertraging</string>
+  <string name="pref_camera_delay_capture_entry_3s">3s vertraging</string>
+  <string name="pref_camera_delay_capture_entry_5s">5s vertraging</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
   <string name="pref_camera_device_watermark_title">Foto watermerkk</string>
@@ -306,7 +306,6 @@ brengt de mensen naar voren."</string>
   <string name="pref_camera_magic_mirror_title">Magische spiegel</string>
   <string name="pref_camera_manual_mode_title">Handmatig</string>
   <string name="pref_camera_mfnr_sat_enable_title">MFNR inschakelen</string>
-  <string name="pref_camera_mono_mode_title">Z&amp;W</string>
   <string name="pref_camera_movie_solid_title">Beeldstabilisatie</string>
   <string name="pref_camera_multilevel_entry_high">Hoog</string>
   <string name="pref_camera_multilevel_entry_higher">Hoger</string>
@@ -322,8 +321,6 @@ brengt de mensen naar voren."</string>
   <string name="pref_camera_peak_entry_off">Uit</string>
   <string name="pref_camera_peak_entry_on">Aan</string>
   <string name="pref_camera_peak_title">Focus Peaking</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Volledig scherm 16:9</string>
-  <string name="pref_camera_picturesize_entry_standard">Standaard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Cameraframe</string>
   <string name="pref_camera_portrait_mode_entry_off">Portretmodus is uitgeschakeld</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretmodus is ingeschakeld</string>
@@ -438,7 +435,6 @@ brengt de mensen naar voren."</string>
   <string name="pref_video_speed_entry_slow">Traag</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">Slow motion</string>
-  <string name="pref_video_speed_title">Video opnamesnelheid</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval van 0.3 seconden (10 keer)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Interval van 4 seconden (120 keer)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Interval van 5 seconden (150 keer)</string>
@@ -471,7 +467,6 @@ brengt de mensen naar voren."</string>
   <string name="simple_mode_button_text_hand_night">Draagbare schemering sluiten</string>
   <string name="simple_mode_button_text_magic_mirror">Magische spiegel uitschakelen</string>
   <string name="simple_mode_button_text_manual">Handmatige modus sluiten</string>
-  <string name="simple_mode_button_text_mono">Z&amp;W uitschakelen</string>
   <string name="simple_mode_button_text_panorama">Panorama sluiten</string>
   <string name="simple_mode_button_text_raw">TRAW uitschakelen</string>
   <string name="simple_mode_button_text_scene">Scenemodus sluiten</string>
@@ -493,8 +488,6 @@ brengt de mensen naar voren."</string>
   <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
   <string name="time_lapse_error">Kan dit videoformaat voor timelapse opname niet gebruiken</string>
   <string name="title_snap_double_confirm">Opnieuw bevestigen</string>
-  <string name="toast_burst_snap_finished_end">foto\'s</string>
-  <string name="toast_burst_snap_finished_start">Burst shot</string>
   <string name="toast_burst_snap_finished_summary">Burst shot Klaar, %1$s foto\'s genomen</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burstshoot wordt niet ondersteund als audio-opname aan staat</string>
   <string name="toast_saving">Foto\'s opslaan…</string>

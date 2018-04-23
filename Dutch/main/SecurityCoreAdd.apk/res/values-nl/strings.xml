@@ -85,6 +85,7 @@ kan op elk moment bekeken worden"</string>
   <string name="encrypt_space_delete_notification_message">Verwijder uw tweede ruimteen maak een nieuwe om uw apparaat met bij te werken.</string>
   <string name="encrypt_space_delete_notification_title">Tw ruimte</string>
   <string name="enter_air_space">Ga naar werkruimte</string>
+  <string name="entrance_reopen_toast_msg">De snelkoppeling tweede ruimte wordt weergegeven vanwege verschillende wachtwoordtypen</string>
   <string name="err_copy_contacts">Kon contacten niet kopiëren</string>
   <string name="err_copy_files">Kon bestanden niet kopiëren</string>
   <string name="err_copy_photos">Kon foto\'s niet kopiëren</string>
@@ -208,6 +209,9 @@ U kan ze ook apart downloaden."</string>
   <string name="removingSpace">Verwijderen…</string>
   <string name="repeat_scanner_fingerprint">Opnieuw toevoegen</string>
   <string name="reset_passwd_success">Wachtwoord is gereset</string>
+  <string name="reset_password_dialog_message">"You're using different password types for First space and Second space. Second space should use the same password type as First space for the shortcut to be hidden."</string>
+  <string name="reset_password_dialog_positve_btn_title">Wijzigen</string>
+  <string name="reset_password_dialog_title">Kan de snelkoppeling van tweede ruimte niet verbergen</string>
   <string name="restore_normal_show">Geen privéberichten weergeven</string>
   <string name="restore_show_desc">Geen privéberichten in de tweede ruimte weergeven. Ze zullen nog beschikbaar zijn in de eerste ruimte.</string>
   <string name="restore_show_toast">Geen privéberichten weergeven</string>
@@ -374,6 +378,7 @@ Sommige gedupliceerde apps vereisen Google Services Framework. In zulke gevallen
   <string name="xspace_guide_title">Gedupliceerde app aanmaken</string>
   <string name="xspace_header">Gedupliceerde apps</string>
   <string name="xspace_install_completed">Icoon toegevoegd aan startpagina</string>
+  <string name="xspace_install_completed_global">Icoon toegevoegd aan lade</string>
   <string name="xspace_install_failed">Kon het niet aanmaken</string>
   <string name="xspace_installing">Installeren…</string>
   <string name="xspace_introduce">Aanbevolen</string>

@@ -3,7 +3,6 @@
   <string name="ErrorTooManyRequests">Er worden te veel aanvragen verwerkt, probeer het later opnieuw.</string>
   <string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
   <string name="ack_record">ACK record</string>
-  <string name="airplane_can_not_share">Vliegmodus kan Bluetooth niet gebruiken om te delen</string>
   <string name="airplane_error_msg">U kunt Bluetooth niet gebruiken in Vliegmodus.</string>
   <string name="airplane_error_title">Vliegmodus</string>
   <string name="app_name">Bluetooth Share</string>
@@ -12,7 +11,6 @@
   <string name="auth_notif_title">Sessiesleutel</string>
   <string name="bluetooth_connected">Bluetooth audio is verbonden</string>
   <string name="bluetooth_disconnected">Bluetooth audio verbinding verbroken</string>
-  <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
   <string name="bluetooth_map_settings_app_icon">Applicatie icoon</string>
   <string name="bluetooth_map_settings_cancel">Annuleren</string>
   <string name="bluetooth_map_settings_count">Sloten over:</string>
@@ -62,10 +60,8 @@
   <string name="empty_file_notification_sent">Delen via Bluetooth: op afstand afgewezen nullengte bestand %1$s</string>
   <string name="enabling_progress_content">Bluetooth inschakelen…</string>
   <string name="enabling_progress_title">Een ogenblik geduld…</string>
-  <string name="hello">Hallo wereld, testactiviteit</string>
   <string name="inbound_history_title">Inkomende overdrachten</string>
   <string name="inbound_noti_title">Delen via Bluetooth: ontvangen bestanden</string>
-  <string name="incoming_file_confirm_Notification_caption">Do you want to receive this file?</string>
   <string name="incoming_file_confirm_Notification_content">%1$s is klaar om %2$s te verzenden</string>
   <string name="incoming_file_confirm_Notification_title">Delen via Bluetooth: Inkomend bestand</string>
   <string name="incoming_file_confirm_cancel">Weigeren</string>
@@ -86,7 +82,6 @@
   <string name="no_transfers">Overdrachtsgeschiedenis is leeg.</string>
   <string name="not_exist_file">Geen bestand</string>
   <string name="not_exist_file_desc">Het bestand bestaat niet.</string>
-  <string name="noti_caption">%1$s met succes, %2$s zonder succes.</string>
   <string name="notification_received">Delen via Bluetooth: %1$s ontvangen</string>
   <string name="notification_received_fail">Delen via Bluetooth: bestand %1$s niet ontvangen</string>
   <string name="notification_receiving">Delen via Bluetooth: %1$s ontvangen</string>
@@ -104,11 +99,9 @@
   <string name="pbap_notification_group">Contacten delen via Bluetooth</string>
   <string name="pbap_session_key_dialog_header">Bluetooth sessiesleutel is vereist</string>
   <string name="pbap_session_key_dialog_title">Typ de sessiesleutel voor %1$s</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">Hiermee kan de app toegang krijgen tot de BluetoothAvrcpData manager en deze gebruiken om weer te geven in de gebruikersinterface.</string>
   <string name="permdesc_bluetoothShareManager">Hiermee krijgt de app toegang tot de beheerfunctie voor delen via Bluetooth om deze functie te gebruiken voor het overdragen van bestanden.</string>
   <string name="permdesc_bluetoothWhitelist">Hiermee kan de app tijdelijk een Bluetooth apparaat op de witte lijst plaatsen, waardoor dat apparaat bestanden kan verzenden naar dit apparaat zonder bevestiging van de gebruiker.</string>
   <string name="permdesc_handoverStatus">Hiermee kunt u informatie over de overdracht van overdrachtsstatus ontvangen van Bluetooth.</string>
-  <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht uitzendingen.</string>

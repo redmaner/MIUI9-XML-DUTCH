@@ -49,13 +49,7 @@
   <string name="app_process_limit_title">Limiet achtergrondprocessen</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="battery_info_status_charging">Opladen</string>
-  <string name="battery_info_status_charging_ac">Opladen op AC</string>
-  <string name="battery_info_status_charging_ac_short">Opladen</string>
-  <string name="battery_info_status_charging_lower">opladen</string>
-  <string name="battery_info_status_charging_usb">Opladen over USB</string>
-  <string name="battery_info_status_charging_usb_short">Opladen</string>
-  <string name="battery_info_status_charging_wireless">Draadloos laden</string>
-  <string name="battery_info_status_charging_wireless_short">Opladen</string>
+  <string name="battery_info_status_charging_lower">Opladen</string>
   <string name="battery_info_status_discharging">Niet aan het opladen</string>
   <string name="battery_info_status_full">Volledig</string>
   <string name="battery_info_status_not_charging">Niet aan het opladen</string>
@@ -143,7 +137,6 @@ Sample Rate"</string>
   <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
   <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi-Fi assistant</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Datapartitie omzetten naar bestandsgebaseerde encryptie.
  !!Waarschuwing!! Dit zal alle gegevens wissen.
@@ -209,8 +202,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="enable_opengl_traces_title">OpenGL resten inschakelen</string>
   <string name="enable_terminal_summary">Terminal app inschakelen die lokale shelltoegang geeft</string>
   <string name="enable_terminal_title">Lokale terminal</string>
-  <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-  <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
   <string name="enabled_by_admin">Ingeschakeld door beheerder</string>
   <string name="external_source_trusted">Toegestaan</string>
   <string name="external_source_untrusted">Niet toegestaan</string>
@@ -300,7 +291,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="lb_search_bar_hint_speech">Spreek om te zoeken</string>
   <string name="lb_search_bar_hint_with_title">%1$s zoeken</string>
   <string name="lb_search_bar_hint_with_title_speech">Spreek om %1$s te zoeken</string>
-  <string name="legacy_dhcp_client_summary">Gebruik de DHCP client van Lollipop in plaats van de nieuwe Android DHCP client.</string>
   <string name="loading">Laden…</string>
   <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-ups van de desktop</string>
   <string name="local_backup_password_summary_none">Desktop back-ups zijn momenteel niet beveiligd</string>
@@ -358,12 +348,9 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="pointer_location">Locatie aanwijzer</string>
   <string name="pointer_location_summary">Schermoverlay geeft huidige aanraakgegevens weer</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s tot volledig opgeladen op AC</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s tot volledig opgeladen over USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig opgeladen op draadloos</string>
   <string name="power_discharging_duration">%1$s - ongeveer. %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
-  <string name="power_remaining_charging_duration_only">%1$s resterend until tot volledig opgeladen</string>
+  <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Ongeveer. %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
   <string name="privacyPerms">Privacy</string>
@@ -401,8 +388,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="settings">Instellingen</string>
   <string name="show_all_anrs">Alle ANRs weergeven</string>
   <string name="show_all_anrs_summary">App reageert niet melding voor achtergrondapps weergeven</string>
-  <string name="show_cpu_usage">CPU gebruik weergeven</string>
-  <string name="show_cpu_usage_summary">CPU gebruik weergeven met behulp van scherm overlay</string>
   <string name="show_hw_layers_updates">Hardwarelagen updates weergeven</string>
   <string name="show_hw_layers_updates_summary">Flash hardware lagen groen wanneer ze worden bijgewerkt</string>
   <string name="show_hw_screen_updates">GPU updates weergeven</string>
@@ -481,7 +466,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="uninstalling_notification_channel">Running uninstalls</string>
   <string name="unknown">Onbekend</string>
   <string name="unknown_apps_admin_dlg_text">Uw beheerder staat de installatie van apps afkomstig uit onbekende bronnen niet toe.</string>
-  <string name="unknown_apps_dlg_text">Voor uw veiligheid is uw telefoon ingesteld om de installatie van apps die zijn verkregen van onbekende bronnen te blokkeren.</string>
   <string name="unknown_apps_user_restriction_dlg_text">Voor uw veiligheid kunnen er geen apps uit onbekende bronnen worden geinstalleerd.</string>
   <string name="untrusted_external_source_warning">Voor uw veiligheid is het uw telefoon niet toegestaan om onbekende apps uit deze bron te installeren.</string>
   <string name="usb_audio_disable_routing">USB audio routing uitschakelen</string>
