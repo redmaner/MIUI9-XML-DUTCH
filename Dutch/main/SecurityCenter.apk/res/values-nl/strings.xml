@@ -372,6 +372,7 @@
   <string name="battery_health_voltage_text">Batterijvoltage</string>
   <string name="battery_history_activity_title">Geschiedenis</string>
   <string name="battery_stats_charging_label">Opladen</string>
+  <string name="battery_stats_gps_on_label">GPS aan</string>
   <string name="battery_stats_on_battery">%1$s op batterij</string>
   <string name="battery_stats_phone_signal_label">Signaal mobiele netwerk</string>
   <string name="battery_stats_screen_on_label">Scherm aan</string>
@@ -587,6 +588,8 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="diagnostic_attention_dialog_message">"Diagnose voor %1$s is bezig. Wachten tot het klaar is en probeer opnieuw."</string>
   <string name="dialog_app_roaming_message">"%1$s kan mobiele data niet gebruiken tijdens roaming. Wanneer u internationaal roamt, kunnen alleen apps die toegevoegd zijn aan uitzonderingen mobiele data gebruiken."</string>
   <string name="dialog_app_roaming_title">"Internationale roaming is niet ingeschakeld voor %1$s"</string>
+  <string name="dialog_button_ignore">Afwijzen</string>
+  <string name="dialog_button_yes">Ja</string>
   <string name="dialog_msg_auto_start_declare">Sommige beveiligingsapps kunnen foutief aangeven dat MIUI hen heeft verhinderd te starten. Als u de machtigingen wilt controleren die zijn toegekend aan individuele apps, gaat u naar Instellingen &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Virusscan stoppen voordat hij klaar is?</string>
   <string name="dialog_no_longer_alert">Niet opnieuw weergeven</string>
@@ -1834,6 +1837,9 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="suggest_scan_again">Het wordt voorgesteld om volledig scan te doen om de veiligheid te waarborgen.</string>
   <string name="summary_app_lock_disable">Bescherm uw data met appvergrendeling</string>
   <string name="summary_auto_update">MIUI zal de meest geschikte tijd kiezen om updates te downloaden en te installeren.</string>
+  <string name="summary_background_connection">Je beperkte de achtergrondverbinding voor deze app. Tik om te herstellen.</string>
+  <string name="summary_block_calls_from_cantacts">Je gebruikt een blokkeerlijst. Tik om te herstellen.</string>
+  <string name="summary_block_calls_from_strangers">Je staat alleen oproepen vanuit contacten toe. Tik om te herstellen.</string>
   <string name="summary_cleaner_cloudscan">Uploaden en vergelijken van onbekende mapnamen met online definities</string>
   <string name="summary_cloud_account">Haal het meeste uit uw Mi apparaat</string>
   <string name="summary_cloud_service">"Sync. uw foto's, contactpersonen en meer op al uw apparaten"</string>
@@ -1844,6 +1850,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="summary_data_flow">Mobiele datagebruik controleren om extra kosten te vermijden</string>
   <string name="summary_default_app">"%s is niet ingesteld als een standaard systeemapp"</string>
   <string name="summary_dev">Vermijd malware en bescherm uw persoonlijke data</string>
+  <string name="summary_do_not_disturb">U gebruikt de DND modus. Tik om te herstellen.</string>
+  <string name="summary_eye_shield">U gebruikt de Leesmodus. Tik om te herstellen.</string>
   <string name="summary_find_device">Lokaliseer en vergrendel uw apparaat van overal</string>
   <string name="summary_flow_notification">Toon uw maandelijkse dataverbruik op het meldingspaneel</string>
   <string name="summary_flow_purchase">Het lijkt er op dat er niet veel data over is. Koop data om verbonden te blijven</string>
@@ -1861,6 +1869,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="summary_permission_root">Het lijkt erop dat uw apparaat roottoegang heeft. Het kan de beveiliging van uw apparaat negatief beinvloeden</string>
   <string name="summary_power_optimizer">Verminder prestaties van uw toestel wanneer batterij bijna leeg is</string>
   <string name="summary_realname_verify">Verifieer uw identiteit om betalingen veiliger te maken.</string>
+  <string name="summary_restrict_data_usage">U beperkte het datagebruik voor deze app. Tik om te herstellen.</string>
   <string name="summary_show_notification">Cache wissen, batterijstatus bekijken en items blokkeren in de meldingsbalk</string>
   <string name="summary_telecom_operator">Uw maandelijkse dataverbruik verkrijgen van je provider</string>
   <string name="summary_usb">Voorkom dat malware getransfereerd wordt via USB</string>
@@ -1973,6 +1982,9 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_app_lock_disable">Blokkeer apps</string>
   <string name="title_app_update">Updates beschikbaar</string>
   <string name="title_auto_update">Automatisch updaten</string>
+  <string name="title_background_connection">Kan %s niet op de achtergrond gebruiken?</string>
+  <string name="title_block_calls_from_cantacts">Oproepen missen van uw contacten?</string>
+  <string name="title_block_calls_from_strangers">Miss important calls?</string>
   <string name="title_chain_start">Kettingstart voorkomen</string>
   <string name="title_cleaner_cloudscan">Cloudafval scannen</string>
   <string name="title_cloud_account">Mi Account</string>
@@ -1987,6 +1999,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_dev_no">Ontwikkelaarsopties aan</string>
   <string name="title_dev_yes">Ontwikkelaarsopties uit</string>
   <string name="title_device_not_root">Roottoegang is niet verleend</string>
+  <string name="title_do_not_disturb">Hoor je je beltoon niet?</string>
+  <string name="title_eye_shield">Schermkleur ziet er niet goed uit?</string>
   <string name="title_find_device">Apparaat zoeken</string>
   <string name="title_flow_notification">Melding mobiele data</string>
   <string name="title_flow_purchase">Koop mobiele data</string>
@@ -2014,6 +2028,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="title_permission_yes">Toestemmingsbeheer aan</string>
   <string name="title_power_optimizer">Batterijbespaarder</string>
   <string name="title_realname_verify">ID verificatie</string>
+  <string name="title_restrict_data_usage">%s kan niet verbinden met internet?</string>
   <string name="title_show_notification">Statusbalk widget</string>
   <string name="title_system_auto_download">Updates zullen automatisch worden gedownload</string>
   <string name="title_telecom_operator">Automatisch aanpassen</string>

@@ -520,7 +520,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="import_contact_card_button">Contact importeren</string>
   <string name="import_failure_no_vcard_file">Geen vCard bestanden gevonden in opslag.</string>
   <string name="import_from_onekey_migrate">Importeren met Mi Mover</string>
-  <string name="import_from_other_phone">Importeren uit een ander apparaat</string>
+  <string name="import_from_other_device">Importeren uit een ander apparaat</string>
   <string name="import_from_sdcard">Importeren uit opslag</string>
   <string name="import_from_sim">Importeren van SIM kaart</string>
   <string name="import_from_sim1">Importeren van SIM kaart 1</string>
@@ -950,6 +950,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="scan_qrcode_card_hint1">Scan de QR code hierboven</string>
   <string name="scanning_sdcard_failed_message">"(Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">De opslag kan niet worden gescand</string>
+  <string name="sdnContacts_empty">Geen  SDN</string>
+  <string name="sdnContacts_emptyLoading">SDN laden…</string>
   <string name="searchHint">Contacen zoeken</string>
   <string name="search_batch_delete">Organiseren;Contacten</string>
   <string name="search_contacts_display">Contacten;Weergave</string>

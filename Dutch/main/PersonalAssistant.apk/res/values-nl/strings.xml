@@ -655,7 +655,7 @@ Controleer het trackingnummer."</string>
   <string name="order_price_label">Orderprijs: %1$s</string>
   <string name="order_product_name_label">Productnaam: %1$s</string>
   <string name="order_status_label">Orderstatus: %1$s</string>
-  <string name="Herladen">Top-up</string>
+  <string name="order_type_recharge">Herladen</string>
   <string name="paycode_sdk_parent">Snelkoppeling betaling</string>
   <string name="paycode_sdk_parent_title">Snelle betaling</string>
   <string name="payment">Mijn betalingen</string>
@@ -665,7 +665,7 @@ Controleer het trackingnummer."</string>
   <string name="payment_clear_records_failed">Kon betalingsgeschiedenis niet verwijderen</string>
   <string name="payment_clear_records_success">Betalingsgeschiedenis verwijderd</string>
   <string name="payment_date_time_picker_dialog_title">Datum en tijd instellen</string>
- <string name="payment_guide_hint">Verzamel betalingsinfo uit berichten en andere apps.</string>
+  <string name="payment_guide_hint">Verzamel betalingsinfo uit berichten en andere apps.</string>
   <string name="payment_guide_hint_link">Veiligheid &amp; privacy</string>
   <string name="payment_method_bank">Bankpas</string>
   <string name="payment_method_cash">Contant geld</string>
@@ -935,6 +935,7 @@ Controleer het trackingnummer."</string>
   <string name="unusual_weather_setting_tip">De steden waarvoor waarschuwingen worden gegeven kunnen worden gewijzigd in de weerapp.</string>
   <string name="uploads_disabled">Kan bestanden niet uploaden</string>
   <string name="user_id">GebruikersID: %s</string>
+  <string name="user_notice_title">Aandacht</string>
   <string name="walk">Lopen</string>
   <string name="weibo_name">Nieuwe post</string>
   <string name="weibo_parent">Weibo</string>

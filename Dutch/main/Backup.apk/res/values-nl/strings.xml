@@ -132,6 +132,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="err_filesystem_mount">Kan geen toegang krijgen tot routeropslag</string>
   <string name="err_low_storage">Niet genoeg ruimte</string>
   <string name="err_not_allow">Niet ondersteund</string>
+  <string name="err_pkg_not_exist">Kon app niet vinden</string>
   <string name="err_router_disconnected">Controleer de routerverbinding en probeer opnieuw</string>
   <string name="err_router_files_delete">Kon back-up bestanden op de router niet verwijderen</string>
   <string name="err_unknown">Onbekende fout</string>

@@ -32,13 +32,7 @@
   <string name="app_process_limit_title">Limiet achtergrondproces</string>
   <string name="available_via_passpoint">Beschikbaar via %1$s</string>
   <string name="battery_info_status_charging">Laden</string>
-  <string name="battery_info_status_charging_ac">Opladen op AC</string>
-  <string name="battery_info_status_charging_ac_short">Opladen</string>
-  <string name="battery_info_status_charging_lower">opladen</string>
-  <string name="battery_info_status_charging_usb">Opladen over USB</string>
-  <string name="battery_info_status_charging_usb_short">Opladen</string>
-  <string name="battery_info_status_charging_wireless">Draadloos opladen</string>
-  <string name="battery_info_status_charging_wireless_short">Opladen</string>
+  <string name="battery_info_status_charging_lower">Opladen</string>
   <string name="battery_info_status_discharging">Niet aan het opladen</string>
   <string name="battery_info_status_full">Volledig opgeladen</string>
   <string name="battery_info_status_not_charging">Niet aan het opladen</string>
@@ -139,9 +133,7 @@ Sample Rate"</string>
   <string name="change_default_dialer_dialog_affirmative">Standaard instellen</string>
   <string name="change_default_dialer_dialog_negative">Annuleren</string>
   <string name="change_default_dialer_dialog_title">Standaard telefoonapp wijzigen?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
   <string name="change_default_dialer_warning_message">%s zal alle aspecten van oproepen kunnen plaatsen en controleren. Alleen apps die u vertrouwt, moeten worden ingesteld als de standaard telefoonapp.</string>
-  <string name="change_default_dialer_with_previous_app_set_text">%1$s gebruiken i.p.v. %2$s als uw standaard bel app?</string>
   <string name="charge_length_format">%1$s geleden</string>
   <string name="choose_profile">Profiel kiezen</string>
   <string name="clear_adb_keys">USB debugging machtigingen herroepen</string>
@@ -151,7 +143,6 @@ Sample Rate"</string>
   <string name="connected_via_network_scorer">Automatich verbonden via %1$s</string>
   <string name="connected_via_network_scorer_default">Automatisch verbonden via netwerkratingprovider</string>
   <string name="connected_via_passpoint">Verbonden via %1$s</string>
-  <string name="connected_via_wfa">Verbonden via Wi-Fi assistent</string>
   <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Datapartitie omzetten naar bestandsgebaseerde encryptie.
  !!Waarschuwing!! Dit zal alle gegevens wissen.
@@ -210,8 +201,6 @@ Sample Rate"</string>
   <string name="enable_opengl_traces_title">OpenGL resten inschakelen</string>
   <string name="enable_terminal_summary">Terminal app inschakelen die lokale shelltoegang geeft</string>
   <string name="enable_terminal_title">Lokale terminal</string>
-  <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-  <string name="enable_webview_multiprocess_desc">Voer WebView renderers afzonderlijk uit</string>
   <string name="enabled_by_admin">Ingeschakeld door beheerder</string>
   <string name="external_source_trusted">Toegestaan</string>
   <string name="external_source_untrusted">Niet toegestaan</string>
@@ -229,8 +218,6 @@ Sample Rate"</string>
   <string name="handle_restricted">BEPERKT</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
-  <string name="headset_plugin_view_text">Headset is plugged in.</string>
-  <string name="headset_plugin_view_title">Headset</string>
   <string name="help_feedback_label">Help &amp; feedback</string>
   <string name="home">Home instellingen</string>
   <string name="ime_security_warning">Deze invoermethode kan alle tekst die je typt verzamelen, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnumers. Het is afkomstig van de app %1$s. WIlt u deze invoermethode gebruiken?</string>
@@ -242,13 +229,11 @@ Sample Rate"</string>
   <string name="incall_error_call_failed">Kon geen gesprek maken</string>
   <string name="incall_error_power_off">Schakel vliegmodus uit om te bellen.</string>
   <string name="incall_error_supp_service_unknown">Deze service wordt niet ondersteund</string>
-  <string name="incoming_call_failed_low_battery">Inkomende oproep is mislukt vanwege te lage batterijspanning.</string>
   <string name="install_other_apps">Onbekende apps installeren</string>
   <string name="keep_screen_on">Scherm aanhouden</string>
   <string name="keep_screen_on_summary">Het scherm zal nooit uitgaan gaan tijdens het opladen</string>
   <string name="launch_defaults_none">Geen standaardwaarden ingesteld</string>
   <string name="launch_defaults_some">Enkele standaardwaarden ingesteld</string>
-  <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-ups van de desktop</string>
   <string name="local_backup_password_summary_none">Desktop back-ups zijn momenteel niet beveiligd</string>
   <string name="local_backup_password_title">Desktop back-up wachtwoord</string>
@@ -279,7 +264,6 @@ Sample Rate"</string>
   <string name="notification_missedCallsMsg">%s gemiste oproepen</string>
   <string name="notification_missedCallsTitle">Gemiste oproepen</string>
   <string name="notification_missedWorkCallTitle">Gemiste werkoproep</string>
-  <string name="notification_pullcall">Oproepen op secundair</string>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
   <string name="oem_unlock_enable_summary">Toestaan om bootloader te ontgrendelen</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Oproep niet verzonden, geen geldig nummer ingevoerd.</string>
@@ -291,15 +275,11 @@ Sample Rate"</string>
   <string name="pointer_location">Locatie aanwijzer</string>
   <string name="pointer_location_summary">Schermoverlay geeft huidige aanraakgegevens weer</string>
   <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s tot volledig opgeladen op AC</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s tot volledig opgeladen over USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s tot volledig draadloos opgeladen</string>
   <string name="power_discharging_duration">%1$s - ongeveer %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Nog ongeveer %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
-  <string name="pull_to_call_back">Tik om te trekken</string>
   <string name="remaining_length_format">%1$s resterend</string>
   <string name="respond_via_sms_canned_response_1">Kan nu niet praten. Wat is het probleem?</string>
   <string name="respond_via_sms_canned_response_2">Ik bel meteen terug.</string>
@@ -334,8 +314,6 @@ Sample Rate"</string>
   <string name="select_webview_provider_toast_text">Deze keuze is niet langer geldig. Probeer opnieuw.</string>
   <string name="show_all_anrs">Alle ANRs weergeven</string>
   <string name="show_all_anrs_summary">App reageert niet melding voor achtergrondapps weergeven</string>
-  <string name="show_cpu_usage">CPU gebruik weergeven</string>
-  <string name="show_cpu_usage_summary">Schermoverlay met het huidige CPU gebruik weergeven</string>
   <string name="show_hw_layers_updates">Hardwarelagen updates weergeven</string>
   <string name="show_hw_layers_updates_summary">Flash hardware lagen groen wanneer ze updaten</string>
   <string name="show_hw_screen_updates">GPU view updates weergeven</string>
@@ -367,7 +345,6 @@ Sample Rate"</string>
   <string name="tethering_hardware_offload_summary">Tethering hardwareversnelling gebruiken wanneer beschikbaar</string>
   <string name="tethering_settings_not_available">Tethering instellingen zijn niet beschikbaar voor deze gebruiker</string>
   <string name="title_convert_fbe">Omzetten naar bestandgebaseerde encryptie</string>
-  <string name="toast_make_video_call_failed">Kan geen video-oproep voeren, onjuiste getalnotatie</string>
   <string name="toast_personal_call_msg">De persoonlijke dialer gebruiken om de oproep te maken</string>
   <string name="track_frame_time">GPU rendering profiel</string>
   <string name="transition_animation_scale_title">Overgangsanimatieschaal</string>

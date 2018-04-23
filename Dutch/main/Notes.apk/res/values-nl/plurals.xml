@@ -3,8 +3,7 @@
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$s zijn niet gesync."</item>
         <item quantity="one">"%1$s is niet gesync."</item>	
-    </plurals>    
-
+    </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s mappen</item>
         <item quantity="one">%1$s map</item>

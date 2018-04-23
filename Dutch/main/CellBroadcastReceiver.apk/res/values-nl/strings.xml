@@ -145,9 +145,6 @@
   <string name="sms_cb_settings">Instellingen cell broadcast</string>
   <string name="test_alert">Test Alarm</string>
   <string name="test_alerts">Test Alarmen</string>
-  <string name="tw_alert_message">Noodbericht</string>
-  <string name="tw_emergency_alert">Noodalarm</string>
-  <string name="tw_required_monthly_test">Maandelijkse test</string>
   <string name="updating_settings">Instellingen updaten</string>
   <string name="updating_title">Oproepinstellingen</string>
   <string name="view_details_title">Waarschuwingsdetails</string>

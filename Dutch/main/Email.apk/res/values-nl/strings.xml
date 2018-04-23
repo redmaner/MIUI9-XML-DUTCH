@@ -540,6 +540,7 @@ Nu bijwerken?"</string>
   <string name="loading_conversations">Laden…</string>
   <string name="loading_from_remote">Laden…</string>
   <string name="local_search">Lokaal zoeken</string>
+  <string name="log_save_path">Log pad</string>
   <string name="login">Aanmelden</string>
   <string name="login139">Aanmelden met China Mobile</string>
   <string name="login_failed_ticker">%s: aanmelden mislukt.</string>
