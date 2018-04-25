@@ -1924,6 +1924,7 @@ Wanneer je automatische back-up inschakelt, worden apparaat- en appgegevens op a
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">Uw privéfoto\'s zullen hier opgeslagen worden.</string>
   <string name="game_controller_settings_category">Game controller</string>
+  <string name="game_mode_settings">Game modus</string>
   <string name="game_storage_settings">Games</string>
   <string name="gesture_preference_summary">Snelle gebaren om je telefoon te bedienen</string>
   <string name="gesture_preference_title">Gebaren</string>
