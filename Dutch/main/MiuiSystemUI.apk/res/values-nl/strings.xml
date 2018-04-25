@@ -306,6 +306,10 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="enable_terminal_summary">Terminal app die lokale shell toegang biedt inschakelen</string>
   <string name="enable_terminal_title">Lokale terminal</string>
   <string name="enabled_by_admin">Ingeschakeld door administrator</string>
+  <string name="enter_special_mode_message">Nadat de app opnieuw is opgestart, wordt de appinhoud uitgebreid naar het bovenste statusbalkgebied. Als er uitzonderingen zijn, zoals occlusie van inhoud en misplaatsing op de pagina, kunt u nogmaals op de knop klikken om de standaardmodus te herstellen.</string>
+  <string name="enter_special_mode_title">Start de app opnieuw en breid de weergaveruimte uit</string>
+  <string name="exit_special_mode_message">Nadat de app opnieuw is opgestart, wordt de toepassingsweergave ruimte hersteld naar de standaardmodus.</string>
+  <string name="exit_special_mode_title">Start de app opnieuw en herstel de weergaveruimte</string>
   <string name="expanded_confirm_disable_notification">Verbergen</string>
   <string name="expanded_notification_manager">Meldingen beheren</string>
   <string name="ext_media_badremoval_notification_message">Ontkoppel de USB opslag voor het verwijderen om het verlies van data te voorkomen.</string>
@@ -671,6 +675,8 @@ Neem contact op met uw beheerder voor meer informatie."</string>
   <string name="show_touches">Aanrakingen weergeven</string>
   <string name="show_touches_summary">Visuele feedback geven voor aanrakingen</string>
   <string name="simulate_color_space">Kleurruimte simuleren</string>
+  <string name="special_mode_cancel">Annuleren</string>
+  <string name="special_mode_ok">Opnieuw opstarten</string>
   <string name="status_bar_accessibility_dismiss_recents">Recente apps wissen</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"EEEE 

@@ -2621,6 +2621,11 @@ Er zijn andere gebruikers actief op dit apparaat.
   <string name="move_app_to_sdcard">Verplaatsen naar USB opslag</string>
   <string name="move_error_device_admin">Apparaatbeheerder kan niet worden geïnstalleerd op externe media</string>
   <string name="moving">Verplaatsen</string>
+  <string name="mqs_privacy_automatically_upload">Volgende keer automatisch uploaden</string>
+  <string name="mqs_privacy_dialog_cancel">Annuleren</string>
+  <string name="mqs_privacy_dialog_confirm">Uploaden</string>
+  <string name="mqs_privacy_dialog_content">Upload logs om ons te helpen dit probleem op te sporen en op te lossen? Logboeken kunnen uw persoonlijke gegevens bevatten, inclusief de informatie over uw locatie.</string>
+  <string name="mqs_privacy_dialog_title">Er is een fout opgetreden</string>
   <string name="msd_driver_download">Driver downloaden</string>
   <string name="msd_driver_download_mac">Voor Macs, download de driver en klik op AndroidFileTransfer.dmg om te installeren</string>
   <string name="msd_driver_download_mac_url">Verkrijg de driver op http://www.android.com/filetransfer/</string>
@@ -3201,7 +3206,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_authorize_cloud_msg">Om de veiligheid van uw account te garanderen, logt u in op i.mi.com als u autorisatie voor Mi Cloud-services (inclusief synchronisatie en back-ups) wilt intrekken.</string>
   <string name="privacy_authorize_dialog_agree">Akkoord</string>
   <string name="privacy_authorize_dialog_exit">Afsluiten</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Om de basisfuncties van Mi Cloud-services te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. Raadpleeg ons Privacybeleid voor informatie over hoe we persoonlijke gegevens verzamelen en verwerken. "Akkoord" betekent dat u onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst &amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Om de basisfuncties van de service te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. Raadpleeg ons Privacybeleid voor informatie over hoe we persoonlijke gegevens verzamelen en verwerken. "Akkoord" betekent dat u onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst &amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
   <string name="privacy_authorize_network_error">Maak verbinding met het netwerk en probeer opnieuw.</string>
   <string name="privacy_authorize_privacy_policy">Privacybeleid</string>
   <string name="privacy_authorize_revoke">Intrekken</string>

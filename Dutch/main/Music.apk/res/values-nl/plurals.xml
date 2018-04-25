@@ -62,6 +62,12 @@
         <item quantity="other">%d items verwijderen?</item>
         <item quantity="one">%d item verwijderen?</item>
     </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"%d items verwijderen?
+Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
+        <item quantity="one">"%d item verwijderen?
+Opmerking: bestanden worden ook van dit apparaat verwijderd."</item>
+    </plurals>
 	<plurals name="dialog_delete_descript">
         <item quantity="other">%d nummers verwijderen?</item>
         <item quantity="one">%d nummer verwijderen?</item>

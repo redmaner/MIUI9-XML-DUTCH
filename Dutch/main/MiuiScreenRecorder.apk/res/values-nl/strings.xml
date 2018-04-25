@@ -13,14 +13,18 @@
   <string name="button_confirm">Ok</string>
   <string name="button_goon_recorder">Hervatten</string>
   <string name="cancel_edit">Annuleren</string>
+  <string name="cannot_change_frames">De frame rate kan alleen worden aangepast voor opnamen met een vaste frame rate.</string>
   <string name="cannot_change_parames">Kan instellingen niet wijzigen tijdens opnemen</string>
   <string name="cannot_record">Kon niet opnemen, probeer later opnieuw</string>
+  <string name="close_screen_record">Opnemen gestopt</string>
   <string name="description_content">Met schermrecorder kan je op systeemniveau opnemen. Deze actie zorgt ervoor dat je de schermrecorderfunctie uitschakelt. Verdergaan?</string>
   <string name="description_title">Over schermrecorder</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="error_open_file_failed_no_app_found">Kan geen app vinden om dit bestand te openen</string>
-  <string name="frames">Framerate</string>
-  <string name="frames_summary">Hogere framerate voorkomt motion blur</string>
+  <string name="fixed_frame_rate">Vaste frame rate</string>
+  <string name="fixed_frame_rate_summary">Het opnemen van video\'s met een vaste frame rate verbetert het afspelen op sociale media platforms en verkort de levensduur van de batterij.</string>
+  <string name="frames">Frame rate</string>
+  <string name="frames_summary">Hogere frame rate voorkomt motion blur</string>
   <string name="frequently_click_toast">Een momentje…</string>
   <string name="gleam_led_while_recording">Notificatielicht oplichten tijdens opnemen</string>
   <string name="hint_back">Terug</string>
@@ -30,6 +34,9 @@
   <string name="hint_volume_down">Volume -</string>
   <string name="hint_volume_up">Volume +</string>
   <string name="home_title_none">Selecteer items</string>
+  <string name="is_checked">Geselecteerd</string>
+  <string name="is_go_home">Ga terug naar scherm opname</string>
+  <string name="is_go_home_summary">Open de startpagina van de schermrecorder nadat u stopt met opnemen</string>
   <string name="loopback_sound">Speaker</string>
   <string name="low_battery">Laad de telefoon op voordat je begint met opnemen</string>
   <string name="low_battery_title">Batterij laag</string>
@@ -55,6 +62,7 @@
   <string name="screen_record_option">Opties voor opnemen</string>
   <string name="screen_record_params">Parameters voor opnemen</string>
   <string name="select_all">Alles selecteren</string>
+  <string name="settings">Instellingen</string>
   <string name="show_hard_key">Navigatieknoppen weergeven</string>
   <string name="show_hard_key_summary">Een melding laten zien als er op de home, menu en terug- knop wordt gedrukt</string>
   <string name="show_screen_touch">Aanrakingen weergeven</string>
@@ -67,4 +75,7 @@
   <string name="stop_record_while_locking">Scherm vergrendelen om te stoppen</string>
   <string name="stop_record_while_locking_summary">Opnemen stoppen en video opslaan als het scherm wordt vergrendeld</string>
   <string name="stop_recording">Opname stoppen</string>
+  <string name="storage_location">Opslag</string>
+  <string name="storage_location_summary">Selecteer uw voorkeur opslagoptie </string>
+   <string name="unchecked">Niet geselecteerd</string>
 </resources>
