@@ -49,6 +49,16 @@
   <string name="bookmark_confirm_delete_message">Berichten verwijderen uit favorieten?</string>
   <string name="bookmark_empty">Geen favorieten</string>
   <string name="bookmark_list_title">Favorieten</string>
+  <string name="button_emoji_creature">Dierlijke emoji\'s</string>
+  <string name="button_emoji_lifestyle">Lifestyle emoji\'s</string>
+  <string name="button_emoji_smiley">Gezicgt emoji\'s</string>
+  <string name="button_emoji_symbol">Symbool emoji\'s</string>
+  <string name="button_emoji_text">Tekst emoji\'s</string>
+  <string name="button_fold">Inklapppen</string>
+  <string name="button_next_slide">Volgende</string>
+  <string name="button_pre_slide">Vorige</string>
+  <string name="button_resend_message">Opnieuw verzenden</string>
+  <string name="button_unfold">Uitklappen</string>
   <string name="call_sender">Bel afzender</string>
   <string name="cannot_add_picture_and_video">Kan video en afbeelding niet toevoegen aan een dia.</string>
   <string name="cannot_add_slide_anymore">Meer dia\'s toevoegen mislukt</string>
@@ -126,7 +136,9 @@
   <string name="delete_wild_sims_title">Geselecteerde nummers verwijderen</string>
   <string name="delivery_report_activity">Afleveringsrapport</string>
   <string name="delivery_toast_body">Bericht ontvangen door %s</string>
+  <string name="dialog_message_fake_cell_detect_error">De informatie over dit bericht corrigeren? MIUI moet hiervoor het telefoonnummer (%1$s), de inhoud van het bericht en de informatie over de locatie in de buurt uploaden naar zijn servers.</string>
   <string name="dialog_message_sms_report">"Spamberichten en informatie over de afzender zullen worden verstuurd aan MIUI wanneer je ze rapporteert. Ze zullen alleen worden gebruikt om MIUI's spamfilters te verbeteren."</string>
+  <string name="dialog_title_fake_cell_detect_error">Correctie</string>
   <string name="disable_notifications_dialog_message">Dubbele SMS meldingen van standaardapp voor berichten stoppen?</string>
   <string name="disabled">Uit</string>
   <string name="discard">Afwijzen</string>
@@ -139,6 +151,7 @@
   <string name="download_later">Downloaden mislukt. Probeer het later opnieuw.</string>
   <string name="downloading">Downloaden</string>
   <string name="downloading_file_can_not_play">Wacht tot de opname klaar is met downloaden</string>
+  <string name="draft">Klad</string>
   <string name="duration_not_a_number">Tijd moet een getal zijn</string>
   <string name="duration_sec">Duur (%s sec)</string>
   <string name="duration_selector_title">Tijdsduur voor dia</string>
@@ -166,9 +179,9 @@
   <string name="fail_to_view_attachment">Bijlage is niet beschikbaar</string>
   <string name="failed_to_add_media">U kunt deze %1$s niet toevoegen aan uw bericht.</string>
   <string name="failed_to_resize_image">Formaat van foto is niet aangepast.</string>
+  <string name="fake_cell_alert_detect_error">Dit werd niet verzonden vanuit een nep basisstation</string>
   <string name="fake_cell_alert_hint">Het lijkt erop dat dit bericht is verzonden vanaf een telefoonnummer dat verschilt met het nummer dat wordt getoond. Wees voorzichtig met SMS die financiele verzoeken bevatten.</string>
   <string name="fake_cell_checking_hint">Veiligheid controleren…</string>
-  <string name="fake_cell_detection_entry">Valse basisstation detectie</string>
   <string name="fake_cell_safe_hint">Dit bericht is veilig</string>
   <string name="fake_cell_timeout_hint">Kon veiligheid niet controleren</string>
   <string name="favorite_at_time">Gemarkeerd als favoriet op: %1s</string>
@@ -441,7 +454,7 @@
   <string name="privacy_password_title4">Wachtwoord geüpgrade</string>
   <string name="private_message">Privébericht</string>
   <string name="private_new_notification">Nieuw melding privébericht</string>
-  <string name="private_protect">Bescherm privéberichten</string>
+  <string name="private_protect">Privacy bescherming</string>
   <string name="private_settings">Privéberichten instellingen</string>
   <string name="processing">Bezig…</string>
   <string name="prvate_contact">Privécontacten</string>

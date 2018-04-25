@@ -1085,6 +1085,7 @@ om te reageren"</string>
   <string name="menu_item_virus_lib_auto_update_summary">Laatst geüpdatet: %s</string>
   <string name="menu_remove">Verwijderen</string>
   <string name="menu_report">Report error</string>
+  <string name="menu_setting_traffic">Handmatig instellen</string>
   <string name="menu_sms">Bericht verzenden</string>
   <string name="menu_text_antispam">Zwarte lijst</string>
   <string name="menu_text_antivirus">Virusscanner</string>

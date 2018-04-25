@@ -8,6 +8,10 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Dempen</item>
         <item>Microfoon</item>
-        <item>Speaker</item>
+        <item>Systeem geluiden</item>
+    </string-array>
+	<string-array name="screenrecorder_settings_storage_location">
+        <item>Interne opslag</item>
+        <item>Externe opslag</item>
     </string-array>
 </resources>

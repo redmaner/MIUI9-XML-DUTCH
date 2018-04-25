@@ -92,7 +92,7 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
   <string name="data_provided_by">Gegevens verzorgd door</string>
   <string name="edit_alert_city_title">Alarmen beheren</string>
   <string name="edit_city">Steden beheren</string>
-  <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that Xiaomi will collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
+  <string name="eu_region_version_first_start_network_msg">"Door dit product te gebruiken, gaat u ermee akkoord dat Xiaomi uw persoonlijke informatie verzamelt, verwerkt en gebruikt, inclusief de coördinaten van de steden die u doorzoekt, en andere soorten gegevens die worden vermeld in ons Privacybeleid. Raadpleeg ons Privacybeleid om te weten te komen hoe wij verzamel en verwerk informatie Door op \"Akkoord \" te tikken, ga je akkoord met Xiaomi's %1$s and %2$s."</string>
   <string name="feedback_heavy_rain">Hevige regen</string>
   <string name="feedback_heavy_snow">Sneeuw</string>
   <string name="feedback_light_rain">Lichte regen</string>
@@ -100,7 +100,7 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
   <string name="feedback_result_fail_no_choice">Kies de huidige weercondities</string>
   <string name="feedback_result_success">Succesvol verstuurd, bedankt voor je feedback</string>
   <string name="feedback_sand">Zand</string>
-  <string name="feedback_sunny">Zonnig</string>
+  <string name="feedback_sunny">Klaar</string>
   <string name="first_start_network_msg">Deze app moet verbonden zijn met internet en toegang hebben tot uw locatie om normaal te werken.</string>
   <string name="first_start_network_title">Internetverbinding en locatietoegang</string>
   <string name="gps_hint">Huidige locatie</string>
