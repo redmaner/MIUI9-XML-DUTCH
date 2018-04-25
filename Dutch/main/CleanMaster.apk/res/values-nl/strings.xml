@@ -221,14 +221,6 @@
   <string name="guide_virus_dialog_negative">Annuleren</string>
   <string name="guide_virus_dialog_positive">Scannen</string>
   <string name="guide_virus_dialog_title">Antivirus scan</string>
-  <string name="guide_secure_dialog_message">De optimalisatiescore van uw apparaat is lager dan 80 punten. Nu optimaliseren?</string>
-  <string name="guide_secure_dialog_negative">Annuleren</string>
-  <string name="guide_secure_dialog_positive">Optimaliseren</string>
-  <string name="guide_secure_dialog_title">Prestaties optimaliseren</string>
-  <string name="guide_virus_dialog_message">Het scannen van apps en installatiepakketten beschermt uw apparaat tegen virussen en malware. Apparaat nu scannen?</string>
-  <string name="guide_virus_dialog_negative">Annuleren</string>
-  <string name="guide_virus_dialog_positive">Scannen</string>
-  <string name="guide_virus_dialog_title">Antivirus scan</string>
   <string name="header_optimizer">Door gebruik te maken van deze functie gaat u akkoord met %s</string>
   <string name="hint_clean_select_items">Duplicaten verwijderen…</string>
   <string name="hints_ad_header_left">Verouderde bestanden</string>
