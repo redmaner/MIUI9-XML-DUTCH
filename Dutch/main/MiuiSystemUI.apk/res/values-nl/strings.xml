@@ -132,10 +132,10 @@
   <string name="bluetooth_disable_absolute_volume_summary">Schakel het absolute volume voor Bluetooth uit in het geval van volumeproblemen met externe apparaten, zoals een onaanvaardbaar groot volume of de onmogelijkheid om het te bedienen.</string>
   <string name="bluetooth_disconnected">Verbinding verbroken</string>
   <string name="bluetooth_disconnecting">Verbinding verbreken…</string>
-  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Use for dial-up network access</string>
-  <string name="bluetooth_enable_inband_ringing">Enable in-band ringing</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Allow ringtones on the phone to be played on Bluetooth headsets</string>
+  <string name="bluetooth_dun_profile_summary_connected">Verbonden met de DUN Server</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Gebruik voor inbelnetwerktoegang</string>
+  <string name="bluetooth_enable_inband_ringing">In-band beltoon inschakelen</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Toestaan dat beltonen op de telefoon worden afgespeeld op Bluetooth headsets</string>
   <string name="bluetooth_headset_profile_summary_connected">Verbonden met telefoonaudio</string>
   <string name="bluetooth_headset_profile_summary_use_for">Gebruiken voor telefoonaudio</string>
   <string name="bluetooth_hid_profile_summary_connected">Verbonden met invoerapparaat</string>
@@ -163,7 +163,7 @@
   <string name="bluetooth_profile_dun">Gebruikt voor toegang tot dial-up-netwerken</string>
   <string name="bluetooth_profile_headset">Telefoonaudio</string>
   <string name="bluetooth_profile_hid">Invoerapparaat</string>
-  <string name="bluetooth_profile_map">Used for accessing messages</string>
+  <string name="bluetooth_profile_map">Gebruikt voor toegang tot berichten</string>
   <string name="bluetooth_profile_opp">Bestandsoverdracht</string>
   <string name="bluetooth_profile_pan">Internettoegang</string>
   <string name="bluetooth_profile_pan_nap">Used for sharing internet connection</string>

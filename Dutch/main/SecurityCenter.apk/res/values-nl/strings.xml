@@ -74,6 +74,7 @@
   <string name="add_whitelist">Toevoegen aan uitzonderingen</string>
   <string name="address">Adres</string>
   <string name="address_choose_hint">%1$s, %2$s en %3$d andere locaties</string>
+  <string name="adjust_sms_cmd">&lt;u&gt;Pas kalibratie voor SMS sjabloon aan&lt;/u&gt;</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Meer dan 1 maand geleden bijgewerkt</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Meer dan 1 maand geleden bijgewerkt</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">1 week geleden bijgewerkt</string>
@@ -601,6 +602,9 @@ Uw provider brengt mogelijk extra kosten in rekening als u mobiele gegevens opni
   <string name="dialog_restrict_positive">Annuleren</string>
   <string name="dialog_roaming_message">Deze app toelaten om mobiele data te gebruiken bij internationaal roamen?</string>
   <string name="dialog_roaming_title">Internationale roaming</string>
+  <string name="dialog_roaming_warning_checkbox">Niet meer weergeven</string>
+  <string name="dialog_roaming_warning_message">De provider brengt u kosten in rekening nadat u internationale dataroaming hebt ingeschakeld. Toch inschakelen?</string>
+  <string name="dialog_roaming_warning_ok">Turn on</string>
   <string name="dialog_text">Maak een snelkoppeling voor het startscherm voor Game Speed Booster</string>
   <string name="dialog_title_attention">Waarschuwing</string>
   <string name="dialog_title_auto_start_declare">Over automatisch opstarten</string>
@@ -1667,6 +1671,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="sms_contact_block">Blokkeer SMS van contacten</string>
   <string name="sms_delete_hint">Alle geblokkeerde berichten van dit nummer wissen?</string>
   <string name="sms_delete_title">Berichten wissen</string>
+  <string name="sms_detail_correct_success_text">"Hier zijn de gegevensgebruiksstatistieken van de vorige kalibratie (%1$s):"</string>
   <string name="sms_detail_fragment_title_bill">Telefoon saldo</string>
   <string name="sms_detail_fragment_title_traffic">Resterende data</string>
   <string name="sms_filter">Slimme filter</string>
@@ -1889,6 +1894,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="tab_gift">Cadeau\'s</string>
   <string name="tab_guide">Gids</string>
   <string name="tab_title">Zwarte lijst</string>
+  <string name="tc_cmd_invalid">Sjabloon is ongeldig</string>
   <string name="tc_diagnostic_all_error_notification_summary">Tik op om een probleem te melden</string>
   <string name="tc_diagnostic_all_error_notification_title">Kon diagnostiek niet  voltooien</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Tik om het netwerktype aan te passen</string>
@@ -1928,6 +1934,10 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="tc_diagnostic_upload_button">Melden</string>
   <string name="tc_diagnostic_upload_no_network">Hartelijk dank voor uw feedback! Uw verslag zal worden voorgelegd wanneer u verbinding maakt met het netwerk.</string>
   <string name="tc_diagnostic_upload_success">Hartelijk dank voor uw feedback!</string>
+  <string name="tc_get_cmd_error">Kon sjabloon niet verkrijgen</string>
+  <string name="tc_parse_error">Kon SMS niet parseren</string>
+  <string name="tc_receive_timeout">Calibratie time-out</string>
+  <string name="tc_send_sms_error">Kon geen sms verzenden</string>
   <string name="tc_sms_report_direction">SMS aanvraag code</string>
   <string name="tc_sms_report_do_report">Verzenden</string>
   <string name="tc_sms_report_get_default">Er zijn geen kosten verbonden aan de berichten die worden gebruikt om uw dataverbruik van uw provider te verkrijgen.</string>
@@ -1961,6 +1971,7 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="tc_sms_report_type">Rapporteertype</string>
   <string name="tc_sms_report_upload_success">Dataverbruiksrapport SMS ingediend. We gaan ermee aan de slag!</string>
   <string name="tc_sms_report_upload_when_net">Bedankt voor de feedback!</string>
+  <string name="tc_web_correct_error">Kon niet kalibreren</string>
   <string name="ten_percent_total_pkg">%s (10%% maandelijkse data)</string>
   <string name="tether_custom_dialog_title">Mobiel datalimiet</string>
   <string name="tether_limit_dialog_title">Mobiel datalimiet</string>
