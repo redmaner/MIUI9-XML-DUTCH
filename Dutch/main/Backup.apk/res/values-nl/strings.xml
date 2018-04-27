@@ -485,7 +485,7 @@ Wi-Fi Hotspot niet uitschakelen. Beide apparaten dicht bij elkaar houden."</stri
   <string name="trans_security_tips_message">Sommige apps ondersteunen Mi Mover niet.</string>
   <string name="trans_security_tips_title">Mi Mover compatibiliteit</string>
   <string name="trans_select_data">Selecteer items om te verzenden</string>
-  <string name="trans_select_data_no_space">"Er is onvoldoende opslagruimte op het nieuwe apparaat (%s  (% s beschikbaar).).
+  <string name="trans_select_data_no_space">"Er is onvoldoende opslagruimte op het nieuwe apparaat (%s beschikbaar).
 Maak opslagruimte vrij of verplaats alleen belangrijke items."</string>
   <string name="trans_select_data_tips">"Selecteer bestanden om te transfereren
 Gelijkaardige bestanden op het nieuwe apparaat zullen overschreven worden"</string>
