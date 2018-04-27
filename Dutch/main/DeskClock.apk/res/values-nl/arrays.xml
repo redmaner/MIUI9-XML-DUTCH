@@ -75,9 +75,11 @@
         <item>Verminder buitenactiviteiten</item>
         <item>De wegen zijn glad</item>
         <item>Het weer is stormachtig, wees voorzichtig!</item>
+		<item>Het is mistig vandaag. Rij voorzichtig</item>
         <item>De lucht is vervuild, draag een masker!</item>
         <item>Neem een paraplu mee als je buitengaat</item>
         <item>Wees voorzichtig op de weg</item>
+		<item>Het hagelt vandaag, wees voorzichtig.</item>
         <item>Er is een zandstorm op komst, draag een masker!</item>
         <item>Fijne dag!</item>
     </string-array>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Tik om muziek te openen</string>
+  <string name="app_name">Vergrendelscherm</string>
   <string name="btn_camera">Uw gezicht invoeren</string>
   <string name="change_to_ac_charging">Overgeschakeld naar bedraad opladen</string>
   <string name="click_to_enter_text">Tik om weer te geven</string>

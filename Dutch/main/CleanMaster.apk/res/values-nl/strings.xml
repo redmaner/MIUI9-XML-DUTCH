@@ -305,6 +305,7 @@
   <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
   <string name="menu_clear">Wissen</string>
   <string name="menu_install">Deze app installeren</string>
+  <string name="menu_open">Openen</string>
   <string name="menu_view">Bekijken in map</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">Controleren op updates…</string>
@@ -427,6 +428,13 @@
   <string name="sys_cache_on_sdcard_item_name">Cachen</string>
   <string name="text_optimizer">Mapnamen uploaden</string>
   <string name="there_is_no">Ziet er goed uit, kom later terug</string>
+  <string name="tips_low_storage_dialog_cancel">Annuleren</string>
+  <string name="tips_low_storage_dialog_msg_qq">QQ cachegrootte heeft 3 GB bereikt. Dit kan uw apparaat vertragen. Nu de QQ cache wissen?</string>
+  <string name="tips_low_storage_dialog_msg_storage">U gebruikt 90% van uw opslagruimte. Verwijder de apps die u niet gebruikt.</string>
+  <string name="tips_low_storage_dialog_msg_wechat">De cachegrootte van WeChat heeft 3 GB bereikt. Dit kan uw apparaat vertragen. Nu de WeChat cache wissen?</string>
+  <string name="tips_low_storage_dialog_ok">Wissen</string>
+  <string name="tips_low_storage_dialog_ok_storage">Maak ruimte vrij</string>
+  <string name="tips_low_storage_dialog_title">Opslagruimte bijna vol</string>
   <string name="tips_of_app_manage">Zelden gebruikte apps verwijderen om opslag te besparen</string>
   <string name="tips_of_auto_launch_manage">Voorkom dat zelden gebruikte apps automatisch worden gestart</string>
   <string name="tips_of_cloud_service">Aanmelden met uw Mi account om meer Mi diensten te gebruiken</string>
