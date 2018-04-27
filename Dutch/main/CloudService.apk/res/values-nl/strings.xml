@@ -177,7 +177,7 @@ of apparaat te wissen."</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Verwijderde items</string>
   <string name="micloud_main_head_menu_state_close">Uit</string>
   <string name="micloud_main_head_menu_state_open">Aan</string>
-  <string name="micloud_main_head_menu_state_unavailable">Niet beschikbaar</string>
+  <string name="micloud_main_head_menu_state_unavailable">Niet ondersteund</string>
   <string name="micloud_main_master_sync_on">Synchronisatie aan</string>
   <string name="micloud_main_memory_low_message">Verwijder wat items die u hebt opgeslagen in de cloud om te synchroniseren.</string>
   <string name="micloud_main_memory_low_title">Intern geheugen is bijna vol</string>
