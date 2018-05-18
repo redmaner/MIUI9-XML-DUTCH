@@ -81,6 +81,7 @@ Om deze functie in te schakelen ga naar Instellingen &gt; Extra instellingen &gt
   <string name="memory_clear_nothing_result">Niets om te wissen in cache</string>
   <string name="memory_clear_result">%1$sB vrijgemaakt</string>
   <string name="miui">Miui</string>
+  <string name="miui_forbid_poweroff_when_device_locked">Kan niet uitschakelen, apparaat is vergrendeld</string>
   <string name="miui_screen_ratio_hint">Schermratio problemen</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Niet opnieuw weergeven</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Ga naar instellingen</string>
