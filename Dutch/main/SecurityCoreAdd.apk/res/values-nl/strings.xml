@@ -7,7 +7,6 @@ Berichten zullen enkel in de tweede ruimte worden weergegeven."</string>
   <string name="PrivacyContactDes2">"Indien u privéberichten in de eerste ruimte gebruikt,
 zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
   <string name="add_finger_print">Vingerafdruk toevoegen</string>
-  <string name="agree">Akkoord</string>
   <string name="air_space_created">Werkruimte aangemaakt</string>
   <string name="air_space_deleted">Werkruimte verwijderd</string>
   <string name="air_space_exit">Ruimte verlaten</string>
@@ -74,7 +73,6 @@ kan op elk moment bekeken worden"</string>
   <string name="dialog_title">Opgelet</string>
   <string name="dir_switch_out_all_photos">Galerij tweede ruimte</string>
   <string name="disable">Uitschakelen</string>
-  <string name="disagree">Niet akkoord</string>
   <string name="do_not_ask">Niet meer vragen</string>
   <string name="dont_import">Niet nu</string>
   <string name="downloading_space">Downloaden…</string>
@@ -166,7 +164,6 @@ U kan ze ook apart downloaden."</string>
   <string name="need_reset_passwd">Reset het wachtwoord voor werkruimte voordat u de werkruimte betreedt</string>
   <string name="need_set_second_space_desc">Eerst tweede ruimte wachtwoord instellen voordat u de vingerafdruk voor de tweede ruimte insteld</string>
   <string name="need_set_second_space_pwd_first">Eerst wachtwoord tweede ruimte instellen</string>
-  <string name="net_work_notice">Ouderlijk toezicht moet verbinding met internet maken en toegang krijgen tot uw locatie om normaal te kunnen werken. Deze machtigingen zijn vereist om de informatie over batterijniveaus, aantal stappen en uw locatie naar de beheerde apparaten te sturen. Toestaan?</string>
   <string name="newSecondSpace">Tweede ruimte inschakelen</string>
   <string name="next_setp">Volgende</string>
   <string name="no_match_repate_scanner">Kon geen overeenkomsten vinden, opnieuw scannen</string>

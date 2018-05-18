@@ -789,6 +789,7 @@ Het wordt toegevoegd aan uitzonderingen maar in het verleden geblokkeerde items 
   <string name="gb_have_signed">Vandaag aangemeld</string>
   <string name="gb_msg_completely_shielded">Berichten verbergen</string>
   <string name="gb_msg_completely_shielded_summary">Verbergen</string>
+  <string name="gb_msg_not_shielded_summary">Weergeven</string>
   <string name="gb_msg_quickly_answer">Snelle antwoorden toestaan</string>
   <string name="gb_msg_quickly_answer_summary">Snelle antwoorden</string>
   <string name="gb_msg_transparent_dispaly">Meldingen met transparante achtergrond</string>
