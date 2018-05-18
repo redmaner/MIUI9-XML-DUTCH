@@ -5,6 +5,8 @@
   <string name="account_container_title">Geïmporteerd van</string>
   <string name="account_default">Lokaal</string>
   <string name="account_phone">Alleen apparaat, niet gesynchroniseerd</string>
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM kaart</string>
   <string name="account_sim2">SIM kaart %d</string>
   <string name="account_type_format">%1$s contact</string>
@@ -74,11 +76,14 @@
   <string name="call_home">Privé bellen</string>
   <string name="call_isdn">ISDN bellen</string>
   <string name="call_left">Telefoon saldo</string>
+  <string name="call_log_empty_gecode">-</string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Nieuw</string>
   <string name="call_log_old_header">Ouder</string>
   <string name="call_main">Bel main</string>
   <string name="call_mms">MMS bellen</string>
   <string name="call_mobile">Mobiel bellen</string>
+  <string name="call_not_found"> --</string>
   <string name="call_operator_init">Provider instellen</string>
   <string name="call_other">Bellen</string>
   <string name="call_other_fax">Fax bellen</string>
@@ -94,6 +99,7 @@
   <string name="call_sim_menu_title_suffix">(Primair)</string>
   <string name="call_telex">Telex bellen</string>
   <string name="call_tty_tdd">TTY/TDD bellen</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">Werk bellen</string>
   <string name="call_work_mobile">Mobiel nummer werk bellen</string>
   <string name="call_work_pager">Pager werk bellen</string>
@@ -119,6 +125,7 @@
   <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_all">Geschiedenis wissen</string>
   <string name="callrecordview_menu_delete_called">Uitgaande gesprekken verwijderen</string>
+  <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Gemiste gesprekken verwijderen</string>
   <string name="callrecordview_menu_delete_new">Oproepgeschiedenis van nieuwe contactpersonen wissen</string>
   <string name="callrecordview_menu_delete_one">Verwijderen uit oproepgeschiedenis</string>
@@ -178,9 +185,13 @@
   <string name="cloud_state_loading">Een momentje…</string>
   <string name="cloud_state_sync_finished">Synchroniseren met Mi Cloud</string>
   <string name="cloud_state_syncing">Gesynchroniseerd met Mi Cloud</string>
+  <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
+  <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
+%2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Kan databasegegevens niet ophalen.</string>
   <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contactpersonen op uw apparaat heeft opgeslagen staat uw gegevensprovider het exporteren van contacten van de telefoon mogelijk niet toe.</string>
   <string name="composer_not_initialized">De vCard editor is niet correct gestart.</string>
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_selected_all_call_logs">Oproepgeschiedenis wissen?</string>
   <string name="confirm_delete_sim_entry_miui_title">Verwijderen</string>
@@ -273,6 +284,8 @@ Visitekaartjes zijn uitgeschakeld"</string>
   <string name="data_already_used">Data gebruikt</string>
   <string name="data_charge">Data opladen</string>
   <string name="data_left">Resterende data</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_time_set">Instellen</string>
   <string name="date_year_toggle">Jaar toevoegen</string>
   <string name="default_ringtone">Standaard beltoon</string>
@@ -433,6 +446,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="email_work">Mailen naar werk</string>
   <string name="emergency_number_label">Noodnummer</string>
   <string name="emptyGroup">Geen personen in deze groep.</string>
+  <string name="empty_divider_title"/>
   <string name="enter_contact_name">Typ de naam van de persoon</string>
   <string name="eventLabelsGroup">Speciale datums</string>
   <string name="eventTypeCustom">Aangepast</string>
@@ -489,6 +503,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="group_create_fail_toast">Kan geen groep maken</string>
   <string name="group_create_success_toast">Groep gemaakt</string>
   <string name="group_delete_success_toast">Groep verwijderd</string>
+  <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Groepsnaam</string>
   <string name="group_member_remove_fail_toast">Niet verwijderd uit groep</string>
   <string name="group_member_remove_success_toast">Verwijderd uit groep</string>
@@ -502,6 +517,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="group_sms_progress_msg">Groeperen…</string>
   <string name="groupsLabel">Groepen</string>
   <string name="groups_list_empty">Geen groepen</string>
+  <string name="hint_distance"/>
   <string name="hint_findContacts">Contacten vinden</string>
   <string name="hint_more_contact">Dubbele contacten samenvoegen</string>
   <string name="hybrid_check_network">Netwerkinstellingen</string>
@@ -513,6 +529,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="hybrid_webpage_not_available">Webpagina niet beschikbaar</string>
   <string name="ic_menu_back">Terug</string>
   <string name="ic_menu_done">Klaar</string>
+  <string name="imLabelsGroup">IM</string>
+  <string name="imei">IMEI</string>
   <string name="imei_invalid">Ongeldige IMEI</string>
   <string name="import_all_sim_entries_miui">Alle contacten importeren</string>
   <string name="import_all_vcard_string">Alle vCard bestanden importeren</string>
@@ -528,6 +546,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="import_multiple_vcard_string">Meerdere vCard bestanden importeren</string>
   <string name="import_name">Naam</string>
   <string name="import_one_vcard_string">1 vCard bestand importeren</string>
+  <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Importeer geselecteerde contacten</string>
   <string name="import_sim_contacts_hint_title">SIM contacten importeren</string>
   <string name="import_sim_entries_finish">Contacten geïmporteerd van SIM kaart</string>
@@ -587,6 +606,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="map_home">Thuisadres weergeven</string>
   <string name="map_other">Adres weergeven</string>
   <string name="map_work">Werkadres weergeven</string>
+  <string name="meid">MEID</string>
   <string name="meid_invalid">Ongeldige MEID</string>
   <string name="menuMoreDescription">Meer</string>
   <string name="menu_accounts">Accounts</string>
@@ -669,6 +689,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="miprofile_find_profile_no_recommend">Geen aanbevolen profiel</string>
   <string name="miprofile_finding_label">Visitekaartjes vinden</string>
   <string name="miprofile_name">Mijn profiel</string>
+  <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit">Bijnaam van kaart bewerken</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Roepnaam invoeren</string>
   <string name="miprofile_nick_name_edit_dialog_message">Roepnaam zal verschijnen in oproepgeschiedenis en profiel info</string>
@@ -767,6 +788,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="option_view_contact">Bekijken</string>
   <string name="option_view_group">Bekijken</string>
   <string name="organizationLabelsGroup">Organisatie</string>
+  <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="other_contacts">Andere contacten</string>
   <string name="other_phone">Andere apparaten</string>
   <string name="path_batch_delete">Systeemapps/Contacten/Contacten schikken/Batch verwijderen</string>
@@ -940,6 +962,8 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   Om te beginnen tikt u op \"samenvoegen\" onderaan het scherm."</string>
   <string name="report_inquiry_mms">SMS rapporteren</string>
   <string name="restore_nickname">Herstellen</string>
+  <string name="ret_sign">"
+"</string>
   <string name="returnCall">Terugbellen</string>
   <string name="ringLabelsGroup">Beltoon</string>
   <string name="save_photo_progress">Foto opslaan…</string>
@@ -949,6 +973,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="scan_duplicate_message">%1$d contacten met overeenkomende gegevens</string>
   <string name="scan_merge">Bezig met zoeken naar dubbele contactpersonen…</string>
   <string name="scan_qrcode_card_hint1">Scan de QR code hierboven</string>
+  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">"(Reden: '%s')"</string>
   <string name="scanning_sdcard_failed_title">De opslag kan niet worden gescand</string>
   <string name="sdnContacts_empty">Geen  SDN</string>
@@ -1085,6 +1110,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="strequentList">Favorieten</string>
   <string name="success_message_import_from_account">Contact geïmporteerd</string>
   <string name="summary_kind_title">Samenvatting</string>
+  <string name="sv">SV</string>
   <string name="t9_search_empty_create_contact">Nieuw contact</string>
   <string name="t9_search_empty_edit_contact">Toevoegen aan contacten</string>
   <string name="t9_search_empty_send_sms">Bericht verzenden</string>
@@ -1170,6 +1196,7 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="yellowPageNavigationIconLabel">Gele Gids</string>
   <string name="yellowPageNavigationLabel">Gele Gids</string>
   <string name="yellowpage_fc_toast">Kan niet functie niet gebruiken omdat de gele gids gecrashed is</string>
+  <string name="yellowpage_mi_family">小米之家</string>
   <string name="yellowpage_navigation_ad_hint">Adv</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Saldo en mobiel data kon niet geverifeerd worden, probeer later opnieuw.</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Saldo en mobiele data zijn geverifeerd</string>

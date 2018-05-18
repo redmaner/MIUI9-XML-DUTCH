@@ -70,6 +70,7 @@
   <string name="scenario_policies_summary">Verschillende besparingsmodi instellen voor verschillende scenario\'s.</string>
   <string name="scenario_policies_title">Slimme scenario\'s</string>
   <string name="scenario_policies_warmcontrol">Temperatuurcontrole</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="show_system_app">Systeemapps weergeven</string>
   <string name="sleep_config_enhance_description">Wanneer MIUI detecteert dan u slaapt, zal het apps in de achtergrond sluiten, NFC, Bluetooth, GPS, mobiele data en Wi-Fi gebruik beperken en het scherm zal niet ontwaken bij meldingen.</string>

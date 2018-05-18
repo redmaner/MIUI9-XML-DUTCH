@@ -2,6 +2,8 @@
 <resources>
   <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het parseren van het pakket.</string>
   <string name="abc_action_bar_home_description">Naar huis navigeren</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Omhoog navigeren</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Gereed</string>
@@ -226,6 +228,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="grant_dialog_button_more_info">Meer info</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
+  <string name="help_app_permissions"/>
   <string name="help_feedback_label">Hulp &amp; feedback</string>
   <string name="home">Home instellingen</string>
   <string name="ime_security_warning">Deze invoermethode kan mogelijk alle tekst die u typt, verzamelen, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. Het komt van de app %1$s. Deze invoermethode gebruiken?</string>
@@ -256,8 +259,15 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="launch">Openen</string>
   <string name="launch_defaults_none">Geen standaardwaarden ingesteld</string>
   <string name="launch_defaults_some">Enkele standaardwaarden ingesteld</string>
+  <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+  <string name="lb_control_display_rewind_multiplier">%1$dX</string>
+  <string name="lb_date_separator">/</string>
   <string name="lb_guidedaction_continue_title">Doorgaan</string>
   <string name="lb_guidedaction_finish_title">Beëindigen</string>
+  <string name="lb_guidedbuttonactions_width_weight">0.45</string>
+  <string name="lb_guidedstep_height_weight">2.0</string>
+  <string name="lb_guidedstep_height_weight_translucent">1.0</string>
+  <string name="lb_guidedstep_keyline">40.0</string>
   <string name="lb_media_player_error">MediaPlayer foutcode %1$d extra %2$d</string>
   <string name="lb_navigation_menu_contentDescription">Navigatiemenu</string>
   <string name="lb_onboarding_accessibility_next">Volgende</string>
@@ -287,6 +297,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="lb_playback_controls_thumb_down_outline">Thumb down selecteren</string>
   <string name="lb_playback_controls_thumb_up">Thumb up deselecteren</string>
   <string name="lb_playback_controls_thumb_up_outline">Thumb up selecteren</string>
+  <string name="lb_playback_time_separator">/</string>
   <string name="lb_search_bar_hint">Zoeken</string>
   <string name="lb_search_bar_hint_speech">Spreek om te zoeken</string>
   <string name="lb_search_bar_hint_with_title">%1$s zoeken</string>
@@ -394,7 +405,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="show_hw_screen_updates_summary">Flits weergaven op scherm wanneer getekend met de GPU</string>
   <string name="show_non_rect_clip">Foutopsporing voor niet-rechthoekige clipbewerkingen</string>
   <string name="show_notification_channel_warnings">Waarschuwingen voor meldingskanalen weergeven</string>
-  <string name="show_notification_channel_warnings_summary">>Geeft een waarschuwing op het scherm weer wanneer een app een melding plaatst zonder een geldig kanaal</string>
+  <string name="show_notification_channel_warnings_summary">&gt;Geeft een waarschuwing op het scherm weer wanneer een app een melding plaatst zonder een geldig kanaal</string>
   <string name="show_screen_updates">Oppervlakupdates weergeven</string>
   <string name="show_screen_updates_summary">Hele schermoppervlakte flitsen wanneer het wordt bijgewerkt</string>
   <string name="show_touches">Aanrakingen weergeven</string>
@@ -411,6 +422,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Draagbare hotspot</string>
   <string name="tethering_settings_not_available">Tethering instellingen zijn niet beschikbaar voor deze gebruiker</string>
+  <string name="time_zone_gmt">GMT</string>
   <string name="title_convert_fbe">Omzetten naar bestandsgebaseerde encryptie</string>
   <string name="track_frame_time">GPU rendering profiel</string>
   <string name="transition_animation_scale_title">Animatieschaal overgang</string>
@@ -483,6 +495,7 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="wait_for_debugger_summary">Debuggede app wacht op debugger om aan te sluiten voordat u deze het opend</string>
   <string name="wear_app_channel">Installing/uninstalling wear apps</string>
   <string name="wear_not_allowed_dlg_text">Installeer of verwijder acties die niet worden ondersteund door Wear.</string>
+  <string name="wear_not_allowed_dlg_title">Android Wear</string>
   <string name="wifi_aggressive_handover">Aggressieve Wi-Fi naar mobiele data overdracht</string>
   <string name="wifi_aggressive_handover_summary">Wanneer ingeschakeld, zal Wi-Fi agressiever zijn bij het overhandigen van de dataverbinding naar mobiel, wanneer het Wi-Fi-signaal laag is</string>
   <string name="wifi_allow_scan_with_traffic">Altijd Wi-Fi Roam Scans toestaan</string>
@@ -495,13 +508,28 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="wifi_disabled_wifi_failure">Wi-Fi verbindingsfout</string>
   <string name="wifi_display_certification">Draadloze display certificering</string>
   <string name="wifi_display_certification_summary">Opties voor draadloze weergavecertificering weergeven</string>
+  <string name="wifi_dns1_hint">8.8.8.8</string>
+  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">Kan niet scannen naar netwerken</string>
+  <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_ip_address_hint">192.168.1.128</string>
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">Geen internettoegang gedetecteerd, zal niet automatisch opnieuw verbinding maken.</string>
   <string name="wifi_no_internet_no_reconnect">Zal niet automatisch opnieuw verbinding maken</string>
   <string name="wifi_not_in_range">Niet binnen bereik</string>
   <string name="wifi_remembered">Opgeslagen</string>
+  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Geen</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_short_eap">802.1x</string>
+  <string name="wifi_security_short_wep">WEP</string>
+  <string name="wifi_security_short_wpa">WPA</string>
+  <string name="wifi_security_short_wpa2">WPA2</string>
+  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+  <string name="wifi_security_wep">WEP</string>
+  <string name="wifi_security_wpa">WPA PSK</string>
+  <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">Wi-Fi Verbose logging inschakelen</string>
   <string name="wifi_verbose_logging_summary">Verhoog het Wi-Fi logniveau, toon per SSID RSSI in Wi-Fi kiezer</string>
   <string name="window_animation_scale_title">Schermanimatieschaal</string>

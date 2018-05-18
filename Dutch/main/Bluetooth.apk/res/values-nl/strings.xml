@@ -29,6 +29,7 @@
   <string name="bt_enable_line1">Als u Bluetooth services wilt gebruiken, moet u eerst Bluetooth inschakelen.</string>
   <string name="bt_enable_line2">Bluetooth nu inschakelen?</string>
   <string name="bt_enable_ok">Inschakelen</string>
+  <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"Er is onvoldoende ruimte op de USB opslag beschikbaar om het bestand van '%1$s' op te slaan"</string>
@@ -41,6 +42,7 @@
   <string name="bt_toast_6">"Verzenden van bestand naar '%1$s' is beëindigd"</string>
   <string name="btopp_live_folder">Ontvangen via Bluetooth</string>
   <string name="defaultname">Carkit</string>
+  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Alle records verwijderen</string>
   <string name="delete_record">Record verwijderen</string>
   <string name="download_cancel">Stoppen</string>
@@ -51,13 +53,13 @@
   <string name="download_line1">"Van: '%1$s'"</string>
   <string name="download_line2">Bestand: %1$s</string>
   <string name="download_line3">Bestandsgrootte: %1$s</string>
+  <string name="download_line4"/>
   <string name="download_line5">Bestand ontvangen…</string>
   <string name="download_ok">Verbergen</string>
   <string name="download_succ_line5">Bestand ontvangen</string>
   <string name="download_succ_ok">Openen</string>
   <string name="download_success">%1$s ontvangen voltooid.</string>
   <string name="download_title">Bestandsoverdracht</string>
-  <string name="empty_file_notification_sent">Delen via Bluetooth: op afstand afgewezen nullengte bestand %1$s</string>
   <string name="enabling_progress_content">Bluetooth inschakelen…</string>
   <string name="enabling_progress_title">Een ogenblik geduld…</string>
   <string name="inbound_history_title">Inkomende overdrachten</string>
@@ -105,6 +107,8 @@
   <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
   <string name="permlab_bluetoothWhitelist">Toegang voor Bluetooth apparaat op witte lijst plaatsen.</string>
   <string name="permlab_handoverStatus">Ontvang BT overdracht uitzendingen.</string>
+  <string name="process"/>
+  <string name="sharedUserId"/>
   <string name="start_server">TCP server starten</string>
   <string name="status_canceled">Overdracht geannuleerd door gebruiker.</string>
   <string name="status_connection_error">Verbinding mislukt.</string>

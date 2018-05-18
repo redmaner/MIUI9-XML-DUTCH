@@ -28,6 +28,7 @@
   <string name="failed_to_enable_bt">Kon Bluetooth niet inschakelen</string>
   <string name="inbound_me_profile_text">Aanraken om deze persoon toe te voegen als contact.</string>
   <string name="inbound_me_profile_title">Contact onvangen over NFC</string>
+  <string name="nfcUserLabel">Nfc</string>
   <string name="nfc_enabled_dialog">"NFC is op dit moment uitgeschakeld. 
 Wenst u die in te schakelen voor NFC services?"</string>
   <string name="no">NEE</string>

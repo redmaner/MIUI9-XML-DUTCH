@@ -10,6 +10,7 @@
   <string name="fastboot_locked_question_3">Ik ken de risico\'s, maar ik wil nog steeds het apparaat ontgrendelen. Wat moet ik dan doen?</string>
   <string name="fastboot_status_locked_info">"Fastboot is niet ontgrendeld op dit apparaat"</string>
   <string name="fastboot_status_locked_summary">Kan geen roottoegang verkrijgen</string>
+  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Ga naar de officiële MIUI website om de ontgrendeltool te downloaden.</string>
   <string name="game_booster">Gamingsnelheid opvoeren</string>
   <string name="gb_alipays_can_not_complete">Kan betaling niet afronden. Installeer om verder te gaan.</string>
@@ -19,6 +20,7 @@
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
   <string name="miuishare_wechat_timeline_title">WeChat momenten</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_not_available">Kan niet verbinden met netwerk</string>
   <string name="no_network_btn">Probeer opnieuw</string>
   <string name="ok_button">Ok</string>

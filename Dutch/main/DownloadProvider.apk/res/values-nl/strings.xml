@@ -7,6 +7,10 @@
   <string name="button_queue_for_wifi">Wachtrij</string>
   <string name="button_start_now">Nu starten</string>
   <string name="button_wait_for_wifi">Wachten</string>
+  <string name="channel_active">下载中</string>
+  <string name="channel_complete">下载完成</string>
+  <string name="channel_insufficient_space">空间不足</string>
+  <string name="channel_waiting">等待中</string>
   <string name="dialog_button_cancel">Annuleren</string>
   <string name="dialog_button_ok">Ok</string>
   <string name="dialog_content_limit0">Downloads beperken</string>
@@ -28,6 +32,7 @@
   <string name="download_apk_desktop_running">Bezig met downloaden</string>
   <string name="download_error">Mislukt</string>
   <string name="download_no_application_title">Kan bestand niet openen</string>
+  <string name="download_percent">%d%%</string>
   <string name="download_queued">In wachtrij</string>
   <string name="download_remaining">%s resterend</string>
   <string name="download_running">In uitvoering</string>

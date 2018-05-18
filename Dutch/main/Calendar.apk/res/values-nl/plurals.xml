@@ -103,4 +103,12 @@
         <item quantity="other">%d werkdagen</item>
         <item quantity="one">%d werkdag</item>
     </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
 </resources>

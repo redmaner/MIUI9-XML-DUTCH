@@ -96,6 +96,7 @@ https://appleid.apple.com/#!&amp;page=signin om af te sluiten"</string>
   <string name="cloud_restore_title">Herstel back-up gegevens</string>
   <string name="cloud_restore_window_title">Mi Cloud herstel</string>
   <string name="cloud_search">Zoeken…</string>
+  <string name="comma_seperator">", "</string>
   <string name="compute_backup_info">Back-up info ophalen…</string>
   <string name="compute_delete_contact_info">Contacten zoeken om te verwijderen…</string>
   <string name="connect_wifi">Verbinden met Wi-Fi</string>
@@ -322,6 +323,10 @@ Maak tenminste %s vrij."</string>
   <string name="select_storage_location">Kies back-uplocatie</string>
   <string name="service_stoped">Service gestopt</string>
   <string name="settings_summary">Apparaat- en berichtinstellingen</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Berichten</string>
   <string name="software_backup_info">Back-up apps en gegevens</string>
   <string name="start_backup">Back-up starten</string>
@@ -363,6 +368,7 @@ Maak tenminste %s vrij."</string>
   <string name="task_running_restore_hint">Service draait al in de achtergrond!</string>
   <string name="task_service_not_launched">Back-upservice niet gestart, even wachten!</string>
   <string name="task_stopped_exception">Taak geannuleerd</string>
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">Bezig met back-up…</string>
   <string name="trans_backingup_no_items">Synchroniseren…</string>
   <string name="trans_button_cancel">Annuleren</string>
@@ -515,6 +521,7 @@ en dat Mi Mover ingeschakeld is"</string>
   <string name="trans_waiting_for_sender">Wachten op oude apparaat om te verbinden…</string>
   <string name="trans_wlan_tips_message">"Schakel Wi-Fi niet uit tijdens overdracht. Dit kan fouten veroorzaken."</string>
   <string name="trans_wlan_tips_title">"Schakel Wi-Fi niet uit"</string>
+  <string name="unit_byte">B</string>
   <string name="unknown_hint">Onbekend</string>
   <string name="user_name">Apple ID of e-mail</string>
   <string name="user_name_null">Gebruikersnaam kan niet leeg zijn</string>

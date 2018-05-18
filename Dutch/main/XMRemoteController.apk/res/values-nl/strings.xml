@@ -19,6 +19,7 @@
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
   <string name="abc_toolbar_collapse_description">Uitklappen</string>
+  <string name="ac_gree">Gree AC</string>
   <string name="ac_mode_auto">Auto</string>
   <string name="ac_mode_cold">Koelen</string>
   <string name="ac_mode_dry">Ontvochtigen</string>
@@ -47,6 +48,7 @@
   <string name="add_new_tv">TV toevoegen…</string>
   <string name="add_new_tv_power_only">Nieuwe TV schakelaar toevoegen…</string>
   <string name="adjust_auto_tune_interval">Interval zenderwissel automatisch instellen</string>
+  <string name="adv">广告</string>
   <string name="agree">Instemmen</string>
   <string name="airkan_disconnect">Apparaten niet verbonden</string>
   <string name="airkan_disconnect_display_name">Apparaten niet verbonden</string>
@@ -138,6 +140,7 @@
   <string name="cancel_timer">Timer annuleren</string>
   <string name="cannot_be_used_in_current_mode">Kan %1$s niet gebruiken in huidige modus</string>
   <string name="carrier_data">Providerinfo</string>
+  <string name="cast_screen">Mi TV</string>
   <string name="catalyst_debugjs">Debug in Chrome</string>
   <string name="catalyst_debugjs_off">Chrome debugging stoppen</string>
   <string name="catalyst_element_inspector">Inspector weergeven</string>
@@ -170,6 +173,7 @@ Probeer het volgende om het probleem op te lossen:
   <string name="channel_added_to_fav">%1$s toegevoegd aan favorieten</string>
   <string name="channel_catogory_name">Kanalen</string>
   <string name="channel_list">Kanalenlijst</string>
+  <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s verwijderd uit favorieten</string>
   <string name="check_upgrade">Controleren op updates</string>
   <string name="choose_ac">Kies afstandsbediening</string>
@@ -207,6 +211,8 @@ Probeer het volgende om het probleem op te lossen:
   <string name="current_version_frame">Huidige versie %s</string>
   <string name="current_version_latest">Geen udates beschikbaar</string>
   <string name="data_request_error">Kon info niet verkrijgen</string>
+  <string name="day">d</string>
+  <string name="day_string">d</string>
   <string name="decrease">Verminderen</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_confirm">Apparaat verwijderen?</string>
@@ -233,10 +239,17 @@ Probeer het volgende om het probleem op te lossen:
   <string name="device_shop_share_success">Delen gelukt</string>
   <string name="device_shop_share_weibo_not_support">Huidige versie van Weibo ondersteunt delen niet</string>
   <string name="device_type">Type</string>
+  <string name="devicetype1">TV</string>
   <string name="devicetype10">Projector</string>
+  <string name="devicetype10001">Mi TV/Mi Box</string>
   <string name="devicetype11">Satelliet TV</string>
+  <string name="devicetype12">Box</string>
+  <string name="devicetype13">DSLR</string>
   <string name="devicetype14">Lamp</string>
   <string name="devicetype2">Settopbox</string>
+  <string name="devicetype3">AC</string>
+  <string name="devicetype4">DVD</string>
+  <string name="devicetype5">IPTV</string>
   <string name="devicetype6">Ventilator</string>
   <string name="devicetype8">A/V ontvanger</string>
   <string name="diagnose">Test afstandsbediening</string>
@@ -291,6 +304,7 @@ Probeer het volgende om het probleem op te lossen:
   <string name="epg_edit_channel_title">Kanaal bewerken</string>
   <string name="epg_edit_fav_channel_num">Kanaalnummer bewerken</string>
   <string name="epg_episode_open">Alles weergeven</string>
+  <string name="epg_event_search_hint">输入节目名称搜索</string>
   <string name="epg_fav_channels">Favoriete kanaal</string>
   <string name="epg_have_no_fav_channel">U heeft geen favoriete kanalen</string>
   <string name="epg_home_sliding_down">Inklappen</string>
@@ -303,6 +317,7 @@ Probeer het volgende om het probleem op te lossen:
   <string name="epg_load_more_latest_comment">Reacties laden…</string>
   <string name="epg_loading_hint">Verander van kanaal op uw set-top box met uw telefoon</string>
   <string name="epg_more_comment_list_title">Meer populaire reacties (%1$d)</string>
+  <string name="epg_name">Live TV</string>
   <string name="epg_no_booking_data">Geen programma gereserveerd </string>
   <string name="epg_no_favorite_program">Geen items hier</string>
   <string name="epg_no_more_latest_comment">Dat was alles</string>
@@ -314,7 +329,10 @@ Probeer het volgende om het probleem op te lossen:
   <string name="epg_program_comment">Reactie toevoegen</string>
   <string name="epg_program_detail_more_time_events">Meer zendtijd</string>
   <string name="epg_program_share">%1$s delen met een vriend</string>
+  <string name="epg_program_share_drama">快来跟我一起看%3$s频道的%1$s,播出时间:%2$s. 评论喜欢的明星,预测剧情发展,就在小米万能遥控</string>
+  <string name="epg_program_share_game">快来跟我一起看%3$s频道的%1$s,播出时间:%2$s. 啤酒,串串,大家一起来吐槽,就在小米万能遥控</string>
   <string name="epg_program_updated_to">Aflevering %1$d afgespeeld</string>
+  <string name="epg_reply_comment_prefix">\@</string>
   <string name="epg_search_box_hint">Zoek programma\'s of kanalen</string>
   <string name="epg_search_history">Zoekgeschiedenis</string>
   <string name="epg_search_hot_channel">Populaire kanalen</string>
@@ -345,6 +363,7 @@ Probeer het volgende om het probleem op te lossen:
   <string name="fail_title">Kon niet koppelen</string>
   <string name="fan_mode">Ventilatormodus</string>
   <string name="fan_speed">Snelheid</string>
+  <string name="faq">FAQ</string>
   <string name="fav">Favoriet</string>
   <string name="fav_cancel">Verwijderen uit favorieten</string>
   <string name="favorite_channel">Recente kanalen</string>
@@ -364,6 +383,11 @@ Probeer het volgende om het probleem op te lossen:
   <string name="fix_keys">Knoppen herstellen</string>
   <string name="fix_keys_success">Met succes hersteld!</string>
   <string name="fix_keys_tips">Als sommige knoppen niet werken, kunt u die daar herstellen</string>
+  <string name="folder_camera">相机</string>
+  <string name="folder_download">下载</string>
+  <string name="folder_edited_online_photos">编辑过的在线照片</string>
+  <string name="folder_imported">已导入</string>
+  <string name="folder_screenshot">屏幕截图</string>
   <string name="from_share">Gedeeld van %1$s</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">Kan scherm liggend niet gebruiken bij Gamepadmodus</string>
@@ -391,6 +415,7 @@ Probeer het volgende om het probleem op te lossen:
   <string name="history_none">Je hebt nog geen enkele video bekeken</string>
   <string name="history_title">Geschiedenis</string>
   <string name="home">Home</string>
+  <string name="home_pad_ac_status">%1$d °C %2$s</string>
   <string name="home_zhuye">Home</string>
   <string name="hot_apps">Populair</string>
   <string name="hot_mode">Warmte</string>
@@ -413,17 +438,24 @@ Probeer het volgende om het probleem op te lossen:
   <string name="install_succed">%s geïnstalleerd</string>
   <string name="installing">Installeren…</string>
   <string name="introduction">Korte introductie</string>
+  <string name="ir_ac">" AC"</string>
   <string name="ir_device_add">Apparaat toevoegen</string>
   <string name="ir_device_air_cleaner">Luchtreiniger</string>
+  <string name="ir_device_air_condition">AC</string>
   <string name="ir_device_all_ir">Alles</string>
   <string name="ir_device_amp">A/V versterker</string>
+  <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
   <string name="ir_device_dvb_s">Settopbox</string>
   <string name="ir_device_dvd">DVD speler</string>
   <string name="ir_device_fan">Ventilator</string>
+  <string name="ir_device_iptv">IPTV</string>
   <string name="ir_device_ir">IR afstandsbediening</string>
   <string name="ir_device_lamp">Gloeilamp</string>
+  <string name="ir_device_mibox">Mi Box</string>
   <string name="ir_device_milink">Wi-Fi apparaat</string>
+  <string name="ir_device_mitv">Mi TV</string>
+  <string name="ir_device_mitvbox">Mi TV/Mi Box</string>
   <string name="ir_device_name">Apparaatnaam</string>
   <string name="ir_device_other">Overige</string>
   <string name="ir_device_prj">Projector</string>
@@ -431,19 +463,28 @@ Probeer het volgende om het probleem op te lossen:
   <string name="ir_device_shared">Dichtbij</string>
   <string name="ir_device_sound">Luidsprekers</string>
   <string name="ir_device_stb">Kabelbox</string>
+  <string name="ir_device_tv">TV</string>
   <string name="ir_device_water_heater">Waterkoker</string>
   <string name="ir_device_wifi">Wi-Fi afstandsbediening</string>
   <string name="ir_not_supported_devices">* Mi TV 3/Mi TV Bar/Mi Box 3/Mi Box ondersteunen IR niet. Probeer een Wi-Fi afstandbediening te gebruiken</string>
   <string name="jump_to_mivideo">Bekijken op mobiel apparaat</string>
   <string name="just_now">Zojuist</string>
   <string name="just_used">Zojuist</string>
+  <string name="key_ff">快进</string>
+  <string name="key_next">下一个</string>
+  <string name="key_pause">暂停</string>
+  <string name="key_play">播放</string>
+  <string name="key_pre">上一个</string>
   <string name="key_press_vibrate">Trillen bij aanraken</string>
+  <string name="key_rew">快退</string>
+  <string name="key_stop">停止</string>
   <string name="ky_receive_audio_preferred">Automatisch shows herkennen</string>
   <string name="ky_receive_audio_watching_tv">Kijkend</string>
   <string name="laboratory">Experimenteel</string>
   <string name="last_bak_time">Laatste back-up op: %1$s</string>
   <string name="last_use_frame">%1$s geleden</string>
   <string name="launch_milive_tips">Livestream openen…</string>
+  <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Woonkamer</string>
   <string name="loading_brand">Info verkrijgen…</string>
   <string name="loading_brand_info">Een momentje…</string>
@@ -546,6 +587,7 @@ Wacht een momentje na de handeling"</string>
   <string name="match_tv_name_ch_inc">Kanaal +</string>
   <string name="match_tv_name_source">Bron</string>
   <string name="match_tv_name_volume">Volume +</string>
+  <string name="match_tv_name_volume_dec">音量减</string>
   <string name="match_type_selection_des">Afstandsbediening type kiezen om te koppelen</string>
   <string name="match_type_selection_title">Type</string>
   <string name="match_voh_intro_open">Vrijgeven wanneer de projector inschakelt</string>
@@ -556,7 +598,9 @@ Wacht een momentje na de handeling"</string>
   <string name="menu">Menu</string>
   <string name="mi_account">Mi Account</string>
   <string name="mi_account_name">Mi Account</string>
+  <string name="mi_brand">Mi</string>
   <string name="mi_rc">Mi afstandsbediening</string>
+  <string name="mibox">Mi Box</string>
   <string name="milink_device_newfound">Nieuw apparaat</string>
   <string name="milink_device_offline">Offline</string>
   <string name="milink_device_online">Online</string>
@@ -565,12 +609,15 @@ Wacht een momentje na de handeling"</string>
   <string name="milink_screenshot_done">Tv schermafdruk met succes gemaakt</string>
   <string name="milink_screenshot_pic">Schermafdrukken</string>
   <string name="milink_view_screenshot">Opgeslagen in galerij, tik om te bekijken</string>
-  <string name="mishopsdk_progress_loading">laden…</string>
+  <string name="minute">min</string>
   <string name="mistore_ad">Mi Store adv</string>
+  <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV assistent versie %1$s</string>
+  <string name="mitv_no_device">设备未连接，请把手机和小米电视/盒子连在相同Wifi下</string>
   <string name="mitv_video">Mi online</string>
   <string name="mode">Modus</string>
   <string name="model_name">Model</string>
+  <string name="month">m</string>
   <string name="month_day_format">dd MMM</string>
   <string name="more">Meer</string>
   <string name="more_fav_channel">Meer favoriete kanalen</string>
@@ -606,11 +653,13 @@ Controleer toestemmingen of herstart apparaat."</string>
   <string name="no">Nee</string>
   <string name="no_backup">Niks om te back-uppen</string>
   <string name="no_brand_service">Merk is momenteel niet beschikbaar</string>
+  <string name="no_connectivity">出现网络问题，系统无法识别某些位置。</string>
   <string name="no_current_play">"Speelt nu: - "</string>
   <string name="no_data">Geen info</string>
   <string name="no_introduction">Geen beschrijving</string>
   <string name="no_ir_other_support">U kunt uw apparaat nog steeds gebruiken om uw Mi TV of Mi Box over Wi-Fi te bedienen.</string>
   <string name="no_ir_support">Geen IR apparaten gevonden</string>
+  <string name="no_location">无位置信息</string>
   <string name="no_milink_device">Kon Mi TV/Mi Box niet vinden. Wacht een minuut of twee en probeer opnieuw.</string>
   <string name="no_network">"· Kon niet verbinden met het netwerk"</string>
   <string name="no_program">Niks te zien hier</string>
@@ -852,6 +901,8 @@ Om je account te activeren, volg de
   <string name="please_input_model_name">Apparaat model invoeren</string>
   <string name="please_select_stb">Set-top box selecteren</string>
   <string name="please_select_tv">TV selecteren</string>
+  <string name="pm_2.5">PM2.5:</string>
+  <string name="pm_2.5_out">Outdoor PM2.5:</string>
   <string name="popup_installed_app_no_app">App verkrijgen, wacht een minuut en probeer opnieuw</string>
   <string name="popup_installed_app_title">Selecteer de app om te TV te openen</string>
   <string name="popup_select_device">Wi-Fi afstandbediening selecteren</string>
@@ -892,6 +943,9 @@ Om je account te activeren, volg de
   <string name="push_add_desc">%1$s in de omgeving controleren met deze afstandsbediening?</string>
   <string name="quick_add_tv_power">Dezelfde is gedempt: %1$s TV uitschakelaar</string>
   <string name="rc">Afstandsbediening</string>
+  <string name="rc_add_distance">%1$dm</string>
+  <string name="rc_add_distance_far">&gt;1000km</string>
+  <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">MI Afstandsbediening</string>
   <string name="receive_share_cancel">Annuleren</string>
   <string name="receive_share_done">Gedeeld. Je kan het nu gebruiken.</string>
@@ -990,6 +1044,8 @@ Open de instelligen van de afstandbediening en druk op \"Delen\"."</string>
   <string name="select_stb">Kies de set-top box</string>
   <string name="select_stb_tips">Koppel de set-top box</string>
   <string name="service_info">Service informatie</string>
+  <string name="set_label_all_albums">所有相册</string>
+  <string name="set_label_local_albums">本地相册</string>
   <string name="setting_airkan">DRAADLOOS SCHERM</string>
   <string name="setting_common">ALGEMEEN</string>
   <string name="setting_sharerc">Gedeeld door anderen</string>
@@ -1057,10 +1113,19 @@ Ga naar de startpagina &gt; \"+\" &gt; Scanner."</string>
   <string name="show_all_episodes">Alle afleveringen</string>
   <string name="show_remote_when_lock_screen">Afstandsbediening bedieningspaneel weergeven op het vergrendelscherm</string>
   <string name="similar">Aanverwante</string>
+  <string name="size_above">&lt;g id="SIZE"&gt;%1$s&lt;/g&gt; &amp;#25110;&amp;#26356;&amp;#22823;</string>
+  <string name="size_below">&lt;g id="SIZE"&gt;%1$s&lt;/g&gt; &amp;#25110;&amp;#26356;&amp;#23567;</string>
+  <string name="size_between">&lt;g id="MIN_SIZE"&gt;%1$s&lt;/g&gt; &amp;#21040; &lt;g id="MAX_SIZE"&gt;%2$s&lt;/g&gt;</string>
   <string name="skip">Overslaan</string>
   <string name="sleep">Slapen</string>
   <string name="smarthome_share_copyurl">URL kopiëren</string>
   <string name="smarthome_share_manage">Beheren</string>
+  <string name="smarthome_share_miliao">Mi Talk</string>
+  <string name="smarthome_share_qq">QQ</string>
+  <string name="smarthome_share_qzone">Qzone</string>
+  <string name="smarthome_share_sinaweibo">Weibo</string>
+  <string name="smarthome_share_wecaht">WeChat</string>
+  <string name="smarthome_share_wxcircle">Moments</string>
   <string name="somthing_wrong">Heb je problemen?</string>
   <string name="sorry">Fout</string>
   <string name="speech_init_failed">Tik om iFly voice engine te installeren.</string>
@@ -1092,6 +1157,9 @@ Ga naar de startpagina &gt; \"+\" &gt; Scanner."</string>
   <string name="tab_store">Store</string>
   <string name="technical_support">Technische ondersteuning</string>
   <string name="temperature">Temp</string>
+  <string name="temperature_des">温度减</string>
+  <string name="temperature_inc">温度加</string>
+  <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Toepassing kan niet worden gestart</string>
   <string name="third_party_video">Andere video\'s</string>
   <string name="time_error">Het lijkt erop dat de tijd niet juist is</string>
@@ -1111,9 +1179,11 @@ Ga naar de startpagina &gt; \"+\" &gt; Scanner."</string>
   <string name="turn_off_timeing_time_tip">AC zal uitgeschakeld worden om %1$s</string>
   <string name="turn_on">Inschakelen</string>
   <string name="turn_on_timeing_time_tip">AC zal ingeschakeld worden om %1$s</string>
+  <string name="tv">TV</string>
   <string name="tv_broadcast">TV en radio</string>
   <string name="tv_dpad_mode_gesture">Touch</string>
   <string name="tv_dpad_mode_keyboard">Toetsenbord</string>
+  <string name="tv_live">Live TV</string>
   <string name="tv_mirror">Schermcontroles</string>
   <string name="tv_mirror_intro">Toon schermcontroles in landschapmodus</string>
   <string name="tv_noresponse_tips">TV/box reageerde niet. Wacht een minuut of twee en probeer opnieuw.</string>
@@ -1127,6 +1197,7 @@ Ga naar de startpagina &gt; \"+\" &gt; Scanner."</string>
   <string name="unkown_device_sub">Verzend de details van het apparaat naar ons, zodat we later ondersteuning kunnen bieden</string>
   <string name="unkown_device_title">Kon apparaatinfo niet verkrijgen</string>
   <string name="unset">Niet ingesteld</string>
+  <string name="untagged">未加标签</string>
   <string name="updated_at">Laatst geûpdate: %1$s geleden</string>
   <string name="updated_just_now">Zojuist bijgewerkt</string>
   <string name="upgrade_already_latest">Geen updates beschikbaar</string>
@@ -1143,6 +1214,8 @@ Ga naar de startpagina &gt; \"+\" &gt; Scanner."</string>
 Om te wijzigen, aan/uitknop van TV ingedrukt houden"</string>
   <string name="user_title">Mijn account</string>
   <string name="vendor_kookong">Kookong</string>
+  <string name="vendor_peel">Peel</string>
+  <string name="vendor_yaokan">Yaokan</string>
   <string name="video">Video\'s</string>
   <string name="video_actor_label">"Cast: "</string>
   <string name="video_all_category">Alle categoriën</string>
@@ -1187,6 +1260,7 @@ Om te wijzigen, aan/uitknop van TV ingedrukt houden"</string>
   <string name="voice">Audio</string>
   <string name="voice_control">Spraakbediening</string>
   <string name="voice_control_ir_tips">Als het apparaat niet reageert, richt je telefoon er dan op.</string>
+  <string name="voice_control_spec">Mi Brain</string>
   <string name="voice_download_tips">Tik op \"OK\" om de voice engine te downloaden</string>
   <string name="voice_download_title">Waarschuwing</string>
   <string name="voice_engine_ifly_fail">Kon stem niet herkennen</string>
@@ -1216,6 +1290,7 @@ Om te wijzigen, aan/uitknop van TV ingedrukt houden"</string>
   <string name="wind_speed_medium">Normaal</string>
   <string name="wind_sweep">Draaien</string>
   <string name="wx_not_installed">Eerst WeChat installeren</string>
+  <string name="xiaomi_vip">Mi VIP</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gisteren</string>

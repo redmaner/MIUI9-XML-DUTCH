@@ -86,6 +86,7 @@
   <string name="aqi_quality_index_moderate">Matig</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Ongezond</string>
+  <string name="at_miui_browser">\@小米浏览器</string>
   <string name="autoSwithcingSearchEngineTips">Gewisseld naar de zoekmachine die u het meest gebruikt</string>
   <string name="autologin_bar_error">Kon niet aanmelden</string>
   <string name="autologin_bar_hide_text">Verbergen</string>
@@ -113,8 +114,10 @@
   <string name="bookmark_saved">Bladwijzers toegevoegd</string>
   <string name="bookmark_title">Bladwijzernaam</string>
   <string name="bookmark_title_lable">Titel</string>
+  <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">Deze URL staat al bij favorieten</string>
   <string name="bookmark_url_can_not_null">URL invoeren</string>
+  <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">Ongeldige URL</string>
   <string name="bookmarks_content_is_null">Geen bladwijzers</string>
   <string name="bookmarks_management">Bladwijzers</string>
@@ -124,6 +127,7 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dit is het laatste tabblad</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Naar boven vegen om af te sluiten</string>
   <string name="browserFrameFileErrorLabel">Bestands fout</string>
+  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">De pagina die u probeert te openen bevat gegevens die al verzonden zijn. Als u de data opnieuw verzendt, zullen vorige acties (zoals een zoekopdracht of aankoop) herhaald worden.</string>
   <string name="browserFrameNetworkErrorLabel">Verbindingsfout</string>
   <string name="cancel">Annuleren</string>
@@ -161,6 +165,7 @@
   <string name="comment_max_length">Je reactie is te lang.</string>
   <string name="comment_menu">Opmerking</string>
   <string name="comment_num_description">Opmerkingsnummer</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_text_next">Volgende</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Vorige</string>
   <string name="context_menu_add_to_desk_id">Toevoegen aan startscherm</string>
@@ -327,11 +332,13 @@
   <string name="go_supermarket_button">Ga</string>
   <string name="go_supermarket_title">Meer apps, grotere snelheid en minder dataverbruik in App Store</string>
   <string name="gold_medals">Gouden medailles</string>
+  <string name="google_bookmarks">Google</string>
   <string name="green_kid_block_request">Toegang tot deze website is beperkt.</string>
   <string name="have_sent_bookmark_to_home_screen">Op startscherm geplaatst</string>
   <string name="hint">Hint</string>
   <string name="history">Geschiedenis</string>
   <string name="home_description">Home</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Verwijderen</string>
   <string name="homepage_get_location">Locatie verkrijgen</string>
   <string name="homepage_get_location_failed">Kon info niet verkrijgen, kies een stad</string>
@@ -388,6 +395,7 @@
   <string name="miuishare_account_login_ok">Aanmelden</string>
   <string name="miuishare_account_need_activate">Weibo account moet gekoppeld zijn me uw Mi Account. Aanmelden met uw Account?</string>
   <string name="miuishare_account_need_login">Weibo account moet gekoppeld zijn me uw huidige Mi Account. Aanmelden om te delen?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_dialog_cancel">Annuleren</string>
   <string name="miuishare_no_network">Kon niet verbinden met netwerk</string>
   <string name="miuishare_publish">Verzenden</string>
@@ -396,10 +404,13 @@
   <string name="miuishare_title_more">Meer</string>
   <string name="miuishare_title_share">Delen</string>
   <string name="miuishare_wechat_timeline_title">WeChat tijdslijn</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">USB opslag is vereist om de map aan te passen</string>
   <string name="more_description">Menu</string>
   <string name="more_option">Meer opties</string>
   <string name="mw_abc_action_bar_home_description">Naar startscherm</string>
+  <string name="mw_abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="mw_abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="mw_abc_action_bar_up_description">Omhoog navigeren</string>
   <string name="mw_abc_action_menu_overflow_description">Meer opties</string>
   <string name="mw_abc_action_mode_done">Gereed</string>
@@ -429,6 +440,8 @@
   <string name="mw_actionbar_share">Delen</string>
   <string name="mw_actionbar_textselection_title">Tekstselectie</string>
   <string name="mw_actionbar_web_search">Op het web zoeken</string>
+  <string name="mw_autofill_address_summary_separator">", "</string>
+  <string name="mw_autofill_card_unmask_expiration_date_separator">/</string>
   <string name="mw_autofill_card_unmask_new_card_link">Nieuwe kaart?</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">Controleer je CVC en probeer opnieuw</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc_and_expiration">Controleer de verloopdatum en CVC en probeer opnieuw</string>
@@ -439,7 +452,15 @@
   <string name="mw_autofill_card_unmask_prompt_storage_tooltip">Indien aangevinkt zal Chromium een kopie van deze kaart bewaren op dit apparaat om sneller formulieren in te vullen.</string>
   <string name="mw_autofill_card_unmask_verification_in_progress">Kaart bevestigen</string>
   <string name="mw_autofill_card_unmask_verification_success">Je kaart is bevestigd</string>
+  <string name="mw_autofill_cc_amex">American Express</string>
+  <string name="mw_autofill_cc_diners">Diners Club</string>
   <string name="mw_autofill_cc_discover">Ontdekken</string>
+  <string name="mw_autofill_cc_elo">Elo</string>
+  <string name="mw_autofill_cc_jcb">JCB</string>
+  <string name="mw_autofill_cc_mastercard">Mastercard</string>
+  <string name="mw_autofill_cc_mir">Mir</string>
+  <string name="mw_autofill_cc_union_pay">China UnionPay</string>
+  <string name="mw_autofill_cc_visa">Visa</string>
   <string name="mw_autofill_clear_local_copy_button">kopie wissen</string>
   <string name="mw_autofill_from_google_account_long">Van Google Payments</string>
   <string name="mw_autofill_keyboard_accessory_content_description">Suggesties beschikbaar</string>
@@ -481,6 +502,7 @@
   <string name="mw_common_open_on_phone">Openen op telefoon</string>
   <string name="mw_common_signin_button_text">Inloggen</string>
   <string name="mw_common_signin_button_text_long">Inloggen met Google</string>
+  <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="mw_copy_to_clipboard_failure_message">Kopiëren naar klembord mislukt</string>
   <string name="mw_data_traffic_prompt_change">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
   <string name="mw_data_traffic_prompt_message">"Mobiel internet gebruiken om video\'s te bekijken zal je datagebruik verhogen. Als je je datalimiet overschrijdt kan dat voor extra kosten zorgen."</string>
@@ -503,6 +525,7 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_js_dialog_before_unload_positive_button">Deze pagina verlaten</string>
   <string name="mw_js_dialog_before_unload_title">Bevestigen</string>
   <string name="mw_js_dialog_title">De pagina \"%s\" zegt:</string>
+  <string name="mw_js_dialog_title_default">JavaScript</string>
   <string name="mw_last_month">Vorige maand</string>
   <string name="mw_license_activity_title">System WebView licenties</string>
   <string name="mw_login_dialog_ok_button_label">Inloggen</string>
@@ -764,6 +787,9 @@ Wil je deze pagina verlaten?"</string>
   <string name="mw_search_menu_title">Zoeken</string>
   <string name="mw_snippets_disabled_generic_prompt">Krijg gepersonaliseerde inhoud</string>
   <string name="mw_snippets_disabled_signed_out_instructions">Om gepersonaliseerde inhoud van Google te krijgen, log in bij Chrome.</string>
+  <string name="mw_time_picker_dialog_am">AM</string>
+  <string name="mw_time_picker_dialog_pm">PM</string>
+  <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Tijd instellen</string>
   <string name="mw_updating_chrome">Chrome updaten…</string>
   <string name="mw_video_buffering_percent">"Bufferen "</string>
@@ -828,6 +854,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="pref_accessibility_url_shortcut_enter_summary">Bij het invoeren van de adresbalk, kunnen veel gebruikte lettercombinaties ingevoerd worden met één toetsaanslag</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Snelle URL invoer</string>
   <string name="pref_adblock_counts">%d geblokkeerd</string>
+  <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_advert_null">Geen items gemarkeerd als advertentie. Houd een item op de webpagina ingedrukt om te markeren.</string>
   <string name="pref_auto_update_under_wifi">Updaten over Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Wisselen naar de zoekmachine die je het meest gebruikt</string>
@@ -938,6 +965,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="quicklink_saved">Site toegevoegd aan startpagina</string>
   <string name="quicklink_saved_before">Deze site is al toegevoegd</string>
   <string name="quicklink_user_define_webpage_title">Naam</string>
+  <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_group_default_subtitle">Leeg</string>
   <string name="quicklinks_management">Snelle links</string>
   <string name="quicklinks_most_visited">Meest bezochte websites toevoegen aan startpagina</string>
@@ -945,6 +973,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="quicklinks_most_visited_title">Toevoegen aan startpagina</string>
   <string name="readmode_already_add_to_bookshelf">Toegevoegd aan boekenplank.</string>
   <string name="readmode_battery">Batterij</string>
+  <string name="readmode_font_size_setting_button">A</string>
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Volgende hoofdstukken vereisen inloggen voordat lezen kan worden ingeschakeld.</string>
   <string name="readmode_page_load_error">Pagina laden mislukt, klik vernieuwen om het opnieuw te proberen :(</string>
@@ -971,6 +1000,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="retry_after_network_available">Kan niet verbinden met netwerk</string>
   <string name="retry_download">Opnieuw proberen</string>
   <string name="return_to_homepage">Terugkeren naar startpagina</string>
+  <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Geen</string>
   <string name="router_download_exist">Dit bestand bestaat reeds</string>
   <string name="router_download_failed">Kon niet downloaden</string>
@@ -995,12 +1025,26 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="scanner_uninstalled_title">Scanner is niet meer geïnstalleerd</string>
   <string name="sdcard_error">Controleer de SD kaart</string>
   <string name="search">Zoeken</string>
+  <string name="search_baidu">Baidu</string>
+  <string name="search_bing">Bing</string>
   <string name="search_button_text">Ga</string>
+  <string name="search_dianping">Cate</string>
+  <string name="search_easou">Easou</string>
+  <string name="search_google">Google</string>
   <string name="search_hint">Zoek of typ de URL</string>
+  <string name="search_keyword_browser">Browser</string>
+  <string name="search_label">Browser</string>
   <string name="search_path_browser">Instellingen/Geinstalleerde apps/Browser</string>
+  <string name="search_s139">139</string>
   <string name="search_settings_description">Bladwijzers en webgeschiedenis</string>
   <string name="search_shipin">Video</string>
+  <string name="search_sm">SM</string>
+  <string name="search_sogou">Sogou</string>
+  <string name="search_taobao">Taobao</string>
+  <string name="search_title_browser">Browser</string>
   <string name="search_tupian">Afbeelding</string>
+  <string name="search_yahoo">Yahoo!</string>
+  <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Download in de App Store</string>
   <string name="secureaccess">Overschakelen naar veilige modus</string>
   <string name="secureaccess_cancel">Negeren</string>
@@ -1014,6 +1058,7 @@ Denk eraan dat de bestanden die je downloadt en de bladwijzers die je opslaat we
   <string name="senddesktop">Startscherm</string>
   <string name="sendstartpage">Startpagina</string>
   <string name="sequence_bookmark_description">Houd ingedrukt om bladwijzers te herordenen</string>
+  <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Kijk wat ik heb gedeeld! @MIUI</string>
   <string name="share_page_text">Kijk wat ik heb gedeeld: %1$s @MIUI| %2$s</string>
   <string name="share_video">Video delen</string>
@@ -1065,6 +1110,8 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="suggest_access_btn_play">Afspelen</string>
   <string name="suggest_access_btn_view">Bekijken</string>
   <string name="suggest_access_item_album_songs">%d nummers</string>
+  <string name="suggest_access_item_app_mark">APPS</string>
+  <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Update: %s</string>
   <string name="suggest_access_item_book_mark">BOEKEN</string>
   <string name="suggest_access_item_mina_mark">QUICK APPS</string>
@@ -1102,6 +1149,8 @@ Browser moet verbinding hebben met internet om normaal te werken. Je moet akkoor
   <string name="tab_quicklinks">Startpagina</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tabs_description">Tabs</string>
+  <string name="tae_sdk_qr_login_icon_password"></string>
+  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="temp_refuse">Nee bedankt</string>
   <string name="title_bar_loading">Laden…</string>
   <string name="too_many_windows_dialog_message">Kan geen nieuw tabblad openen totdat u er een sluit.</string>

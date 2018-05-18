@@ -52,6 +52,9 @@
   <string name="ks_download_success">Gedownload</string>
   <string name="ks_fingerprint_payment">Vingerafdrukbetalingen</string>
   <string name="ks_fingerprint_status">Betalingstatus</string>
+  <string name="ks_name_alipay">IFAA</string>
+  <string name="ks_name_fido">FIDO</string>
+  <string name="ks_name_soter">Soter</string>
   <string name="ks_status_available">Beschikbaar</string>
   <string name="ks_status_unavailable">Niet beschikbaar</string>
   <string name="ks_update_certificate">Certificaat</string>
@@ -362,12 +365,16 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="trying_to_connect_to_network">Verbinden met het netwerk…</string>
   <string name="user_agreement_content">"Door deze service te gebruiken, gaat u akkaard met %s."</string>
   <string name="user_agreement_link">Mi Cloud\'s Servicevoorwaarden</string>
+  <string name="user_agreement_p5">"
+"</string>
   <string name="user_agreement_title">"Mi Cloud's Servicevoorwaarden"</string>
   <string name="wipe_data_dialog_button_check_sync">Controleren of gesynchroniseerd</string>
   <string name="wipe_data_dialog_msg">"Sommige items %s zijn niet gesynchroniseerd. Ze worden opgeslagen op je apparaat en worden niet verwijderd."</string>
   <string name="wipe_data_dialog_msg_and_on">, en sommige andere items</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
   <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op een plek</string>
+  <string name="xmpp_server_addr"/>
 </resources>

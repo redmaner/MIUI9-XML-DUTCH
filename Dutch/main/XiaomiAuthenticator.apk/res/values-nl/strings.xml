@@ -37,6 +37,7 @@
   <string name="decoding_exception">Decoderingsuitzondering</string>
   <string name="details_patternforgotten">"Heractiveren： 
 Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina 'Klik op de "Heractiveren""</string>
+  <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Voer account naam in</string>
   <string name="enter_key_hint">Voer sleutelwaarde in</string>
   <string name="enter_key_illegal_char">Sleutel waarde heeft een wildcard!</string>
@@ -72,7 +73,9 @@ Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina 'Klik op 
   <string name="lockpattern_continue_button_text">Doorgaan</string>
   <string name="lockpattern_need_to_confirm">Teken patroon opnieuw om te bevestigen</string>
   <string name="lockpattern_need_to_confirm_wrong">Komt niet overeen met het vorige, probeer opnieuw:</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong" formatted="false">&lt;font color=red&gt;Wachtwoord fout, je kan nog %d keer proberen&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Jouw nieuwe ontgrendelpatroon:</string>
   <string name="lockpattern_pattern_entered_header">Patroon opgeslagen.</string>
   <string name="lockpattern_recording_incorrect_too_short">Verbind minstens %d punten. Probeer opnieuw:</string>
@@ -96,11 +99,13 @@ Inloggen account.xiaomi.com，Bescherming en beheer van geladen pagina 'Klik op 
   <string name="ok_button">Ok</string>
   <string name="open_camera_exception_dialog_content">Problemen met systeemcamera, moet  het apparaat opnieuw starten.</string>
   <string name="open_camera_exception_dialog_title">Camerastoring</string>
+  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Open source project</string>
   <string name="original_pattern_tip">Voer ontgrendelpatroon in</string>
   <string name="password_error">Ingevoerde wachtwoord is fout</string>
   <string name="password_forget">Wachtwoord vergeten?</string>
   <string name="password_hint">Wachtwoord Mi account invoeren</string>
+  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Privacybeleid</string>
   <string name="progress_loading">Laden…</string>
   <string name="remove_Xiaomi_account_dialog_message">Dit account verwijderen zal &lt;b&gt;verwijder uw mogelijkheid&lt;/b&gt; om codes genereren, echter zal het &lt;b&gt;not&lt;/b&gt; Uitschakelen 2 staps verificatie. Dit kan voorkomen om in te loggen bij uw account. &lt;p&gt; Voordat u verwijderd: &lt;ul&gt; &lt;li&gt;Schakel 2 staps verificatie uit voor dit account, or&lt;/li&gt; &lt;li&gt;Zorg ervoor dat u een alternatief methode hebt voor het genereren van codes.&lt;/li&gt; &lt;/ul&gt;</string>
@@ -125,6 +130,7 @@ of zorg ervoor dat u een alternatief mechanisme voor het genereren van codes heb
   <string name="success_reset_password">Wachtwoordreset voltooid</string>
   <string name="success_set_password">Wachtwoord ingesteld</string>
   <string name="summary_lockpattern">Een uniek patroon vereist voor MiCredit</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Algemene voorwaarden</string>
   <string name="timesync_about_feature_preference_title">Over deze functie</string>
   <string name="timesync_about_feature_screen_details">"Als u op &amp;quot;Sync nu&amp;quot; drukt, Authenticator zal proberen om de interne klok met Google servers te synchroniseren . Apparaat Datum &amp; Tijds instellingen zullen niet veranderen. &lt;p&gt; Authenticator zal geen persoonlijke of account gegevens doorgeven, wanneer het de interne klok synchroniseert met de servers van Google. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator genereert 2 stap verificatie codes op basis van 1) de huidige tijd, and 2) een geheim nummer bekend is bij de app en de server. &lt;p&gt; Als Authenticator en de server van mening verschillen over hoe laat het is, mogen de codes die het app genereert niet worden geaccepteerd wanneer je probeert in te loggen. &lt;p&gt; Standaard gebruikt Authenticator Datum van het apparaat  &amp; Tijds Instellingen, zal in de meeste gevallen geldige codes kunnen genereren door  de tijd, datum te controleren, tijdzone-instellingen zijn  correct geconfigureerd. Echter, wanneer de tijds verschillen optreden, kan het moeilijk zijn om problemen op te lossen (vooral als je het netwerk aangeboden tijd of tijdzones gebruikt)."</string>

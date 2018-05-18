@@ -7,6 +7,7 @@ Berichten zullen enkel in de tweede ruimte worden weergegeven."</string>
   <string name="PrivacyContactDes2">"Indien u privéberichten in de eerste ruimte gebruikt,
 zal deze functie automatisch worden toegevoegd aan de tweede ruimte."</string>
   <string name="add_finger_print">Vingerafdruk toevoegen</string>
+  <string name="agree">Agree</string>
   <string name="air_space_created">Werkruimte aangemaakt</string>
   <string name="air_space_deleted">Werkruimte verwijderd</string>
   <string name="air_space_exit">Ruimte verlaten</string>
@@ -73,6 +74,7 @@ kan op elk moment bekeken worden"</string>
   <string name="dialog_title">Opgelet</string>
   <string name="dir_switch_out_all_photos">Galerij tweede ruimte</string>
   <string name="disable">Uitschakelen</string>
+  <string name="disagree">"Don't agree"</string>
   <string name="do_not_ask">Niet meer vragen</string>
   <string name="dont_import">Niet nu</string>
   <string name="downloading_space">Downloaden…</string>
@@ -164,6 +166,7 @@ U kan ze ook apart downloaden."</string>
   <string name="need_reset_passwd">Reset het wachtwoord voor werkruimte voordat u de werkruimte betreedt</string>
   <string name="need_set_second_space_desc">Eerst tweede ruimte wachtwoord instellen voordat u de vingerafdruk voor de tweede ruimte insteld</string>
   <string name="need_set_second_space_pwd_first">Eerst wachtwoord tweede ruimte instellen</string>
+  <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. These permissions are required to send the info about battery levels, step count, and your location to the controlling devices. Allow?</string>
   <string name="newSecondSpace">Tweede ruimte inschakelen</string>
   <string name="next_setp">Volgende</string>
   <string name="no_match_repate_scanner">Kon geen overeenkomsten vinden, opnieuw scannen</string>
@@ -238,6 +241,7 @@ Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</stri
   <string name="sdcradfs_dialog_in_sec_message">"Om te updaten, moet je de tweede ruimte verwijderen en opnieuw aanmaken. Verplaats de gegevens van tweede ruimte naar de eerste ruimte, start uw apparaat opnieuw op om de update af te ronden.
 Als je niet update, kunnen gedupliceerde apps misschien niet meer werken."</string>
   <string name="sdcradfs_dialog_in_sec_title">Belangrijke update</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">Kon geen apps vinden</string>
   <string name="secondSpace">Tweede ruimte</string>
   <string name="second_owner_finger_print">Vingerafdruk tweede ruimte</string>
@@ -361,6 +365,7 @@ om naar de tweede ruimte te gaan vanuit het vergrendelscherm"</string>
   <string name="use_xiaoai_open">Wekken met behulp van stemassistent</string>
   <string name="wating">Een momentje…</string>
   <string name="weibo_send">Versturen naar Weibo</string>
+  <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share_sign">Aanmelden en delen</string>
   <string name="xpsace_guide_button">Aanmaken</string>
   <string name="xspace_account">Accounts van gedupliceerde apps</string>
@@ -386,9 +391,12 @@ Sommige gedupliceerde apps vereisen Google Services Framework. In zulke gevallen
   <string name="xspace_introduce">Aanbevolen</string>
   <string name="xspace_label">Gedupliceerde apps</string>
   <string name="xspace_loading_msg">Apps laden…</string>
+  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Instellingen gedupliceerde apps</string>
   <string name="xspace_uninstall_completed">Gedupliceerde app met succes verwijderd</string>
   <string name="xspace_uninstall_dialog_content">Gedupliceerde app verwijderen zal alle data verwijderen.</string>
   <string name="xspace_uninstall_dialog_title">Gedupliceerde app verwijderen</string>
   <string name="xspace_uninstalling">Verwijderen…</string>
+  <string name="xspace_weibo_title">Weibo</string>
+  <string name="xspace_weixin_title">WeChat</string>
 </resources>

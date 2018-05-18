@@ -98,6 +98,7 @@
   <string name="buy_a_new_phone">Meer opslagruimte verkrijgen</string>
   <string name="buy_immediately">Koop</string>
   <string name="buy_traffic_pack">Koop meer data</string>
+  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Lege map (%d)</string>
   <string name="cache_title_empty_folder2">Lege map</string>
   <string name="cache_title_system_cache">Systeemcache</string>
@@ -210,6 +211,7 @@
   <string name="function_app_lock_title">%d apps bevatten privacyrisico\'s</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_month">%s opgeruimd deze maand</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to">Doorgaan</string>
   <string name="goto_set">Instellen</string>
   <string name="grabage_rank_title">Vandaag opgeruimd</string>
@@ -256,6 +258,7 @@
   <string name="hints_list_item_unlock">Opruimen</string>
   <string name="hints_loading_text">Laden…</string>
   <string name="hints_memory_header_left">Geheugen</string>
+  <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Privacy: %d</string>
   <string name="hints_quick_cleanning">Opruimen…</string>
   <string name="hints_quick_cleanuping">Optimaliseren…</string>
@@ -281,7 +284,9 @@
   <string name="installed">Geïnstalleerd</string>
   <string name="installing">Bezig met installeren</string>
   <string name="item_title_process_mode">Kies een actie</string>
+  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
   <string name="just_now">Zojuist</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Geen</string>
   <string name="label_preserve_the_best_image">Bewaar de scherpste foto\'s</string>
   <string name="last_check_canceled">Vorige scan werd geannuleerd</string>
@@ -301,6 +306,7 @@
   <string name="mainbtn_text_no_trash">Overslaan</string>
   <string name="mainbtn_text_quick_cleanup">%s opruimen</string>
   <string name="mainbtn_text_quick_cleanup_default">Opruimen</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d apps, geheugen %2$s</string>
   <string name="menu_add_to_white_list">Toevoegen aan uitzonderingen</string>
   <string name="menu_clear">Wissen</string>
@@ -334,6 +340,7 @@
   <string name="optimizecenter_data_support_cm">Mogelijk gemaakt door Clean Master</string>
   <string name="optimizecenter_data_support_tc">Mogelijk gemaakt door Tencent</string>
   <string name="output_videos">Export video\'s</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Search</string>
   <string name="positive_confirm">Ok</string>
   <string name="pref_category_title_auto_clean_config_settings">Automatishe opruimingen</string>
@@ -400,6 +407,8 @@
   <string name="recommend_news">Aanbevolen bronnen</string>
   <string name="recommend_the_following">Neem de volgende maatregelen om het meest uit uw apparaat te halen</string>
   <string name="recommended">Voorgesteld</string>
+  <string name="remain_item_name_n7p"/>
+  <string name="remain_item_name_pamp"/>
   <string name="resutl_function_deep_clean_summary">Er kunnen meerdere bestanden opgeruimd worden. Maak meer ruimte vrij.</string>
   <string name="resutl_function_qq_clean_summary">Wissen aangemaakt door QQ</string>
   <string name="resutl_function_wechat_clean_summary">%1$s van WeChat cache. Maak meer ruimte vrij.</string>
@@ -426,6 +435,7 @@
   <string name="summary_delete_video">Geselecteerde video\'s permanent verwijderen?</string>
   <string name="summary_optimizer">Deze functie uploadt onbekend mapnamen naar de online database van Cheetah Mobile om die bij te werken en vereist het toestel ID.</string>
   <string name="sys_cache_on_sdcard_item_name">Cachen</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Mapnamen uploaden</string>
   <string name="there_is_no">Ziet er goed uit, kom later terug</string>
   <string name="tips_low_storage_dialog_cancel">Annuleren</string>

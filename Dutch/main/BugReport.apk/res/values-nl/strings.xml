@@ -127,6 +127,8 @@
   <string name="feedback_tracking">Problemen tracken</string>
   <string name="feedback_version_label">Versie</string>
   <string name="feesback_list">Rapporten</string>
+  <string name="first_position">2#</string>
+  <string name="floor">%1$s#</string>
   <string name="from">van %1$s</string>
   <string name="goon_feedback_main">Doorgaan</string>
   <string name="hint_feedback_main">Beschrijf het probleem</string>
@@ -245,6 +247,7 @@
   <string name="network_unavailable_dialog_content">Uw rapport wordt verzonden als u een dataverbinding hebt.</string>
   <string name="network_unavailable_dialog_title">Kan geen verbinding maken met het netwerk</string>
   <string name="non_system_app_select">Gedownloade apps</string>
+  <string name="nothing">--</string>
   <string name="open_feedback_main">Meer</string>
   <string name="packaging_dialog_content">Rapport aanmaken…</string>
   <string name="permission_granted">%1$s toegang gegeven</string>
@@ -266,6 +269,7 @@
   <string name="save_pic_fail">Kon afbeelding niet opslaan, controleer uw SD kaart</string>
   <string name="save_pic_success">Afbeelding opgeslagen naar %s</string>
   <string name="screen_lock">Schermvergrendeling</string>
+  <string name="second_position">3#</string>
   <string name="section_description">Beschrijving</string>
   <string name="section_err_type">Type bug</string>
   <string name="section_screenshot">Schermafdruk</string>
@@ -313,6 +317,7 @@
   <string name="toast_screenshot_too_large">Kan geen bestanden groter dan 10MB uploaden.</string>
   <string name="toast_third_packagename_required">Appnaam invoeren</string>
   <string name="toast_title_required">Omschrijf uw probleem</string>
+  <string name="topic_author">1#</string>
   <string name="try_again">Probeer opnieuw</string>
   <string name="upload_log_failed">Kon logs niet verzenden</string>
   <string name="warning_field_empty">%1$s invoeren</string>

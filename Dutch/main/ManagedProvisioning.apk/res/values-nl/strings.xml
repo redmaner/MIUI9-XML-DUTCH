@@ -52,7 +52,7 @@
   <string name="device_owner_info">Dit apparaat wordt beheerd en beveiligd door %1$s. Voorwaarden zijn van toepassing. %2$s</string>
   <string name="device_owner_info_with_terms_headers">Dit apparaat wordt beheerd en beveiligd door %1$s. Voorwaarden van %2$s zijn van toepassing.. %3$s</string>
   <string name="dismiss">Afwijzen</string>
-  <string name="encrypt_device_launch_settings">Versleutelen</string>
+  <string name="encrypt">Encrypt</string>
   <string name="encrypt_device_text_for_device_owner_setup">Als je wilt doorgaan met het instellen van je apparaat, moet je het coderen. Dit kan enige tijd in beslag nemen..</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Als u wilt doorgaan met het instellen van uw werkprofiel, moet u uw apparaat versleutelen. Dit kan enige tijd in beslag nemen.</string>
   <string name="encrypt_this_device_question">Dit apparaat versleutelen?</string>
@@ -64,7 +64,9 @@
   <string name="info_anim_title_0">Verander de manier waarop je werkt</string>
   <string name="info_anim_title_1">Werk afzonderen van persoonlijk</string>
   <string name="info_anim_title_2">Schakel het werk uit als u klaar bent</string>
+  <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s en %2$s</string>
+  <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s en %2$s</string>
   <string name="launcher_app_cant_be_used_by_work_profile">Deze launcher app kan niet gebruikt worden door je werkprofiel</string>
   <string name="learn_more_label">Meer weten</string>

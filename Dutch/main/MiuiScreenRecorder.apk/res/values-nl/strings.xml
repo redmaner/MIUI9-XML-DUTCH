@@ -17,6 +17,9 @@
   <string name="cannot_change_parames">Kan instellingen niet wijzigen tijdens opnemen</string>
   <string name="cannot_record">Kon niet opnemen, probeer later opnieuw</string>
   <string name="close_screen_record">Opnemen gestopt</string>
+  <string name="date_day"/>
+  <string name="date_month">/</string>
+  <string name="date_year">/</string>
   <string name="description_content">Met schermrecorder kan je op systeemniveau opnemen. Deze actie zorgt ervoor dat je de schermrecorderfunctie uitschakelt. Verdergaan?</string>
   <string name="description_title">Over schermrecorder</string>
   <string name="deselect_all">Alles deselecteren</string>
@@ -77,5 +80,6 @@
   <string name="stop_recording">Opname stoppen</string>
   <string name="storage_location">Opslag</string>
   <string name="storage_location_summary">Selecteer uw voorkeur opslagoptie </string>
-   <string name="unchecked">Niet geselecteerd</string>
+  <string name="timer_format">%s</string>
+  <string name="unchecked">Niet geselecteerd</string>
 </resources>

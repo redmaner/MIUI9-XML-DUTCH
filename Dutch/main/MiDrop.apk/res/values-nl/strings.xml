@@ -68,6 +68,8 @@
   <string name="request_permission_msg">Mi Drop heeft de volgende toestemming nodig: %s. Toestaan?</string>
   <string name="request_permission_title">Toestemmingen zijn vereist</string>
   <string name="runtime_permission_ungranted">Mi Drop heeft toestemmingen nodig om normaal te kunnen werken.</string>
+  <string name="send_file_time_format_m">m:s</string>
+  <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">Niet verzenden</string>
   <string name="sender_complete">Klaar</string>
   <string name="sender_fail">Kon niet verzenden</string>
@@ -85,6 +87,7 @@
   <string name="sender_transfer_interrupt">Overdracht onderbroken, Wi-Fi niet uitschakelen tijdens overdracht.</string>
   <string name="sender_wait">Wachten…</string>
   <string name="sender_wait_queue">Wachten…</string>
+  <string name="split_comma">,</string>
   <string name="transfer_interrupt">Overdracht onderbroken</string>
   <string name="transmission_click_send">verzenden</string>
   <string name="transmission_connect">Kon ontvanger niet vinden</string>

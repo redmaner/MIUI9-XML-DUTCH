@@ -389,7 +389,11 @@ op al je apparaten met Xunlei</string>
   <string name="turn_off_xunlei_title">Xunlei uitschakelen</string>
   <string name="unbind_xunlei_2_success">Xunlei Account toegevoegd</string>
   <string name="unbind_xunlei_success">Uitgelogd bij Xunlei Account</string>
+  <string name="unit_cn_hundredmillions">00M</string>
   <string name="unit_cn_tenthousands">Ok</string>
+  <string name="unit_en_billion">B</string>
+  <string name="unit_en_million">M</string>
+  <string name="unit_en_thounsand">K</string>
   <string name="valid_in_this_month">Geldig in deze maand</string>
   <string name="version">Versie %s</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is ingeschakeld</string>

@@ -183,10 +183,13 @@
   <string name="backuping_title_normal">Back-up maken…</string>
   <string name="begin_share">Baby-album \"%s\" aanmaken. U kan die nu delen</string>
   <string name="begin_share_toast">Een apart album voor dit kind aanmaken voordat u die deelt?</string>
+  <string name="blank_app_name"/>
   <string name="browse_category_title">Bladeren</string>
   <string name="buy_member_tip">Word lid</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">Overig</string>
+  <string name="by_sms">SMS</string>
+  <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Camera-album moet worden geback-upt</string>
   <string name="cancel">Annuleren</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Overschakelen naar standaard achtergrond vergrendelscherm?</string>
@@ -330,6 +333,8 @@
   <string name="delete_third_party_video">Deze video verwijderen?</string>
   <string name="delete_to_trash_tips">U kunt recent verwijderde foto\'s bekijken in Instellingen &gt; Vuilnisbak</string>
   <string name="deny">Weigeren</string>
+  <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
+  <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Details</string>
   <string name="disable_auto_upload_tip">Synchronisatie met Mi Cloud voor dit album uitschakelen?</string>
   <string name="disable_auto_upload_title">Synchronisatie met Mi Cloud uitschakelen</string>
@@ -350,6 +355,7 @@
   <string name="download_type_title">Downloadkwaliteit</string>
   <string name="download_without_wifi_msg">"Het gebruik van uw mobiele dataverbinding om bestanden te downloaden zal uw dataverbruik verhogen. Als je de datalimiet overschrijdt, kan uw provider extra kosten in rekening brengen."</string>
   <string name="download_without_wifi_title">Waarschuwing dataverbruik</string>
+  <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Je kan de kwaliteit van de gedownloade afbeeldingen instellen of automatische downloads uitschakelen in instellingen.</string>
   <string name="downloading_title">Foto\'s downloaden van Mi Cloud</string>
   <string name="edit_baby_info">Babyinfo weergeven</string>
@@ -474,6 +480,7 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="filter_bi_young">Jong</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Eten</string>
+  <string name="filter_category_master">Master</string>
   <string name="filter_category_portrait">Portret</string>
   <string name="filter_category_scene">Landschap</string>
   <string name="filter_film_blackwhite">Z&amp;W</string>
@@ -521,9 +528,12 @@ Neem meer foto\'s van je vrienden!"</string>
   <string name="finish_fill_baby">Aanmaken</string>
   <string name="flash_off">Geen flits</string>
   <string name="flash_on">Flits gebruikt</string>
+  <string name="free_view_desc">3D view</string>
   <string name="gallery_setting">Instellingen</string>
   <string name="gallery_sync_disable_toast">Synchronisatie van galerij is uitgeschakeld</string>
   <string name="get_album_info_in_process">Details van gedeelde album opvragen</string>
+  <string name="gif_tip">GIF</string>
+  <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Instellen</string>
   <string name="grant_permission_text">"Galerij heeft toegang nodig tot 
 %s
@@ -621,6 +631,7 @@ om de galerij te personaliseren"</string>
   <string name="mark_operation_processing">Verwerken…</string>
   <string name="mark_operation_succeeded">Toevoegen gelukt</string>
   <string name="mark_people_ignore_info_message">Houd foto\'s met mensen ingedrukt om ze toe te voegen aan groepen</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nieuw album</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_name">Naam</string>
@@ -718,6 +729,7 @@ om de galerij te personaliseren"</string>
   <string name="people_page_label">Personen</string>
   <string name="people_page_unname">Naamloos</string>
   <string name="pet_album_display_name">Foto\'s van huisdieren</string>
+  <string name="petabyteShort">PB</string>
   <string name="photo">Foto\'s</string>
   <string name="photo_edit_file_not_exits_tip">Download de foto voor het bewerken</string>
   <string name="photo_editor_adjust">Aanpassen</string>
@@ -850,6 +862,7 @@ om de galerij te personaliseren"</string>
   <string name="publish_failed">Publiceren mislukt</string>
   <string name="publish_succeeded">Album gepubliceerd</string>
   <string name="publishing">Publiceren…</string>
+  <string name="quotation">\"%s\"</string>
   <string name="recent_album_empty_title">Er zijn recent geen nieuwe foto\'s toegevoegd</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Verwijderd uit aanbevelingen</string>
@@ -1006,6 +1019,7 @@ om de galerij te personaliseren"</string>
   <string name="share">Delen</string>
   <string name="share_album">Album delen</string>
   <string name="share_album_needs_auto_upload_tip">Kan back-ups voor gedeelde albums niet uitschakelen</string>
+  <string name="share_album_qr_code">"Album's QR code"</string>
   <string name="share_by_email_start">Deel %1$s in de achtergrond</string>
   <string name="share_by_email_successfully">%1$s gedeeld</string>
   <string name="share_public_url_text">"Ik heb het album %1$s met u gedeeld. Bekijk het op %2$s"</string>
@@ -1072,8 +1086,10 @@ om de galerij te personaliseren"</string>
   <string name="syncing_metadata_title">Synchroniseren met clouddata</string>
   <string name="syncing_normal_title">Foto\'s en video\'s back-uppen</string>
   <string name="system_album">Systeemalbum</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_append_color">Kleur</string>
   <string name="text_append_font">Lettertype</string>
+  <string name="text_append_font_example">Aa</string>
   <string name="text_append_hint">Tekst invoeren</string>
   <string name="text_append_style">Bubbel</string>
   <string name="text_append_transparent">Transparantie</string>
@@ -1182,6 +1198,7 @@ om de galerij te personaliseren"</string>
   <string name="video_editor_text_edit_input_open_hint">Titel invoeren</string>
   <string name="video_editor_text_edit_start">Titel</string>
   <string name="video_editor_text_input_empty_tips">Je hebt nog geen tekst ingevoerd</string>
+  <string name="video_editor_text_preview_text">Aa</string>
   <string name="video_editor_trim">Trimmen</string>
   <string name="video_editor_unsupport_audio_file">Niet ondersteund audiobestand</string>
   <string name="video_err">Video afspelen mislukt.</string>

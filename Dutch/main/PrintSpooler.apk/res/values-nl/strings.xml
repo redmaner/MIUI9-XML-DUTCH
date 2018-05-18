@@ -28,6 +28,11 @@
   <string name="label_pages">Pagina\'s</string>
   <string name="label_paper_size">Papiergrootte</string>
   <string name="label_paper_size_summary">Papiergrootte:</string>
+  <string name="mediasize_default">ISO_A4</string>
+  <string name="mediasize_standard_china">3</string>
+  <string name="mediasize_standard_iso">0</string>
+  <string name="mediasize_standard_japan">2</string>
+  <string name="mediasize_standard_north_america">1</string>
   <string name="more_options_button">Meer opties</string>
   <string name="no_connection_to_printer">Geen verbinding met printer</string>
   <string name="notification_channel_failure">Failed print jobs</string>
@@ -69,4 +74,5 @@
   <string name="summary_template">Samenvatting, afschriften %1$s, papiergrootte %2$s</string>
   <string name="template_all_pages">Alle %1$s</string>
   <string name="template_page_range">Bereik van %1$s</string>
+  <string name="uri_package_details">market://details?id=%1$s</string>
 </resources>

@@ -45,6 +45,7 @@
   <string name="app_category_sport">Sport</string>
   <string name="app_category_tools">Tools</string>
   <string name="app_category_travel">Reizen</string>
+  <string name="app_category_vr">VR</string>
   <string name="application_name">Systeemlauncher</string>
   <string name="apply">Instellen</string>
   <string name="apply_action">Instellen</string>
@@ -89,12 +90,18 @@
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_screen_preview_title">Tik om startscherm in te stellen</string>
+  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Verwijderen</string>
   <string name="delete_screen">Schermknop verwijderen</string>
   <string name="delete_wallpaper_message">%1$d achtergrond verwijderen?</string>
   <string name="deselect_all">Alles deselecteren</string>
   <string name="disable_wallpaper_scroll">Opzij scrollen uitschakelen</string>
   <string name="download_action">Downloaden</string>
+  <string name="drag_multiple_item_name"/>
+  <string name="drag_single_item_name"/>
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <string name="durationformatshort">%2$2d:%5$02d</string>
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Mapnaam bewerken</string>
   <string name="edit_mode_group">Groep</string>
   <string name="edit_mode_group_error_full">Niet genoeg ruimte</string>
@@ -256,7 +263,9 @@
   <string name="preferences_general_title">Standaardinstellingen</string>
   <string name="preferences_title">Launcherinstellingen</string>
   <string name="preferred_app_settings_not_selected">Niet geselecteerd</string>
+  <string name="process"/>
   <string name="recents_config_title">Recente</string>
+  <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Leeg</string>
   <string name="recommend_apps_no_data">Geen gegevens</string>
   <string name="recommend_apps_notice">Aanbevolen apps</string>

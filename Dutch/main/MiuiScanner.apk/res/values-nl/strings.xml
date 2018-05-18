@@ -5,6 +5,8 @@
   <string name="accessibility_shutter_button">Shutter</string>
   <string name="action_search">Zoeken</string>
   <string name="address">Adres:</string>
+  <string name="aliusersdk_network_error">亲，您的手机网络不太顺畅喔~</string>
+  <string name="aliusersdk_session_error">亲，你的操作已超时，请重试</string>
   <string name="allow_check_website_security">Geef de website veiligheidscontrole meldingen weer</string>
   <string name="app_description_content">Met Scanner kunt u QR codes, documenten, visitekaartjes en meer scannen. Zorg ervoor dat u zonder deze functies kan voordat u de app verwijdert.</string>
   <string name="app_description_title">Over Scanner</string>
@@ -16,6 +18,7 @@
   <string name="camera_error_title">Camera fout</string>
   <string name="cancel">Annuleren</string>
   <string name="choose_picture">QR code afbeelding selecteren</string>
+  <string name="com_taobao_nb_sdk_loading_progress_message">加载中</string>
   <string name="common_retake_picture">Opnieuw nemen</string>
   <string name="common_retry">Probeer opnieuw</string>
   <string name="common_save">Opslaan</string>
@@ -38,6 +41,7 @@
   <string name="document_crop_title">Document bijsnijden</string>
   <string name="document_grayscale">Grijstinten</string>
   <string name="document_grayscale_tip_msg">Omzetten naar grijstinten…</string>
+  <string name="document_ocr">OCR</string>
   <string name="document_ocr_result_copy">Tekst kopiëren</string>
   <string name="document_ocr_result_save">Opslaan naar notities</string>
   <string name="document_ocr_result_title">Document foto</string>
@@ -68,11 +72,15 @@
   <string name="feedback_description_camera_access">Scanner kan niet verbinden met camera</string>
   <string name="feedback_description_save_photo">Kon foto of video niet opslaan</string>
   <string name="flash_lable">Flash</string>
+  <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Contact importeren</string>
   <string name="impunity_declaration_content">Deze app moet verbonden zijn met internet en de locatie service om normaal te werken.</string>
   <string name="impunity_declaration_negative_text">Afsluiten</string>
   <string name="impunity_declaration_positive_text">Toestaan</string>
   <string name="impunity_declaration_title">Servicevoorwaarden</string>
+  <string name="init_success">初始化完成</string>
+  <string name="jszc">手机淘宝拍立淘提供技术支持</string>
+  <string name="jzz">加载中</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Herkenning;Barcode;Barcodes;Product;Producten;Alipay;WeChat;Hoe QR code scannen;Hoe barcode scannen;Hoe scannen;MIUI scanner</string>
   <string name="keywords_search_document">Scanner;Document scannen;Documenten scannen;OCR;Tekst scannen;Scan</string>
   <string name="keywords_search_namecard">Scanner;Business card;Business cards;Scan;Kaarten scannen;Kaart;Kaarten;Contacten;Contact</string>
@@ -112,13 +120,17 @@
   <string name="namecard_title">Houd de kaart binnen het kader</string>
   <string name="namecard_vendor_info">Mogelijk gemaakt door CamCard</string>
   <string name="nickname">Roepnaam:</string>
+  <string name="nljzz">努力加载中</string>
   <string name="no_network">Kan niet verbinden met netwerk</string>
   <string name="no_storage">Geen interne opslag</string>
   <string name="not_insert_contact">Kan geen contact toevoegen</string>
   <string name="not_recommend_access_web_url">Verlaten</string>
   <string name="not_tips">Niet meer tonen</string>
   <string name="note">Opmerking:</string>
+  <string name="pailitao">淘宝拍立淘</string>
   <string name="path_scanner_setting">Systeemapps/Scanner</string>
+  <string name="payment_weixin">WeChat</string>
+  <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telefoon:</string>
   <string name="picker_lable">Foto</string>
   <string name="place_barcode_into_rectangle">Plaats de code binnen het kader</string>
@@ -148,12 +160,14 @@
   <string name="settings">Instellingen</string>
   <string name="shopping_searching">Zoeken…</string>
   <string name="shopping_title">Neem een foto van het product</string>
+  <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="spaceIsLow_content">Niet genoeg ruimte op de interne opslag. Maak ruimte vrij.</string>
   <string name="study_report_title">Rapporteren</string>
   <string name="study_rotate_picture">Foto aan het verwerken</string>
   <string name="study_scan_result">Resultaat</string>
   <string name="study_searching">Resultaat zoeken</string>
   <string name="study_title">Neem een foto van het probleem</string>
+  <string name="study_vendor_info">Powered by Master Learner</string>
   <string name="tips_message">Met internet verbinden om te controleren of de website die u wenst te bezoeken veilig is.</string>
   <string name="title">Titel:</string>
   <string name="translation_language_chinese">Chinees</string>
@@ -187,4 +201,5 @@
   <string name="wifi_open_fail">Kan Wi-Fi niet inschakelen</string>
   <string name="wifi_pwd">Wactwoord:</string>
   <string name="wifi_security">Veiligheid:</string>
+  <string name="wifi_ssid">SSID:</string>
 </resources>

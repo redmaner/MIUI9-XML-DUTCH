@@ -47,11 +47,14 @@
   <string name="folder_name_empty">Mapnaam mag niet leeg zijn</string>
   <string name="folder_name_illegal">Ongeldige mapnaam</string>
   <string name="folder_name_invalid">"Mapnaam mogen volgende karakters niet bevatten: /\\:*?&lt;&gt;"</string>
+  <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">Kon afbeelding niet laden</string>
   <string name="just_now">Zojuist</string>
+  <string name="kilobyteShort">KB</string>
   <string name="load_err">Kan niet laden</string>
   <string name="login_reg_content">Bestanden opslaan en sync. over meerdere apparaten.</string>
   <string name="login_reg_title">Gebruik Mi Drive overal.</string>
+  <string name="megabyteShort">MB</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Kan niet knippen</string>
   <string name="move_failed_retry">Kan niet knippen, wacht %1$s en probeer opnieuw</string>
@@ -98,6 +101,7 @@
   <string name="operation_task_manage">Overdrachten bekijken</string>
   <string name="operation_upload">Uploaden</string>
   <string name="paused">Gepauzeerd</string>
+  <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Eerst File Manager updaten.</string>
   <string name="quota_info">Mi Drive: %1$s beschikbaar, %2$s totaal</string>
   <string name="rename_alert">Als u de extentie van het bestand wijzigt, is het mogelijk dat u deze niet meer kan openen.</string>
@@ -107,10 +111,12 @@
   <string name="sd_full">Uw SD kaart is vol.</string>
   <string name="sd_invalid">Uw SD kaart is beschadigd.</string>
   <string name="send_to_midrive_failed">Dit type bestand wordt niet ondersteund</string>
+  <string name="slashes">/</string>
   <string name="source_file_missing">Het bestand mist.</string>
   <string name="space_full">Niet genoeg ruimte op de cloud.</string>
   <string name="start_use_xiaomi_account">Start met het gebruiken van Mi Drive</string>
   <string name="system_alert">Internetverbinding</string>
+  <string name="terabyteShort">TB</string>
   <string name="tools">Tools</string>
   <string name="trans_mobile_network_message">Het gebruik van mobiele data om bestanden te transfereren kan extra kosten meebrengen. Toch transfereren?</string>
   <string name="trans_task">Transfereeropdrachten</string>

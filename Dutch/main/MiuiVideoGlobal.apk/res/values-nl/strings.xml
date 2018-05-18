@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Naar startscherm navigeren</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Omhoog navigeren</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Gereed</string>
@@ -64,7 +66,11 @@
   <string name="subtitle_manual_add_sub">Ondertiteling toegevoegd</string>
   <string name="subtitle_no_subtitle">Ondertiteling is niet beschikbaar</string>
   <string name="subtitle_non_subtitle_file">Geen ondertitelingbestanden</string>
+  <string name="subtitle_offset_add_1s">+1s</string>
+  <string name="subtitle_offset_add_dot5s">+0.5s</string>
   <string name="subtitle_offset_normal">Verplaats de ondertiteling niet</string>
+  <string name="subtitle_offset_sub_1s">-1s</string>
+  <string name="subtitle_offset_sub_dot5s">-0.5s</string>
   <string name="subtitle_onlinesub_language">Taal: %s</string>
   <string name="subtitle_onlinesub_loading">Ondertiteling laden…</string>
   <string name="subtitle_onlinesub_loading_wait">Ondertiteling laden…</string>
@@ -143,6 +149,7 @@
   <string name="v_send_title">Verzenden</string>
   <string name="v_set_password">Stel een wachtwoord in om verborgen video\'s te bekijken</string>
   <string name="v_skip_update">Negeren</string>
+  <string name="v_symbol_rmb">¥</string>
   <string name="v_update">Updaten</string>
   <string name="v_updating">Updaten…</string>
   <string name="v_video_null">Geen video\'s</string>
