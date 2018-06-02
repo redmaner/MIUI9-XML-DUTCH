@@ -68,7 +68,6 @@
   <string name="accessibility_screen_magnification_gestures_title">Vergroten met drievoudig tikken</string>
   <string name="accessibility_screen_magnification_navbar_configuration_warning">De knop Toegankelijkheid is ingesteld o p%1$s. Als u de vergroting wilt gebruiken, raakt u &amp; aan Houd de knop Toegankelijkheid ingedrukt en selecteer vervolgens Vergroting.</string>
   <string name="accessibility_screen_magnification_navbar_short_summary">Tik op een knop om te zoomen</string>
-  <string name="accessibility_screen_magnification_navbar_summary">"Wanneer de vergroting is ingeschakeld, gebruikt u de knop Toegankelijkheid onderaan het scherm om snel te vergroten.
 
 "&lt;b&gt;Om te vergroten&lt;/b&gt;", tik op de knop Toegankelijkheid en tik vervolgens ergens op het scherm.
 "&lt;ul&gt;&lt;li&gt;Sleep met twee of meer vingers om te bladeren&lt;/li&gt;"
