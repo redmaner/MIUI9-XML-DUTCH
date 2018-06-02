@@ -79,6 +79,17 @@
 "&lt;li&gt;Til de vinger op om uit te zooment&lt;/li&gt;&lt;/ul&gt;"
 
 U kan&amp;#8217;t inzoomen op het toetsenbord of de navigatiebalk."</string>
+  <string name="accessibility_screen_magnification_navbar_summary">"Wanneer de vergroting is ingeschakeld, gebruikt u de knop Toegankelijkheid onderaan het scherm om snel te vergroten.
+
+"&lt;b&gt;Om te vergroten&lt;/b&gt;", tik op de knop Toegankelijkheid en tik vervolgens ergens op het scherm.
+"&lt;ul&gt;&lt;li&gt;Sleep met twee of meer vingers om te bladeren&lt;/li&gt;"
+"&lt;li&gt;Knijp met twee of meer vingers om de zoom in te stellen&lt;/li&gt;&lt;/ul&gt;"
+
+"&lt;b&gt;Om tijdelijk te zoomen&lt;/b&gt;", tik op de knop Toegankelijkheid en tik vervolgens op &amp;amp; overal op het scherm vasthouden.
+"&lt;ul&gt;&lt;li&gt;Sleep om over het scherm te bewegen&lt;/li&gt;"
+"&lt;li&gt;Til de vinger op om uit te zooment&lt;/li&gt;&lt;/ul&gt;"
+
+U kan&amp;#8217;t inzoomen op het toetsenbord of de navigatiebalk."</string>
   <string name="accessibility_screen_magnification_navbar_title">Vergroten met knop</string>
   <string name="accessibility_screen_magnification_short_summary">Tik 3 keer om te zoomen</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Vergroten met knop &amp; drievoudig tikken</string>
