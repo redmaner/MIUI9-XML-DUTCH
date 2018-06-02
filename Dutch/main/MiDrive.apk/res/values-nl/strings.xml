@@ -27,6 +27,7 @@
   <string name="downloading_in_3g">Bezig met downloaden op 3G…</string>
   <string name="downloading_in_wifi">Bezig met downloaden…</string>
   <string name="drive_low_memory_description_content">Kan Mi Drive niet gebruiken vanwege te weinig opslagruimte.</string>
+  <string name="drive_low_memory_description_content">Kan Mi Drive niet gebruiken vanwege te weinig opslagruimte.</string>
   <string name="drive_low_memory_description_title">Niet genoeg opslagruimte</string>
   <string name="drive_low_memory_description_toast">Kan Mi Drive niet gebruiken vanwege te weinig opslagruimte. Maak wat ruimte vrij en probeer opnieuw.</string>
   <string name="drive_low_memory_positive_content">Ruimte vrijmaken</string>
